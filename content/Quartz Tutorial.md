@@ -142,6 +142,15 @@ Navigate to your static website
 Mine is;
 `https://alptugan.github.io/blog-teaching`
 
+### F.A.Q
+
+> [!ERROR] The images or the pages are not displayed correctly
+> 1. Make sure you follow all the steps. 
+> 2. Sometimes it takes time for Github to compile and publish your web-site.
+> 3. Clear the browser cache and cookies. 
+> 4. Try the same link with different browser.
+
+
 ## References
 - [Nicole Vanderhoeven](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)
 - [Quartz 4](https://quartz.jzhao.xyz/) Documentation 
