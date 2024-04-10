@@ -1,14 +1,17 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/alptugan",
+      "Personal": "https://www.alptugan.com",
+      "Instagram": "https://www.instagram.com/alptugan",
+      "Twitter":"https://www.twitter.com/alptugan"
     },
   }),
 }
@@ -21,18 +24,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  middle: [
+    Component.MobileOnly(Component.Explorer({folderDefaultState: "collapsed"})),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderDefaultState: "collapsed"}))
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-  ],
+  ]
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -45,5 +51,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
+  middle: [],
   right: [],
 }
