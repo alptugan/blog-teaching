@@ -100,13 +100,16 @@ a {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
     display: none;
+    visibility: hidden;
   }
 }
 
 .mobile-only {
   display: none;
+  visibility: hidden;
   @media all and (max-width: $fullPageWidth) {
     display: initial;
+    visibility: initial;
   }
 }
 
