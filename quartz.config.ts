@@ -8,12 +8,10 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Blog-Teaching",
+    pageTitle: "🧠 Blog-Teaching",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "alptugan.github.io/blog-teaching",
     ignorePatterns: ["private", "templates", ".obsidian"],
