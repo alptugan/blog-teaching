@@ -87,8 +87,8 @@ a {
   }
 
   &.external .external-icon {
-    height: 1ex;
-    margin: 0 0.15em;
+    height: 0ex;
+    margin: 0 0.0em;
 
     > path {
       fill: var(--dark);
