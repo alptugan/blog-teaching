@@ -7,9 +7,10 @@ tags:
   - android
   - tutorial
 aliases: 
-draft: true
+draft: false
 ---
 ## Summary
+As of this date (07.04.2024) Processing 4.0 cannot find and install required Android SDK and command-line tools. In this tutorial, you can find a workaround to that problem by installing required SDK and command-line tools via Android Studio.
 
 ## Requirements
 1. Enable Developer mode on your Android device ➡️ [how to]()
@@ -29,10 +30,4 @@ draft: true
 9. If you get no error, or warning, then you are good to go.
 10. Connect your Android device to your computer. Make sure your your device is identified by your computer. Hit the `Run` button and you will see the following image. ![[Screenshot 2024-04-07 at 16.09.06.png]]
 11. Hit Run 
-# Android Mode on openFrameworks
-1. Download and install Android latest studio
-2. As of this date, the current version is SDK API 34.
-3. Download and install Android NDK to compile C++ [link](https://developer.android.com/ndk/downloads)
-5. Download openFrameworks Stable Release from openframeworks.cc
-6. 
 
