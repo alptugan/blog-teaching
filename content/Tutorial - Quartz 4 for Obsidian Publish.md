@@ -1,5 +1,5 @@
 ---
-title: Quartz Tutorial
+title: Tutorial - Quartz 4 for Obsidian Publish
 draft: false
 tags:
   - quartz
