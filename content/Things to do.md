@@ -26,3 +26,9 @@ npx quartz build --serve
 3. Download and install Android NDK to compile C++ [link](https://developer.android.com/ndk/downloads)
 5. Download openFrameworks Stable Release from openframeworks.cc
 6. 
+
+
+
+# AI Data Analysis tools
+1. [Microsoft Lida](https://microsoft.github.io/lida/)
+2. 
