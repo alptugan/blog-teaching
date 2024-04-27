@@ -6,7 +6,7 @@ tags:
   - teaching
   - cod208
 aliases: 
-draft: true
+draft: false
 ---
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
