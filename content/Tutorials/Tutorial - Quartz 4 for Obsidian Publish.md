@@ -1,9 +1,12 @@
 ---
 title: Tutorial - Quartz 4 for Obsidian Publish
-draft: false
+date: 2023-10-15
+description: Quartz setup on Mac
 tags:
   - quartz
   - tutorial
+aliases: 
+draft: false
 ---
 ## Summary
 This tutorial covers how to build a static web site, hosted on [Github](https://www.github.com) for free, using [Quartz](https://quartz.jzhao.xyz/) as a framework and [Obsidian](https://obsidian.md/) as a backend IDE. 

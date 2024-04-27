@@ -13,9 +13,9 @@ draft: false
 As of this date (07.04.2024) Processing 4.0 cannot find and install required Android SDK and command-line tools. In this tutorial, you can find a workaround to that problem by installing required SDK and command-line tools via Android Studio.
 
 ## Requirements
-1. Enable Developer mode on your Android device ➡️ [how to]()
-2. Download and install [Android Studio](https://www.)
-3. Download and install your device drivers. It depends on the hardware you own. For my case, I use Samsung A54. If you are using Samsung, the [Smart Switch]() software is required to be installed on your device to make it identified by your computer. While installing the Samsung Smart Switch, your Mac will ask you for several permissions. Allow access from your Mac whenever prompted.
+1. Enable Developer mode on your Android device ➡️ [how to](https://www.youtube.com/watch?v=hf2XFzQDnIU)
+2. Download and install [Android Studio](https://android.com/)
+3. Download and install your device drivers. It depends on the hardware you own. For my case, I use Samsung A54. If you are using Samsung, the [Smart Switch](https://www.samsung.com/us/support/owners/app/smart-switch) software is required to be installed on your device to make it identified by your computer. While installing the Samsung Smart Switch, your Mac will ask you for several permissions. Allow access from your Mac whenever prompted.
 4. Download and install [Processing](https://www.processing.cc)
 
 ## Android Studio Setup
