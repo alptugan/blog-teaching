@@ -31,6 +31,7 @@ I have an application running on my Raspberry Pi. As you might know SD cards are
 9. Be patient and wait. When the cloning process is done, you will see the blinking cursor on your Terminal.
 
 # Software Alternative on Mac
-- [Apple Pi Baker](https://formulae.brew.sh/cask/applepi-baker)
+- [Apple Pi Baker](https://formulae.brew.sh/cask/applepi-baker) → outdated
+- Built-in Raspberry Pi application. → The cloning process is dead slow on Raspberry Pi.
 
    

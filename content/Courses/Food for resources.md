@@ -6,5 +6,33 @@ tags:
 aliases: 
 draft: true
 ---
+# Creative Coding (COD 207-208)
 Some small html project might be helpful for assignments and some of them for web dev...
 https://twitter.com/Prathkum/status/1775878750518866158
+
+## Algorithms & Concepts
+### 1. Paper Marbling Algorithm
+📺 [video](https://www.youtube.com/watch?v=p7IGZTjC008)
+🔗 [Paper Marbling](https://www.wikiwand.com/en/Paper_marbling) 
+🔗 [Tokutaro Yagi](https://suminagashi.com/meet-the-artisan-tokutaro-yagi/) 
+🔗 [Digital Marbling](https://blog.amandaghassaei.com/2022/10/25/digital-marbling/)
+📄 [Mathematical Marbling](https://ieeexplore.ieee.org/document/5887299) 
+🔗 [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
+
+
+## Third-party Apps 
+### 1. Timeline Apps OSC Protocoll
+[Chataigne](https://benjamin.kuperberg.fr/chataigne/en#tutorials) → Free, opensource, Mac OS, Windows
+[Vezer](https://imimot.com/vezer/) → Paid, Mac OS
+[Duration](https://web.archive.org/web/20160619122224/http://www.duration.cc/) → [docs](https://web.archive.org/web/20161113180016/https://github.com/YCAMInterlab/Duration), Standalone app of ofxTimeline, Free, Windows, Mac OS, Linux
+[Timeliner](https://vvvv.org/documentation/timelinersa) → Based on VVVV, Free, Windows, Mac OS, Linux
+[CuePilot](https://cuepilot.zendesk.com/hc/en-us) → Free, Windows, Mac OS, Linux
+[TWO](https://controlmedia.art/) → Free, Windows, Mac OS, Linux
+[Ossia](https://ossia.io/) → Free, Windows, Mac OS, Linux
+[Iannis](https://www.iannix.org/en/download-iannix/) → Free, Windows, Mac OS, Linux
+[Timeline](https://www.bigfug.com/software/timeline/) → Free, Windows
+
+---
+# Sound Design
+## Open Calls
+[Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
