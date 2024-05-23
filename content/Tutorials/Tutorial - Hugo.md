@@ -19,11 +19,17 @@ The main take aways are as follows;
 - [ ] Learn something new.
 
 1. I am planning to use the following plugin with Obsidian `obsidian://show-plugin?id=hugo-preview-obsidian`
-2. Install Hugo using [Homebrew](https://brew.sh/) package manager for Mac :luc_arrow_right: [link](https://gohugo.io/installation/macos/#homebrew)
-3. Follow the tutorial :luc_arrow_right: [link](https://quantick.dev/posts/obsidian-hugo/)
+2. Install Hugo using [Homebrew](https://brew.sh/) package manager for Mac →  [link](https://gohugo.io/installation/macos/#homebrew)
+3. Follow the tutorial → [link](https://quantick.dev/posts/obsidian-hugo/)
 
 ## References
 - [Hugo Themes](https://themes.gohugo.io/)
+	- [Hugo Plate](https://themes.gohugo.io/themes/hugoplate/)
+	- [Papermod](https://themes.gohugo.io/themes/hugo-papermod/)
+	- [Academic](https://themes.gohugo.io/themes/theme-academic-cv/)
+	- [Hugo Mini](https://github.com/nodejh/hugo-theme-mini)
+	- 
 - [Hugo Website](https://gohugo.io/)
 - [Homebrew](https://www.brew.sh) 
 - [obsidia-hugo-demo](https://github.com/quantk/obsidian-hugo-demo) :luc_arrow_right: Includes Github workflow file.
+
