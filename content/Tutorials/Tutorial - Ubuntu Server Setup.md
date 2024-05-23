@@ -8,7 +8,7 @@ tags:
   - ubuntu
   - linux
 aliases: 
-draft: true
+draft: false
 ---
 1. Download `Ubuntu-server` image.
 2. Install with default UI instructions. Just enable the SSH option to connect remotely.

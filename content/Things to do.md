@@ -8,6 +8,9 @@ tags:
 # upload to Github
 npx quartz sync
 
+# update Quartz -> https://quartz.jzhao.xyz/upgrading
+npx quartz update
+
 # test
 npx quartz build --serve
 
