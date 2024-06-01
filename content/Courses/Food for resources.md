@@ -32,7 +32,20 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [Iannis](https://www.iannix.org/en/download-iannix/) → Free, Windows, Mac OS, Linux
 [Timeline](https://www.bigfug.com/software/timeline/) → Free, Windows
 
+
 ---
 # Sound Design
 ## Open Calls
 [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
+
+
+---
+# Generative Art
+## Artists
+[Amy Goodchild](https://www.amygoodchild.com/)
+
+---
+# Physical Computing
+## UI
+[Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) 
+The library includes text-based scene management for different tasks to collect and display data on the screen.
