@@ -10,7 +10,6 @@ tags:
 aliases: 
 draft: false
 ---
-
 # Intro
 I have an application running on my Raspberry Pi. As you might know SD cards are so fragile. They can be corrupted easily because of voltage changes or sudden power of situations. I need to create a spare backup SD card with the same system and application already installed. Since, It is a Linux based system and  I don’t want to deal with installing libraries, additional packages, and remote access software. So the solution is simple. If you are on a Windows you can use [Win32 Disk Imager](https://win32diskimager.org/). If you are on Mac you can easily create the exact system by using Unix commands on Terminal app that comes with Apple OS.
 

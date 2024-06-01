@@ -10,16 +10,23 @@ aliases:
 draft: true
 ---
 # Unix General
-| Command Name | Command                       | Description                      |
-| ------------ | ----------------------------- | -------------------------------- |
-| grep         |                               |                                  |
-| awk          |                               |                                  |
-| lm-sensors   | sudo apt install lm-sensors   | Install Mainboard sensor drivers |
-|              | sudo sensors-detect           | List sensors                     |
-|              | watch sensors\|               | Monitor sensor values            |
-| uname        | uname -m                      | Get dist name                    |
-|              | uname -m && cat /etc/*release | Get dist name and release name   |
-| gcc          | gcc --version                 | Display c++ compiler             |
+
+| Command Name | Command                                           | Description                      |
+| ------------ | ------------------------------------------------- | -------------------------------- |
+| grep         |                                                   |                                  |
+| awk          |                                                   |                                  |
+| lm-sensors   | sudo apt install lm-sensors                       | Install Mainboard sensor drivers |
+|              | sudo sensors-detect                               | List sensors                     |
+|              | watch sensors\|                                   | Monitor sensor values            |
+| uname        | uname -m                                          | Get dist name                    |
+|              | uname -m && cat /etc/*release                     | Get dist name and release name   |
+| gcc          | gcc --version                                     | Display c++ compiler             |
+| timedatectl  | timedatectl list-timezones                        | List time zone names             |
+|              | sudo timedatectl set-timezone Europe/Istanbul<br> | Set time zone                    |
+|              | sudo timedatectl set-ntp on                       | Enable the service               |
+|              | timedatectl                                       | Check the current date-time      |
+| date         | date                                              | Check the current date-time      |
+| nvidia-smi   | nvidia-smi -q                                     | Lists NVIDIA GPU properties.     |
 
 
 
