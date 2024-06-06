@@ -29,7 +29,8 @@ Mesh Central vs. RustDesk
 # AI Data Analysis tools
 1. [Microsoft Lida](https://microsoft.github.io/lida/)
 
-# PNPM
+# Node Packages
+## PNPM
 
 ```
 sudo npm install -g pnpm
@@ -38,6 +39,9 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 
 # if dependency error, use pnpm add <package_name>
 ```
+
+## PM2 
+[source](https://pm2.keymetrics.io/docs/usage/monitoring/) It helps stay up your node service whenever there occurs a problem.
 
 
 # Front-end UI Frameworks
@@ -49,9 +53,7 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 # HOME SERVER
 ## Operating Sytems
 https://www.youtube.com/watch?v=n3T2J0WQH10
-[Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3 
-→ [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
-
+[Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3 → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
 [Umbrel](https://umbrel.com/umbrelos) Similar to Casa OS. Requires more system resources. 
 ## Media Server
 [Jellyfin](https://jellyfin.org/)
