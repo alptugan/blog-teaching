@@ -45,8 +45,8 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Pico](https://picocss.com/) ⭐️
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️
 [Bootstrap](https://getbootstrap.com/)
-# HOME SERVER
 
+# HOME SERVER
 ## Operating Sytems
 https://www.youtube.com/watch?v=n3T2J0WQH10
 [Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3 
@@ -78,4 +78,19 @@ AdGuard Home
 [ddev](https://github.com/ddev/ddev?tab=readme-ov-file) → PHP, NodeJs
 # AI Related
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 
+
+
+# Uncategorized Apps
+llamafile → local image analysis, GPT
+rofi-tdk
+Freetar → akor tab
+dead-man-message → öldükten sonra sevdiğin kişilere hesap bilgilerini göster
+Explainshell → Explains Shell commands.
+Gigabrain → Summarize Reddit posts AI
+whiz → AI assisted Terminal
+[Store.app](https://store.app/) → Web app store.
+wavacity → online Audacity
+workout.lol → Health care with daily objects at home to work out specific parts of your body.
+Metadata Cleaner → Remove meta data from any file.
+
 

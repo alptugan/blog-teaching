@@ -19,6 +19,12 @@ https://twitter.com/Prathkum/status/1775878750518866158
 📄 [Mathematical Marbling](https://ieeexplore.ieee.org/document/5887299) 
 🔗 [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
 
+### 2. Tools & Web Application
+[Desmos](https://www.desmos.com/) Online graphing tool to explore trigonometric functions. 
+[Graphtoy](https://graphtoy.com/) Explore lineal formulas on the fly. The web site includes ready-made trigonometric functions in animation.
+[Easing.net](https://easings.net/) The web site showcases common easing functions in CSS and Math function separately.  
+[OpenProcessing](https://openprocessing.org/user/68647/?view=activity&o=48)
+[ShaderToy](https://www.shadertoy.com/)
 
 ## Third-party Apps 
 ### 1. Timeline Apps OSC Protocoll
@@ -47,5 +53,8 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ---
 # Physical Computing
 ## UI
-[Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) 
-The library includes text-based scene management for different tasks to collect and display data on the screen.
+[Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) The library includes text-based scene management for different tasks to collect and display data on the screen.
+
+
+
+
