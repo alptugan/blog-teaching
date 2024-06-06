@@ -23,5 +23,6 @@ sudo systemctl stop systemd-resolved
 ```
 
 5. Restart CasaOS.
-6. Check the settings of AdGuard Home. It should look like the image below![[adguard_03.jpg]]
+6. It is imperative to verify the functionality of AdGuard. If no errors are present, updating the router's DNS address to direct incoming internet traffic towards AdGuard is essential.![[adguard_04.jpg]]️
+7. Check the settings of AdGuard Home. It should look like the image below![[adguard_03.jpg]]
 
