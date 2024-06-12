@@ -6,7 +6,7 @@ tags:
 aliases: 
 draft: true
 ---
-# Creative Coding (COD 207-208)
+	# Creative Coding (COD 207-208)
 Some small html project might be helpful for assignments and some of them for web dev...
 https://twitter.com/Prathkum/status/1775878750518866158
 
@@ -38,6 +38,8 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [Iannis](https://www.iannix.org/en/download-iannix/) → Free, Windows, Mac OS, Linux
 [Timeline](https://www.bigfug.com/software/timeline/) → Free, Windows
 
+### 2. Body, Pose, Face, Hand Tracking Apps 
+[Popeye](https://github.com/thomasgeissl/popeye?tab=readme-ov-file)popeye does some very basic skeleton and hand tracking, and sends recognized landmarks via osc or mqtt. it uses mediapipe internally. Uses web-cam.
 
 ---
 # Sound Design
