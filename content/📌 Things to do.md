@@ -51,10 +51,12 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Bootstrap](https://getbootstrap.com/)
 
 # HOME SERVER
-## Operating Sytems
+## Operating Systems
 https://www.youtube.com/watch?v=n3T2J0WQH10
-[Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3 → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
-[Umbrel](https://umbrel.com/umbrelos) Similar to Casa OS. Requires more system resources. 
+[Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3. The best part is it supports custom docker installs → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
+[Umbrel](https://umbrel.com/umbrelos) Similar to Casa OS. Requires more system resources. Looks betters. 
+[RunTipi](https://runtipi.io/) More similar to Casa OS. Requires more system 
+[Cosmos](https://cosmos-cloud.io/) More similar to Casa OS. Bad in design. More functional than Casa OS. It allows also custom docker image installations.
 ## Media Server
 [Jellyfin](https://jellyfin.org/)
 ## NAS 
@@ -78,9 +80,17 @@ AdGuard Home
 [ophiuchi](https://www.ophiuchi.dev/#) → Mac App
 [Nginx Proxy Manager](https://nginxproxymanager.com/)
 [ddev](https://github.com/ddev/ddev?tab=readme-ov-file) → PHP, NodeJs
+
 # AI Related
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 
+[DevGPT](https://www.getdevkit.com/dashboard) GPT trained for coding tasks.
 
+
+# DEV Tools
+[DevToys](https://devtoys.app/) Set of utility applications that can be helpful for developers. It includes conversion tools, text operations, base64 converters, etc... for Windows OS.
+[ScreenshotToCode](https://screenshottocode.com/) Transform screenshots to html using AI.
+[Mintlfy](https://github.com/mintlify/writer) Generate documentation by selecting code snippets.
+[Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
 
 # Uncategorized Apps
 llamafile → local image analysis, GPT
