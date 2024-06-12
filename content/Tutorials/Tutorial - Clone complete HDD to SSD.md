@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Tutorial - Clone complete HDD to SSD
 date: 2024-06-09
 modfification date: Sunday 9th June 2024 01:55:03
 description: 
