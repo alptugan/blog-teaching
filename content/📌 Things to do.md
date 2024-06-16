@@ -57,6 +57,9 @@ https://www.youtube.com/watch?v=n3T2J0WQH10
 [Umbrel](https://umbrel.com/umbrelos) Similar to Casa OS. Requires more system resources. Looks betters. 
 [RunTipi](https://runtipi.io/) More similar to Casa OS. Requires more system 
 [Cosmos](https://cosmos-cloud.io/) More similar to Casa OS. Bad in design. More functional than Casa OS. It allows also custom docker image installations.
+[Homarr](https://homarr.dev/) Dashboard for servers.
+[Homer](https://github.com/bastienwirtz/homer) Simple static page as a dashboard for your home server. 
+[Heimdall](https://heimdall.site/) 
 ## Media Server
 [Jellyfin](https://jellyfin.org/)
 ## NAS 
@@ -105,4 +108,11 @@ wavacity → online Audacity
 workout.lol → Health care with daily objects at home to work out specific parts of your body.
 Metadata Cleaner → Remove meta data from any file.
 
+# Hosting & Domain
+[Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
+[Free DNS](https://freedns.afraid.org/domain/add.php)
+[DuckDNS](https://www.duckdns.org/)
+
+# Routers
+[Port Forwarding](https://portforward.com/zyxel/) Shows port forwarding instructions for several router brands. 
 

@@ -35,6 +35,32 @@ docker run -d --restart always cloudflare/cloudflared:latest tunnel run --token 
 ```
 9. Goto the Cloudflare dashboard and check if you see the following connection information. If the Cloudflare displays healthy for the connection, then you are good to go.
 
+
+## Create Free DNS on Cloudns
+Follow the instruction on the blog post [[Tutorial - ClouDNS Free Domain Registration]] to create your own domain name.
+
+## Register Cloudns hostname on Cloudflare
+Follow the instructions on the blog post [[Tutorial - Cloudflare Domain Register]] showing how to register your domain on Cloudflare. Additionally, check the great [video](https://www.youtube.com/watch?v=X-TzodpqbWE) for full walk-through.
+
+Since there are no records on the cloudDNS domain name, Cloudflare doesn't display any information other than NS (Name Server) records. We need to configure clouDNS NS records with the ones Cloudflare provided for us. 
+
+Delete all the clouDNS NS records and add two NS address provided by Cloudflare.
+![[clouDNS_04.png]]
+
+Then add the Cloudflare NS records.
+![[clouDNS_05.png]]
+
+After you added the provided Cloudflare NS to ClouDNS, goto your Cloudflare account and hit `Continue`. You should see the following message.
+![[cloudflare-2_01.png]]
+
+
 ## Disable Tunnelling
 1. Delete the tunnel from cloudflare
 2. Goto host machine run `sudo cloudflared service uninstall` to remove its instance
+
+
+
+docker run -d --restart always cloudflare/cloudflared:latest tunnel run --token eyJhIjoiMzI1Yzc2NWUzNGQzOTM0OGJjYTU1N2EwODQ5ZDJhNDgiLCJ0IjoiODI2MzI3ODktOWIzYi00ZDVjLWJkYzktZDAwNTVlYzEzMjhiIiwicyI6IlptSTFOakF6TkRZdE9USXdPUzAwWlRKaUxUZzBZVGt0WkRCaU1ESTNZV1ptWVdZNCJ9
+
+
+docker run cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiMzI1Yzc2NWUzNGQzOTM0OGJjYTU1N2EwODQ5ZDJhNDgiLCJ0IjoiNjIzOWMyNGYtYTkzYS00M2RhLWIyMDEtZWRmYTNlNTMwMWJjIiwicyI6IlpURTNOamt5T0RFdFpERmhOUzAwWXpFeExUa3dORGd0TXpSbU16SXdaR05sTnpFdyJ9

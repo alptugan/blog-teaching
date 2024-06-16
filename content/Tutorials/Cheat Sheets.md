@@ -35,6 +35,12 @@ draft: true
 |             |                                                   |                                    |
 
 
+# Docker Basics
+
+| Command                                  | Description                                       |
+| ---------------------------------------- | ------------------------------------------------- |
+| docker ps                                | List docker images                                |
+| docker exec -it <container_id> /bin/bash | Login docker image folder. Type `exit` to log-out |
 
 # Webmin
 ![![blog-teaching/content/Tutorials/#^Table6]]
