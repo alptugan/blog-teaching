@@ -7,16 +7,10 @@ tags:
   - ubuntu
   - cloudflare
   - casaos
+  - tutorial
 aliases: 
 draft: true
 ---
-[Cloudflare DNS ekleme](https://www.youtube.com/watch?v=j9S9ufbCiyQ)
-[Github üzerinden güvenlik](https://www.youtube.com/watch?v=Z1A22UPQQt4&t=400s)
-[Subdomain EKleme](https://www.youtube.com/watch?v=_j8JbuwmYT8)
-
-Cloudflare dns servers → [cloudflare alp](https://dash.cloudflare.com/325c765e34d39348bca557a0849d2a48/alptugan.com/dns/records)
-
-
 # Tunnelling
 
 >[!warning] In order to activate tunneling you must add your main domain to the Cloudflare first. Refer to the [[Tutorial - Cloudflare Domain Register|tutorial]].
@@ -59,8 +53,5 @@ After you added the provided Cloudflare NS to ClouDNS, goto your Cloudflare acco
 2. Goto host machine run `sudo cloudflared service uninstall` to remove its instance
 
 
-
-docker run -d --restart always cloudflare/cloudflared:latest tunnel run --token eyJhIjoiMzI1Yzc2NWUzNGQzOTM0OGJjYTU1N2EwODQ5ZDJhNDgiLCJ0IjoiODI2MzI3ODktOWIzYi00ZDVjLWJkYzktZDAwNTVlYzEzMjhiIiwicyI6IlptSTFOakF6TkRZdE9USXdPUzAwWlRKaUxUZzBZVGt0WkRCaU1ESTNZV1ptWVdZNCJ9
-
-
-docker run cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiMzI1Yzc2NWUzNGQzOTM0OGJjYTU1N2EwODQ5ZDJhNDgiLCJ0IjoiNjIzOWMyNGYtYTkzYS00M2RhLWIyMDEtZWRmYTNlNTMwMWJjIiwicyI6IlpURTNOamt5T0RFdFpERmhOUzAwWXpFeExUa3dORGd0TXpSbU16SXdaR05sTnpFdyJ9
+# ENerjisa
+06/2024: 339 TL

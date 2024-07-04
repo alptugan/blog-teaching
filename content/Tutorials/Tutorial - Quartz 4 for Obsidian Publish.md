@@ -145,6 +145,15 @@ Navigate to your static website
 Mine is;
 `https://alptugan.github.io/blog-teaching`
 
+
+### How to edit blog content within the same Obsidian vault
+
+Check the following link to link the existing Quartz 4 folder to the original Obsidian
+
+1. Create the folder in original vault -> blog-teaching. You don't need to create `content` folder. We will do it in the next step via `ln` command.
+2. `ln -s ../../DEVS/Sites/blog-teaching/content content` 
+3. The original content folder now can be edited using your main vault.
+[reference](https://www.youtube.com/watch?v=dz3GOp4hN50)
 ### F.A.Q
 
 > [!ERROR] The images or the pages are not displayed correctly
