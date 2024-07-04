@@ -8,7 +8,7 @@ tags:
   - cloudflare
   - ubuntu
 aliases: 
-draft: true
+draft: false
 ---
 
 # Register Domain on Cloudflare
