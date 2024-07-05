@@ -25,7 +25,6 @@ draft: true
 - [ ] VS Code Database Client → [source](https://www.youtube.com/watch?v=MkSgscvxaU8&t=627s)
 - [ ] MySQL → [https://www.youtube.com/watch?v=dLXSJdTK9QI&ab_channel=CodeWithYousaf](https://www.youtube.com/watch?v=dLXSJdTK9QI&ab_channel=CodeWithYousaf)
 - [ ] Notion as Database → [https://www.youtube.com/watch?v=n2tkgeFcMhc&ab_channel=CoderOne](https://www.youtube.com/watch?v=n2tkgeFcMhc&ab_channel=CoderOne)
-    - [ ] Notion secret → secret_QEFm48K8dk88ZVbqlFbVvdMMzzJXmFDlcRChxhu8SKo
 - [ ] ⭐ [https://www.youtube.com/watch?v=TZvMLWFVVhE&ab_channel=OpenJavaScript](https://www.youtube.com/watch?v=TZvMLWFVVhE&ab_channel=OpenJavaScript)
     - [ ] Drag, Drop, Upload → [https://www.youtube.com/watch?v=HrK7RFNDTKA&ab_channel=OpenJavaScript](https://www.youtube.com/watch?v=HrK7RFNDTKA&ab_channel=OpenJavaScript)
     - [ ] [localhost](http://localhost) to WAN → [https://www.youtube.com/watch?v=2CPrn1PE5e0](https://www.youtube.com/watch?v=2CPrn1PE5e0) (ngrok)

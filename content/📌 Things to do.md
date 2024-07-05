@@ -176,13 +176,6 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 
 
 # My CasaOS Fundamentals
-
-Damp Server Notifier
-[damp_notifier_bot](https://t.me/damp_notifier_bot)
-telegram://7384437095:AAHNdUnKZAGJLKp1Dla06Q_4uXNH43ZOAzI@telegram/?channels=1263844638
-
-https://api.telegram.org/bot7384437095:AAHNdUnKZAGJLKp1Dla06Q_4uXNH43ZOAzI/getUpdates
-
 Şu adamı izle güzel örnekleri var NTFY için;
 https://www.youtube.com/watch?v=poDIT2ruQ9M
 
