@@ -8,16 +8,7 @@ aliases:
 draft: true
 ---
 ## Todo
-- [ ] Kinectic Sculpture: Audiovisual installation,  “_Down to Earth_”, “Yeni Medya: Eskizden Piksele Dijital Sanat Sergisi”, **SIĞINAK**, Ankara, TURKEY.
-- [ ] Interactive Audiovisual installation,  “_De-scripted Shades_”, Group Exhibition, **Akbank Sanat**, Istanbul, TURKEY.
-- [ ] Interactive Audiovisual installation, “_Ataxia_”, 35 Seconds Museum, **NEO Shibuya**, Tokyo, JAPAN.
-- [ ] Audiovisual installation, “_Dasein of Others_”, Piksel Media Art Festival, Bergen, NORWAY.
-- [ ] Audiovisual installation, “_Dasein of Others: Habitat_”, Eskizden Piksele, Türkiye.
-- [ ] Audiovisual installation, “_The Entity?_”, Dystopia Exhibition, **Akbank Sanat**, Istanbul, TURKEY.
-- [ ] p5.Utils
-- [ ] icns creator
 - [ ] backdoor
-- [ ] openFrameworks addon KorgNano Kontrol
 - [ ] Post efect with mouse move on [Interactive WebGL Hover Effects | Codrops (tympanus.net)](https://tympanus.net/codrops/2020/04/14/interactive-webgl-hover-effects/)
 
 ## Backend
@@ -40,13 +31,12 @@ draft: true
 ## FrontEnd
 - [ ] Also Check [JS App Deployment](https://www.notion.so/JS-App-Deployment-80162b86a4de43e7b50f04e18fc23a64?pvs=21)
 - [ ] 🤜how to use Notion as database [https://hrishikeshpathak.com/tips/read-notion-database-api/](https://hrishikeshpathak.com/tips/read-notion-database-api/)
-- [ ] Authetican User [https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/](https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/)
-- [ ] Gallery template
-    [https://github.com/sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery)
-
-
+- [ ] Autheticate User [https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/](https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/)
 
 
 ## JS Routing
-- [Vanilla JS Routing](https://www.youtube.com/watch?v=JmSb1VFoP7w)
-- [Vanilla JS Routing on HTML ](https://www.youtube.com/watch?v=ZleShIpv5zQ&t=2s)
+Dcode Youtube Channel (2024) [link](https://www.youtube.com/watch?v=6BozpmSjk-Y), [part 2](https://www.youtube.com/watch?v=OstALBk-jTc)
+[Vite Template with Vue.js](https://github.com/igorbabko/builds-with-vite/blob/main/31-vue/index.html)
+
+## Timeline
+https://www.youtube.com/watch?v=AIDiMA_C3sg
