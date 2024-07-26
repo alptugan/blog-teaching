@@ -19,11 +19,7 @@ Because my GPU has 6 GB memory, and the model size exceeds 6GB so it cannor be l
 ![[sd_02.png]]
 
 ## Second Try on CivitAI
-Goto [Civit.ai](https://civitai.com/models) choose a model according to your GPU specs. Mine is GTX 1660 and it has 6GB of VRAM. So I look for models
-![[sd_civitai_03.png]]
 
-
-Test for example → https://civitai.com/images/17310460
 
 
 # Tests
@@ -33,3 +29,24 @@ an apple OS desk top app icon in flat style representing the app name icns creat
 
 # Extensions
 [ControlNet](https://www.youtube.com/watch?v=vFZgPyCJflE) Tutorial shows the installation of the extension, fixes mouth styles, Generates facial expressions according to the loaded pose model.
+
+# Check Tutorials
+https://www.youtube.com/watch?v=DMFP8ZHb5-8
+
+
+# CIVIT.AI
+Goto [Civit.ai](https://civitai.com/models) choose a model according to your GPU specs. Mine is GTX 1660 and it has 6GB of VRAM. So I look for models
+![[sd_civitai_03.png]]
+
+
+Test for example → https://civitai.com/images/17310460
+
+> [!NOTE] Using Lora Checkpoints
+> When using Lora checkpoints, be sure to check how to use them. Some of them require extra information during the prompt generation. So read the instruction about the Lora that you use.
+
+
+## Face Swapping
+[yt1](https://www.youtube.com/watch?v=_A7PraBHyg0)
+
+## Ghibli Style Lora Usage
+[yt2](https://www.youtube.com/watch?v=ZHVdNeHZPdc)

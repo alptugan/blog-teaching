@@ -30,7 +30,7 @@ Guacamole
 
 
 # AI Data Analysis tools
-1. [Microsoft Lida](https://microsoft.github.io/lida/)
+[Microsoft Lida](https://microsoft.github.io/lida/)
 
 # Node Packages
 ## PNPM
@@ -50,8 +50,44 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
 [Pico](https://picocss.com/) ⭐️
-[Daisy UI](https://daisyui.com/components/) ⭐️⭐️
+[Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
 [Bootstrap](https://getbootstrap.com/)
+## Libraries
+[AOS](https://michalsnik.github.io/aos/) Animate on scroll
+[Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
+[Swiper Gallery](https://swiperjs.com/) Touch enabled slideshow
+[Glightbox](https://biati-digital.github.io/glightbox/#examples) Lightweight 11 KB gallery
+[lightGallery](https://github.com/sachinchoolur/lightGallery)
+[Infinite scroll](https://infinite-scroll.com/)
+
+## CSS Animation
+[Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.
+[Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
+[Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
+[Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
+[Text Animations](https://angrytools.com/css/animation/), [Moving Letters](https://tobiasahlin.com/moving-letters/)
+[CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
+[Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
+[Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
+[Konfeti animasyonları](https://particles.js.org/), [Particles](https://vincentgarreau.com/particles.js/)
+[VantaJs](https://www.vantajs.com/) Background animated js animations.
+[CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
+[Thumbnail hover animations](https://imagehover.io/)
+[Neomorphism](https://neumorphism.io/#e0e0e0)
+[Glass Morphisim](https://hype4.academy/tools/glassmorphism-generator)
+[Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
+[Clipping Masks](https://bennettfeely.com/clippy/)
+[CSS Filters](https://www.cssfilters.co/)
+[Convert to Base64 Images](https://www.base64-image.de/)
+[CSS Color Palettes](https://colorhunt.co/)
+[Color Related Tools](https://colordesigner.io/tools)
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+[CSS Layout Genrator](https://layout.bradwoods.io/)
+[CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
+
+
+
+
 
 # HOME SERVER
 ## Operating Systems
@@ -136,8 +172,16 @@ AdGuard Home
 # Miscellinous
 [asciinema](https://github.com/asciinema/asciinema-server) Record Terminal command screen
 
+# Password Managers
+[KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
+[Bitwarden](https://github.com/bitwarden)
+[Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 # Personal Dashboard
 [linkstack](https://linkstack.org/) Linktree alternative
+
+# Synching Alternatives
+[RClone](https://rclone.org/)
+
 # Uncategorized Apps
 llamafile → local image analysis, GPT
 rofi-tdk
@@ -178,7 +222,6 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 # My CasaOS Fundamentals
 Şu adamı izle güzel örnekleri var NTFY için;
 https://www.youtube.com/watch?v=poDIT2ruQ9M
-
 
 ``` bash
 #!/bin/bash
@@ -247,5 +290,31 @@ If it works
 Then add the ping link to a cronjob that runs every 5 mins
 ```bash
 */5 * * * * curl https://filika_cloud.damp-server.org/cron.php
+
+```
+
+
+## Stable-Diffusion
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting
+[GTX 1660 Super config](https://www.andreszsogon.com/fix-stable-diffusion-automatic1111-webui-on-geforce-gtx-16xx/()
+### CLI Settings
+- By default: `--medvram` is given, which allow you to use this model on a 6GB GPU, you can also use `--lowvram` for lower end GPUs. Remove these arguments if you are using a (relatively) high end GPU, like 40XX series cards, as these arguments will slow you down.
+
+### Docker Containers
+[Official 1](https://github.com/AbdBarho/stable-diffusion-webui-docker?tab=readme-ov-file)
+
+- To add custom commands you need to include default COMMAND_LINE_ARGS and add additional parameters to the end in the `webui-user.sh`
+
+### Current Config
+https://github.com/universonic/docker-stable-diffusion-webui
+
+## ⛔️ Cronicle
+configs → /opt/cronicle/conf/config.json
+
+## Cronjobs
+```shell
+#!/bin/sh
+# Backup homepage...
+cp -r /DATA/AppData/big-bear-homepage /mnt/SAMSUNG_500GB_HDD/DOCKER_COMPOSE_FILES/
 
 ```

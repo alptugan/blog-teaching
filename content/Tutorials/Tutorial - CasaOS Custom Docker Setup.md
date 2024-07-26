@@ -10,7 +10,6 @@ tags:
 aliases: 
 draft: true
 ---
-
 # Create Directory
 Goto Casa OS default AppData directory. 
 ```bash
@@ -40,4 +39,6 @@ docker compose up -d
 
 > [!WARNING] Run docker command without sudo
 > If your current user does not have privileges to run the docker command, follow the instructions in the [link](https://fossguides.com/run-docker-without-sudo-in-linux/) to resolve the problem.
+
+
 

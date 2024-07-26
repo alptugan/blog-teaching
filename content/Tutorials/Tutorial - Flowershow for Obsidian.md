@@ -2,7 +2,9 @@
 title: Flowershow Tutorial
 date: 2024-04-11
 description: 
-tags: 
+tags:
+  - tutorial
+  - Obsidian
 aliases: 
 draft: true
 ---
