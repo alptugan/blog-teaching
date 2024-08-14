@@ -32,6 +32,8 @@ Guacamole
 # AI Data Analysis tools
 [Microsoft Lida](https://microsoft.github.io/lida/)
 
+# Design
+[Open Foundry](https://open-foundry.com/fonts) Fonts
 # Node Packages
 ## PNPM
 
@@ -52,6 +54,7 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Pico](https://picocss.com/) ⭐️
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
 [Bootstrap](https://getbootstrap.com/)
+[Universe.io](https://uiverse.io/cards?page=5)
 ## Libraries
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
@@ -85,7 +88,8 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [CSS Layout Genrator](https://layout.bradwoods.io/)
 [CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
 
-
+## Browser Compatibility
+[Can I Use?](https://caniuse.com/webp) Checks which features compatible with which browsers? 
 
 
 
@@ -132,6 +136,13 @@ AdGuard Home
 # AI Related
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 
 [DevGPT](https://www.getdevkit.com/dashboard) GPT trained for coding tasks.
+[Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
+## Text to Image
+[Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
+
+## Personal Assistant
+[mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
+> [!NOTE] Bunu kendi küçük robotuma entegre etmeye çalşabilirim.
 
 # Automation
 [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
@@ -165,13 +176,17 @@ AdGuard Home
 [Filestash](https://www.filestash.app/)
 [Gossa](https://github.com/pldubouilh/gossa)Very fast, simple, file server
 
-# Geneology
+# Genealogy
 [grampsweb](https://www.grampsweb.org/) Soyağacı vs...
 
 
-# Miscellinous
+# Miscellaneous
 [asciinema](https://github.com/asciinema/asciinema-server) Record Terminal command screen
 
+# Online Dev Tools
+[JSON Editor - Validator](https://jsoneditoronline.org/)
+[RegEx Test](https://regex101.com/)
+[Mockup](https://shots.so/) take image, choose bg for social media, or devices...
 # Password Managers
 [KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
 [Bitwarden](https://github.com/bitwarden)
@@ -219,10 +234,12 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 ---
 
 
+# Digital Signage 
+[TooLoop](https://github.com/Tooloop/Tooloop-OS) Tooloop OS is a platform for media artists to safely and easily develop and deploy multimedia installations. Tooloop OS is based on Ubuntu Server 24.04 LTS and the super lightweight window manager Openbox. Both are customized to fit the needs of live and public multimedia installations.
 # My CasaOS Fundamentals
+[Portainer Dockers](https://portainer-templates.as93.net/) Ready to use docker images might be useful CasaOS
 Şu adamı izle güzel örnekleri var NTFY için;
 https://www.youtube.com/watch?v=poDIT2ruQ9M
-
 ``` bash
 #!/bin/bash
 
