@@ -6,7 +6,23 @@ tags:
 aliases: 
 draft: true
 ---
-	# Creative Coding (COD 207-208)
+# Historical Information 
+"Education For an Age of Technology"
+[A history of technology : Singer, Charles, 1876-1960, editor, Volumes I-V, VIII : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/historyoftechnol0000sing/page/776/mode/2up)
+
+- Visual representation of data tends to be perceived more easily by students... Coding
+	[Knowledge Visualization as a Teaching Tool: Education Book Chapter | IGI Global (igi-global.com)](https://www.igi-global.com/chapter/knowledge-visualization-as-a-teaching-tool/195057)
+
+
+- Kinesthetic learning;
+	- The VARK Model by Neil [[Fleming]]
+	- Visual learning (Using Processing or other frameworks that are built for creating visual output from code)
+	- Auditory learning (Sonic Pi)
+	[Kinesthetic learning - Wikipedia](https://en.wikipedia.org/wiki/Kinesthetic_learning)
+	- Kinesthetic learning (American English), kinaesthetic learning (British English), or tactile learning is a learning style in which learning takes place by the students carrying out physical activities, rather than listening to a lecture or watching demonstrations.
+	- [Sci-Hub | The Kinesthetic Approach to Teaching: Building a Foundation for Learning | 10.1177/002221948501800803 (mksa.top)](https://sci-hub.mksa.top/10.1177/002221948501800803)
+
+# Creative Coding (COD 207-208)
 Some small html project might be helpful for assignments and some of them for web dev...
 https://twitter.com/Prathkum/status/1775878750518866158
 
@@ -18,6 +34,10 @@ https://twitter.com/Prathkum/status/1775878750518866158
 🔗 [Digital Marbling](https://blog.amandaghassaei.com/2022/10/25/digital-marbling/)
 📄 [Mathematical Marbling](https://ieeexplore.ieee.org/document/5887299) 
 🔗 [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
+
+### 3. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+[Splat: 3D Image cloud from Photo](https://github.com/antimatter15/splat?tab=readme-ov-file) (Javascript)
+[Splat: 3D Image cloud from Photo](https://github.com/CharStiles/ofxSplat?tab=readme-ov-file)(openFrameworks)
 
 ### 2. Tools & Web Application
 [Desmos](https://www.desmos.com/) Online graphing tool to explore trigonometric functions. 
@@ -43,6 +63,8 @@ https://twitter.com/Prathkum/status/1775878750518866158
 
 ---
 # Sound Design
+## Quotes
+It's not about the gear, it's about the ear.
 ## Open Calls
 [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
 
@@ -194,7 +216,8 @@ https://www.domestika.org/en/blog/9642-10-must-see-movies-that-were-made-by-thei
 # Physical Computing
 ## UI
 [Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) The library includes text-based scene management for different tasks to collect and display data on the screen.
-
+## Utilities & Libraries
+[Ticker Library](https://github.com/sstaub/Ticker) The **Arduino Ticker Library** allows you to create easily Ticker callbacks, which can call a function in a predetermined interval.
 
 
 

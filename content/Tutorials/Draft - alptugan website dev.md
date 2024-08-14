@@ -35,7 +35,8 @@ draft: true
 
 
 ## JS Routing
-Dcode Youtube Channel (2024) [link](https://www.youtube.com/watch?v=6BozpmSjk-Y), [part 2](https://www.youtube.com/watch?v=OstALBk-jTc)
+Dcode Youtube Channel (2024) [link](https://www.youtube.com/watch?v=6BozpmSjk-Y), [part 2](https://www.youtube.com/watch?v=OstALBk-jTc) 
+(Check folder `/Users/alptugan/Documents/DEVS/Sites/templates/single-page-app-vanilla-js`)
 [Vite Template with Vue.js](https://github.com/igorbabko/builds-with-vite/blob/main/31-vue/index.html)
 
 ## Timeline
