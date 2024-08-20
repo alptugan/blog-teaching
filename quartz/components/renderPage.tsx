@@ -14,6 +14,7 @@ interface RenderComponents {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
+  afterBody: QuartzComponent[]
   left: QuartzComponent[]
   middle: QuartzComponent[]
   right: QuartzComponent[]
@@ -188,6 +189,7 @@ export function renderPage(
     header,
     beforeBody,
     pageBody: Content,
+    afterBody,
     left,
     right,
     middle,
@@ -242,6 +244,12 @@ export function renderPage(
                 </div>
               </div>
               <Content {...componentData} />
+              <hr />
+              <div class="page-footer">
+                {afterBody.map((BodyComponent) => (
+                  <BodyComponent {...componentData} />
+                ))}
+              </div>
             </div>
             {RightComponent}
 
