@@ -25,6 +25,8 @@ draft: true
 # Creative Coding (COD 207-208)
 Some small html project might be helpful for assignments and some of them for web dev...
 https://twitter.com/Prathkum/status/1775878750518866158
+## Introduction to Programming Fundamentals
+⭐️ [Brilliant.org](https://brilliant.org/courses/creative-coding/?from_llp=computer-science&just_completed=%5B%22introduction-to-variables%22%5D) Creative Coding Introduction! No Code! (week 1)
 
 ## Algorithms & Concepts
 ### 1. Paper Marbling Algorithm
@@ -60,6 +62,23 @@ https://twitter.com/Prathkum/status/1775878750518866158
 
 ### 2. Body, Pose, Face, Hand Tracking Apps 
 [Popeye](https://github.com/thomasgeissl/popeye?tab=readme-ov-file)popeye does some very basic skeleton and hand tracking, and sends recognized landmarks via osc or mqtt. it uses mediapipe internally. Uses web-cam.
+
+## Artists
+[Maggie Orth](http://www.maggieorth.com/) Artist work with textile and electronics. 
+#e-textile #electronics
+
+[Wei-Chieh Shih](https://shihweichieh.com/)Wei-Chieh Shih is an artist and maker specializing in e-textiles, laser galvanometer systems, and DIY dye-sensitized solar cells. 
+#e-textile #electronics
+
+[Phillip David Stearns](https://phillipstearns.com/artwork) Works with various mediums mostly on glitch aesthetics using textiles. 
+#e-textile #electronics #glitch
+
+[KOBAKANT](https://www.kobakant.at/DIY/) The site documents the range of wearable technology and soft circuit solutions that we have developed for our own practice since 2007. Many interesting techniques and possibilities never make it into a finished project. 
+#e-textile #electronics
+
+## Articles
+[“Put-that-there”: Voice and gesture at the graphics interface](https://dl.acm.org/doi/10.1145/965105.807503)The work described herein involves the user commanding simple shapes about a large-screen graphics display surface. Because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression. Conversely, gesture aided by voice gains precision in its power to reference. [video](https://x.com/ipoupyrev/status/1825578546808676370)
+#NUI #multimodality 
 
 ---
 # Sound Design
@@ -218,6 +237,4 @@ https://www.domestika.org/en/blog/9642-10-must-see-movies-that-were-made-by-thei
 [Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) The library includes text-based scene management for different tasks to collect and display data on the screen.
 ## Utilities & Libraries
 [Ticker Library](https://github.com/sstaub/Ticker) The **Arduino Ticker Library** allows you to create easily Ticker callbacks, which can call a function in a predetermined interval.
-
-
-
+[Arduino OSC](https://github.com/hideakitai/ArduinoOSC) Send % Receive OSC messages library.

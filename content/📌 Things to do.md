@@ -34,6 +34,7 @@ Guacamole
 
 # Design
 [Open Foundry](https://open-foundry.com/fonts) Fonts
+[FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 # Node Packages
 ## PNPM
 
