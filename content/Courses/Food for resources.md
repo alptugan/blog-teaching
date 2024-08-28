@@ -22,6 +22,10 @@ draft: true
 	- Kinesthetic learning (American English), kinaesthetic learning (British English), or tactile learning is a learning style in which learning takes place by the students carrying out physical activities, rather than listening to a lecture or watching demonstrations.
 	- [Sci-Hub | The Kinesthetic Approach to Teaching: Building a Foundation for Learning | 10.1177/002221948501800803 (mksa.top)](https://sci-hub.mksa.top/10.1177/002221948501800803)
 
+- [LeRandom](https://timeline.lerandom.art/) Historical information about generative art in a timeline format
+- [Computer Graphics History](https://ohiostate.pressbooks.pub/graphicshistory/back-matter/cg-historical-timeline/) Timeline
+- [History of Computer Graphics](https://graphics.cg.uni-saarland.de/courses/cg1-2018/slides/CG01b-History_Applications.pdf) Presentation
+- 
 # Creative Coding (COD 207-208)
 Some small html project might be helpful for assignments and some of them for web dev...
 https://twitter.com/Prathkum/status/1775878750518866158
@@ -29,6 +33,7 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ⭐️ [Brilliant.org](https://brilliant.org/courses/creative-coding/?from_llp=computer-science&just_completed=%5B%22introduction-to-variables%22%5D) Creative Coding Introduction! No Code! (week 1)
 
 ## Algorithms & Concepts
+[Timeline of Algorithms](https://omni.wikiwand.com/en/articles/Timeline_of_algorithms)
 ### 1. Paper Marbling Algorithm
 📺 [video](https://www.youtube.com/watch?v=p7IGZTjC008)
 🔗 [Paper Marbling](https://www.wikiwand.com/en/Paper_marbling) 
@@ -37,7 +42,7 @@ https://twitter.com/Prathkum/status/1775878750518866158
 📄 [Mathematical Marbling](https://ieeexplore.ieee.org/document/5887299) 
 🔗 [Mathematical Marbling](https://people.csail.mit.edu/jaffer/Marbling/)
 
-### 3. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+### 2. 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 [Splat: 3D Image cloud from Photo](https://github.com/antimatter15/splat?tab=readme-ov-file) (Javascript)
 [Splat: 3D Image cloud from Photo](https://github.com/CharStiles/ofxSplat?tab=readme-ov-file)(openFrameworks)
 
@@ -79,6 +84,12 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ## Articles
 [“Put-that-there”: Voice and gesture at the graphics interface](https://dl.acm.org/doi/10.1145/965105.807503)The work described herein involves the user commanding simple shapes about a large-screen graphics display surface. Because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression. Conversely, gesture aided by voice gains precision in its power to reference. [video](https://x.com/ipoupyrev/status/1825578546808676370)
 #NUI #multimodality 
+
+[Generative Art](https://gallery-lr.s3.us-west-1.amazonaws.com/GenArt_Timeline_poster.pdf) Timeline Poster 
+#history #generativeart 
+
+[Computers & Automation Magazine](https://archive.org/details/bitsavers_computersAndAutomation?sort=-date&and%5B%5D=subject:%22computer+art%22&and%5B%5D=subject:%22computer+graphics%22&and%5B%5D=subject:%22art+editor%22&and%5B%5D=subject:%22teaching%22&and%5B%5D=subject:%22technological+society%22&and%5B%5D=subject:%22technology+transfer%22&tab=collection) The link includes 25 magazine issues between 1950 - 1970.
+#computer-art #history 
 
 ---
 # Sound Design
@@ -228,6 +239,9 @@ There is a reason many Best Picture winners also take home awards for Best Sound
 https://www.tasteofcinema.com/2015/20-movies-with-the-most-brilliant-sound-design/
 https://www.domestika.org/en/blog/9642-10-must-see-movies-that-were-made-by-their-sound
 # Generative Art
+## Algorithmic Art Praxis: Reproductions
+[Georg Nees](https://editor.p5js.org/rapley/sketches/Xh9ozzdc7)
+[Georg Nees](https://www.youtube.com/watch?v=mCZ76eymEKU) This one demonstrates how increase the effect towards down algorithm., [easy](https://editor.p5js.org/enickles/sketches/0WZD228Zf), [hard-Analysis](https://www.artsnova.com/Nees_Schotter_Tutorial.html)
 ## Artists
 [Amy Goodchild](https://www.amygoodchild.com/)
 
