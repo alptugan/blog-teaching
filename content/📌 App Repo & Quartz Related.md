@@ -56,13 +56,16 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
 [Bootstrap](https://getbootstrap.com/)
 [Universe.io](https://uiverse.io/cards?page=5)
-## Libraries
+## JS Libraries
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
 [Swiper Gallery](https://swiperjs.com/) Touch enabled slideshow
 [Glightbox](https://biati-digital.github.io/glightbox/#examples) Lightweight 11 KB gallery
 [lightGallery](https://github.com/sachinchoolur/lightGallery)
 [Infinite scroll](https://infinite-scroll.com/)
+[Debounce](https://github.com/sindresorhus/debounce) Set delay for functions to be triggered.
+[VantaJs](https://www.vantajs.com/) Background animated js animations.
+[Konfeti animasyonları](https://particles.js.org/), [Particles](https://vincentgarreau.com/particles.js/)
 
 ## CSS Animation
 [Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.
@@ -73,8 +76,6 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
 [Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
 [Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
-[Konfeti animasyonları](https://particles.js.org/), [Particles](https://vincentgarreau.com/particles.js/)
-[VantaJs](https://www.vantajs.com/) Background animated js animations.
 [CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
 [Thumbnail hover animations](https://imagehover.io/)
 [Neomorphism](https://neumorphism.io/#e0e0e0)
@@ -86,13 +87,11 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [CSS Color Palettes](https://colorhunt.co/)
 [Color Related Tools](https://colordesigner.io/tools)
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-[CSS Layout Genrator](https://layout.bradwoods.io/)
+[CSS Layout Generator](https://layout.bradwoods.io/)
 [CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
 
 ## Browser Compatibility
 [Can I Use?](https://caniuse.com/webp) Checks which features compatible with which browsers? 
-
-
 
 # HOME SERVER
 ## Operating Systems
@@ -267,6 +266,9 @@ done
 ```
 
 ## Healthchecks
+![[SCR-20240824-nhug.png]]
+
+
 ```
 # To send pings and control them add cronjob use sudo
 crontab -e
@@ -282,7 +284,19 @@ Paste the following content;
 
 ```
 
+```
+# ping manually from Telegram
+curl -m 10 --retry 5 http://filika-healthchecks.damp-server.org/ping/55e701f3-3968-4958-947a-850da1a9a0d0
+```
 
+
+> [!NOTE] Re-assign a Telegram Bot
+> 1. Connect Cloudflare to the self-hosted ip
+> 2. Enter the domain name as it is into the docker variable https://filika-healthchecks.damp-server.org
+> 3. Goto CasaOS docker Settings → open Terminal
+> 4. `cd app/healthchecks`
+> 5. Run `./manage.py settelegramwebhook`
+> 6. Notification will appear on Telegram App
 ## NextCloud
 → /etc/apache2/sites-enabled is editted with the following lines;
 ```bash
