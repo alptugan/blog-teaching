@@ -9,7 +9,7 @@ tags:
   - casaos
   - tutorial
 aliases: 
-draft: true
+draft: false
 ---
 # Tunnelling
 
@@ -51,7 +51,3 @@ After you added the provided Cloudflare NS to ClouDNS, goto your Cloudflare acco
 ## Disable Tunnelling
 1. Delete the tunnel from cloudflare
 2. Goto host machine run `sudo cloudflared service uninstall` to remove its instance
-
-
-# ENerjisa
-06/2024: 339 TL
