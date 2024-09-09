@@ -39,7 +39,7 @@ From now on, you won't be asked for password again.
 ssh user@server_ip
 ```
 
-## Example Walk-through 
+## Example Walk-through  on Terminal App
 ```
 alptugan@MacbookPro:~$ ssh-keygen
 Generating public/private rsa key pair.
@@ -72,3 +72,4 @@ Now try logging into the machine, with "ssh 'user@server_ip'", and check in:
 
 to make sure we haven't added extra keys that you weren't expecting.
 ```
+
