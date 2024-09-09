@@ -16,7 +16,8 @@ I love using Ollama time-to-time on my local machine. I mostly use it in my Obsi
 [big-AGI]()
 I am using the big-AGI couple of times. Somehow it doesn’t fit my needs in terms of UI. There some irrelevant features that doesn’t make sense. 
 
-[Open Web UI](https://github.com/open-webui/open-webui)
+⭐️[Open Web UI](https://github.com/open-webui/open-webui) Tested on damp server. It cannot use GPU or my hardware is not good enough to run the models.
+
 Similar to [big-AGI]()
 
 

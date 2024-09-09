@@ -8,7 +8,7 @@ tags:
   - casaos
   - docker
 aliases: 
-draft: true
+draft: false
 ---
 # Create Directory
 Goto Casa OS default AppData directory. 

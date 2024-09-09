@@ -7,7 +7,7 @@ tags:
   - tutorial
   - telegram
 aliases: 
-draft: true
+draft: false
 ---
 ## 1. Open Telegram App
 Search for the term `BotFather` and start a new conversation.
