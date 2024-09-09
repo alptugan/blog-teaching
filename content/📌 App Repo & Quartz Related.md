@@ -144,6 +144,12 @@ AdGuard Home
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
 > [!NOTE] Bunu kendi küçük robotuma entegre etmeye çalşabilirim.
 
+[kotaemon](https://github.com/Cinnamon/kotaemon) An open-source RAG-based tool for chatting with your documents.
+[ZoteroScholar](https://github.com/sanketsabharwal/ZoteroScholar)
+## Tutorial
+[How to use Ollama and openWebUI and chat with documents](https://www.youtube.com/watch?v=Lb5D892-2HY)
+[Private Chat with your Documents with Ollama and PrivateGPT | Use Case | Easy Set up](https://www.youtube.com/watch?v=lhQ8ixnYO2Y)[Automated research and download paper from arxiv](https://www.youtube.com/watch?v=f1ihg20fQiU)
+
 # Automation
 [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
 [Dagu](https://dagu.readthedocs.io/) Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.
@@ -266,9 +272,7 @@ done
 ```
 
 ## Healthchecks
-![[SCR-20240824-nhug.png]]
-
-
+![[healthchecks.png]]
 ```
 # To send pings and control them add cronjob use sudo
 crontab -e
@@ -325,6 +329,10 @@ Then add the ping link to a cronjob that runs every 5 mins
 
 ```
 
+## MariaDB and PhpMyAdmin Installation
+- Install dockers on CASAOS
+- `sudo chown -R filika:filika mariadb`
+- `sudo chown -R filika:filika phpmyadmin`
 
 ## Stable-Diffusion
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting
@@ -339,6 +347,9 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting
 
 ### Current Config
 https://github.com/universonic/docker-stable-diffusion-webui
+
+## Casa OS App Stores
+https://github.com/eudard/CasaOS-LocalAI-AppStore/archive/refs/tags/latest.zip
 
 ## ⛔️ Cronicle
 configs → /opt/cronicle/conf/config.json

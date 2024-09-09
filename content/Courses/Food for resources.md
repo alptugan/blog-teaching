@@ -31,6 +31,7 @@ Some small html project might be helpful for assignments and some of them for we
 https://twitter.com/Prathkum/status/1775878750518866158
 ## Introduction to Programming Fundamentals
 ⭐️ [Brilliant.org](https://brilliant.org/courses/creative-coding/?from_llp=computer-science&just_completed=%5B%22introduction-to-variables%22%5D) Creative Coding Introduction! No Code! (week 1)
+[p5JS drawing tool](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/01-introduction) The repo also has Daniel Shiffman's AI for Arts syllabus and course materials.
 
 ## Algorithms & Concepts
 [Timeline of Algorithms](https://omni.wikiwand.com/en/articles/Timeline_of_algorithms)
