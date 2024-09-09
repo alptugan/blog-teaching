@@ -1,6 +1,6 @@
 ---
 title: Tutorial - SSH without Password
-date: 2024-06-32
+date: 2024-06-30
 description: Login to remote host without password via SSH
 tags:
   - ssh
