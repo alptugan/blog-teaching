@@ -19,8 +19,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-import Divider from "./Divider"
-
+import Comments from "./Comments"
 
 export {
   ArticleTitle,
@@ -44,5 +43,5 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
-  Divider,
+  Comments,
 }
