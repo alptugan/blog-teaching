@@ -98,8 +98,8 @@ a {
   }
 
   &.external .external-icon {
-    height: 0ex;
-    margin: 0 0.0em;
+    height: 1ex;
+    margin: 0 0.15em;
 
     > path {
       fill: var(--dark);
@@ -111,16 +111,13 @@ a {
   display: initial;
   @media all and (max-width: $fullPageWidth) {
     display: none;
-    visibility: hidden;
   }
 }
 
 .mobile-only {
   display: none;
-  visibility: hidden;
   @media all and (max-width: $fullPageWidth) {
     display: initial;
-    visibility: initial;
   }
 }
 

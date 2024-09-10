@@ -16,7 +16,6 @@ interface RenderComponents {
   pageBody: QuartzComponent
   afterBody: QuartzComponent[]
   left: QuartzComponent[]
-  middle: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
 }
@@ -192,7 +191,6 @@ export function renderPage(
     afterBody,
     left,
     right,
-    middle,
     footer: Footer,
   } = components
   const Header = HeaderConstructor()
@@ -209,14 +207,6 @@ export function renderPage(
   const RightComponent = (
     <div class="right sidebar">
       {right.map((BodyComponent) => (
-        <BodyComponent {...componentData} />
-      ))}
-    </div>
-  )
-
-  const MiddleComponent = (
-    <div class="middle">
-      {middle.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
     </div>
@@ -252,9 +242,7 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
-
           </Body>
-          {MiddleComponent}
           <Footer {...componentData} />
         </div>
       </body>

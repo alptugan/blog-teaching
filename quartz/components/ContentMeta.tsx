@@ -25,9 +25,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
-    const title = fileData.frontmatter?.title
 
-    if (text && title != "Home") {
+    if (text) {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
