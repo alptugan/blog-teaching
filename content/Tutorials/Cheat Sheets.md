@@ -1,5 +1,5 @@
 ---
-title: Cheat Sheet - Webmin
+title: Cheat Sheet - Linux
 date: 2024-05-13
 description: Cheat Sheet for Linux Webmin Interface
 tags:
@@ -7,18 +7,15 @@ tags:
   - webmin
   - casaos
 aliases: 
-draft: true
+draft: false
 ---
 # TOC
-[[#Unix General]]
-[[#Docker Basics]]
-[[#Locations]]
-[[#Run docker container's command]]
+1. [[#Linux General Commands]]
+2. [[#Docker Basics]]
+3. [[#Locations]]
+4. [[#Run docker container's command]]
 
-
-
-
-# Unix General
+# Linux General Commands
 
 | <div style="width:78px">Name</div> | <div style="width:300px">Command</div>                                          | **Description**                                                                                                                                                                                                                                                                               |
 | ---------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,8 +65,15 @@ draft: true
 | nvidia-smi                         |                                                                                 | Display NVIDIA GPU information.                                                                                                                                                                                                                                                               |
 |                                    | nvidia-smi -q                                                                   |                                                                                                                                                                                                                                                                                               |
 |                                    | nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv                           |                                                                                                                                                                                                                                                                                               |
+| ps                                 |                                                                                 |                                                                                                                                                                                                                                                                                               |
+|                                    | sudo ps -e \| grep 'mysqld'                                                     | list running process with name                                                                                                                                                                                                                                                                |
+|                                    | ps -ef \| grep "irlz*"                                                          | list running scripts with prefix                                                                                                                                                                                                                                                              |
 | scp                                |                                                                                 | Secure Copy Files Between Remote Devices                                                                                                                                                                                                                                                      |
 |                                    | `scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\\Users\\ASUS\\Desktop` | Copy a file from Mac to Windows                                                                                                                                                                                                                                                               |
+| systemctl                          |                                                                                 |                                                                                                                                                                                                                                                                                               |
+|                                    | systemctl \| grep "teamviewer*"                                                 | Grep anything that has prefix `teamwiever`                                                                                                                                                                                                                                                    |
+|                                    | sudo systemctl disable teamviewerd.service                                      | Disable and remove service from autostart.                                                                                                                                                                                                                                                    |
+|                                    | sudo systemctl enable teamviewerd.service                                       | Enable and add service from autostart.                                                                                                                                                                                                                                                        |
 | rsync                              |                                                                                 | Clone files, copy, sync                                                                                                                                                                                                                                                                       |
 |                                    | rsync -av source_folder/ target_location                                        | display copied file names                                                                                                                                                                                                                                                                     |
 |                                    | rsync -ah --progress  source_folder/ target_location                            | Display progress                                                                                                                                                                                                                                                                              |
