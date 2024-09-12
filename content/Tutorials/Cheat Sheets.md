@@ -17,12 +17,22 @@ draft: false
 
 # Linux General Commands
 ## awk
-| <div style="width:auto">Command</div>      | **Description**                                                                                                                                                                                                                                                                               |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                            | awk is used to filter and manipulate output from other programs and functions. Slices the line from empty spaces and assign them to vars. Patterns are enclosed in curly braces ({}). Together, a pattern and an action form a rule. The entire awk program is enclosed in single quotes ('). |
-| who \| awk '{print $1, $4}'                | $0: Represents the entire line of text.<br>$1: Represents the first field.<br>$2: Represents the second field.<br>$7: Represents the seventh field.<br>$45: Represents the 45th field.<br>$NF: Stands for "number of fields," and represents the last field.                                  |
-| date \| awk 'OFS="/" {print$2,$3,$6}'      | OFS (output field separator) variable to put a separator between the month, day, and year.                                                                                                                                                                                                    |
-| cat /etc/passwd -n \| awk -F: '{print $1}' | Separate the lines using ":"                                                                                                                                                                                                                                                                  |
+awk is used to filter and manipulate output from other programs and functions. Slices the line from empty spaces and assign them to vars. Patterns are enclosed in curly braces `{}`. Together, a pattern and an action form a rule. The entire awk program is enclosed in single quotes `'`.
+``` bash
+# $0: Represents the entire line of text.
+# $1: Represents the first field.
+# $2: Represents the second field.
+# $7: Represents the seventh field.
+# $45: Represents the 45th field.
+# $NF: Stands for "number of fields," and represents the last field.
+who | awk '{print $1, $4}'
+
+# OFS (output field separator) variable to put a separator between the month, day, and year.
+date | awk 'OFS="/" {print$2,$3,$6}'
+
+# Separate the lines using ":"
+cat /etc/passwd -n | awk -F: '{print $1}'
+```
 
 ## cat
 |                   |                                            |
