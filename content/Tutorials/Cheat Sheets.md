@@ -35,35 +35,72 @@ cat /etc/passwd -n | awk -F: '{print $1}'
 ```
 
 ## cat
-|                   |                                            |
-| ----------------- | ------------------------------------------ |
-| cat /proc/cpuinfo | Display CPU information.                   |
-| cat > FILE_NAME   | enter text into the file (overwrite)       |
-| cat >> FILE_NAME  | enter text at the end of the file (append) |
+``` bash
+# Display CPU information.
+cat /proc/cpuinfo
+
+# enter text into the file (overwrite)
+cat > FILE_NAME
+
+# enter text at the end of the file (append)
+cat >> FILE_NAME
+```
+
 
 ## caffeinate
-| caffeinate -dis | Stay awake your Mac. |
-| --------------- | -------------------- |
+``` bash
+# Stay awake your Computer (on Mac OS)
+caffeinate -dis
+```
+
 
 ## curl
-| https://www.youtube.com/watch?v=BuEYquQweGo |     |
-| ------------------------------------------- | --- |
+https://www.youtube.com/watch?v=BuEYquQweGo
+
 
 ## date
-| date | Check the current date-time |
-| ---- | --------------------------- |
+``` bash
+
+# Display current date
+date
+```
+
 
 ## du
-|                                                                 | list directories (folders)                                                                |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| du -h -d1                                                       | use human-readable sizes                                                                  |
-| du -h -d3 -t10G                                                 | look down 3 levels and only show folders above a threshold size                           |
-| du -h \| sort -hr                                               | list directories and sort by size                                                         |
-| du -h \| sort -hr \| head -n10                                  | only show top 10                                                                          |
-| du -h -d1 -t10G \| sort -hr \| head -n 10                       | list directories in current folder, threshold 10G, sort with human-readable sizes, top 10 |
-| ,find . -size +200M -exec ls -lh {} \;                          | find files larger than a size, list with details                                          |
-| find . -size +200M -exec du -hs {} \;                           | find files and folders, list with details                                                 |
-| find . -size +200M -exec du -hs {} \; \| sort -hr \| head -n 10 | find files and folders, list with details, sort, top 10                                   |
+`du` command lists directories (folders) and files
+``` bash
+# use human-readable sizes
+du -h -d1
+
+# look down 3 levels and only show folders above a threshold size
+du -h -d3 -t10G
+
+# list directories and sort by size
+du -h | sort -hr
+
+# only show top 10 directories
+du -h | sort -hr | head -n10
+
+# list directories in current folder, threshold 10G, sort with human-readable sizes, top 10
+du -h -d1 -t10G | sort -hr | head -n 10
+
+# find files larger than a size, list with details
+find . -size +200M -exec ls -lh {} \;
+
+# find files and folders, list with details
+find . -size +200M -exec du -hs {} \;
+
+# find files and folders, list with details, sort, top 10
+find . -size +200M -exec du -hs {} \; | sort -hr | head -n 10
+```
+
+
+## echo
+``` bash
+# remove all text context in a file
+echo "" > file_name.txt
+```
+
 
 ## find
 |                                                | Find files and folders                                                  |
