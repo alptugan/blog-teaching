@@ -7,6 +7,7 @@ tags:
   - history
   - computer-art
   - generativeart
+  - article
 aliases: 
 draft: false
 ---
