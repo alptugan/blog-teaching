@@ -82,6 +82,24 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [KOBAKANT](https://www.kobakant.at/DIY/) The site documents the range of wearable technology and soft circuit solutions that we have developed for our own practice since 2007. Many interesting techniques and possibilities never make it into a finished project. 
 #e-textile #electronics
 
+[Daniel Rozin](https://www.youtube.com/watch?v=kV8v2GKC8WA) Pixel mirrors.
+#electronics #mirror
+
+## Creative Coding Studios & Links
+[Onformative](https://onformative.com/) Berlin based studio for digital art and design.
+[Filika Interactive](https://www.filikatasarim.com/v2/portfolyo/) Istanbul based studio for art+design+technology.
+[Decol](https://www.decol.tv/) Istanbul based studio for art+design+technology.
+[Molten Immersive Art](https://moltenimmersiveart.com/) It straddles the boundaries of multi-discipline artistic experiences across ALL the senses.
+[Intuity](https://www.intuity.de/en/) Germany based company focused on interactive software and hardware solutions.
+[Studio Nowhere](https://studionowhere.com/about/) Digital art and design studio based in Shangai dedicated to new forms of public engagements with creative experiences.
+[Kimatica](https://kimatica.net/about/) A London-based creative studio designing transformative experiences through performance arts, interactive technology and the human body.
+
+[Creative Applications](https://www.creativeapplications.net/) An online art+design+technology hub for creative industries.
+
+## Video Archive
+[What is Digital Art?](https://www.youtube.com/watch?v=2RWop0Gln24&t=106s)
+[Digital Interactive Wall](https://www.youtube.com/watch?v=G2ptGCwDkVE)
+
 ## Articles
 [“Put-that-there”: Voice and gesture at the graphics interface](https://dl.acm.org/doi/10.1145/965105.807503)The work described herein involves the user commanding simple shapes about a large-screen graphics display surface. Because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression. Conversely, gesture aided by voice gains precision in its power to reference. [video](https://x.com/ipoupyrev/status/1825578546808676370)
 #NUI #multimodality 

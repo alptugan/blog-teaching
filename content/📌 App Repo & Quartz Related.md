@@ -271,6 +271,40 @@ docker events --filter 'event=stop' --filter 'event=die' | while read -r event; 
 done
 ```
 
+## Nginx & Node
+install npm via apk. Login to nginx docker Terminal and type
+`apk update`
+`apk add npm`
+
+goto node-server folder and run
+`node index.js`
+
+Changing the ownership
+`chown -R 1000:1000 config/`
+
+default.conf file
+```nginx
+server {
+    listen *:80;
+    # listen *:443 ssl;
+    # listen 80;
+    server_name _;
+
+    location / {
+        root /config/www;
+        index index.html index.htm;
+    }
+
+    location /node-server/ {
+        proxy_pass http://localhost:3000;  # Forward requests to Node.js server
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+}
+```
 ## Healthchecks
 ![[healthchecks.png]]
 ```
@@ -328,6 +362,21 @@ Then add the ping link to a cronjob that runs every 5 mins
 */5 * * * * curl https://filika_cloud.damp-server.org/cron.php
 
 ```
+
+## NFTY.sh
+Open casaOS Appstore 
+Search for "nfty" 
+Use big-bear- distro...
+Install the app
+Configure Cloudflare Tunnel
+Set NFTY_BASE_URL to your Cloudflare domain
+Create attachments dir inside casaOS
+``` bash
+# Send Attachment from local dir
+# Ref: [https://filika-ntfy.damp-server.org/docs/publish/#attachments]
+curl -T /Users/alptugan/Desktop/ozyegin-univ-map-2022.png -H "Filename: ozu.png" https://server_name/test
+```
+![[nfty_docker_settings_01.png|Keep other settings same, add ENV vars to point server]]
 
 ## MariaDB and PhpMyAdmin Installation
 - Install dockers on CASAOS

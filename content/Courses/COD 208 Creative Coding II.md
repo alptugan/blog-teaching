@@ -8,6 +8,7 @@ tags:
 aliases: 
 draft: false
 ---
+## Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
 🧠 You are free to propose any project idea as long as it includes programming. 
