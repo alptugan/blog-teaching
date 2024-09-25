@@ -8,7 +8,7 @@ tags:
   - DavinciResolve
   - signal
 aliases: 
-draft: true
+draft: false
 ---
 Davinci Resolve's Fairlight sound editing section is capable of creating sound signals in specific hertz. 
 
