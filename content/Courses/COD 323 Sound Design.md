@@ -8,21 +8,42 @@ tags:
 aliases: 
 draft: true
 ---
-## Music Concrète
-1. Pierre Schaeffer and the Birth of Musique Concrète.
-2. Practice Reaper: Audio stretching, reverb and echo effect to create artificial space. 
-3. Audio Recording Basics
-4. Channel Mixing Basics
-  
-**Assignment 1 (Practice):** Record at least 3 items in your home, dorm or any other place. Prepare a 3 minutes long sound composition as a Musique Concrète track. 
+## Synth & VSTi
+[Vital Synth](https://vital.audio/)
 
-**Assignment 2 (Practice):** Make a cover design for your track, give it a name. Upload the cover as a jpg file at least 2000x2000 px resolution.
+## VST
+[Compressor, Saturator, Distortion, Reverb](https://klanghelm.com/contents/main) Set of free effect plugins.
+[Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
 
-**Assignment 3 (Reading):** Foundations in Sound Design for Interactive Media: A Multidisciplinary Approach, 8.3. Perspectives, pg. 164-165
+## Sound Sample Library
+[BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/) The BBC Sound Effects Archive is available for personal, educational or research purposes. There are over 33,000 clips from across the world from the past 100 years.
 
-**Assignment 4 (Reading):** Dialogue, Ch3 pg. 45-50 (Beauchamp) 
+[Sound Bible](https://soundbible.com/) SoundBible.com offers free sound clips for download in either wav or mp3 format.
 
-**Resources:** 
-[The process of making music concrete](https://www.youtube.com/watch?v=nmbeXuWs8Xo)  
-[How to compose a music concrete piece](https://www.youtube.com/watch?v=2ZpwbXDleDw&t=293s)
-[Musique Concrète with Tape & Microsound Music Machine](https://www.youtube.com/watch?v=rOiAvki_dP0)
+[FreeSound](https://freesound.org/) Community based sound samples. Free to download
+
+[Movie Sounds](https://movie-sounds.org/famous-movie-samples/) Includes sound samples, dialogues and fx sources from movies.
+
+[Open Game Art](https://opengameart.org/) Free to use digital game assets including sound and music.
+
+[Youtube Sound Library](https://studio.youtube.com/channel/UCGKZ_YsviZR-_c739XdSApA/music) You can access royalty free sound effects and music library of Youtube.
+
+[Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
+## Tutorials
+[Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
+[Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
+[DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
+[Davinci Resolve Volume Automation Interactice](https://www.youtube.com/watch?v=QL2ajX4Pj3c)
+[Davinci Resolce Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k)
+[Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)[Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
+[Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
+[Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing.
+
+## Videos
+[Algorave](https://www.youtube.com/watch?v=S2EZqikCIfY&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=85&t=635s)
+## Assignments
+### week1
+💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
+📖 **Reading**: cod323_week1_Elements_of_Sound-Beauchamp
+📺 Watch: [What is Sound?](https://www.youtube.com/watch?v=8uUpTVZsP20), [The Art of Sound Design](https://www.youtube.com/watch?v=BU9nj2-6ZnA), [The Magic of Sound Design](https://www.youtube.com/watch?v=UO3N_PRIgX0)
+✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
