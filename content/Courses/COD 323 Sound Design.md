@@ -6,7 +6,7 @@ description: Includes course materials covering my sound design classes.
 tags:
   - sound
 aliases: 
-draft: true
+draft: false
 ---
 ## Synth & VSTi
 [Vital Synth](https://vital.audio/)
