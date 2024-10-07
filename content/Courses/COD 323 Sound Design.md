@@ -31,12 +31,19 @@ draft: false
 [Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
 ## Tutorials
 [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
+
 [Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
+
 [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
+
 [Davinci Resolve Volume Automation Interactice](https://www.youtube.com/watch?v=QL2ajX4Pj3c)
+
 [Davinci Resolce Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k)
+
 [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)[Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
+
 [Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
+
 [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing.
 
 ## Videos
@@ -44,6 +51,9 @@ draft: false
 ## Assignments
 ### week1
 💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
+
 📖 **Reading**: cod323_week1_Elements_of_Sound-Beauchamp
+
 📺 Watch: [What is Sound?](https://www.youtube.com/watch?v=8uUpTVZsP20), [The Art of Sound Design](https://www.youtube.com/watch?v=BU9nj2-6ZnA), [The Magic of Sound Design](https://www.youtube.com/watch?v=UO3N_PRIgX0)
+
 ✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
