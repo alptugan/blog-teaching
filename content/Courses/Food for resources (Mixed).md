@@ -85,6 +85,8 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [Daniel Rozin](https://www.youtube.com/watch?v=kV8v2GKC8WA) Pixel mirrors.
 #electronics #mirror
 
+[Joel Shapiro](https://www.artsy.net/artist/joel-shapiro?page=4) Works with static material and traditional techniques.
+#generativeart 
 ## Creative Coding Studios & Links
 [Onformative](https://onformative.com/) Berlin based studio for digital art and design.
 [Filika Interactive](https://www.filikatasarim.com/v2/portfolyo/) Istanbul based studio for art+design+technology.
