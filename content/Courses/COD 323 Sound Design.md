@@ -34,17 +34,27 @@ draft: false
 
 [Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
 
+### Davinci Resolve
 [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
 
-[Davinci Resolve Volume Automation Interactice](https://www.youtube.com/watch?v=QL2ajX4Pj3c)
+[Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c)
 
-[Davinci Resolce Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k)
+[Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k)
 
-[Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)[Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
+[Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
+
+[Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
 
 [Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
 
 [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing.
+
+### Keyboard Shortcuts on Davinci Resolve
+`CMD + B`: Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
+
+`J` : Reverse Playback.
+
+`M` : Add marker on the timeline. Double-click on marker to delete it.
 
 ## Videos
 [Algorave](https://www.youtube.com/watch?v=S2EZqikCIfY&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=85&t=635s)
