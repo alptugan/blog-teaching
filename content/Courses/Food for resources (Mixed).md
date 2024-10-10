@@ -119,6 +119,9 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 ## 📺 Video Archive
 [What is Digital Art?](https://www.youtube.com/watch?v=2RWop0Gln24&t=106s)
 
+[Chronological playlist of CGI History](https://www.youtube.com/playlist?list=PLLkEG1hv_KwIbvt7DdD4t0QdbMbPsyTbt) Chronological playlist of innovative 230 CGI Videos from this channel -excerpts from movies , shorts , animations...
+#3d 
+
 [Digital Interactive Wall](https://www.youtube.com/watch?v=G2ptGCwDkVE)
 
 [John Whitney, Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s) - Pioneer computer animator John Whitney Sr. in 1959, operating one of the first computer-graphics engines, a mechanical analog computer built largely from surplus World War II anti-aircraft guidance hardware. [Source](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html)
@@ -348,6 +351,7 @@ https://www.domestika.org/en/blog/9642-10-must-see-movies-that-were-made-by-thei
 
 [Quayola, Partitura 001 Telefon Tel Aviv](https://vimeo.com/23281150)
 #generativeart #audiovisual 
+
 
 ---
 # Physical Computing
