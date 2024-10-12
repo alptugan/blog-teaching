@@ -18,3 +18,4 @@ draft: false
 ## Section B
 [Zaman Khan](https://openprocessing.org/sketch/2390280) duck
 [Anıl Ekşi](https://openprocessing.org/sketch/2388980) Abstract face
+[Azimov Rufat](https://openprocessing.org/sketch/2392496) Cat
