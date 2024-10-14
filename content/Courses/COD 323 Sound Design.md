@@ -56,6 +56,11 @@ draft: false
 
 `M` : Add marker on the timeline. Double-click on marker to delete it.
 
+`Shift + Z` : Fit entire timeline to available space.
+
+`Mouse scroll + ALT` : Zoom in/out timeline
+
+`Mouse scroll + CMD` : Slide timeline back/forward
 ## Videos
 [Algorave](https://www.youtube.com/watch?v=S2EZqikCIfY&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=85&t=635s)
 ## Assignments
