@@ -9,12 +9,15 @@ aliases:
 draft: false
 ---
 ## Synth & VSTi
-[Vital Synth](https://vital.audio/)
+[Vital Synth](https://vital.audio/) Sound synthesizer.
 
-## VST
 [Compressor, Saturator, Distortion, Reverb](https://klanghelm.com/contents/main) Set of free effect plugins.
+
 [Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
 
+[Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
+
+---
 ## Sound Sample Library
 [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/) The BBC Sound Effects Archive is available for personal, educational or research purposes. There are over 33,000 clips from across the world from the past 100 years.
 
@@ -29,11 +32,12 @@ draft: false
 [Youtube Sound Library](https://studio.youtube.com/channel/UCGKZ_YsviZR-_c739XdSApA/music) You can access royalty free sound effects and music library of Youtube.
 
 [Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
+
+---
 ## Tutorials
 [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
 
 [Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
-
 ### Davinci Resolve
 [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
 
@@ -61,9 +65,17 @@ draft: false
 `Mouse scroll + ALT` : Zoom in/out timeline
 
 `Mouse scroll + CMD` : Slide timeline back/forward
-## Videos
-[Algorave](https://www.youtube.com/watch?v=S2EZqikCIfY&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=85&t=635s)
-## Assignments
+
+---
+## Quotes
+It's not about the gear, it's about the ear.
+
+---
+## Open Calls
+[Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
+
+---
+## Assignments Pool
 ### week1
 💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
 
