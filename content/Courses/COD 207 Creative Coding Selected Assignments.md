@@ -36,11 +36,14 @@ draft: false
 [İdil Akan](https://openprocessing.org/sketch/2394470) Rabbit
 [Zeynep Erol](https://openprocessing.org/sketch/2396089), [Lal Kara](https://openprocessing.org/sketch/2396488), [İrem Apaydın](https://openprocessing.org/sketch/2396097) Bird
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2393097) Elephant
+[Lana Jamal](https://openprocessing.org/sketch/2402324) Scorpion
 [Naz İpek](https://openprocessing.org/sketch/2396130) Rabbit
 [Talin Akarvardar](https://openprocessing.org/sketch/2396598) Sea horse
 [Zeynep Cebe](https://openprocessing.org/sketch/2390395) Seal
 
 
 ## section B
-[Deniz Sönmez](https://openprocessing.org/sketch/2393640) Owl
+[Deniz Sönmez](https://openprocessing.org/sketch/2393640) Owl ⭐️
 [Eda Şenel](https://openprocessing.org/sketch/2395833) Cat
+[Ali Büyükduman](https://openprocessing.org/sketch/2401621) Elephant
+[Kerem Alp](https://openprocessing.org/sketch/2395854) Rabbit ⭐️
