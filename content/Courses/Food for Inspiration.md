@@ -1,10 +1,12 @@
 ---
 title: Food for resources
 date: 2024-04-18
-description: 
-tags: 
+description: Food for Inspiration
+tags:
+  - creativecoding
+  - video
 aliases: 
-draft: true
+draft: false
 ---
 # Historical Information 
 "Education For an Age of Technology"
@@ -54,7 +56,7 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ### 3. Moiré Pattern
 Moiré patterns are large-scale interference patterns that occur when two partially opaque, ruled patterns with transparent gaps are overlaid, but are not perfectly identical (e.g., displaced, rotated, or have slightly different pitch). [source](https://www.wikiwand.com/en/articles/Moir%C3%A9_pattern)
 
-### Tools & Web Application
+## Tools & Web Application
 [Desmos](https://www.desmos.com/) Online graphing tool to explore trigonometric functions. 
 [Graphtoy](https://graphtoy.com/) Explore lineal formulas on the fly. The web site includes ready-made trigonometric functions in animation.
 [Easing.net](https://easings.net/) The web site showcases common easing functions in CSS and Math function separately.  
@@ -190,8 +192,13 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [Georg Nees](https://editor.p5js.org/rapley/sketches/Xh9ozzdc7)
 [Georg Nees](https://www.youtube.com/watch?v=mCZ76eymEKU) This one demonstrates how increase the effect towards down algorithm., [easy](https://editor.p5js.org/enickles/sketches/0WZD228Zf), [hard-Analysis](https://www.artsnova.com/Nees_Schotter_Tutorial.html)
 ## Artists
-[Amy Goodchild](https://www.amygoodchild.com/)
-[Memo Akten]()
+[Amy Goodchild](https://www.amygoodchild.com/) Amy uses code and other technologies to create art which explores generativity, group experience, and interaction.  
+  
+Central to my practice is consideration of my audience, and I find no greater joy in life than creating things that other people enjoy.
+
+[Memo Akten](https://www.memo.tv/) MEMO works with code, data and AI; creating Speculative Simulations & Data Dramatizations exploring intricacies of human-planet-machine entanglements; perception and states of consciousness; the tensions between ecology, technology, science & spirituality
+
+[Daniel Canogar](https://danielcanogar.com/work) Canogar's artworks explore the epistemological challenges and implications of the shift from the printing press to the digital age. His **"dataworks"** use obsolete technologies and generative algorithms to capture the position of the individual in a technologically interconnected world. Canogar collaborates with various professionals to create public art installations that integrate technology and the public realm in relevant ways.
 
 ## Inspirations
 [Flight Route Visualization](https://www.youtube.com/watch?v=ystkKXzt9Wk)
@@ -219,3 +226,5 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing
 [Imogen Heap](https://www.youtube.com/watch?v=6btFObRRD9k) Wearable music technologies
 [MEMO, Web Cam Piano](https://vimeo.com/13938077) 
+# 🎧 Music 
+[Music For Programming](https://musicforprogramming.net/) Set of curated playlists may help you to focus during creative coding assignments.
