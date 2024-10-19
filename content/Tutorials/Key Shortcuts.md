@@ -17,4 +17,4 @@ draft: false
 
 ## Arc Browser (Chrome Extensions)
 ### DeepL Extension
-<kbd>⌘ + ⇧ + T</kbd>  Translates the selected text
+<span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text
