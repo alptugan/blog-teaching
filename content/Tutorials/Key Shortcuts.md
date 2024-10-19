@@ -9,12 +9,12 @@ aliases:
 draft: false
 ---
 ## Legend
-| ⇧   | SHIFT          |
-|:--- | -------------- |
-| ⌃   | CONTROL (CTRL) |
-| ⌘   | COMMAND (CMD)  |
-| ⌥   | ALT (OPTION)   |
+| ⇧   | <div style="width:566px">SHIFT</div> |
+| :-- | ------------------------------------ |
+| ⌃   | CONTROL (CTRL)                       |
+| ⌘   | COMMAND (CMD)                        |
+| ⌥   | ALT (OPTION)                         |
 
 ## Arc Browser (Chrome Extensions)
 ### DeepL Extension
-⌘ + ⇧ + T  <span style="color:gray">Translates the selected text</span> 
+<kbd>⌘ + ⇧ + T</kbd>  Translates the selected text
