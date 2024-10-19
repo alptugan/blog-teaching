@@ -10,11 +10,11 @@ draft: false
 ---
 ## Legend
 | ⇧   | SHIFT          |
-| --- | -------------- |
-| ⌥   | ALT (OPTION)   |
-| ⌘   | COMMAND (CMD)  |
+|:--- | -------------- |
 | ⌃   | CONTROL (CTRL) |
+| ⌘   | COMMAND (CMD)  |
+| ⌥   | ALT (OPTION)   |
 
-## Arc Browser → Chrome Extensions
-⌘ + ⇧ + T : *Translates the selected text*
-
+## Arc Browser (Chrome Extensions)
+### DeepL Extension
+⌘ + ⇧ + T  <span style="color:gray">Translates the selected text</span> 
