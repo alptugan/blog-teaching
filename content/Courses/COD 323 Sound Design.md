@@ -41,11 +41,9 @@ draft: false
 ### Davinci Resolve
 [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
 
-[Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c)
+[Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c), [Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k), [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
 
-[Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k)
-
-[Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
+[Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY)
 
 [Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
 
@@ -67,6 +65,10 @@ draft: false
 `Mouse scroll + CMD` : Slide timeline back/forward
 
 ---
+## AI Assisted Audio Technologies
+[Coproducer](https://coproducer.output.com/pack-generator) Co-Producer is a new set of AI capabilities we’re building to help music makers unlock more time creating and less time searching, beginning with Pack Generator.
+
+---
 ## Quotes
 It's not about the gear, it's about the ear.
 
@@ -76,7 +78,7 @@ It's not about the gear, it's about the ear.
 
 ---
 ## Assignments Pool
-### week1
+### week 01
 💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
 
 📖 **Reading**: cod323_week1_Elements_of_Sound-Beauchamp
@@ -84,3 +86,16 @@ It's not about the gear, it's about the ear.
 📺 Watch: [What is Sound?](https://www.youtube.com/watch?v=8uUpTVZsP20), [The Art of Sound Design](https://www.youtube.com/watch?v=BU9nj2-6ZnA), [The Magic of Sound Design](https://www.youtube.com/watch?v=UO3N_PRIgX0)
 
 ✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
+
+
+### week 05
+Automation
+Loudness
+
+sound source: https://freesound.org/people/bjornbradley/sounds/723502/
+[Adobe Enhancer](https://podcast.adobe.com/enhance?via=topaitools)
+[adobe sound enhancer](https://podcast.adobe.com/enhance)
+[Audiophonic](https://auphonic.com/engine/status/FYipLnd9maRi4EfrNbNPYg)
+Seslendirme videosu
+
+https://www.youtube.com/watc1h?v=CZ22l8uqsQQ
