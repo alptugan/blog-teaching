@@ -51,18 +51,7 @@ draft: false
 
 [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing.
 
-### Keyboard Shortcuts on Davinci Resolve
-`CMD + B`: Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
-
-`J` : Reverse Playback.
-
-`M` : Add marker on the timeline. Double-click on marker to delete it.
-
-`Shift + Z` : Fit entire timeline to available space.
-
-`Mouse scroll + ALT` : Zoom in/out timeline
-
-`Mouse scroll + CMD` : Slide timeline back/forward
+For key shortcuts refer to [[Key Shortcuts#Davinci Resolve Fairlight |Shortcuts]] page.
 
 ---
 ## AI Assisted Audio Technologies
@@ -92,7 +81,7 @@ It's not about the gear, it's about the ear.
 Automation Curves
 Loudness
 Voice Over 
-![[voice_over.mp4]]
+![[voice_over.mp4|vid-20]]
 #### Assignment
 1. Select a video scene of at least 30 seconds to record a voice over track. The video can be a movie clip, documentary, or any other clip of your choice.  
   
@@ -112,7 +101,3 @@ Field Recording and Acoustic Ecology
 EQ
 Limiter
 
-
-There is no synchronization between the sound and the footstep. Each footstep sound must be adjusted for each scene frame.
-
-There is no soundscape reflection the ambience of the environment.

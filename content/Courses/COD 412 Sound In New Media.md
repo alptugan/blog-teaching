@@ -3,7 +3,12 @@ title: COD 412 Sound In New Media
 date: 2024-10-23
 modfification date: Wednesday 23rd October 2024 10:33:55
 description: Includes course related screening contents.
-tags: 
+tags:
+  - soundart
+  - soundsculpture
+  - soundecology
+  - audiovisual
+  - sounddesign
 aliases: 
 draft: false
 ---
