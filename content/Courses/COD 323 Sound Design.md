@@ -89,13 +89,30 @@ It's not about the gear, it's about the ear.
 
 
 ### week 05
-Automation
+Automation Curves
 Loudness
+Voice Over 
+![[voice_over.mp4]]
+#### Assignment
+1. Select a video scene of at least 30 seconds to record a voice over track. The video can be a movie clip, documentary, or any other clip of your choice.  
+  
+2. Create a sound design for the scene effects and soundscape.  
+  
+3. Then record your voice over track. You can record anyone including yourself. Avoid reverb or background noise during your recording.  
+  
+4. Add your voice-over track to your project and adjust background music and effects using automation curves as I showed you in class.
 
-sound source: https://freesound.org/people/bjornbradley/sounds/723502/
-[Adobe Enhancer](https://podcast.adobe.com/enhance?via=topaitools)
-[adobe sound enhancer](https://podcast.adobe.com/enhance)
-[Audiophonic](https://auphonic.com/engine/status/FYipLnd9maRi4EfrNbNPYg)
-Seslendirme videosu
+Before importing your voiceover recording into Davinci Resolve, you can apply the following AI noise reduction tools.
 
-https://www.youtube.com/watc1h?v=CZ22l8uqsQQ
+[Adobe Voice Enhancer](https://podcast.adobe.com/enhance) or [Audiophonic](https://auphonic.com)
+
+
+### week 06
+Field Recording and Acoustic Ecology
+EQ
+Limiter
+
+
+There is no synchronization between the sound and the footstep. Each footstep sound must be adjusted for each scene frame.
+
+There is no soundscape reflection the ambience of the environment.
