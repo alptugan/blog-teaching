@@ -18,3 +18,17 @@ draft: false
 ## Arc Browser (Chrome Extensions)
 ### DeepL Extension
 <span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text
+
+
+## Davinci Resolve Fairlight
+<span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
+
+<span style="color:gray">J</span>  Reverse Playback.
+
+<span style="color:gray">M</span>  Add marker on the timeline. Double-click on marker to delete it.
+
+<span style="color:gray">⇧ + Z</span>  Fit entire timeline to available space.
+
+ <span style="color:gray">⌥ + Scroll</span>  Zoom in/out timeline
+
+<span style="color:gray">⌘ + Scroll</span>  Slide timeline back/forward
