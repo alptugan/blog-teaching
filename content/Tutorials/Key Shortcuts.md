@@ -25,10 +25,14 @@ draft: false
 
 <span style="color:gray">J</span>  Reverse Playback.
 
-<span style="color:gray">M</span>  Add marker on the timeline. Double-click on marker to delete it.
+<span style="color:gray">M</span>  Add marker on the timeline. Double-click on marker to delete it
 
-<span style="color:gray">⇧ + Z</span>  Fit entire timeline to available space.
+<span style="color:gray">⇧ + Z</span>  Fit entire timeline to available space
 
- <span style="color:gray">⌥ + Scroll</span>  Zoom in/out timeline
+ <span style="color:gray">⌥ + Scroll</span>  Zoom in/out timeline horizontal
+ 
+ <span style="color:gray">⇧ + Scroll</span>  Zoom in/out timeline vertical
 
 <span style="color:gray">⌘ + Scroll</span>  Slide timeline back/forward
+
+<span style="color:gray">D</span>  Select the track first then hit `D` to disable sound

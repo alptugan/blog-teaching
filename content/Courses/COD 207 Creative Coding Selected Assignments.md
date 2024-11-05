@@ -49,7 +49,7 @@ draft: false
 [Kerem Alp](https://openprocessing.org/sketch/2395854) Rabbit ⭐️
 
 ---
-# week 04 - Moire Effect
+# week 04 - Moire Pattern
 ## Section A
 [Duygu Aksöz](https://openprocessing.org/sketch/2405695) 
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2404727)
@@ -62,10 +62,41 @@ draft: false
 [İdil Akan](https://openprocessing.org/sketch/2406891) 
 
 ## Section B
+[Eda Senel](https://openprocessing.org/sketch/2409803) 
+[Duru Seyhan](https://openprocessing.org/sketch/2412205) Hexagon nasıl çizdin?
+[Alara Yılmaz](https://openprocessing.org/sketch/2412199) İkinci grupta stroke size'ı ayarlama...
+[Anıl Ekşi](https://openprocessing.org/sketch/2412308)
+[Deniz Sönmez](https://openprocessing.org/sketch/2412436)
+[Ecem Filik](https://openprocessing.org/sketch/2412204) stroke size ı azaltalım ortadaki
+[Kerem Alp](https://openprocessing.org/sketch/2413290)
 
 ---
 # week 05 - Tilling
-
+## Section A
+[İdil Akan](https://openprocessing.org/sketch/2417902)
+[İrem Apaydın](https://openprocessing.org/sketch/2418164)
+[İris Eryılmaz](https://openprocessing.org/sketch/2412032)
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2415483)
+[Lal Kara](https://openprocessing.org/sketch/2415108)
+[Maye Caferzade](https://openprocessing.org/sketch/2416355)
+[Lana Jamal](https://openprocessing.org/sketch/2427183) 
+[Naz İpek](https://openprocessing.org/sketch/2420068)
+[Talin Akvardar](https://openprocessing.org/sketch/2420994)
+[Zeynep Erol](https://openprocessing.org/sketch/2418108)
+[Abeerah Malik](https://openprocessing.org/sketch/2415788)
+[Alp Eroğlu](https://openprocessing.org/sketch/2416513)
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2415027)
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2414913)
+[Boray Ünlü](https://openprocessing.org/sketch/2412144)
+[Duru Özcan](https://openprocessing.org/sketch/2411115)
+[Duygu Aksöz](https://openprocessing.org/sketch/2416498)
+[Elif Erpulat](https://openprocessing.org/sketch/2412311)
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2417811)
+[Zeynep Cebe](https://openprocessing.org/sketch/2414327)
+## Section B
+[Deniz Sönmez](https://openprocessing.org/sketch/2413916)
+[Eda Şenel]()
+[Melis Aktı](https://openprocessing.org/sketch/2425341)
 
 ---
 # Survey Links
