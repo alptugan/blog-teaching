@@ -43,13 +43,23 @@ draft: false
 
 [Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c), [Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k), [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
 
-[Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY)
+[Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY), [Loudness, Peak Loudness](https://www.youtube.com/watch?v=nZJkcca7vJ4)
 
 [Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
 
 [Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
 
-[Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing.
+[Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing (Layered video editing, cross-fade), Bounce the audio to a different track ⭐️
+
+[Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
+
+### EQ
+[Davinci Resolve Fairlight EQ (Equalizer)](https://www.youtube.com/watch?v=Z89JAFkihrw) Tutorial on voice over editing
+
+[Davinci Resolve Muffle Sound](https://www.youtube.com/watch?v=3UoS_j_chNg) How to make sound as if it is coming from far away.
+
+### Reverb
+[Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
 
 For key shortcuts refer to [[Key Shortcuts#Davinci Resolve Fairlight |Shortcuts]] page.
 
@@ -101,3 +111,11 @@ Field Recording and Acoustic Ecology
 EQ
 Limiter
 
+### week 07
+Elements of Sound Design
+Effects
+EQ, Far/near sound with 
+Reverb, End scene
+Why sound design matters, [scene 1](https://www.youtube.com/watch?v=UU3WMfQOjes), [scene 2](https://www.youtube.com/watch?v=L27a851-RxY)
+Hatefull eight scene, [sound source](https://freesound.org/people/D4XX/sounds/564626/)
+[Naruto Sasuke fight scene](https://www.youtube.com/watch?v=hBV5aQ5i7rk)

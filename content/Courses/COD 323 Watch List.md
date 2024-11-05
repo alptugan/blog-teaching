@@ -9,7 +9,6 @@ tags:
 aliases: 
 draft: false
 ---
-
 ## 📺 Documentaries
 [Algorave](https://www.youtube.com/watch?v=S2EZqikCIfY&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=85&t=635s) Documentary about the live coding community.
 

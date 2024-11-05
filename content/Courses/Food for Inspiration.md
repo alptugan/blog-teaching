@@ -175,6 +175,51 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [Samia Halaby](https://www.youtube.com/watch?v=sDfIkXf3uzA) Samia Halaby is a world renowned painter who purchased a Commodore Amiga 1000 in 1985 at the tender age of 50 years old. She taught herself the BASIC and C programming languages to create "kinetic paintings" with the Amiga and has been using the Amiga ever since. Samia has exhibited in prestigious venues such as The Guggenheim Museum, The British Museum, Lincoln Center, The Chicago Institute of Art, Arab World Institute, Mathaf: Arab Museum of Modern Art, Sakakini Art Center, and Ayyam Gallery just to name a few.
 #animation #generativeart 
 
+
+Motivation, engagement #talk
+<iframe src="https://www.youtube.com/embed/Bwiln7v0fdc?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+Motivation #talk , What is Creative Coding
+<iframe src="https://www.youtube.com/embed/zO50dv29_ms?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+#talk #tutorial  What is Creative Coding?
+<iframe src="https://www.youtube.com/embed/PF_IdMQiBgM?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+Generative Art tutorial: 5 Fundamental Projects #tutorial
+<iframe src="https://www.youtube.com/embed/o5t7PxRJSXk?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+What is Generative Art? #talk
+<iframe src="https://www.youtube.com/embed/0qhiCgTUixU?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+John Maeda, How to speak machines #talk 
+<iframe src="https://www.youtube.com/embed/0GH04htPuxI?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+Short story of Generative Art #documentary
+<iframe src="https://www.youtube.com/embed/MLeMilyghLs?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+Frieder Nake, #interview on computer art
+<iframe src="https://www.youtube.com/embed/Z_pOiHX6HYE?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+Frieder Nake, #interview #history About Generative art
+<iframe src="https://www.youtube.com/embed/rE_dGfuFWL4?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
+#tutorial , Random Growth
+<iframe src="https://www.youtube.com/embed/WpzdIwYnSS0?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
+
+#talk Programming as Medium: Conceptual video about how Algorithmic Art relates to physical wolrd.
+<iframe src="https://www.youtube.com/embed/NZCz5EoacOM?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
+
+
+
 ---
 ## 📚 Articles
 [“Put-that-there”: Voice and gesture at the graphics interface](https://dl.acm.org/doi/10.1145/965105.807503)The work described herein involves the user commanding simple shapes about a large-screen graphics display surface. Because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression. Conversely, gesture aided by voice gains precision in its power to reference. [video](https://x.com/ipoupyrev/status/1825578546808676370)

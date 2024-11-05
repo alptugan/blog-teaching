@@ -31,3 +31,35 @@ What happens when a horror movie composer and a guitar maker join forces? They c
 
 [Joint Breakcore Live Coding Performance](https://www.youtube.com/watch?v=XYe8AKYPUYc)
 Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) using Tidal Cycles in the [Troop Editor](https://tidalcycles.org/docs/configuration/multiuser-tidal/#troop). In preparation, the track was composed, and it's sections arranged on paper. Watch the performance:
+
+#livecoding #tutorial #sound 
+<iframe src="https://www.youtube.com/embed/lxDn7uf_9DU?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound İlhan Mimaroğlu
+<iframe src="https://www.youtube.com/embed/_v2kJTJwn8o?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound #soundsculpture
+<iframe title="Peter Vogel - The Sound of Shadows" src="https://www.youtube.com/embed/2fs3ocTO744?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="RHYTMIC SOUNDS - PETER VOGEL" src="https://www.youtube.com/embed/JisYOweWHLw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound #kineticsculpture #soundsculpture 
+<iframe title="THE MAGIC OF SOUND by Zimoun" src="https://www.youtube.com/embed/jjTLCZw8eMw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound #soundsculpture 
+<iframe title="&quot;The Wing&quot; Sound Sculpture Solo - Marilyn Donadt Percussion" src="https://www.youtube.com/embed/NbnKIu2f4dA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound #electroacoustic #graphicNotation 
+<iframe title="Iannis Xenakis - Mycenae Alpha (Audio + Score)" src="https://www.youtube.com/embed/a7EtqxHsJ9E?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Iannis Xenakis  - Diamorphoses (1957) - audio-partitura" src="https://www.youtube.com/embed/b7235DNgkd0?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+#sound #soundsculpture #performance #ambientBox
+<iframe title="Motors, Magnets and Motion: Electronic Music Instruments from the Physical World | Loop" src="https://www.youtube.com/embed/hJHwhb99Bzo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="DIY Spring Box / Noise Box: My first creation for sound design in horror movies 👻" src="https://www.youtube.com/embed/Laau6Aui4dU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Koka's Drone Box Ensemble" src="https://www.youtube.com/embed/lSpl4DVFsQU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Making of DIY Piezo Noise Box / Ambient Box / Spring Box" src="https://www.youtube.com/embed/4Wrsr1qnN9Q?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Making a Piezo Pickup Instrument" src="https://www.youtube.com/embed/EzSu5zOX_Qg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+#sound #piezo
+<iframe title="TUTORIAL - HOW TO WIRE A PIEZO MIC // MAGIC GLOVES AND CODING PROGRESS // CHAINES" src="https://www.youtube.com/embed/zI7EEvV4Lp8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+## Custom Sound Design Objects
+<iframe title="Sounds of the Nightmare Machine" src="https://www.youtube.com/embed/1lTYPvArbGo?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
