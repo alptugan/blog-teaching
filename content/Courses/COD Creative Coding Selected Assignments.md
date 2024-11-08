@@ -1,0 +1,326 @@
+---
+title: COD 207 Creative Coding Selected Assignments
+date: 2024-10-10
+modfification date: Thursday 10th October 2024 09:32:19
+description: Includes selected student assignments
+tags:
+  - p5js
+  - assignment
+  - creativecoding
+  - cod207
+aliases: 
+draft: false
+---
+# week 02 - Computational Abstraction
+## Section A
+[Abeerah Malik](https://openprocessing.org/sketch/2382625)
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2376394)
+[Duygu Aksöz](https://openprocessing.org/sketch/2383941)
+[Elif Erpulat](https://openprocessing.org/sketch/2376645)
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2385128)
+[İdil Akan](https://openprocessing.org/sketch/2383989)
+[İrem Apaydın](https://openprocessing.org/sketch/2384895)
+[İris Eryılmaz](https://openprocessing.org/sketch/2381468)
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2383116)
+[Lal Kara](https://openprocessing.org/sketch/2384836)
+[Lana Jamal](https://openprocessing.org/sketch/2383808)
+[Naz İpek](https://openprocessing.org/sketch/2385030)
+[Talin Akarvardar](https://openprocessing.org/sketch/2376842), [bauhaus](https://openprocessing.org/sketch/2383309)
+[Zeynep Cebe](https://openprocessing.org/sketch/2381695)
+[Zeynep Erol](https://openprocessing.org/sketch/2383422)
+
+## Section B
+[Zaman Khan](https://openprocessing.org/sketch/2390280) duck
+[Anıl Ekşi](https://openprocessing.org/sketch/2388980) Abstract face
+[Azimov Rufat](https://openprocessing.org/sketch/2392496) Cat
+
+---
+
+# week 03 - Image Abstraction
+## section A
+[Abeerah Malik](https://openprocessing.org/sketch/2395025) Elephant ⭐
+[Alp Eroğlu](https://openprocessing.org/sketch/2396538) Scorpion
+[Asya Bal](https://openprocessing.org/sketch/2395288) Duck
+[Ayşenur Karakuş](https://openprocessing.org/sketch/2396292) Whale
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2394680) Bird
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2394657) Rabbit
+[Boray Ünlü](https://openprocessing.org/sketch/2394693) Bird
+[Duygu Aksöz](https://openprocessing.org/sketch/2395000) Panda
+[Elif Erpulat](https://openprocessing.org/sketch/2394920) Scorpion
+[İdil Akan](https://openprocessing.org/sketch/2394470) Rabbit
+[Zeynep Erol](https://openprocessing.org/sketch/2396089), [Lal Kara](https://openprocessing.org/sketch/2396488), [İrem Apaydın](https://openprocessing.org/sketch/2396097) Bird
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2393097) Elephant
+[Lana Jamal](https://openprocessing.org/sketch/2402324) Scorpion
+[Naz İpek](https://openprocessing.org/sketch/2396130) Rabbit
+[Talin Akarvardar](https://openprocessing.org/sketch/2396598) Sea horse
+[Zeynep Cebe](https://openprocessing.org/sketch/2390395) Seal
+
+
+## section B
+[Deniz Sönmez](https://openprocessing.org/sketch/2393640) Owl ⭐️
+[Eda Şenel](https://openprocessing.org/sketch/2395833) Cat
+[Ali Büyükduman](https://openprocessing.org/sketch/2401621) Elephant
+[Kerem Alp](https://openprocessing.org/sketch/2395854) Rabbit ⭐️
+
+---
+# week 04 - Moire Pattern
+## Section A
+[Duygu Aksöz](https://openprocessing.org/sketch/2405695) 
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2404727)
+[İris Eryılmaz](https://openprocessing.org/sketch/2405160) 
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2405819) AI?
+[Abeerah Malik](https://openprocessing.org/sketch/2404178)
+[Talin Akarvardar](https://openprocessing.org/sketch/2406000)
+[Alp Eroğlu](https://openprocessing.org/sketch/2406073) 
+[Naz İpek](https://openprocessing.org/sketch/2405834)
+[İdil Akan](https://openprocessing.org/sketch/2406891) 
+
+## Section B
+[Eda Senel](https://openprocessing.org/sketch/2409803) 
+[Duru Seyhan](https://openprocessing.org/sketch/2412205) Hexagon nasıl çizdin?
+[Alara Yılmaz](https://openprocessing.org/sketch/2412199) İkinci grupta stroke size'ı ayarlama...
+[Anıl Ekşi](https://openprocessing.org/sketch/2412308)
+[Deniz Sönmez](https://openprocessing.org/sketch/2412436)
+[Ecem Filik](https://openprocessing.org/sketch/2412204) stroke size ı azaltalım ortadaki
+[Kerem Alp](https://openprocessing.org/sketch/2413290)
+
+---
+# week 05 - Randomness
+## Section A
+[İdil Akan](https://openprocessing.org/sketch/2417902)
+[İrem Apaydın](https://openprocessing.org/sketch/2418164)
+[İris Eryılmaz](https://openprocessing.org/sketch/2412032)
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2415483)
+[Lal Kara](https://openprocessing.org/sketch/2415108)
+[Maye Caferzade](https://openprocessing.org/sketch/2416355)
+[Lana Jamal](https://openprocessing.org/sketch/2427183) 
+[Naz İpek](https://openprocessing.org/sketch/2420068)
+[Talin Akvardar](https://openprocessing.org/sketch/2420994)
+[Abeerah Malik](https://openprocessing.org/sketch/2415788)
+[Alp Eroğlu](https://openprocessing.org/sketch/2416513)
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2415027)
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2414913)
+[Boray Ünlü](https://openprocessing.org/sketch/2412144)
+[Duru Özcan](https://openprocessing.org/sketch/2411115)
+[Duygu Aksöz](https://openprocessing.org/sketch/2416498)
+[Elif Erpulat](https://openprocessing.org/sketch/2412311)
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2417811)
+[Zeynep Cebe](https://openprocessing.org/sketch/2414327)
+## Section B
+[Deniz Sönmez](https://openprocessing.org/sketch/2413916)
+[Eda Şenel]()
+[Melis Aktı](https://openprocessing.org/sketch/2425341)
+
+---
+# week 06 - Computational Collage
+## Section A
+
+## Section B
+[Deniz Sönmez](https://openprocessing.org/sketch/2428761) Adventure Club
+[Eda Şenel](https://openprocessing.org/sketch/2428763)
+[Ecem Filik](https://openprocessing.org/sketch/2435979) Tried arrays
+
+---
+# week 07 - Image Processing
+## Section A
+
+## Section B
+
+---
+# Survey Links
+[ALAP 01](https://forms.gle/zuEhVVwCtE1dU6gw8)
+[ALAP 02](https://forms.gle/LrbNpVxTSz81f3VG9)
+[ALAP 03](https://forms.gle/puDAriKcbet3idYQ9)
+[ALAP 04](https://forms.gle/qDF7nCJFJK4Ue1Kp9)
+[ALAP 05](https://forms.gle/W3ir9nTK5Ke8rd878)
+[ALAP 06](https://forms.gle/JQRTRFQjb2UekBev5)
+[ALAP 07](https://forms.gle/wRPdML8pCxLv1azi7)
+[ALAP 08](https://forms.gle/L2zXqaVoPBVKnh1e6)
+[ALAP 09](https://forms.gle/DFCUUo7NsBsSLjZv6)
+[ALAP 10](https://forms.gle/1etSjiQST6FGVM217)
+[ALAP 11](https://forms.gle/1m6gaEj3cPqdXUfK8)
+[ALAP 12](https://forms.gle/RgfNauJyPe5sKewM7)
+
+---
+# COD 208 Final Project (2023-2024)
+## A
+[Sedanur Yıldız](https://openprocessing.org/sketch/2277810) Game: Enemy of The City
+[Hilal Çetintaş](https://openprocessing.org/sketch/2278061) Game (Face tracking, keyboard): Save the princess
+[Zeynep Buğdaycı](https://openprocessing.org/sketch/2278062), [Option 2](https://openprocessing.org/sketch/2278067) Generative Art
+[Faruk Sarı](https://drive.google.com/drive/folders/1XnT3HqukmXA_0NRdEFpUn0QRReR2egIj) Platform game built with Godot Engine
+Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), [Sad](https://openprocessing.org/sketch/2270498), [Scared](https://openprocessing.org/sketch/2271133), [Happy](https://openprocessing.org/sketch/2271141), [Anger](https://openprocessing.org/sketch/2271149)
+[Gökalp Taşer, Naz Çoban](https://gokalptaser.github.io/Anthony-s-Studio/) Game & App: Anhtnoy's Pixel Studio
+[Ozan Güzelırmak](https://openprocessing.org/sketch/2277978) Game: Run away from bats
+[Can Canal](https://openprocessing.org/sketch/2271205) Audiovisual
+[Ceren Özcan](https://openprocessing.org/sketch/2271080) ML Based Interactive Face Tracking
+## B
+[Ceyda Koşer](https://openprocessing.org/sketch/2273544) MIDI input visualizer
+[Ece Türker](https://openprocessing.org/sketch/2278265) Generative Art
+[Mert İnan](https://openprocessing.org/sketch/2276911) Audiovisual
+[Aya Berjamy](https://openprocessing.org/sketch/2260533) Generative Typography
+[Rim Harrak](https://openprocessing.org/sketch/2277420) Interactive Typographic Poster
+[Ramazan Hakveren](https://openprocessing.org/sketch/2276099) Dodge the balls
+[Elif Zaim](https://openprocessing.org/sketch/2278145) Generative Animation
+[Noura Mehrez](https://openprocessing.org/sketch/2270345) Audiovisual app
+# GAMES
+## A
+[Esra Yücetürk](https://openprocessing.org/sketch/2204372) Run Monkey 
+[Meryem Karataş](https://openprocessing.org/sketch/2277981) Flappy Power Puff Girls
+[Ali Uzun](https://openprocessing.org/sketch/2197157) Wizard Defence
+[Assyah Ibrahem](https://openprocessing.org/sketch/2197696) Face Tracking Game
+[Faruk Sarı](https://openprocessing.org/sketch/2197701) Face Tracking Game
+[Gökalp Taşer](https://openprocessing.org/sketch/2203827) Car Racing
+[Can Canal](https://openprocessing.org/sketch/2204598) Face Tracking
+[Gül Naz Çoban](https://openprocessing.org/sketch/2197687) Running Mouse
+[Selin Kabadayı](https://openprocessing.org/sketch/2197691) Find the Monster
+## B
+[Kübra Bostancı](https://openprocessing.org/sketch/2198154) 
+[Aya Berjamy](https://openprocessing.org/sketch/2198135) Football
+[Zainab Khan](https://openprocessing.org/sketch/2205165) My dog (Face Tracking)
+[Melis Üstün](https://openprocessing.org/sketch/2205481)
+[Kutluhan Hakkı Yücel](https://openprocessing.org/sketch/2198127)
+[Damla Güloğlu](https://openprocessing.org/sketch/2198146) Face Tracking
+[Ceyda Koşer](https://openprocessing.org/sketch/2204866) Mouse Control
+
+# Computational Illustration & Animation 
+[Esra Yücetürk](https://openprocessing.org/sketch/2181183) FAD Building
+[Ali Uzun](https://openprocessing.org/sketch/2130336) Dune Worms
+[Busenaz Kaplangı](https://openprocessing.org/sketch/2132897) OSC, Trace
+[Mert İnan](https://openprocessing.org/sketch/2276911) Audiovisual
+[Ceyda Koşer](https://openprocessing.org/sketch/2135155) Audiovisual app
+
+# Computational Art
+## A
+[Esra Yücetürk](https://openprocessing.org/sketch/2134458)
+[Sueda Uluca](https://openprocessing.org/sketch/2240080)
+[Ceren Özcan](https://openprocessing.org/sketch/2104008), [Piet Mondrian](https://openprocessing.org/sketch/2055236)
+[Busenaz Kaplangı](https://openprocessing.org/sketch/2056712) Piet Mondrian
+[Ali Uzun](https://openprocessing.org/sketch/2057389) Piet Mondrian, [Court of The Crimson](https://openprocessing.org/sketch/2067746)
+[Can Canal](https://openprocessing.org/sketch/2240843) ALAP
+[Zeynep Karaçetin](https://openprocessing.org/sketch/2277926)
+[Ali Uzun](https://openprocessing.org/sketch/2097447) Court of the Crimson (interactive)
+[Ali Uzun](https://openprocessing.org/sketch/2105437) November Rain
+[Ozan Güzelırmak](https://openprocessing.org/sketch/2240791)
+[Batur Ay](https://openprocessing.org/sketch/2058240) ALAP
+[Mert İnan](https://openprocessing.org/sketch/2067467) ALAP
+[İrem Gül](https://openprocessing.org/sketch/2068545) ALAP
+[Melis Üstün](https://openprocessing.org/sketch/2053998) ALAP-Vera Molnar
+[Busenaz Kaplanoğlu](https://openprocessing.org/sketch/2058245) ALAP
+[Hilal Çetintaş](https://openprocessing.org/sketch/2058289) ALAP-Frieder Nake
+[Ramazan Hakveren](https://openprocessing.org/sketch/2067884) ALAP
+[Ozan Güzelırmak](https://openprocessing.org/sketch/2066470) ALAP - Frieder Nake
+[Can Canal](https://openprocessing.org/sketch/2067494) ALAP - Vera Molnar
+[Gül Naz Çoban](https://openprocessing.org/sketch/2058231) ALAP - Vera Molnar
+[Sueda Uluca](https://openprocessing.org/sketch/2058267) ALAP - Paul Klee
+[Ceren Özcan](https://openprocessing.org/sketch/2058290/embed/) ALAP - Vera Molnar
+[Selin Kabadayı](https://openprocessing.org/sketch/2058242) ALAP - Frieder Nake
+[İpek Evrenkaya](https://openprocessing.org/sketch/2065089) ALAP - Vera Molnar
+
+# Algorithmic Art
+[Melis Üstün](https://openprocessing.org/sketch/2095650)
+[Busenaz Kaplangı](https://openprocessing.org/sketch/2093329)
+[Hilal Çetintaş](https://openprocessing.org/sketch/2096831)
+[Ramazan Kaya](https://openprocessing.org/sketch/2097051)
+[Faruk Sarı](https://openprocessing.org/sketch/2095531)
+[Damla Güloğlu](https://openprocessing.org/sketch/2096556)
+[Ceyda Koşer](https://openprocessing.org/sketch/2096673)
+[Gökalp Taşer](https://openprocessing.org/sketch/2095820)
+[Sıla Yaldız](https://openprocessing.org/sketch/2098364)
+[Can Canal](https://openprocessing.org/sketch/2096769)
+[Naz Çoban](https://openprocessing.org/sketch/2097239)
+[Ceren Özcan](https://openprocessing.org/sketch/2096770)
+[İpek Evrenkaya](https://openprocessing.org/sketch/2096855)
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2096991)
+[Mert İnan](https://openprocessing.org/sketch/2105289)
+[Emre Sungur](https://openprocessing.org/sketch/2105585), [2](https://openprocessing.org/sketch/2105587), [3](https://openprocessing.org/sketch/2105592)
+[İrem Gül](https://openprocessing.org/sketch/2105583)
+[Melis Üstün](https://openprocessing.org/sketch/2104649), [2](https://openprocessing.org/sketch/2105058), [3](https://openprocessing.org/sketch/2105061)
+[Busenaz Kaplangı](https://openprocessing.org/sketch/2103414)
+[Hilal Çetintaş](https://openprocessing.org/sketch/2104075)
+[Ramazan HAkveren](https://openprocessing.org/sketch/2103432), [2](https://openprocessing.org/sketch/2103427), [3](https://openprocessing.org/sketch/2103428)
+[Faruk Sarı](https://openprocessing.org/sketch/2104540)
+[Damla Güloğlu](https://openprocessing.org/sketch/2104954)
+[Kadir Efe Deniz](https://openprocessing.org/sketch/2103263)
+[Gökalp Taşer](https://openprocessing.org/sketch/2104708)
+[Zeynep Sıla Yaldız](https://openprocessing.org/sketch/2103966)
+[Can Canal](https://openprocessing.org/sketch/2105211)
+[Gül Naz Çoban](https://openprocessing.org/sketch/2105280)
+[Selin Kabadayı](https://openprocessing.org/sketch/2104702)
+[İpek Evrenkaya](https://openprocessing.org/sketch/2104370)
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2104763)
+[Assyah Ibraheem](https://openprocessing.org/sketch/2065240)
+[Aya Berjammy](https://openprocessing.org/sketch/2067702) Sol LeWitt
+[Esra Yücetürk](https://openprocessing.org/sketch/2059055) Vera Molnar
+[Meryem Karataş](https://openprocessing.org/sketch/2068257)
+[Basma Muhammed](https://openprocessing.org/sketch/2068261)
+[Assyahh Ibraheem](https://openprocessing.org/sketch/2097458)
+[Cansu Özbek](https://openprocessing.org/sketch/2098344)
+[Ece Türker](https://openprocessing.org/sketch/2098345)
+[Esra Yücetürk](https://openprocessing.org/sketch/2095847)
+[Assyahh Ibrahemm](https://openprocessing.org/sketch/2105379)
+
+
+
+## B
+[Ceyda Koşer](https://openprocessing.org/sketch/2058273) Vera Molnar
+[Ceyda Koşer](https://openprocessing.org/sketch/2105326)
+[Ceyda Koşer](https://openprocessing.org/sketch/2047942) Piet Mondrian
+[Sude Selçuk](https://openprocessing.org/sketch/2278195) Theremin
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2056956) Piet Mondrian
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2240410) ALAP
+
+# Robot Face & Mask
+[Esra Yücetürk](https://openprocessing.org/sketch/2069020)
+[Ali Uzun](https://openprocessing.org/sketch/2226749)
+[Batur Ay](https://openprocessing.org/sketch/2077022)
+[Mert İnan](https://openprocessing.org/sketch/2076948)
+[İrem Gül](https://openprocessing.org/sketch/2078119)
+[Melis Üstün](https://openprocessing.org/sketch/2077309)
+[Hilal Çetintaş](https://openprocessing.org/sketch/2075108)
+[Busenaz Kaplanoğlu](https://openprocessing.org/sketch/2075363)
+[Ramazan Hakverdi](https://openprocessing.org/sketch/2077514)
+[Faruk Sarı](https://openprocessing.org/sketch/2076959)
+[Damla Güloğlu](https://openprocessing.org/sketch/2077344)
+[Ceyda Koşer](https://openprocessing.org/sketch/2079717)
+[Sıla Yaldız](https://openprocessing.org/sketch/2071852)
+[Can Canal](https://openprocessing.org/sketch/2077631)
+[Ceren Özcan](https://openprocessing.org/sketch/2077181/embed/)
+[Selin Kabadayı](https://openprocessing.org/sketch/2076321)
+[İpek Evrenkaya](https://openprocessing.org/sketch/2075283)
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2077373)
+[Assyahh Ibraheem](https://openprocessing.org/sketch/2071865)
+[Ece Türker](https://openprocessing.org/sketch/2058865)
+[Aya Berjammy](https://openprocessing.org/sketch/2076957)
+[Zeynep Khan](https://openprocessing.org/sketch/2075591)
+[Esra Yücetürk](https://openprocessing.org/sketch/2069020)
+[Meryem Karataş](https://openprocessing.org/sketch/2077683)
+[Ecem Güleryüz](https://openprocessing.org/sketch/2077553)
+[Basma Muhammed](https://openprocessing.org/sketch/2078164)
+
+# Face Tracking
+[Esra Yücetürk](https://openprocessing.org/sketch/2225159)
+[Ali Uzun](https://openprocessing.org/sketch/2220446), 
+# Computational Collage
+[Esra Yücetürk](https://openprocessing.org/sketch/2112327)
+[Faruk Sarı](https://openprocessing.org/sketch/2115526)
+[Gül Naz Çoban](https://openprocessing.org/sketch/2111899)
+[Ceren Özcan](https://openprocessing.org/sketch/2114006)
+[İpek Evrenkaya](https://openprocessing.org/sketch/2113316)
+[Atilla Can Alptekin](https://openprocessing.org/sketch/2113940)
+
+
+# Computational Poster
+[Noura Mehrez](https://openprocessing.org/sketch/2122052)
+[Batur Ay](https://openprocessing.org/sketch/2114998)
+[Mert İnan](https://openprocessing.org/sketch/2120584)
+[Melis Üstün](https://openprocessing.org/sketch/2121612)
+[Hilal Çetintaş](https://openprocessing.org/sketch/2122026)
+[Ramazan Hakverdi](https://openprocessing.org/sketch/2121931)
+[Assyah Ibraheem](https://openprocessing.org/sketch/2120839)
+[Aya Berjammy](https://openprocessing.org/sketch/2121735)
+[Rim Harrak](https://openprocessing.org/sketch/2122687)
+[Zainab Khan](https://openprocessing.org/sketch/2120319)
+[Esra Yücetürk](https://openprocessing.org/sketch/2119954)
+[Meryem Karataş](https://openprocessing.org/sketch/2121917)
+[Noura Mehrez](https://openprocessing.org/sketch/2121863)
+[Aysu Bayramova](https://openprocessing.org/sketch/2117941)
