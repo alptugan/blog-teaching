@@ -8,7 +8,87 @@ tags:
 aliases: 
 draft: false
 ---
-## Final Project Instructions
+# week 1
+1. 👀 Keep your eyes open. Choose a thing. Lets say your favourite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus.
+2. As we did in preivous semester, break it apart using CT principles. Redraw it using p5JS.
+3. Make it parametric. So whenever you run the app, determine its properties randomly.
+4. ⏫ Upload the sketch to your openProcessing account.
+5. ❗Submit the openprocessing link.
+6. ❗Submit the sketch source code as zip file as well.
+7. 📖 Read [Delusions of Dialogue: Control and Choice in Interactive Art](https://www.jstor.org/stable/1576847)
+8. 📺 Watch the videos in the presentation. Read about [arrays](https://happycoding.io/tutorials/p5js/arrays#array-length)
+
+# week 2
+1. Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462)
+2. Create instances of your class by initializing it using different parameters.
+3. Create at least 10 different objects in different features.
+4. Position all of the objects in the same sketch. Do not create different sketches of each instance.
+5. ⏫ Upload the sketch to your openProcessing account.
+6. ❗Submit the openprocessing link.
+7. ❗Submit the sketch source code as zip file as well.
+8. 📺 Watch the video
+# week 3
+1. Write a mini game story. 
+2. Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
+4. Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
+5. Design Game Scene: A background, the hero, and enemies.
+6. Design Final Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS depending on your scenario.
+7. Export UI elements as PNG files.
+8. 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
+
+# week 4
+1. 👀 Implement all of the scenes that you design for your game in P5Js.
+2. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
+3. ⏫ Upload the sketch to your openProcessing account.
+4. ❗Submit the openprocessing link.
+5. ❗Submit the sketch source code as zip file as well.
+
+# week 5
+- Your games must be finished and finalized. 
+- I don't want to hear any apologies or last day help requests.
+- Upload your whole sketch folder.
+- Submit the link of your game.
+
+# week 6
+## Assignment 1: ML
+- You can use face, hand, or body position to move your character. Refer to the [example code](https://openprocessing.org/sketch/2213827) that I wrote in class time.
+- Upload the link of your sketch
+- Upload The codes as well in zip format.
+## Assignment 2: Mask
+- You can choose whatever image you want.
+- You can create illustration using simple shapes.
+- We will write the code in class time.   
+- Upload the image you choose. 
+- References : [Computational Mask Repo](https://www.pinterest.com/alptugan/02-computational-masks-repo/more_ideas/?request_params=%7B%221%22:%2039,%20%227%22:%20%221100798308726688953%22,%20%228%22:%20%22575686833557453072%22,%20%2232%22:%2020,%20%2237%22:%20%22Ideas%20for%20your%20board%22%7D&full_feed_title=Ideas%20for%20your%20board&view_parameter_type=3173&pins_display=3&ideas_referrer=25), [Generative Masks](https://generativemasks.io/), [Ref3](https://www.britannica.com/art/mask-face-covering/The-functions-and-forms-of-masks)
+
+# week 7
+##### Please READ💢
+##### No Late Submissions❗❗❗If you don't understand ask me, or your friend, or to an AI chatbot.  
+- Use **Decomposition**, **Flow**, **Translation**, and **Algorithm Design** steps for your mask generation. I want to see how you implement your ideas. Upload text, diagram or any kind of material that you include your programming activity. Create a pdf for your design process as I show you in the presentation. You don't need to include material for the Algorithm Desin section since your codes on openProcessing is the last step actually. **(40 points)** [Tutorial](https://openprocessing.org/sketch/2217223 "https://openprocessing.org/sketch/2217223")
+- Write down the mask code. **(20 points)**
+- Apply ML5 library to enable head tracking on camera. **(20 points)** 
+    - Head Tracking Code: [ML5 Face Tracking Example](https://openprocessing.org/sketch/2213624 "https://openprocessing.org/sketch/2213624")
+    - Head Tracking With Mask Implementation Code: [Face Tracking with Mask Example](https://openprocessing.org/sketch/2220776 "https://openprocessing.org/sketch/2220776")
+- Skim the attached document (Form+Code Book, Repetetion pg. 42-65)
+- Choose an image that includes repetition in the artwork from the follwing [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d "https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d").
+- ❗Submit the openprocessing link.
+- ❗Submit the sketch source code as zip file as well.
+
+# week 8
+- Finalize the code and submit the source code and openprocessing link.
+
+- Choose the most appropriate options for the artworks included in each survey. You can choose multiple choices.
+
+# week 9
+Holiday
+
+# week 10
+Holiday
+
+# week 11
+Project Proposal Submission
+
+# Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
 🧠 You are free to propose any project idea as long as it includes programming. 
