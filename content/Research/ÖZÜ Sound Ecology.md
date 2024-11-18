@@ -8,7 +8,6 @@ tags:
 aliases: 
 draft: true
 ---
-
 ## Reference links
 https://earth.fm/nature-soundmap/
 The following website is the same idea, it can be implemented for ÖZÜ.

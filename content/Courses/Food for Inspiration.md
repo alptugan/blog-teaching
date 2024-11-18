@@ -263,13 +263,18 @@ Central to my practice is consideration of my audience, and I find no greater jo
 # Physical Computing
 ## UI
 [Liquid Crystal Display 16x2](https://github.com/VasilKalchev/LiquidMenu) The library includes text-based scene management for different tasks to collect and display data on the screen.
-## Utilities & Libraries
+## Utilities & Libraries (Arduino)
 [Ticker Library](https://github.com/sstaub/Ticker) The **Arduino Ticker Library** allows you to create easily Ticker callbacks, which can call a function in a predetermined interval.
+
 [Arduino OSC](https://github.com/hideakitai/ArduinoOSC) Send % Receive OSC messages library.
+
+[Bounce2](https://github.com/thomasfredericks/Bounce2) Library to handle push button debouncing issues on Arduino
 ## Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing
 [Imogen Heap](https://www.youtube.com/watch?v=6btFObRRD9k) Wearable music technologies
 [MEMO, Web Cam Piano](https://vimeo.com/13938077) 
+
+---
 # 🎧 Music 
 [Music For Programming](https://musicforprogramming.net/) Set of curated playlists may help you to focus during creative coding assignments.

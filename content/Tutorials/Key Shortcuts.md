@@ -19,7 +19,9 @@ draft: false
 ### DeepL Extension
 <span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text
 
-
+## Obsidian
+<span style="color:gray">⌘ + ⇧ + S</span> Strike over selected text
+<span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu
 ## Davinci Resolve Fairlight
 <span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
 

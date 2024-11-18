@@ -17,7 +17,7 @@ draft: false
 5. [[#Troubleshooting]]
 
 ## Linux General Commands
-## awk
+### awk
 awk is used to filter and manipulate output from other programs and functions. Slices the line from empty spaces and assign them to vars. Patterns are enclosed in curly braces `{}`. Together, a pattern and an action form a rule. The entire awk program is enclosed in single quotes `'`.
 ```bash
 # $0: Represents the entire line of text.
@@ -35,7 +35,7 @@ date | awk 'OFS="/" {print$2,$3,$6}'
 cat /etc/passwd -n | awk -F: '{print $1}'
 ```
 
-## cat
+### cat
 ```bash
 # Display CPU information.
 cat /proc/cpuinfo
@@ -47,27 +47,23 @@ cat > FILE_NAME
 cat >> FILE_NAME
 ```
 
-
-## caffeinate
+### caffeinate
 ```bash
 # Stay awake your Computer (on Mac OS)
 caffeinate -dis
 ```
 
-
-## curl
+### curl
 https://www.youtube.com/watch?v=BuEYquQweGo
 
-
-## date
+### date
 ``` bash
 
 # Display current date
 date
 ```
 
-
-## du
+### du
 `du` command lists directories (folders) and files
 ```bash
 # use human-readable sizes
@@ -95,15 +91,13 @@ find . -size +200M -exec du -hs {} \;
 find . -size +200M -exec du -hs {} \; | sort -hr | head -n 10
 ```
 
-
-## echo
+### echo
 ```bash
 # remove all text context in a file
 echo "" > file_name.txt
 ```
 
-
-## find
+### find
 ```bash
 # Find files starting at current location and containing text in name
 sudo find . -iname FILE_OR_FOLDER-NAME
@@ -121,16 +115,21 @@ sudo find . -size +200M
 sudo find /var/lib -iname "webui-user"
 ```
 
-## gcc
+### gcc
 ```bash
 # Display C++ compiler
 gcc --version
 ```
 
-## grep
+### grep
 tool used for searching and manipulating text patterns within files.
+```bash
+# List running process including teamviewer.. and rest of possible characters
+sudo ps -e | grep 'teamviewer*'
 
-## head / tail
+```
+
+### head / tail
 ```bash
 # View the first line of the file
 head -n 1 FILE_NAME
@@ -139,7 +138,7 @@ head -n 1 FILE_NAME
 tail -n 1 FILE_NAME
 ```
 
-## lm-sensors
+### lm-sensors
 ```bash
 # List sensors
 sudo sensors-detect
@@ -149,7 +148,7 @@ watch sensors|
 
 ```
 
-## ls
+### ls
 ```bash
 # List files with human readable file size on disk.
 ls -lh
@@ -161,7 +160,7 @@ lscpu
 lsblk
 ```
 
-## nvidia-smi
+### nvidia-smi
 ```bash
 # Display NVIDIA GPU information.
 nvidia-smi -q
@@ -170,7 +169,14 @@ nvidia-smi -q
 nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv
 ```
 
-## ps
+### pkill
+```bash
+# Kill a running app by calling its absolute path
+sudo pkill -f -9 /home/filika/Desktop/irlz540.py
+
+```
+
+### ps
 ```bash
 # list running process with name
 sudo ps -e | grep 'mysqld'
@@ -179,13 +185,13 @@ sudo ps -e | grep 'mysqld'
 ps -ef | grep "irlz*"
 ```
 
-## scp
+### scp
 ```shell
 # Copy a file from Mac to Windows
 scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\Users\ASUS\Desktop
 ```
 
-## systemctl
+### systemctl
 ```bash
 # Grep anything that has prefix `teamwiever`
 systemctl | grep "teamviewer*"
@@ -197,7 +203,7 @@ sudo systemctl disable teamviewerd.service
 sudo systemctl enable teamviewerd.service
 ```
 
-## rsync
+### rsync
 ```bash
 # display copied file names
 rsync -av source_folder/ target_location
@@ -212,7 +218,7 @@ rsync -ah --progress  –partial source_folder/ target_location
 rsync -ahP source_folder user@192.168.1.247:/user/
 ```
 
-## uname
+### uname
 ```bash
 # 32-Bit: armv6l,armv7l,armv8,armhf
 # 64-Bit: arm64, aarch64
@@ -227,7 +233,7 @@ uname -p
 uname -m && cat /etc/*release
 ```
 
-## ufw
+### ufw
 ```bash
 # Set firewall and port accesibility
 ufw allow 22
@@ -237,13 +243,13 @@ ufw deny 22
 
 ```
 
-## udisksctl
+### udisksctl
 ```bash
 # Display HDD brand names within /dev
 udisksctl status
 ```
 
-## timedatectl
+### timedatectl
 ```bash
 # List time zone names
 timedatectl list-timezones
@@ -258,7 +264,7 @@ sudo timedatectl set-ntp on
 timedatectl
 ```
 
-## watch
+### watch
 ```bash title="watch"
 # Execute a program periodically, showing output fullscreen.
 
@@ -278,7 +284,7 @@ watch 'command_1 | command_2 | command_3'
 watch -n 1 nvidia-smi
 ```
 
-## Docker Basics
+### Docker Basics
 ```shell
 # List docker images
 docker ps
@@ -302,9 +308,16 @@ sudo systemctl restart docker
 /var/lib/casaos/www → webpage location
 /var/lib/casaos/apps → docker-compose.yml
 
+```bash
+# Autostart application on desktop startup for Raspberry Pi 
+/etc/xdg/autostart/
+sudo nano starter.desktop
+```
+
 .ssh/config file
 `ProxyCommand docker exec -i cloudflared cloudflared access ssh --hostname %h`
-
+## Bash Cheat Sheet
+![[bash-cheatsheet.jpg]]
 ## Troubleshooting
 ### Temporary failure resolving 'archive.ubuntu.com'
 Here are some steps to diagnose and resolve the issue:
