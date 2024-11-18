@@ -75,6 +75,8 @@ It's not about the gear, it's about the ear.
 ## Open Calls
 [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
 
+[Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
+
 ---
 ## Assignments Pool
 ### week 01

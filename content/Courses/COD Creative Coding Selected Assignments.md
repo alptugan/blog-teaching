@@ -12,6 +12,12 @@ aliases:
 draft: false
 ---
 # week 02 - Computational Abstraction
+Week 2 Assignments - Computational Abstraction
+Name Surname (@IG_username)
+.
+.
+Following the first week on programming principles, students in the Creative Coding I class are required to develop an abstract shape or notion of their choice utilizing basic shapes through the p5.js JavaScript programming tool, which is based on Processing. Source code of each assignment is available on Open Processing web site.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart
 ## Section A
 [Abeerah Malik](https://openprocessing.org/sketch/2382625)
 [Bahar Kızılkaya](https://openprocessing.org/sketch/2376394)
@@ -35,10 +41,14 @@ draft: false
 [Azimov Rufat](https://openprocessing.org/sketch/2392496) Cat
 
 ---
-
-# week 03 - Image Abstraction
+# week 03 - Figurative Abstraction
+Week 3 Assignments - Figurative Abstraction 
+Name Surname (@IG_username)
+.
+.
+After the second week of programming principles, students in the Creative Coding I class must apply Computational Thinking principles as a problem-solving approach prior to coding their tasks. Every student is required to document sequential instructions. Based on their analysis, they compose the code. The task involves constructing a fixed-size 5x5 grid and utilizing simple forms within the grid to produce an abstract representation of a figurative image. Only basic shapes and flawless curves are permitted for the creation of the abstracted form by programming.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart
 ## section A
-[Abeerah Malik](https://openprocessing.org/sketch/2395025) Elephant ⭐
 [Alp Eroğlu](https://openprocessing.org/sketch/2396538) Scorpion
 [Asya Bal](https://openprocessing.org/sketch/2395288) Duck
 [Ayşenur Karakuş](https://openprocessing.org/sketch/2396292) Whale
@@ -49,7 +59,7 @@ draft: false
 [Elif Erpulat](https://openprocessing.org/sketch/2394920) Scorpion
 [İdil Akan](https://openprocessing.org/sketch/2394470) Rabbit
 [Zeynep Erol](https://openprocessing.org/sketch/2396089), [Lal Kara](https://openprocessing.org/sketch/2396488), [İrem Apaydın](https://openprocessing.org/sketch/2396097) Bird
-[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2393097) Elephant
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2393097) ,[Abeerah Malik](https://openprocessing.org/sketch/2395025) Elephant
 [Lana Jamal](https://openprocessing.org/sketch/2402324) Scorpion
 [Naz İpek](https://openprocessing.org/sketch/2396130) Rabbit
 [Talin Akarvardar](https://openprocessing.org/sketch/2396598) Sea horse
@@ -64,6 +74,12 @@ draft: false
 
 ---
 # week 04 - Moire Pattern
+Week 4 Assignments - Moire Pattern
+Name Surname (@IG_username)
+.
+.
+Week 4 focuses on repetitive paradigms in programming, including for loops, and use recursive functions to generate animated images. Students are expected to create intricate Moire patterns, with or without animation via simple shapes.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart #moire #pattern
 ## Section A
 [Duygu Aksöz](https://openprocessing.org/sketch/2405695) 
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2404727)
@@ -78,7 +94,6 @@ draft: false
 ## Section B
 [Eda Senel](https://openprocessing.org/sketch/2409803) 
 [Duru Seyhan](https://openprocessing.org/sketch/2412205) Hexagon nasıl çizdin?
-[Alara Yılmaz](https://openprocessing.org/sketch/2412199) İkinci grupta stroke size'ı ayarlama...
 [Anıl Ekşi](https://openprocessing.org/sketch/2412308)
 [Deniz Sönmez](https://openprocessing.org/sketch/2412436)
 [Ecem Filik](https://openprocessing.org/sketch/2412204) stroke size ı azaltalım ortadaki
@@ -86,6 +101,12 @@ draft: false
 
 ---
 # week 05 - Randomness
+Week 5 Assignments - Algorithmic Art Practices: Randomness & Probability
+Name Surname (@IG_username)
+.
+.
+Week 5 centers on the principles of randomness and probability. Students select an algorithmic artwork created between 1940 and 2000 and replicate it using stochastic decisions and conditional expressions.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart
 ## Section A
 [İdil Akan](https://openprocessing.org/sketch/2417902)
 [İrem Apaydın](https://openprocessing.org/sketch/2418164)
@@ -95,7 +116,7 @@ draft: false
 [Maye Caferzade](https://openprocessing.org/sketch/2416355)
 [Lana Jamal](https://openprocessing.org/sketch/2427183) 
 [Naz İpek](https://openprocessing.org/sketch/2420068)
-[Talin Akvardar](https://openprocessing.org/sketch/2420994)
+[Talin Akarvardar](https://openprocessing.org/sketch/2420994)
 [Abeerah Malik](https://openprocessing.org/sketch/2415788)
 [Alp Eroğlu](https://openprocessing.org/sketch/2416513)
 [Azra Sadıkoğlu](https://openprocessing.org/sketch/2415027)
@@ -108,20 +129,74 @@ draft: false
 [Zeynep Cebe](https://openprocessing.org/sketch/2414327)
 ## Section B
 [Deniz Sönmez](https://openprocessing.org/sketch/2413916)
-[Eda Şenel]()
+[Eda Şenel](https://openprocessing.org/sketch/2423411)
 [Melis Aktı](https://openprocessing.org/sketch/2425341)
 
 ---
 # week 06 - Computational Collage
+Week 6 Assignments - Computational Collage
+Name Surname (@IG_username)
+.
+.
+During week 6, students acquire skills to load, display, and alter digital media within coding. They are anticipated to produce an interactive collage. Upon the user pressing a  key on the keyboard, the arrangement of the collage must alter in accordance with predetermined positioning constraints.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart #collage
 ## Section A
 
 ## Section B
 [Deniz Sönmez](https://openprocessing.org/sketch/2428761) Adventure Club
-[Eda Şenel](https://openprocessing.org/sketch/2428763)
+[Eda Şenel](https://openprocessing.org/sketch/2436954)
 [Ecem Filik](https://openprocessing.org/sketch/2435979) Tried arrays
 
 ---
 # week 07 - Image Processing
+Week 7 Assignments - Image Processing
+Name Surname (@IG_username)
+.
+.
+During week 7, students get fundamental knowledge of image processing techniques. They are anticipated to generate and reconstruct an image through algorithmic art methodologies, employing randomization or autonomous agents.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart #imageprocessing
+## Section A
+[Lana Jamal](https://openprocessing.org/sketch/2440846)
+[Naz İpek](https://openprocessing.org/sketch/2441341)
+[Zeynep Cebe](https://openprocessing.org/sketch/2439195)
+[Abeerah Malik](https://openprocessing.org/sketch/2438695)
+[Alp Eroğlu](https://openprocessing.org/sketch/2441117) !!!
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2441081) !
+
+## Section B
+[Ali Büyükduman](https://openprocessing.org/sketch/2446975#)
+[Kerem Alp](https://openprocessing.org/sketch/2447057)
+[Deniz Sönmez](https://openprocessing.org/sketch/2447170)
+
+---
+# week 08 - Typography
+## Section A
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2444037)
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2443935)
+[Boray Ünlü](https://openprocessing.org/sketch/2444879)
+[Duru Özcan](https://openprocessing.org/sketch/2452018)
+[Lal Kara](https://openprocessing.org/sketch/2447044)
+[Talin Akarvardar](https://openprocessing.org/sketch/2450729)
+[Zeynep Erol](https://openprocessing.org/sketch/2447047)
+[Zeynep Cebe](https://openprocessing.org/sketch/2444953)
+[İris Eryılmaz](https://openprocessing.org/sketch/2442816)
+[Abeerah Malik](https://openprocessing.org/sketch/2450073)
+[Ayşenur Karakuş](https://openprocessing.org/sketch/2452259)
+[Duygu Aksöz]()
+[İdil Alkan](https://openprocessing.org/sketch/2451605)
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2452951)
+[Asya Bal](https://openprocessing.org/sketch/2453378)
+[Duygu Aksöz](https://openprocessing.org/sketch/2452848)
+## Section B
+
+---
+# week 09 - Autonomous Agents
+## Section A
+
+## Section B
+
+---
+# week 10 - Sound
 ## Section A
 
 ## Section B

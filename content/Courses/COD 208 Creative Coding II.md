@@ -88,6 +88,33 @@ Holiday
 # week 11
 Project Proposal Submission
 
+# API Calls
+[Get Weather Information](https://editor.p5js.org/jackbdu/sketches/DwblU8agP)
+[NY Times Content](https://editor.p5js.org/jackbdu/sketches/XLWlj2qZw)
+
+
+# Machine Learning 
+[Daniel Schiffman](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main)
+### 1: [Introduction](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/01-introduction) (9/5)
+### 2: [Transfer Learning](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/02-transfer-learning) (9/12)
+### 3: [Pre-trained models 1: Body](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/03-body-models) (9/19)
+### 4: [Pre-trained models 2: Face and Hand](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/04-face-and-hand-models) (9/26)
+- [Facemesh](https://editor.p5js.org/ima_ml/sketches/hyxD1BVVn) Generates facemesh...
+- [Lip Drawing](https://editor.p5js.org/ima_ml/sketches/8xB4wpH16) Extract shapes from another shape.
+- [Finger Tracking](https://editor.p5js.org/jackbdu/sketches/4Pd5XgWtC) Generates particles attached on index finger
+- [Finger tracking 2](https://editor.p5js.org/jackbdu/sketches/s3uqE-9fA) Generate custom shape using index finger and finger tip.
+- [NUI with fingers](https://editor.p5js.org/jackbdu/sketches/JwMBQyES3) Scale up/down the loaded image real-time
+### 5: [Training a Neural Network 1](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/05-neural-networks) (10/3)
+### 6: [Training a Neural Network 2](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/05-neural-networks) (10/10)
+### 7: [ml5.js project presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/wiki/ml5.js-Project-2) (10/17)
+### 8: [Introduction to Transformers.js](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/06-transformers-js) (10/24)
+### 9: [Language Models](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/07-llms) (10/31)
+### 10: [Image Generation Models](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/08-image-models) (11/7)
+### 11: [Final Project Proposals](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/final) + Fine-Tuning (11/14)
+### 12: [Final Project Proposals](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/final) + TBD (11/21)
+### 13: [Final Project Play Testing](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/final) (12/05)
+### 14: [Final Project Presentations](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/final) (12/12)
+
 # Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
