@@ -187,6 +187,7 @@ During week 7, students get fundamental knowledge of image processing techniques
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2452951)
 [Asya Bal](https://openprocessing.org/sketch/2453378)
 [Duygu Aksöz](https://openprocessing.org/sketch/2452848)
+[Lana Jamal](https://openprocessing.org/sketch/2453474)
 ## Section B
 
 ---
