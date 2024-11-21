@@ -21,9 +21,10 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
+    //Component.DesktopOnly(Component.Timeline({favouriteNumber: 62})),
   ],
+  pageBody: Component.Content(),
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -54,11 +55,13 @@ export const defaultContentPageLayout: PageLayout = {
       },
     })),
   ],
+  middle: []
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  pageBody: Component.Content(),
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

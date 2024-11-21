@@ -8,9 +8,11 @@ tags:
   - computer-art
   - generativeart
   - article
-aliases: 
 draft: false
+aliases:
+  - timeline
 ---
+
 ```timeline
 [line-3, body-2, active-color-interactive-accent]
 
@@ -99,5 +101,4 @@ Bell Labs and RAND Corporation started work on how they can utilize computers to
 
 
 ```
-
 

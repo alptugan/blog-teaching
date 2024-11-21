@@ -94,5 +94,5 @@ export interface FullPageLayout {
   footer: QuartzComponent
 }
 
-export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "middle" | "right">
+export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "middle" | "right" | "pageBody">
 export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "footer">
