@@ -23,7 +23,7 @@ ell Labs and RAND Corporation started work on how they can utilize computers to 
  
 ## 1950
 ### Computers and Automation
-![[blog-teaching/content/assets/Computer Art History/computers_and_automation_1975.png]]
+![[computers_and_automation_1975.png]]
 One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
 [source 1](https://archive.org/search.php?query=computers+And+Automation&page=8), [source 2](https://archive.org/details/bitsavers_computersAndAutomation)
  
