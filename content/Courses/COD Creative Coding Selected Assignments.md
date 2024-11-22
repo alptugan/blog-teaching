@@ -169,7 +169,13 @@ During week 7, students get fundamental knowledge of image processing techniques
 [Deniz Sönmez](https://openprocessing.org/sketch/2447170)
 
 ---
-# week 08 - Typography
+# week 08 - Typography (Computational Design)
+Week 8 Assignments - Typography and Computational Design Studies
+Name Surname (@IG_username)
+.
+.
+During week 8, the main focus is utilizing typographic elements (loading fonts, displaying texts, and morphing font designs) on the canvas. The assignment is to create a generative version of a poster or book cover. We expect all students to create an interactive app via keyboard or mouse that generates variations of the design idea. 
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart #imageprocessing
 ## Section A
 [Azra Sadıkoğlu](https://openprocessing.org/sketch/2444037)
 [Bahar Kızılkaya](https://openprocessing.org/sketch/2443935)
@@ -189,6 +195,9 @@ During week 7, students get fundamental knowledge of image processing techniques
 [Duygu Aksöz](https://openprocessing.org/sketch/2452848)
 [Lana Jamal](https://openprocessing.org/sketch/2453474)
 ## Section B
+[Ali Büyükduman](https://openprocessing.org/sketch/2458510)
+[Beren Ay](https://openprocessing.org/sketch/2454620)
+[Eda Şenel](https://openprocessing.org/sketch/2458741)
 
 ---
 # week 09 - Autonomous Agents
