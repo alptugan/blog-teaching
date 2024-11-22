@@ -22,20 +22,20 @@ ell Labs and RAND Corporation started work on how they can utilize computers to 
 [Generative Practice. The State Of The Art • Digicult | Digital Art, Design and Culture](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/)
  
 ## 1950
-### Computers and Automation
+### Computers and Automation 
 ![[computers_and_automation_1975.png]]
 One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
 [source 1](https://archive.org/search.php?query=computers+And+Automation&page=8), [source 2](https://archive.org/details/bitsavers_computersAndAutomation)
  
 ## 1960
 ### Customized Drawing Machine by Desmond Paul Henry 
-![[blog-teaching/content/assets/Computer Art History/Henry_Machine.jpeg]]
+![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine]]
 Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
 [source](https://desmondhenry.com/)
 
 ## 1963
 ### One of the first Computer Art Contest 
-![[blog-teaching/content/assets/Computer Art History/Computers_and_automation.jpg]]
+![[Computers_and_automation.jpg]]
 In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
 [source](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/) 
 
@@ -46,13 +46,13 @@ BEFLIX is the name of the first embedded domain-specific language for computer a
 
 ## 1965
 ### The Projects of Generative Aesthetics
-![[blog-teaching/content/assets/Computer Art History/Max_Bense_1955.jpeg]]
+![[Max_Bense_1955.jpeg]]
 Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in **1965**.
 [source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)
 
 ## 1968
 ### Cybernetic Serendipity Exhibition
-![[blog-teaching/content/assets/Computer Art History/Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg]]In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by Jasia Reichardt in 1968.
+![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg]]In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by Jasia Reichardt in 1968.
 [source](https://research.gold.ac.uk/id/eprint/6611/)
 
 ## 1968
@@ -91,7 +91,7 @@ The book collects several artists of its time.
 
 ## 1979
 ### Ridley Scott's Alien: Control Panel Graphics
-![[blog-teaching/content/assets/Computer Art History/Nostromo_landing_1979.png]]
+![[Nostromo_landing_1979.png]]
 George Mallen's company System Simulation Ltd. produced the control panel graphics for the Nostromo spaceship in the movie.
 [Creative Simulations by Catherine Mason](https://www.amazon.com/Creative-Simulations-Computer-Springer-Computing/dp/3031506197)
 ``
