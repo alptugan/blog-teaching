@@ -9,8 +9,7 @@ tags:
   - generativeart
   - article
 draft: false
-aliases:
-  - timeline
+aliases: []
 ---
 ## 1940s
 ### A Brief History of the RAND Corporation
