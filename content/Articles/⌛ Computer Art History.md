@@ -31,12 +31,14 @@ One of the earliest publications related to computational devices. Computers and
 ## 1960
 ### Customized Drawing Machine by Desmond Paul Henry 
 ![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine]]
+
 Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
 [source](https://desmondhenry.com/)
 
 ## 1963
 ### One of the first Computer Art Contest 
 ![[Computers_and_automation.jpg]]
+
 In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
 [source](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/) 
 
@@ -48,12 +50,14 @@ BEFLIX is the name of the first embedded domain-specific language for computer a
 ## 1965
 ### The Projects of Generative Aesthetics
 ![[Max_Bense_1955.jpeg]]
-Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in **1965**.
+
+Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in 1965.
 [source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)
 
 ## 1968
 ### Cybernetic Serendipity Exhibition
-![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg]]In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by Jasia Reichardt in 1968.
+![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg]]
+In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by Jasia Reichardt in 1968.
 [source](https://research.gold.ac.uk/id/eprint/6611/)
 
 ## 1968
