@@ -21,17 +21,21 @@ The computer industry is relatively young in age when compared to most other ind
 [Generative Practice. The State Of The Art • Digicult | Digital Art, Design and Culture](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1950
 ### Computers and Automation 
-![[computers_and_automation_1975.png | -left | -med | -bround1]]One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
+![[blog-teaching/content/assets/Computer Art History/computers_and_automation_1975.png|right|270]]One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
 
 [source 1](https://archive.org/search.php?query=computers+And+Automation&page=8), [source 2](https://archive.org/details/bitsavers_computersAndAutomation)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1960
 ### Customized Drawing Machine by Desmond Paul Henry 
-![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine | -left | -med | -bround1]]Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
+![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine]]
+
+Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
 
 [source](https://desmondhenry.com/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1963
 ### One of the first Computer Art Contest 
-![[Computers_and_automation.jpg | -left | -med | -bround1]]In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
+![[Computers_and_automation.jpg]]
+
+In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
 
 [source](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/) <div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1962
