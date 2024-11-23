@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=7pxyIC_ZEwA
 For n number of particles we need to execute n<sup>2</sup>  (n x n) calculations.
 
 QuadTree algorithm makes it `n x log(n)` which dramatically lowers the calculation amount for the CPU.
+
+
+
+
+![[filika03-dijital vitrin.png|This is caption of the image-right | 300 ]]When the [Stabilization](app://obsidian.md/Stabilization) of the artifact is maintained, social groups need to agree on that the problem is solved. If the consensus happens (e.g for safety controversy) between the members, then [Closure](app://obsidian.md/Closure) can be achieved.
