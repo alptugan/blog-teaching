@@ -21,23 +21,30 @@ The computer industry is relatively young in age when compared to most other ind
 [Generative Practice. The State Of The Art • Digicult | Digital Art, Design and Culture](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1950
 ### Computers and Automation 
-![[computers_and_automation_1975.png|right|270]]One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
+![[computers_and_automation_1975.png|-right|270]]One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
 
-[source 1](https://archive.org/search.php?query=computers+And+Automation&page=8), [source 2](https://archive.org/details/bitsavers_computersAndAutomation)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+[source 1](https://archive.org/search.php?query=computers+And+Automation&page=8), [source 2](https://archive.org/details/bitsavers_computersAndAutomation)<br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1960
 ### Customized Drawing Machine by Desmond Paul Henry 
-![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine]]
+![[Henry_Machine.jpeg|Desmond Paul Henry's Drawing Machine-left|300]]Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
 
-Desmond Paul Henry  created his first electromechanical Henry Drawing Machine in 1961, using an adapted analogue Bombsight Computer. His work was shown at the Reid Gallery in London in 1962, after his machine-generated art won him the privilege of a one-man exhibition. 
+[source](https://desmondhenry.com/)
 
-[source](https://desmondhenry.com/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+
+
+
+
+
+
+
+<br><br><br><br><br>
+<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+
 ## 1963
 ### One of the first Computer Art Contest 
-![[Computers_and_automation.jpg]]
+![[Computers_and_automation.jpg|-right|300]]In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
 
-In 1963 two years before anything called computer art appeared in galleries the trade journal. <span>Computers and Automation Magazine</span> held its first Computer Art Contest. 
-
-[source](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/) <div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+[source](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/) <br><br><br><br><br><br><br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1962
 ### BEFLIX programming language at Bell Labs
 BEFLIX is the name of the first embedded domain-specific language for computer animation, invented by Ken Knowlton at Bell Labs in 1963. Frank W. Sinden, Edward E. Zajac, Ken Knowlton, and A. Michael Noll made computer-animated movies during the early to mid-1960s. Ken Knowlton invented the computer animation language BEFLIX. The first digital computer art was created in 1962 by Noll.
@@ -45,17 +52,14 @@ BEFLIX is the name of the first embedded domain-specific language for computer a
 [source1](https://www.wikiwand.com/en/BEFLIX)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1965
 ### The Projects of Generative Aesthetics
-![[Max_Bense_1955.jpeg]]
+![[Max_Bense_1955.jpeg|Max Bense-left]]Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in 1965. 
 
-Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in 1965.
-
-[source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+[source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)<br><br><br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1968
 ### Cybernetic Serendipity Exhibition
-![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg]]
-In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by [Jasia Reichardt](https://www.wikiwand.com/en/articles/Jasia_Reichardt) in 1968.
+![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg|Cybernetic Serendipity Exhibition Poster-right|300]]In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by [Jasia Reichardt](https://www.wikiwand.com/en/articles/Jasia_Reichardt) in 1968.
 
-[source](https://research.gold.ac.uk/id/eprint/6611/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+[source](https://research.gold.ac.uk/id/eprint/6611/)<br><br><br><br><br><br><br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1968
 ### Computer Arts Society Founded
 The Computer Arts Society was formed by Alan Sutcliffe, John Lansdown, and George Mallen in London, UK to promote the creative potential of computers in art. 
@@ -91,8 +95,6 @@ The book collects several artists of its time.
 [Link to source](https://www.atariarchives.org/artist/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1979
 ### Ridley Scott's Alien: Control Panel Graphics
-![[Nostromo_landing_1979.png]]
-George Mallen's company System Simulation Ltd. produced the control panel graphics for the Nostromo spaceship in the movie.
+![[Nostromo_landing_1979.png| Movie scene from Alien-right|300]]George Mallen's company System Simulation Ltd. produced the control panel graphics for the Nostromo spaceship in the movie.
 
-[Creative Simulations by Catherine Mason](https://www.amazon.com/Creative-Simulations-Computer-Springer-Computing/dp/3031506197)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
-
+[Creative Simulations by Catherine Mason](https://www.amazon.com/Creative-Simulations-Computer-Springer-Computing/dp/3031506197)<br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
