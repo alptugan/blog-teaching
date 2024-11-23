@@ -27,6 +27,14 @@ img[alt*="right"] {
     margin-top: 2px;
 }
 
+img[alt*="left"] {
+    float: left;
+    clear: left;
+    margin-right: 1rem;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
 [alt~="vid-20"] video {
     width: 20%;
 }

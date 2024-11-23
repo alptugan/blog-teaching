@@ -52,7 +52,7 @@ BEFLIX is the name of the first embedded domain-specific language for computer a
 [source1](https://www.wikiwand.com/en/BEFLIX)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1965
 ### The Projects of Generative Aesthetics
-![[Max_Bense_1955.jpeg|Max Bense-left]]Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal _Rot 19_, in 1965. 
+![[Max_Bense_1955.jpeg|Max Bense-left]]Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal Rot 19, in 1965. 
 
 [source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)<br><br><br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1968
