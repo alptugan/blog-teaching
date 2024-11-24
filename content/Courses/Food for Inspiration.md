@@ -39,6 +39,16 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [p5JS drawing tool](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/01-introduction) The repo also has Daniel Shiffman's AI for Arts syllabus and course materials.
 
 ---
+## 👾 Playground & Tools
+[p5PlayGround (yining1023.github.io)](http://yining1023.github.io/p5PlayGround/) Playground for understanding shapes
+[GLSL Texture Generator](https://github.com/mrdoob/texgen.js) Mr. Dood's tool to create intricate patterns...
+[Desmos](https://www.desmos.com/) Online graphing tool to explore trigonometric functions. 
+[Graphtoy](https://graphtoy.com/) Explore lineal formulas on the fly. The web site includes ready-made trigonometric functions in animation.
+[Easing.net](https://easings.net/) The web site showcases common easing functions in CSS and Math function separately.  
+[OpenProcessing](https://openprocessing.org/user/68647/?view=activity&o=48)
+[ShaderToy](https://www.shadertoy.com/)
+
+---
 ## 🎮 Algorithms & Concepts
 [Timeline of Algorithms](https://omni.wikiwand.com/en/articles/Timeline_of_algorithms)
 ### 1. Paper Marbling Algorithm
@@ -55,13 +65,6 @@ https://twitter.com/Prathkum/status/1775878750518866158
 
 ### 3. Moiré Pattern
 Moiré patterns are large-scale interference patterns that occur when two partially opaque, ruled patterns with transparent gaps are overlaid, but are not perfectly identical (e.g., displaced, rotated, or have slightly different pitch). [source](https://www.wikiwand.com/en/articles/Moir%C3%A9_pattern)
-
-## Tools & Web Application
-[Desmos](https://www.desmos.com/) Online graphing tool to explore trigonometric functions. 
-[Graphtoy](https://graphtoy.com/) Explore lineal formulas on the fly. The web site includes ready-made trigonometric functions in animation.
-[Easing.net](https://easings.net/) The web site showcases common easing functions in CSS and Math function separately.  
-[OpenProcessing](https://openprocessing.org/user/68647/?view=activity&o=48)
-[ShaderToy](https://www.shadertoy.com/)
 
 ---
 ## 📦 Third-party Apps 
