@@ -37,7 +37,7 @@ The computer industry is relatively young in age when compared to most other ind
 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 
 ## 1963
@@ -55,6 +55,18 @@ BEFLIX is the name of the first embedded domain-specific language for computer a
 ![[Max_Bense_1955.jpeg|Max Bense-left]]Max Bense published "The Projects of Generative Aesthetics." Originally published in Bense’s journal Rot 19, in 1965. 
 
 [source1](http://dpya.org/wiki/index.php/1965_-_Projects_of_generative_aesthetics_-_Max_Bense), [source 2](https://archive.org/details/bense-aesthetica-english-extract/)<br><br><br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+## 1968
+## Compos 68
+![[Haks_Compos_68_Zagreb_1969.jpg|Haks Compos 68 Zagreb 1969-right|300]]Compos 68 was founded in September 1968 in Utrecht by Jan Baptist Bedaux, Jeroen Clausman, and Arthur Veen to work on the connection between art and computer. In its short existence as a group (1968-1969), Compos 68 showed their work at several important international exhibitions of computer-generated art, such as tendencies 4 in Zagreb (1969, receiving an award for Hobby Box), Kunst und Computer in Vienna. 
+
+[source1](https://monoskop.org/Compos_68), [source 2](https://zkm.de/en/person/compos-68), [source 3](http://darkofritz.net/text/DARKO_FRITZ_NL_COMP_ART_n.pdf)
+
+<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+
+
+
+
+
 ## 1968
 ### Cybernetic Serendipity Exhibition
 ![[Cybernetic_Serendipidity_The_Computer_and_the_Arts.jpg|Cybernetic Serendipity Exhibition Poster-right|300]]In Great Britain, computer art became established following the [Cybernetic Serendipity](https://monoskop.org/Cybernetic_Serendipity)exhibition shown in the Institute of Contemporary Arts, curated by [Jasia Reichardt](https://www.wikiwand.com/en/articles/Jasia_Reichardt) in 1968.
