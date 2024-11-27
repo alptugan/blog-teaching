@@ -7,7 +7,6 @@ tags:
 aliases: 
 draft: true
 ---
-
 ## ChatGPT 4o
 In order to improve the answer. Ask your question first.
 > Summarize the findings from attached document
