@@ -66,6 +66,9 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ### 3. Moiré Pattern
 Moiré patterns are large-scale interference patterns that occur when two partially opaque, ruled patterns with transparent gaps are overlaid, but are not perfectly identical (e.g., displaced, rotated, or have slightly different pitch). [source](https://www.wikiwand.com/en/articles/Moir%C3%A9_pattern)
 
+### 4. Data Smoothing
+[ASAP: Prioritizing Attention via Time Series Smoothing](https://github.com/stanford-futuredata/ASAP?tab=readme-ov-file) Reliable and fast data smoothing algorithm. Rust version is implemented by [Enes Altun](https://github.com/altunenes/asap-rs?tab=readme-ov-file), Link to paper in Zotero App. [ASAP Paper](zotero://open-pdf/library/items/ELS8XFWB?page=0), [Example Code](file:///Users/alptugan/Zotero/storage/ELS8XFWB)
+
 ---
 ## 📦 Third-party Apps 
 ### 1. Timeline Apps OSC Protocoll

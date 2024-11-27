@@ -66,6 +66,9 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Debounce](https://github.com/sindresorhus/debounce) Set delay for functions to be triggered.
 [VantaJs](https://www.vantajs.com/) Background animated js animations.
 [Konfeti animasyonları](https://particles.js.org/), [Particles](https://vincentgarreau.com/particles.js/)
+[VivaGraphJS](https://github.com/anvaka/VivaGraphJS) Node Garph tool based on WebGL high performance.
+[W-GL](https://github.com/anvaka/w-gl/tree/master) It was mostly inspired by [WebGL Insights](http://www.webglinsights.com/) book, and ~~is not really meant to be a reusable library~~ I use it for most of my 2D and 3D webgl rendering. I should probably document this more.
+[City Maps](https://github.com/anvaka/city-script?tab=readme-ov-file)  #creativecoding 
 
 ## CSS Animation
 [Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.

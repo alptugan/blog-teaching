@@ -200,7 +200,22 @@ During week 8, the main focus is utilizing typographic elements (loading fonts, 
 [Eda Şenel](https://openprocessing.org/sketch/2458741)
 
 ---
-# week 09 - Autonomous Agents
+# week 09 - Sound and Interactivity
+## Section A
+[Abeerah Malik](https://openprocessing.org/sketch/2462222) Songs from different period
+[Aleyna Kabaklar](https://openprocessing.org/sketch/2463426) Audio Player - Visualizer
+[Duygu Aksöz](https://openprocessing.org/sketch/2463545) 
+[GizemAudiovisual](https://openprocessing.org/sketch/2458127)
+[İris Eryılmaz](https://openprocessing.org/sketch/2456822) Audio player
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2463522) Audiovisual
+[Lal Kara](https://openprocessing.org/sketch/2459113) Vinyl player
+[Lana Jamal](https://openprocessing.org/sketch/2454294) Audiovisual
+[Maya Caferzade](https://openprocessing.org/sketch/2462884)
+[Naz İpek](https://openprocessing.org/sketch/2463808) Vinyl
+[Talin Akarvardar](https://openprocessing.org/sketch/2462073) Audiovisual player
+[Zeynep Cebe](https://openprocessing.org/sketch/2463004) 
+[Zeynep Erol](https://openprocessing.org/sketch/2463004) Audiovisual game
+# week 10 - Autonomous Agents
 ## Section A
 
 ## Section B
