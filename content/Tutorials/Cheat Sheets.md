@@ -302,6 +302,7 @@ docker stop docker_name
 sudo systemctl restart docker
 ```
 
+[Documentation on basic usage](https://dev.to/meghasharmaaaa/dockerfile-explain-jd4) Blog-post on DEV site.
 ### Locations
 /etc/docker/daemon.json
 /var/lib/docker/containers → include casaos failed folders as well
