@@ -275,6 +275,11 @@ Central to my practice is consideration of my audience, and I find no greater jo
 [Arduino OSC](https://github.com/hideakitai/ArduinoOSC) Send % Receive OSC messages library.
 
 [Bounce2](https://github.com/thomasfredericks/Bounce2) Library to handle push button debouncing issues on Arduino
+
+[WiFiEspAT](https://github.com/JAndrassy/WiFiEspAT) This library creates standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.
+
+> [!TIP] For data smoothing operations check [[#4. Data Smoothing]] section.
+
 ## Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing

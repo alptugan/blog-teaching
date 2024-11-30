@@ -127,6 +127,10 @@ tool used for searching and manipulating text patterns within files.
 # List running process including teamviewer.. and rest of possible characters
 sudo ps -e | grep 'teamviewer*'
 
+# List files including "input" word
+ls | grep "input" 
+# output -> .rw-r--r--@ 3.0M alptugan 29 Nov 00:39 input.pdf
+
 ```
 
 ### head / tail
@@ -191,6 +195,11 @@ ps -ef | grep "irlz*"
 scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\Users\ASUS\Desktop
 ```
 
+### sed
+[Reference]( https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+```
+# The ****SED (Stream Editor)**** command in Unix/Linux is a powerful utility used to process and manipulate text in files. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more, without the need to open the file in an editor.
+```
 ### systemctl
 ```bash
 # Grep anything that has prefix `teamwiever`

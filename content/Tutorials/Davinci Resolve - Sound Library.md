@@ -9,6 +9,8 @@ tags:
 aliases: 
 draft: false
 ---
+You can view existing libraries from the database section.
+![[davinci_01.png]]
 ## 1. Open "Sound  Library" tab
 To access `Sound Library` tab, open Davinci Resolve and switch to `Fairlight` tab from the bottom menu. Then, click `Sound Library` from top-left menu.
 ![[davinci_sound_lib.jpeg]]
