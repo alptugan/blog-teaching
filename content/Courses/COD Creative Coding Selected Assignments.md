@@ -217,6 +217,21 @@ During week 8, the main focus is utilizing typographic elements (loading fonts, 
 [Zeynep Erol](https://openprocessing.org/sketch/2463004) Audiovisual game
 # week 10 - Autonomous Agents
 ## Section A
+[Ayşenur Karakuş](https://openprocessing.org/sketch/2472179)
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2470223)
+[Duru Özcan](https://openprocessing.org/sketch/2468761)
+[Duygu Aksöz](https://openprocessing.org/sketch/2470876)
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2471259)
+[İdil Akan](https://openprocessing.org/sketch/2470459)
+[İrem Apaydın](https://openprocessing.org/sketch/2467587)
+[İris Eryilmaz](https://openprocessing.org/sketch/2467455)
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2469479)
+[Lal Kara](https://openprocessing.org/sketch/2467459)
+[Lana Jamal](https://openprocessing.org/sketch/2470529)
+[Maye Caferzade](https://openprocessing.org/sketch/2470909)
+[Talin Akarvardar](https://openprocessing.org/sketch/2468738)
+[Zeynep Cebe](https://openprocessing.org/sketch/2468685)
+[Zeynep Erol](https://openprocessing.org/sketch/2472344)
 
 ## Section B
 

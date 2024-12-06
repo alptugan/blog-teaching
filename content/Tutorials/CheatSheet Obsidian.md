@@ -49,7 +49,7 @@ cssclass: img-grid, img-captions
 CSS obsidian_style.css içinde
 JS code da DEVS kalsöründe
 ```
-# Callout Opened & Collapessed
+# Callout Opened & Collapsed
 ```markdown
 > [!NOTE] Notification about Conclusion
 > In order to develop the finalized method first students are taught ALAP categories. All of the students were familiar in programming. They took the previous class called COD 207 Programming in the first semester. So, The proposed method should be tested on new students in the upcoming semester to effectively see the results of the method integrated with ALAP categories. 

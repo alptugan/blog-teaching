@@ -238,6 +238,39 @@ Frieder Nake, #interview #history About Generative art
 #computer-art #history 
 
 ---
+
+## Shaders
+[Paper Design](https://github.com/paper-design/shaders) WebGL based shader generation tool. It is like a playground app for developers. You need to create your own playground. Check relevant shader sources. 
+### Three Js
+[World map with countries](https://codepen.io/ksenia-k/pen/zYXZGev)
+[World  3D](https://codepen.io/ksenia-k/pen/NWERpmb) Add pin on click to 3D surface.
+[Matcap](https://codepen.io/ksenia-k/pen/ExqgveK)
+[Blobby apple texture](https://codepen.io/ksenia-k/pen/ZEdEgyB)
+[Eye Animation](https://codepen.io/ksenia-k/pen/jOLqmYe) Three Js example with easing on eye with getting larger or smaller pupil
+[Interactive Generative Flowers](https://codepen.io/ksenia-k/pen/WNYJOrO) Generative flower via fragment shader. 
+[Burning Paper Effect](https://codepen.io/ksenia-k/pen/GRLqZVR) Two layer html element. Burning paper is the upmost layer. When user scrolls down, the front layer disappears with paper burning effect.
+[Burning Pop-up window](https://codepen.io/ksenia-k/pen/yLQLyZa) It might help on my website. Turn html element into a texture and use it inside the fragment shader.
+[Disco Ball Material](https://codepen.io/ksenia-k/pen/ZEjJxWQ) Creates a shiny disco ball material effect.
+[Flying Ghost](https://codepen.io/ksenia-k/pen/QWmjgWX) It can be an interactive installation displaying visitor in the form of ghost.
+[Tornado effect](https://codepen.io/ksenia-k/pen/yLvVzzd)
+
+### WebGL
+[Blobs](https://codepen.io/ksenia-k/pen/ExByemG)
+[Blobby button](https://codepen.io/ksenia-k/pen/wvNJrXZ) Animated when user releases mouse button.
+[Eye Pattern](https://codepen.io/ksenia-k/pen/poYZpyQ) Uses Delaunay Triangulation
+[Tiles](https://codepen.io/ksenia-k/pen/GRPebyY)
+[Fluid Simulation](https://codepen.io/ksenia-k/pen/MWMObrY)
+[Liquid Image Mask](https://codepen.io/ksenia-k/pen/dyaeGgO) 
+[Neuro Noise Shader](https://codepen.io/ksenia-k/full/vYwgrWv) Mouse interactive shader. Try to apply multiple cursor version.
+[Water Distortion Effect](https://codepen.io/ksenia-k/pen/RwXVMMY)
+[WebGL Experiment: interactive noisy ring](https://codepen.io/ksenia-k/pen/zYyqRWE)
+[Mouse Following Spring Motion](https://codepen.io/ksenia-k/pen/rNoBgbV)
+
+[Photo tile](https://codepen.io/ksenia-k/pen/rNEXXqN)
+
+
+
+
 # Generative Art
 ## Algorithmic Art Praxis: Reproductions
 [Georg Nees](https://editor.p5js.org/rapley/sketches/Xh9ozzdc7)
