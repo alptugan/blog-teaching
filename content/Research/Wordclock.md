@@ -9,8 +9,12 @@ tags:
 aliases: 
 draft: true
 ---
+## Todos
+- [ ] Review Blender Tutorials for creating 3D prints.
+- [ ] 
 ## Current Configuration
-[Wordclock Source Code with Animations](file:///Users/alptugan/Documents/Arduino/WordClock_MAX7219_v2-animations)
+Source Code for current configuration on disk, [Wordclock Source Code with Animations](file:///Users/alptugan/Documents/Arduino/WordClock_MAX7219_v2-animations)
+Folder includes source files for the project, [Project Files, Layouts, Prints, 3D Prints](file:////Users/alptugan/Documents/Personal/webpage/wordclock)
 
 Following line sets the 8x8 Led Matrix orientation. Check `MD_MAX72XX::PAROLA_HW` other options to quick fix.
 ```
@@ -55,8 +59,16 @@ clock.transform(MD_MAX72XX::TRC); // rotate
 /Users/alptugan/Documents/Arduino/WordClock_MAX7219_v2_animations-RTC1302-miniboard
 transfrom problemli
 
+## Online Version HTML + JS + CSS
+This is a wordclock designed to run in a browser, [github](https://github.com/Snapstromegon/wordclock)
+Another online version. It animates back and forth between row distribution and circular distribution, [github](https://github.com/simonheys/wordclock)
+
 ## Other Codes
 [Wordclock Source Code](file:///Users/alptugan/Documents/Arduino/WordClock_MAX7219_v2)
+
+
+## Layouts
+Turkish layout 11 x 1, [github](https://github.com/bk1285/rpi_wordclock/blob/main/wordclock_layouts/turkish_11x10/stancil_front.png)
 
 
 ## Wemos D1 Mini Pro Wi-Fi
@@ -70,3 +82,7 @@ transfrom problemli
 1. DIY Word Clock on single MAX7219 driven 8x8 Matrix, [video](https://www.youtube.com/watch?v=fKetfeaBWGE), [article](https://www.hackster.io/mircemk/diy-word-clock-on-single-max7219-driven-8x8-matrix-8379ed)
 2. RGB Matrix Word Clock, [instructables article](https://www.instructables.com/Arduino-RGB-Matrix-Word-Clock/)
 3. MAX7219 LED Matrix Module Micro Word Clock, [article](https://arduinoplusplus.wordpress.com/2016/04/28/max7219-led-matrix-module-mini-word-clock/)
+4. DIY Wordclock, example projects, and sources, fonts, etc...  [article](https://www.jeremyblum.com/2016/02/03/wordclock/)
+5. Wordclock with Green Matrix Effect, [article](https://tinkerman.cat/post/wordclock/) 
+6. Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x8-word-clock/enclosure-assembly) 
+7. Wordclock 16x16 leds, [github](https://github.com/wouterdevinck/wordclock) 
