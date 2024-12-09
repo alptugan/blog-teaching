@@ -1,4 +1,5 @@
 ---
+banner: Assets/covers/cover_coding.png
 title: COD 207 Creative Coding Selected Assignments
 date: 2024-10-10
 modfification date: Thursday 10th October 2024 09:32:19
@@ -216,6 +217,12 @@ During week 8, the main focus is utilizing typographic elements (loading fonts, 
 [Zeynep Cebe](https://openprocessing.org/sketch/2463004) 
 [Zeynep Erol](https://openprocessing.org/sketch/2463004) Audiovisual game
 # week 10 - Autonomous Agents
+Week 10 Assignments - Autonomous Agents & Random Walkers
+Name Surname (@IG_username)
+.
+.
+In Week 10 of COD 207: Creative Coding I, students developed projects focused on autonomous agents. These assignments explore how simple rules can lead to complex, emergent behaviors in visual and interactive systems. Navigate through to see examples of their work and the creative ways they applied the concepts.
+#p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart 
 ## Section A
 [Ayşenur Karakuş](https://openprocessing.org/sketch/2472179)
 [Azra Sadıkoğlu](https://openprocessing.org/sketch/2470223)
@@ -234,6 +241,15 @@ During week 8, the main focus is utilizing typographic elements (loading fonts, 
 [Zeynep Erol](https://openprocessing.org/sketch/2472344)
 
 ## Section B
+[Alara Yılmaz]()
+[Ali Büyükduman](https://openprocessing.org/sketch/2476511)
+[Anıl Ekşi](https://openprocessing.org/sketch/2468484)
+[Beren Ay](https://openprocessing.org/sketch/2470974)
+[Cem Yılmaz](https://openprocessing.org/sketch/2476539)
+[Duru Seyhan](https://openprocessing.org/sketch/2477751)
+[Ecem Filik](https://openprocessing.org/sketch/2477320)
+[Melis Aktı](https://openprocessing.org/sketch/2476920)
+[Zaman Khan](https://openprocessing.org/sketch/2471130)
 
 ---
 # week 11 - Mood boards
@@ -374,8 +390,6 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Esra Yücetürk](https://openprocessing.org/sketch/2095847)
 [Assyahh Ibrahemm](https://openprocessing.org/sketch/2105379)
 
-
-
 ## B
 [Ceyda Koşer](https://openprocessing.org/sketch/2058273) Vera Molnar
 [Ceyda Koşer](https://openprocessing.org/sketch/2105326)
@@ -423,7 +437,6 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [İpek Evrenkaya](https://openprocessing.org/sketch/2113316)
 [Atilla Can Alptekin](https://openprocessing.org/sketch/2113940)
 
-
 # Computational Poster
 [Noura Mehrez](https://openprocessing.org/sketch/2122052)
 [Batur Ay](https://openprocessing.org/sketch/2114998)
@@ -440,76 +453,45 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Noura Mehrez](https://openprocessing.org/sketch/2121863)
 [Aysu Bayramova](https://openprocessing.org/sketch/2117941)
 
-
-
-
 ---
-[Darya_Mahcup-MCD - OpenProcessing](https://openprocessing.org/sketch/1873962)
-
+[Darya_Mahcup-MCD - OpenProcessing](https://openprocessing.org/sketch/1873962
 [Izel_Ergul-data - OpenProcessing](https://openprocessing.org/sketch/1873964)
-
 [Tutku_Calis-Lifetime Exp. Data - OpenProcessing](https://openprocessing.org/sketch/1873965)
 
 // Assignment upcoming
-
 [Teachable Machine 1: Image Classification - YouTube](https://www.youtube.com/watch?v=kwcillcWOg0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=13&ab_channel=TheCodingTrain)
-
 [Teachable Machine 3: Sound Classifiication - YouTube](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=21&ab_channel=TheCodingTrain)
 
 Face tracking
-
 // Darya mid-project - Assignment 10
-
 [Drawscape - OpenProcessing](https://openprocessing.org/sketch/1908005)
-
 [notevision - OpenProcessing](https://openprocessing.org/sketch/1899261)
-
 [https://openprocessing.org/sketch/1899055](https://openprocessing.org/sketch/1899055)
-
 [Assignment 10 - OpenProcessing](https://openprocessing.org/sketch/1899008)
-
 [https://openprocessing.org/sketch/1898999](https://openprocessing.org/sketch/1898999)
 
 ## Week 05 A (Cod 207_2023-2024)
-
 [https://openprocessing.org/sketch/2075283](https://openprocessing.org/sketch/2075283)
-
 [https://openprocessing.org/sketch/2076321](https://openprocessing.org/sketch/2076321)
-
 [https://openprocessing.org/sketch/2077181/embed/](https://openprocessing.org/sketch/2077181/embed/)
-
 [https://openprocessing.org/sketch/2076959](https://openprocessing.org/sketch/2076959)
-
 [https://openprocessing.org/sketch/2077514](https://openprocessing.org/sketch/2077514)
-
 [https://openprocessing.org/sketch/2077022](https://openprocessing.org/sketch/2077022)
 
 ## Week 05 B (Cod 207_2023-2024)
-
 [https://openprocessing.org/sketch/2071865](https://openprocessing.org/sketch/2071865)
-
 [https://openprocessing.org/sketch/2058865](https://openprocessing.org/sketch/2058865)
-
 [https://openprocessing.org/sketch/2069020](https://openprocessing.org/sketch/2069020)
 
 # Week 01 A (Cod208)
-
 [https://openprocessing.org/sketch/2183298](https://openprocessing.org/sketch/2183298)
-
 [https://openprocessing.org/sketch/2183088](https://openprocessing.org/sketch/2183088)
-
 [https://openprocessing.org/sketch/2181777](https://openprocessing.org/sketch/2181777)
-
 [https://openprocessing.org/sketch/2176546](https://openprocessing.org/sketch/2176546)
-
 [https://openprocessing.org/sketch/2181739](https://openprocessing.org/sketch/2181739)
 
 # Week 01 B (Cod 208)
-
 [https://openprocessing.org/sketch/2182773](https://openprocessing.org/sketch/2182773)
-
 [https://openprocessing.org/sketch/2183741](https://openprocessing.org/sketch/2183741)
-
 [https://openprocessing.org/sketch/2182897](https://openprocessing.org/sketch/2182897)
-
 [https://openprocessing.org/sketch/2182726](https://openprocessing.org/sketch/2182726)
