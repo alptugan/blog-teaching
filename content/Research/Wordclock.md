@@ -11,7 +11,8 @@ draft: true
 ---
 ## Todos
 - [ ] Review Blender Tutorials for creating 3D prints.
-- [ ] 
+- [ ] Print new cases in thinkercad app in the [link](https://www.tinkercad.com/things/bV6nCrkgWzI/edit)
+- [ ] Ön panel pirinç deneme baskısı [cadcut](https://cadcut.co/materyaller/pirin)
 ## Current Configuration
 Source Code for current configuration on disk, [Wordclock Source Code with Animations](file:///Users/alptugan/Documents/Arduino/WordClock_MAX7219_v2-animations)
 Folder includes source files for the project, [Project Files, Layouts, Prints, 3D Prints](file:////Users/alptugan/Documents/Personal/webpage/wordclock)
