@@ -23,3 +23,6 @@ draft: true
 [github](https://github.com/typicode/json-server/tree/v0?tab=readme-ov-file)
 Get a full fake REST API with **zero coding** in **less than 30 seconds** (seriously).
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
+## Free Restful API list
+https://dev.to/hanzla-baig/100-free-apis-for-developers-in-2024-1jfi

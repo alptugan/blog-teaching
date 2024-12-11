@@ -338,6 +338,8 @@ Central to my practice is consideration of my audience, and I find no greater jo
 
 [Daniel Canogar](https://danielcanogar.com/work) Canogar's artworks explore the epistemological challenges and implications of the shift from the printing press to the digital age. His **"dataworks"** use obsolete technologies and generative algorithms to capture the position of the individual in a technologically interconnected world. Canogar collaborates with various professionals to create public art installations that integrate technology and the public realm in relevant ways.
 
+![-right|250](https://freight.cargo.site/w/2500/q/75/i/8ec4de5b0ab45ed8f0df32326361c20cd437c3db431cc28ea30b2103e8a7ed91/IMG_0340-Export.jpg)[Simon Russell](https://simonfarussell.com/Pen-Plotter) is a UK-based freelance motion graphic designer and 3D generalist who specializes in creating visuals for music, events, and TV/film. He has worked on projects for artists like Elton John and U2, as well as major events and productions like the Commonwealth Games and shows like Black Mirror. Much of his work focuses on visualizing audio and experimenting with robotic art tools like pen plotters. 
+
 ## Inspirations
 [Flight Route Visualization](https://www.youtube.com/watch?v=ystkKXzt9Wk)
 #generativeart #datavis
