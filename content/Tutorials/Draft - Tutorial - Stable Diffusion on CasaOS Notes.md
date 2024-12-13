@@ -7,9 +7,8 @@ tags:
   - AI
   - Stable-Diffusion
 aliases: 
-draft: true
+draft: false
 ---
-
 # Download Models
 For downloading a specific model you can search for it. But mostly Hugging Face repository is a good and safer place to start with.
 

@@ -10,7 +10,7 @@ tags:
 aliases: 
 draft: false
 ---
-## 1. Layered Audio Editing
+	## 1. Layered Audio Editing
 Enable "Layered Audio Editing" as follows from the `Timeline` menu.
 ![[Screenshot 2024-11-04 at 13.33.49.png]]
 

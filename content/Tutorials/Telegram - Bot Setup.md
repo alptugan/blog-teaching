@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Create Telegram Bot
+title: Telegram - Bot Setup
 date: 2024-07-20
 modfification date: Saturday 20th July 2024 14:20:24
 description: Covers about how to create Telegram Bot
