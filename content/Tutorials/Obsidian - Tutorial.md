@@ -1,6 +1,6 @@
 ---
-title: Hugo Tutorial
-draft: true
+title: Obsidian - Tutorial
+draft: false
 tags:
   - tutorial
   - Hugo

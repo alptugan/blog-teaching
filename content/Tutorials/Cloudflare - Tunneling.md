@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Cloudflare Tunneling
+title: Cloudflare - Tunneling
 date: 2024-05-24
 modfification date: Friday 24th May 2024 14:54:02
 description: Shows subdomain tunneling to a local hosted web site.
@@ -13,7 +13,7 @@ draft: false
 ---
 # Tunnelling
 
->[!warning] In order to activate tunneling you must add your main domain to the Cloudflare first. Refer to the [[Tutorial - Cloudflare Domain Register|tutorial]].
+>[!warning] In order to activate tunneling you must add your main domain to the Cloudflare first. Refer to the [[Cloudflare - Domain Register|tutorial]].
 
 If you have the process already, you can continue.
 
@@ -31,10 +31,10 @@ docker run -d --restart always cloudflare/cloudflared:latest tunnel run --token 
 
 
 ## Create Free DNS on Cloudns
-Follow the instruction on the blog post [[Tutorial - ClouDNS Free Domain Registration]] to create your own domain name.
+Follow the instruction on the blog post [[ClouDNS - Free Domain Registration]] to create your own domain name.
 
 ## Register Cloudns hostname on Cloudflare
-Follow the instructions on the blog post [[Tutorial - Cloudflare Domain Register]] showing how to register your domain on Cloudflare. Additionally, check the great [video](https://www.youtube.com/watch?v=X-TzodpqbWE) for full walk-through.
+Follow the instructions on the blog post [[Cloudflare - Domain Register]] showing how to register your domain on Cloudflare. Additionally, check the great [video](https://www.youtube.com/watch?v=X-TzodpqbWE) for full walk-through.
 
 Since there are no records on the cloudDNS domain name, Cloudflare doesn't display any information other than NS (Name Server) records. We need to configure clouDNS NS records with the ones Cloudflare provided for us. 
 

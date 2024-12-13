@@ -11,9 +11,9 @@ aliases:
 draft: false
 ---
 The following video is old but presents a good walk through.
-<iframe src="https://www.youtube.com/embed/hUSxVD-cbbM?list=PLvCZK2JKGQlNt8uEM5_J12Qj7eO5MqV03" height="113" width="200" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/hUSxVD-cbbM?list=PLvCZK2JKGQlNt8uEM5_J12Qj7eO5MqV03" height="113" width="200" style="aspect-ratio: 16 / 9; width: 100%; height: auto;" allowfullscreen="" allow="fullscreen"></iframe>
 
-<iframe src="https://www.youtube.com/embed/xx_vA5lEPr8?list=PLvCZK2JKGQlNt8uEM5_J12Qj7eO5MqV03" height="113" width="200" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/xx_vA5lEPr8?list=PLvCZK2JKGQlNt8uEM5_J12Qj7eO5MqV03" height="113" width="200" style="aspect-ratio: 16 / 9; width: 100%; height: auto;" allowfullscreen="" allow="fullscreen"></iframe>
 
 Refer to [[Key Shortcuts#Blender]] for specific key combinations.
 

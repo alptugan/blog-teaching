@@ -10,4 +10,4 @@ tags:
 aliases: 
 draft: false
 ---
-https://youtube.com/shorts/Ha33-U_tgxM?si=wMCty1LDELk2kD_1
+Click to link to watch short on [Youtube](https://youtube.com/shorts/Ha33-U_tgxM?si=wMCty1LDELk2kD_1).

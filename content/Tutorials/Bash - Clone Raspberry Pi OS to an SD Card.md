@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Clone Raspberry Pi OS to an SD Card
+title: Bash - Clone Raspberry Pi OS to an SD Card
 date: 2024-04-22
 description: The tutorial covers how to clone an existing RPI OS system to an empty SD Card
 tags:

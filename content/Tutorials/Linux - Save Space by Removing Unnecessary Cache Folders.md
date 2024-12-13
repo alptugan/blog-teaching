@@ -1,10 +1,10 @@
 ---
-title: Save Space by Removing Unnecessary Cache Folders
+title: Linux - Save Space by Removing Unnecessary Cache Folders
 date: 2024-04-27
 description: 
 tags: 
 aliases: 
-draft: true
+draft: false
 ---
 
 | Description       | System Path                                         |

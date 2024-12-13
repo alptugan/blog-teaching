@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Disable Gate Keeper on Mac OS
+title: Bash - Disable Gate Keeper on Mac OS
 date: 2024-09-09
 modfification date: Monday 9th September 2024 18:00:37
 description: Shows how to disable gate keeper on Mac OS to install apps from unidentified developers.

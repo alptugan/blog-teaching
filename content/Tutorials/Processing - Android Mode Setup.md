@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Processing Android Mode
+title: Processing - Android Mode Setup
 date: 2024-04-11
 description: As of the date (04.2024), the tutorial showcases how to deploy custom mobile app to Android devices.
 tags:

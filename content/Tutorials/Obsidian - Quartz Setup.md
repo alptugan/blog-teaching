@@ -1,10 +1,11 @@
 ---
-title: Tutorial - Quartz 4 for Obsidian Publish
+title: Obsidian - Quartz Publish
 date: 2023-10-15
 description: Quartz setup on Mac
 tags:
   - quartz
   - tutorial
+  - Obsidian
 aliases: 
 draft: false
 ---
