@@ -5,6 +5,7 @@ description:
 tags:
   - tutorial
   - Obsidian
+  - Static-Website
 aliases: 
 draft: true
 ---

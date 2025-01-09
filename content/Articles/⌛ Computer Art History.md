@@ -11,6 +11,9 @@ tags:
 draft: false
 aliases: []
 ---
+## Background
+This post will turn into an interactive dedicated web page in the future. there are huge list of notes and references that I have collected through the years. It is a huge mess, so I 
+
 ## 1940s
 ### A Brief History of the RAND Corporation
 Lindsay Caplan mentions about [RAND](https://www.rand.org/about/history.html) as it is one of the first constitutions that is fostering computer arts.<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
@@ -20,6 +23,11 @@ The computer industry is relatively young in age when compared to most other ind
 
 [Generative Practice. The State Of The Art • Digicult | Digital Art, Design and Culture](http://digicult.it/digimag/issue-057/generative-practice-the-state-of-the-art/)<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
 ## 1950
+### Boeing Company Coined the Term  "Computer Graphics"
+The first commercial computer was marketed in 1950. Ten years later the Boeing airplane company coined the term computer graphics. They used graphics for purely utilitarian purposes. These were employed, for instance, to verify the landing accuracy of a plane viewed from the pilot's seat and the runway. They were used to establish the interaction of range of movements of the pilot in his environment of the cockpit. To this end they created a 50 percentile pilot and studied him in animation. All the drawings and the animation were done with a computer. Other experiments included visualizing acoustic graphs in perspective and the production of very accurate isometric views of aeroplanes.
+
+[source](https://www.studiointernational.com/index.php/computer-art-jasia-reichardt) (_This article was first published in Studio International, Vol 173, No 889, May 1967, pages 222-223._)
+
 ### Computers and Automation 
 ![[computers_and_automation_1975.png|-right|270]]One of the earliest publications related to computational devices. Computers and Automation was the first magazine focused around digital technology. Published by Edmund C. Berkeley since 1950. Computers and Automation was the first computer magazine. It was originally called Roster of Organizations in the Field of Automatic Computing Machinery, and later The Computing Machinery Field. This publication initiated the first Computer Art Contest since 1963. A regular bibliography on computer art was compiled by Mezei, Leslie since 1966. Stopped publishing in 1972. This publication initiated the first Computer Art Contest in 1963. [José Luis Alexanco](http://puerta-roja.com/art/artists/jose-luis-alexanco/)‘s computer generated sculptural work is featured on the cover of the April 1975 edition.
 

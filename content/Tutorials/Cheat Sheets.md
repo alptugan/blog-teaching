@@ -16,6 +16,9 @@ draft: false
 4. [[#Run docker container's command]]
 5. [[#Troubleshooting]]
 
+## Links to external resources
+https://cheatsheets.zip/cpp
+[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file) The repo includes variety of tools, shell commands related to CLI.
 ## Linux General Commands
 ### awk
 awk is used to filter and manipulate output from other programs and functions. Slices the line from empty spaces and assign them to vars. Patterns are enclosed in curly braces `{}`. Together, a pattern and an action form a rule. The entire awk program is enclosed in single quotes `'`.
@@ -189,28 +192,13 @@ sudo ps -e | grep 'mysqld'
 ps -ef | grep "irlz*"
 ```
 
-### scp
+
+### rm
 ```shell
-# Copy a file from Mac to Windows
-scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\Users\ASUS\Desktop
+# Delete the folder_name directory and file_name document
+rm -rf folder_name/ file_name
 ```
 
-### sed
-[Reference]( https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
-```
-# The ****SED (Stream Editor)**** command in Unix/Linux is a powerful utility used to process and manipulate text in files. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more, without the need to open the file in an editor.
-```
-### systemctl
-```bash
-# Grep anything that has prefix `teamwiever`
-systemctl | grep "teamviewer*"
-
-# Disable and remove service from autostart.
-sudo systemctl disable teamviewerd.service
-
-# Enable and add service from autostart.
-sudo systemctl enable teamviewerd.service
-```
 
 ### rsync
 ```bash
@@ -225,6 +213,63 @@ rsync -ah --progress  –partial source_folder/ target_location
 
 # remote copy
 rsync -ahP source_folder user@192.168.1.247:/user/
+```
+
+
+### scp
+```shell
+# Copy a file from Mac to Windows
+scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\Users\ASUS\Desktop
+```
+
+
+### sed
+[Reference]( https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+```
+# The ****SED (Stream Editor)**** command in Unix/Linux is a powerful utility used to process and manipulate text in files. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more, without the need to open the file in an editor.
+```
+
+### systemctl
+```bash
+# Grep anything that has prefix `teamwiever`
+systemctl | grep "teamviewer*"
+
+# Disable and remove service from autostart.
+sudo systemctl disable teamviewerd.service
+
+# Enable and add service from autostart.
+sudo systemctl enable teamviewerd.service
+```
+
+
+### tar
+```shell
+# Compress html folder at the /var/www/html location
+# -C tells the script to go to /var/www directory and zip the html folder. 
+# The zipped folder will appear in the current directory path where the user works
+tar -zcf backup.tar.gz -C /var/www html
+
+# Execute command in an another command via $() syntax... to add date as suffix
+tar -zcf /home/tony/backup/daily/backup-$(date +%Y%m%d).tar.gz -C /var/www/ html
+
+# Extract compressed files
+tar -xzvf backup.tar.gz
+```
+
+
+### timedatectl
+```bash
+# List time zone names
+timedatectl list-timezones
+
+# Set time zone
+sudo timedatectl set-timezone Europe/Istanbul
+
+# Enable the service
+sudo timedatectl set-ntp on
+
+# Check the current date-time
+timedatectl
 ```
 
 ### uname
@@ -258,20 +303,6 @@ ufw deny 22
 udisksctl status
 ```
 
-### timedatectl
-```bash
-# List time zone names
-timedatectl list-timezones
-
-# Set time zone
-sudo timedatectl set-timezone Europe/Istanbul
-
-# Enable the service
-sudo timedatectl set-ntp on
-
-# Check the current date-time
-timedatectl
-```
 
 ### watch
 ```bash title="watch"

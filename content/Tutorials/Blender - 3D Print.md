@@ -28,3 +28,7 @@ The following video presents setting print area, start blender with printer temp
 
 > [!TIP]- Refer to [[Blender - Install Mesh 3D-Print Toolbox]] page in order to view 3D Print tab in Blender.
 > >![[blender-3print-menu.png]]
+
+
+## Other Tutorials
+[youtube](https://www.youtube.com/watch?v=7mBSc-pxRvk) 3D print city scapes via Blender.

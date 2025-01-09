@@ -3,24 +3,6 @@ title: Things to do
 draft: true
 tags:
 ---
-```bash
-
-# upload to Github
-npx quartz sync
-
-# update Quartz -> https://quartz.jzhao.xyz/upgrading
-npx quartz update
-
-# test
-npx quartz build --serve
-
-# Run the script 
-sh /Users/alptugan/Documents/DEVS/scripts/update_blog
-
-```
-- [ ] google Analytics implementation [link](https://quartz.jzhao.xyz/configuration)
-- [ ] Mobile Explorer Issue
-
 # Remote Open Source Alternatives
 https://www.youtube.com/watch?v=DZ0Ocwga43w
 [Mesh Central](https://meshcentral.com/downloads.html) vs. RustDesk
@@ -28,6 +10,9 @@ Tailscale
 Headscale
 Guacamole
 
+# Static Sites / Frameworks
+[Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
+[Awesome Portfolio](https://dly.to/K0v1qpgFvDe) Web-site template that mimics the VS Code interface.
 
 # AI Data Analysis tools
 [Microsoft Lida](https://microsoft.github.io/lida/)
@@ -56,6 +41,7 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
 [Bootstrap](https://getbootstrap.com/)
 [Universe.io](https://uiverse.io/cards?page=5)
+[cuicui](https://cuicui.day/) Copy/paste React component library.
 ## JS Libraries
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
@@ -69,32 +55,25 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) Node Garph tool based on WebGL high performance.
 [W-GL](https://github.com/anvaka/w-gl/tree/master) It was mostly inspired by [WebGL Insights](http://www.webglinsights.com/) book, and ~~is not really meant to be a reusable library~~ I use it for most of my 2D and 3D webgl rendering. I should probably document this more.
 [City Maps](https://github.com/anvaka/city-script?tab=readme-ov-file)  #creativecoding 
+[Skia Canvas](https://github.com/samizdatco/skia-canvas?tab=readme-ov-file) Something like a framework built upon node. Capable of creating native windows. As I understand, it aims to easing the process of graphical assets via node... But it can be used as creative coding framework.
 
-## CSS Animation
-[Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.
-[Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
-[Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
-[Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
-[Text Animations](https://angrytools.com/css/animation/), [Moving Letters](https://tobiasahlin.com/moving-letters/)
-[CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
-[Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
-[Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
-[CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
-[Thumbnail hover animations](https://imagehover.io/)
-[Neomorphism](https://neumorphism.io/#e0e0e0)
-[Glass Morphisim](https://hype4.academy/tools/glassmorphism-generator)
-[Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
-[Clipping Masks](https://bennettfeely.com/clippy/)
-[CSS Filters](https://www.cssfilters.co/)
-[Convert to Base64 Images](https://www.base64-image.de/)
-[CSS Color Palettes](https://colorhunt.co/)
-[Color Related Tools](https://colordesigner.io/tools)
-[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-[CSS Layout Generator](https://layout.bradwoods.io/)
-[CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
+## Markdown
+[Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.
 
 ## Browser Compatibility
 [Can I Use?](https://caniuse.com/webp) Checks which features compatible with which browsers? 
+
+## Static Site HTML/Markdown Page Templates
+[HTML Rev](https://htmlrev.com/) 1500+ free HTML templates for websites, landing pages, blogs, portfolios, e-commerce and admin dashboards.
+[VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
+
+## Icons, Assets & Colors
+[Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
+[Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
+
+
+## Chat Bots for customers
+[Chatwoot](https://www.chatwoot.com/help-center)
 
 # HOME SERVER
 ## Operating Systems
@@ -137,9 +116,11 @@ AdGuard Home
 [ddev](https://github.com/ddev/ddev?tab=readme-ov-file) → PHP, NodeJs
 [Yunohost](https://yunohost.org/en/install/hardware:vps_debian) Türk çocuğun tutorialları var
 # AI Related
+⭐️[Video](https://www.youtube.com/watch?v=8dXGk3RTTKs) It seems very useful for creating tutorials for students in video format step by step guides. Train a model with your face and generate images. Youtube video cover generator. Napkin seems great for generating diagrams and illustrations for papers and presentations. 
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 
 [DevGPT](https://www.getdevkit.com/dashboard) GPT trained for coding tasks.
 [Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
+[pinokio AI](https://pinokio.computer/) AI operating system to install variety of AI tech easily. It automates the github installation process.
 ## Text to Image
 [Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
 
@@ -147,11 +128,42 @@ AdGuard Home
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
 > [!NOTE] Bunu kendi küçük robotuma entegre etmeye çalşabilirim.
 
+[Mintlify](https://mintlify.com/) Documentation tool including AI assistant as Mem0 app above.
+[Zotero Ollama Chat](https://github.com/sanketsabharwal/ZoteroScholar)
+	- [Quatize Models](https://towardsdatascience.com/set-up-a-local-llm-on-cpu-with-chat-ui-in-15-minutes-4cdc741408df)
+	- [General Ollama Model Training](https://medium.com/@gabrielrodewald/running-models-with-ollama-step-by-step-60b6f6125807)
+
+[Ollama p5JS](https://github.com/Programming-from-A-to-Z/Ollama-Examples) Daniel Schiffman repository shows how to use Ollama on local machines.
+Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
+
+[Node.js Ollama Integration](https://dev.to/hisukurifu/running-local-llm-ollama-from-api-in-node-2kk3)
+
+[Neural Networks - Python](https://github.com/gmasil/neural-network-training) The repo includes neural network tutorial from zero. Starts with single neuron and increases. It doesn't use pre-trained models, etc....
+
+[Chatbox AI](https://chatboxai.app/en) Similar to aynthing LLM
+
+[Tabby AI](https://github.com/TabbyML/tabby) Open-source free code companion
+
+[OpenWebUI](https://github.com/open-webui/open-webui) Similar to Anything LLM
+
+[Postiz](https://github.com/gitroomhq/postiz-app?tab=readme-ov-file) Social Media Scheduling
+
+⭐️ [Open Hands AI](https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file) Code helper tool.
+
 [kotaemon](https://github.com/Cinnamon/kotaemon) An open-source RAG-based tool for chatting with your documents.
+
 [ZoteroScholar](https://github.com/sanketsabharwal/ZoteroScholar)
-## Tutorial
+
+[Bolt AI](https://www.youtube.com/watch?v=bxhR9WntH5w) Free opensource code assistant. Seems pretty good.
+
+### Tutorials
+⭐ [Fine Tuninning Models with pdf, TR](https://www.youtube.com/watch?v=nsl-1hb8Uxc) # Llama ile Kendi Yapay Zekanızı Ücretsiz Eğitin! (Fine Tuning Rehberi)
+
 [How to use Ollama and openWebUI and chat with documents](https://www.youtube.com/watch?v=Lb5D892-2HY)
-[Private Chat with your Documents with Ollama and PrivateGPT | Use Case | Easy Set up](https://www.youtube.com/watch?v=lhQ8ixnYO2Y)[Automated research and download paper from arxiv](https://www.youtube.com/watch?v=f1ihg20fQiU)
+
+[Private Chat with your Documents with Ollama and PrivateGPT | Use Case | Easy Set up](https://www.youtube.com/watch?v=lhQ8ixnYO2Y)
+
+[Automated research and download paper from arxiv](https://www.youtube.com/watch?v=f1ihg20fQiU)
 
 # Automation
 [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
@@ -178,6 +190,18 @@ AdGuard Home
 [ScreenshotToCode](https://screenshottocode.com/) Transform screenshots to html using AI.
 [Mintlfy](https://github.com/mintlify/writer) Generate documentation by selecting code snippets.
 [Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
+[Plausible](https://github.com/plausible/analytics) Open-source analytics tool for web applications.
+[Dub](https://dub.co/) An open source link shortener.
+## Documentation
+[Docz](https://www.docz.site/docs/getting-started)
+[docsify](https://docsify.js.org/#/) Generates documentation page via readme file on Github.
+## Free Domain & hosting
+[JS.org](https://js.org/?) Sub Domain name for github pages
+[Tiiny.host](https://tiiny.host/pricing) Allows single domain for project.
+
+## Database & CMS
+[NocoDB](https://github.com/nocodb/nocodb) Create databases as if using spreadsheets.
+[Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples
 
 # File Managers
 [FileGator](https://filegator.io/) Nice interface. Better than fileBrowser
@@ -194,8 +218,47 @@ AdGuard Home
 
 # Online Dev Tools
 [JSON Editor - Validator](https://jsoneditoronline.org/)
+[JsonCrack](https://github.com/AykutSarac/jsoncrack.com) JSON visualizer
 [RegEx Test](https://regex101.com/)
+[DownGit](https://downgit.github.io/#/home) Copy the link of a GitHub folder inside a specific repo and download the specific folder. It helps you to avoid downloading entire project folder.
+[photogradient](https://photogradient.com/) Create gradients online
+
+## UI / CSS
+[FlexboxLabs](https://flexboxlabs.netlify.app/) it’s a visual tool that helps you create layouts using CSS Flexbox.
+[UIVerse](https://uiverse.io/elements?page=1) Open-Source UI elements made with CSS or Tailwind.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
+[Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
+https://stunningui.design/
+
+## CSS Layout
+[CSS Layout Generator](https://layout.bradwoods.io/) 
+https://www.tailframes.com/
+
+## Animation CSS 
+[Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.
+[Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
+[Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
+[Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
+[Text Animations](https://angrytools.com/css/animation/), [Moving Letters](https://tobiasahlin.com/moving-letters/)
+[CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
+[Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
+[Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
+[CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
+[Thumbnail hover animations](https://imagehover.io/)
+[Neomorphism](https://neumorphism.io/#e0e0e0)
+[Glass Morphisim](https://hype4.academy/tools/glassmorphism-generator)
+[Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
+[Clipping Masks](https://bennettfeely.com/clippy/)
+[CSS Filters](https://www.cssfilters.co/)
+[Convert to Base64 Images](https://www.base64-image.de/)
+[CSS Color Palettes](https://colorhunt.co/)
+[Color Related Tools](https://colordesigner.io/tools)
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+[CSS Layout Generator](https://layout.bradwoods.io/)
+[CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
+
+## Fonts
+[Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
 # Password Managers
 [KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
 [Bitwarden](https://github.com/bitwarden)

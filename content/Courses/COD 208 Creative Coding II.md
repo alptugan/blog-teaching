@@ -8,6 +8,15 @@ tags:
 aliases: 
 draft: false
 ---
+# Notes
+1. Check the [[Selected Computational Thinking Analysis Papers]] for how you should or not prepare your analysis about the project.
+2. p5js [website](https://p5js.org/)
+3. p5JS [cheatsheet](https://lms.ozyegin.edu.tr/pluginfile.php/72529/mod_label/intro/cheat%20sheet%20p5js.pdf)
+4. Presentations [page](https://alptugan.github.io/Slidev_Presentations/index.html)
+5. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
+6. RandomSeed Webpage [selected projects](https://randomseed.cargo.site/)
+7. 
+ 
 # week 1
 1. 👀 Keep your eyes open. Choose a thing. Lets say your favourite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus.
 2. As we did in preivous semester, break it apart using CT principles. Redraw it using p5JS.
@@ -89,9 +98,7 @@ Holiday
 Project Proposal Submission
 
 # API Calls
-[Get Weather Information](https://editor.p5js.org/jackbdu/sketches/DwblU8agP)
-[NY Times Content](https://editor.p5js.org/jackbdu/sketches/XLWlj2qZw)
-
+Check the following page ([[REST API#Free Restful API list|List of Free Rest APIs]]) to access more API-related content resources in the free version.
 
 # Machine Learning 
 [Daniel Schiffman](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main)
