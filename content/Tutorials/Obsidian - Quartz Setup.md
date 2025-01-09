@@ -6,11 +6,48 @@ tags:
   - quartz
   - tutorial
   - Obsidian
+  - Static-Website
 aliases: 
 draft: false
 ---
 ## Summary
 This tutorial covers how to build a static web site, hosted on [Github](https://www.github.com) for free, using [Quartz](https://quartz.jzhao.xyz/) as a framework and [Obsidian](https://obsidian.md/) as a backend IDE. 
+
+The following bash script is triggered inside Obsidian to update the content of my personal digital garden hosted on my [GitHub](https://alptugan.github.io/blog-teaching/) account.
+```bash
+#!/bin/bash
+# Declare the Directory to log-in
+dir="/Users/alptugan/Documents/DEVS/Sites/blog-teaching"
+
+# Log in to the directory where digital garden stays
+cd $dir
+
+# Print the directory for debugging purposes
+echo $dir
+  
+# Sync content to github via npx
+npx quartz sync
+```
+
+I save the above code in document called `update_blog`. Then, make it executable via Terminal `chmod +x update_blog`. Whenever I need to update the content, I execute the following command on Terminal or I use [Shell Commands](https://github.com/Taitava/obsidian-shellcommands) community-plugin of Obsidian. 
+```
+sh /Users/alptugan/Documents/DEVS/scripts/update_blog
+```
+
+### TL;DR
+```bash
+# upload to Github
+npx quartz sync
+
+# update Quartz -> https://quartz.jzhao.xyz/upgrading
+npx quartz update
+
+# test
+npx quartz build --serve
+
+# Updating content via terminal 
+sh /Users/alptugan/Documents/DEVS/scripts/update_blog
+```
 ## Requirements
 Before started, make sure that you have the following requirements. 
 1. Create a free [Github](https://www.github.com) account.
@@ -148,7 +185,6 @@ Mine is;
 
 
 ### How to edit blog content within the same Obsidian vault
-
 Check the following link to link the existing Quartz 4 folder to the original Obsidian
 
 1. Create the folder in original vault -> blog-teaching. You don't need to create `content` folder. We will do it in the next step via `ln` command.

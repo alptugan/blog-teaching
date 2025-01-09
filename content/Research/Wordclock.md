@@ -11,9 +11,9 @@ draft: true
 ---
 ## Todos
 - [ ] Review Blender Tutorials for creating 3D prints.
-- [ ] Print new cases in thinkercad app in the [link](https://www.tinkercad.com/things/bV6nCrkgWzI/edit)
-	- [ ] 3D print must be black
-	- [ ] 3D print with only case to hold clear acrylic. Do not include letter cutout.
+- [x] Print new cases in thinkercad app in the [link](https://www.tinkercad.com/things/bV6nCrkgWzI/edit)
+	- [x] 3D print must be black
+	- [x] 3D print with only case to hold clear acrylic. Do not include letter cutout.
 - [ ] Try filikaboard v3 with different standart module type
 - [ ] Replace key_switch lib with the new version
 	- [ ] install the lib, [github](https://github.com/MajicDesigns/MD_UISwitch)
@@ -90,6 +90,13 @@ Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x
 ## Data sheets and Circuit Diagrams
 ![[RTC.webp|-left|300]]
 
+![[tiny_rtc-arduino.webp|300]]
+
+![[tiny_rtc.jpg|200]]
+## Debounce Circuit
+![-left|200](debounce_pull-up.png)
+![-left|200](debounce_pull-down.png)
+
 ## References
 1. DIY Word Clock on single MAX7219 driven 8x8 Matrix, [video](https://www.youtube.com/watch?v=fKetfeaBWGE), [article](https://www.hackster.io/mircemk/diy-word-clock-on-single-max7219-driven-8x8-matrix-8379ed)
 2. RGB Matrix Word Clock, [instructables article](https://www.instructables.com/Arduino-RGB-Matrix-Word-Clock/)
@@ -99,3 +106,5 @@ Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x
 7. Wordclock 16x16 leds, [github](https://github.com/wouterdevinck/wordclock) 
 8. Circuit Designers Free, [cirkitdesigner](cirkitdesigner.com) (not registered), [Wokwi](https://wokwi.com) (protonmail)
 9. FastLED library for addressable leds and matrix, [github](https://github.com/FastLED/FastLED), [video](https://www.youtube.com/watch?v=D_QBlFIQk-o&t=4s), [article](https://www.instructables.com/Make-Your-Own-10x10-LED-Matrix/)
+10. Wristwatch wordclock, includes 3D print files. Font cut-out seems better [github](https://github.com/andydoro/Wordclock-Wristwatch/tree/master)
+11. NeoMatrix (Adafruit) wordclock tutorial, [github](https://github.com/andydoro/WordClock-NeoMatrix8x8/tree/master) 

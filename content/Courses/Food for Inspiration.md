@@ -137,9 +137,15 @@ Given the start and end points of a line caluculate the coordinates
 ### 2. Body, Pose, Face, Hand Tracking Apps 
 [Popeye](https://github.com/thomasgeissl/popeye?tab=readme-ov-file)popeye does some very basic skeleton and hand tracking, and sends recognized landmarks via osc or mqtt. it uses mediapipe internally. Uses web-cam.
 
+## 3. Audiovisual
+[Draw Audio](https://draw.audio/) Online step-sequencer to create music tool according to selected root tone.
+
 ---
 ## ⚙️ Library & Addons
 P5js OSC library to communicate with Processing, [p5js_osc](https://github.com/golanlevin/p5js_osc_2024)
+Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
+Single line fonts to achieve plotter typography, [p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources?tab=readme-ov-file)
+Small high performance UI library that supports 3D and Three.js support [UIL](https://github.com/lo-th/uil)
 
 ## 👩🏻‍🎤 Artists
 [Maggie Orth](http://www.maggieorth.com/) Artist work with textile and electronics. 
@@ -308,6 +314,7 @@ Frieder Nake, #interview #history About Generative art
 [Disco Ball Material](https://codepen.io/ksenia-k/pen/ZEjJxWQ) Creates a shiny disco ball material effect.
 [Flying Ghost](https://codepen.io/ksenia-k/pen/QWmjgWX) It can be an interactive installation displaying visitor in the form of ghost.
 [Tornado effect](https://codepen.io/ksenia-k/pen/yLvVzzd)
+[1 Million Particles](https://github.com/poeti8/one-million-particles) 
 
 ### WebGL
 [Blobs](https://codepen.io/ksenia-k/pen/ExByemG)
@@ -323,6 +330,9 @@ Frieder Nake, #interview #history About Generative art
 
 [Photo tile](https://codepen.io/ksenia-k/pen/rNEXXqN)
 
+### Tutorials
+[Shader Learning](https://shader-learning.com/module-view/2) Great resource
+Collection of Three.js Resources for Building 3D Websites, [link](https://threejsresources.com/)
 
 ---
 # Generative Art
@@ -367,8 +377,15 @@ Central to my practice is consideration of my audience, and I find no greater jo
 
 [WiFiEspAT](https://github.com/JAndrassy/WiFiEspAT) This library creates standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.
 
+[Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) Serial Studio is a multi-platform, versatile data visualization tool designed for embedded engineers, students, hackers, and teachers. It allows users to visualize, analyze, and represent data from their projects and devices without needing custom, project-specific visualization software.
+
 > [!TIP] For data smoothing operations check [[#4. Data Smoothing]] section.
 
+## Tutorials
+- Hardware, software and internal debounce techniques on an Arduino or a Raspberry Pi, [forum post](https://www.gammon.com.au/forum/?id=11955)
+- Touch Designer beginner tutorials, [youtube](https://www.youtube.com/playlist?list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
+- Touch Designer, point cloud, web cam, [youtube](https://www.youtube.com/watch?v=NnrWjQ_zO-s)
+- 
 ## Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing

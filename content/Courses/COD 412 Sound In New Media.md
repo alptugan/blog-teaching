@@ -12,6 +12,30 @@ tags:
 aliases: 
 draft: false
 ---
+## Articles
+This section includes selected articles from sound literature and research to provide students overall framework in terms of sound as a theory and practice. The section organized in a unordered list of sources. There is no linear flow for the selected articles and project documents. Rather the list provides set of themes, contexts and knowledge related to sound and experimental showcases of music. 
+
+> [!TIP]- How to Read an Academic Article 
+>1. Caveat: no single style works for everyone!
+>2. Klein’s basic steps for skimming, scanning, processing…
+>    I. Read the abstract (if provided)
+>    II. Read the introduction.
+>    III. Read the conclusion.
+>    IV. Skim the middle, looking at section titles, tables, figures, etc.—try to get a feel for the style and flow of the article.
+>        a. Is it methodological, conceptual, theoretical (verbal or mathematical), empirical, or something else?
+>        b. Is it primarily a survey, a novel theoretical contribution, an empirical application of an existing theory or technique, a critique, or something else?
+>    V. Go back and read the whole thing quickly, skipping equations, most figures and tables.
+>    VI. Go back and read the whole thing carefully, focusing on the sections or areas that seem most important.
+>3. Once you’ve grasped the basic argument the author is trying to make, critique it!
+>    I. Ask if the argument makes sense. Is it internally consistent? Well supported by argument or evidence? (This skill takes some experience to develop!)
+>    II. Compare the article to others you’ve read on the same or a closely related subject. (If this is the first paper you’ve read in a particular subject area, find some more and skim them. Introductions and conclusions are key.) Compare and contrast. Are the arguments consistent, contradictory, orthogonal?
+>    III. Use Google Scholar, the Social Sciences Citation Index, publisher web pages, and other resources to find articles that cite the article you’re reading. See what they say about it. See if it’s mentioned on blogs, groups, etc.
+>    IV. Check out a reference work, e.g. a survey article from the _Journal of Economic Literature,_ a Handbook or Encyclopedia article, or a similar source, to see how this article fits in the broader context of its subject area.
+>    
+>    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+
+
+
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.

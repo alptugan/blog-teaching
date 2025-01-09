@@ -252,10 +252,44 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 [Zaman Khan](https://openprocessing.org/sketch/2471130)
 
 ---
-# week 11 - Mood boards
-## Section A
+# Final Projects A
+[Aleyna Kabaklar](https://openprocessing.org/sketch/2495471) - Music player
+[Abeerah Maline](https://openprocessing.org/sketch/2482311) , [ver 2](https://openprocessing.org/sketch/2482307)- Matching game
+[Asya Bal](https://openprocessing.org/sketch/2495763) - Music visualizer
+[Ayşenur Karakuş](https://openprocessing.org/sketch/2495120) - VJ tool
+[Azra Sadıkoğlu](https://openprocessing.org/sketch/2490356) - Rescue the bird game
+[Bahar Kızılkaya](https://openprocessing.org/sketch/2487246) - Branding, generative logo
+[Boray Ünlü](https://openprocessing.org/sketch/2490460), [ver2](https://openprocessing.org/sketch/2490460) - Generative Art
+[Duru Özcan](https://openprocessing.org/sketch/2486379) - Kind of game
+[Duygu Aksöz](https://openprocessing.org/sketch/2489151) - Generative Character Design ⭐️
+[Elif Erpulat](https://openprocessing.org/sketch/2490424) - Motocycle - music - weak concept
+[Gizem Çobanoğlu](https://openprocessing.org/sketch/2488234) - Mushrun ⭐️
+[İdil Akan](https://openprocessing.org/sketch/2494484) - Dating app prototype ⭐️
+[İrem Apaydın](https://openprocessing.org/sketch/2496797) - Educational App ⭐️ (Interaction should be improved)
+[İris Eryılmaz](https://iriseryilmaz.github.io/Through-the-Mirror/) - Survey App - Kind of artwork ⭐️
+[Kerem Yaşlıçimen](https://openprocessing.org/sketch/2495585) - Generative Art ⭐️
+[Lal Kara](https://openprocessing.org/sketch/2470955) - Memory Game ⭐️
+[Lana Jamal](https://lana-el-jamal.github.io/RYTHM-GO/lana%203/) - Dance Game, ML ⭐️
+[Maye Caferzade](https://openprocessing.org/sketch/2480773) - Application about world countries. ⭐️
+[Naz İpek](https://openprocessing.org/sketch/2495895) - Space game ⭐️
+[Talin Akarvardar](https://openprocessing.org/sketch/2495682) - Puzzle Game ⭐️
+[Zeynep Cebe](https://openprocessing.org/sketch/2495406) - Educational app teaching musical notes ⭐️
+[Zeynep Erol](https://openprocessing.org/sketch/2495751) - Game, collect fallen items. 
 
-## Section B
+# Final Projects B
+[Alara Yılmaz](https://openprocessing.org/sketch/2488910) - Game ⭐️
+[Ali Büyükduman](https://openprocessing.org/sketch/2493097) - Fake Coder screen interactive ⭐️
+[Anıl Ekşi](https://openprocessing.org/sketch/2492875) Spotify alternative music player ⭐️
+[Beren Ay](https://openprocessing.org/sketch/2497381) Rick and Morty game ⭐️
+[Efe Cem Yılmaz](https://openprocessing.org/sketch/2493971) Audio Visualizer ⭐️
+[Deniz Sönmez](https://openprocessing.org/sketch/2494010) Generative Art ⭐️
+[Duru Seyhan](https://openprocessing.org/sketch/2493884) Generative Art
+[Ecem Filik](https://openprocessing.org/sketch/2496420) Educational Music app ⭐️
+[Eda Şenel](https://openprocessing.org/sketch/2496420) Collage - Weak
+[Kerem Alp](https://openprocessing.org/sketch/2496679) Original idea, weak implementation
+[Melis Aktı](https://openprocessing.org/sketch/2448210) Game, collect fallen items
+[Zaman Khan](https://openprocessing.org/sketch/2480666) Online postcard application ⭐️ Original idea
+
 
 ---
 # Survey Links
@@ -273,6 +307,13 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 [ALAP 12](https://forms.gle/RgfNauJyPe5sKewM7)
 
 ---
+
+
+
+
+
+
+
 # COD 208 Final Project (2023-2024)
 ## A
 [Sedanur Yıldız](https://openprocessing.org/sketch/2277810) Game: Enemy of The City

@@ -18,14 +18,30 @@ draft: false
 | LMB  | Left Mouse Button      |
 | \|   | Or                     |
 | \>   | Then                   |
+| ↑    | Key Up                 |
+| →    | Key Right              |
+| ↓    | Key Down               |
+| ←    | Key Left               |
+| ␣    | Space                  |
+
+## Mac OS Global
+<font color="gray">⌃ + ⌥ + "</font> Insert double quotes `""` on Turkish keyboard setup.
+
 
 ## Arc Browser (Chrome Extensions)
 ### DeepL Extension
-<span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text
+<span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text 
+
 
 ## Obsidian
 <span style="color:gray">⌘ + ⇧ + S</span> Strike over selected text
-<span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu
+
+<span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu 
+
+<span style="color:gray">⌘ + ⌥ + F</span> Find a word, all occurrences, and replace
+
+<span style="color:gray">⌥ + ↓ | ↑</span> Move up or down todo items.
+
 
 ## Davinci Resolve Fairlight
 <span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
@@ -52,105 +68,109 @@ draft: false
 
 <font color="#7f7f7f">⇧ + Middle Mouse Button + Drag</font> Pan
 
-F2 Rename Object
+<span style="color:gray">F2</span> Rename Object
 
-F3 Search
+<span style="color:gray">F3</span> Search
 
-X Delete
+<span style="color:gray">X</span> Delete
 
-⌘ + J Join Object
+<span style="color:gray">⌘ + J</span> Join Object
 
-⌥ + Z X-Ray
+<span style="color:gray">⌥ + Z</span> X-Ray
 
-⇧ + Z Wireframe
+<span style="color:gray">⇧ + Z</span> Wireframe
 
-⌃ + Space Full Screen
+<span style="color:gray">⌃ + ␣</span> Full Screen
 
-Z Shading Pie
+<span style="color:gray">Z</span> Shading Pie
 
-⌥ + ⇧ + Z Toggle Overlays
+<span style="color:gray">⌥ + ⇧ + Z</span> Toggle Overlays
 
-G Move (Grab)
+<span style="color:gray">G</span> Move (Grab)
 
-G then X | Y | Z Move (Global Axis)
+<span style="color:gray">G then X | Y | Z</span> Move (Global Axis)
 
-G then XX | YY | ZZ Move (Local Axis)
+<span style="color:gray">G then XX | YY | ZZ</span> Move (Local Axis)
 
-S Scale
+<span style="color:gray">S</span> Scale
 
-R Rotate
+<span style="color:gray">R</span> Rotate
 
-S then X | Y | Z  Scale (Global Axis)
+<span style="color:gray">S then X | Y | Z</span>  Scale (Global Axis)
 
-S then XX | YY | ZZ Scale (Local Axis)
+<span style="color:gray">S then XX | YY | ZZ</span> Scale (Local Axis)
 
-R then X | Y | Z  Rotate (Global Axis)
+<span style="color:gray">R then XX | YY | ZZ</span> Rotate (Local Axis)
 
-R then XX | YY | ZZ Rotate (Local Axis)
+<span style="color:gray">R then X | Y | Z</span>  Rotate (Global Axis)
 
-R + R Free Rotate
+<span style="color:gray">R + R</span> Free Rotate
 
-Alt + G Reset Position
+<span style="color:gray">Alt + G</span> Reset Position
 
-Alt + R Reset Rotation
+<span style="color:gray">Alt + R</span> Reset Rotation
 
-Alt + S Reset Scale
+<span style="color:gray">Alt + S</span> Reset Scale
 
-Ctrl + A Apply Scale
+<span style="color:gray">Ctrl + A</span> Apply Scale
 
-Shift + D Duplicate
+<span style="color:gray">Shift + D</span> Duplicate
 
-Alt + D Duplicate Linked
+<span style="color:gray">Alt + D</span> Duplicate Linked
 
-Shift + Tab Snapping Toggle
+<span style="color:gray">Shift + Tab</span> Snapping Toggle
 
-`LMB` Select
+<span style="color:gray">`LMB`</span> Select
 
-B | Drag LMB
+<span style="color:gray">B | Drag</span> LMB
 
-A Select All
+<span style="color:gray">A</span> Select All
 
-L | Shift + L Select Linked
+<span style="color:gray">L | Shift + L</span> Select Linked
 
-Alt + A Deselect All
+<span style="color:gray">Alt + A</span> Deselect All
 
-Ctrl + i Invert Selected
+<span style="color:gray">Ctrl + i</span> Invert Selected
 
-Tab Edit/Object Mode
+<span style="color:gray">Tab</span> Edit/Object Mode
 
-Ctrl + Tab All Modes (Pie)
+<span style="color:gray">Ctrl + Tab</span> All Modes (Pie)
 
-T Tools
+<span style="color:gray">T</span> Tools
 
-Shift + A Add Menu
+<span style="color:gray">Shift + A</span> Add Menu
 
-N Info Sidebar
+<span style="color:gray">N</span> Info Sidebar
 
-Shift + S Snap Menu
+<span style="color:gray">Shift + S</span> Snap Menu
 
-Q Quick Favorites
+<span style="color:gray">Q</span> Quick Favorites
 
-. Pivot Menu
+<span style="color:gray">.</span> Pivot Menu
 
-H Hide
+<span style="color:gray">H</span> Hide
 
-Alt + H Unhide All
+<span style="color:gray">Alt + H</span> Unhide All
 
-Shift + H Hide Selected
+<span style="color:gray">Shift + H</span> Hide Selected
 
-Ctrl + P Set Parent
+<span style="color:gray">Ctrl + P</span> Set Parent
 
-Alt + P Clear Parent
+<span style="color:gray">Alt + P</span> Clear Parent
 
-F Brush Size
+<span style="color:gray">F</span> Brush Size
 
-C Clay Mode
+<span style="color:gray">C</span> Clay Mode
 
-Shift + F Brush Strength
+<span style="color:gray">Shift + F</span> Brush Strength
 
-X Draw
-
-
+<span style="color:gray">X</span> Draw
 
 
 
+
+List of unicode characters, [link](https://unicode-explorer.com/)
+∆
+↪ 
+↩
+➜ ➞ 

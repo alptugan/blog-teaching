@@ -1,5 +1,5 @@
 ---
-title: Obsidian - Tutorial
+title: Obsidian - Hugo Tutorial
 draft: false
 tags:
   - tutorial
@@ -7,7 +7,6 @@ tags:
   - Obsidian
   - Static-Website
 ---
-
 ## Summary
 This tutorial covers how to build basic Hugo static site and publish specific pages in your current Obsidian Vault.
 
