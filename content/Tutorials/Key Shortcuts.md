@@ -42,6 +42,7 @@ draft: false
 
 <span style="color:gray">⌥ + ↓ | ↑</span> Move up or down todo items.
 
+<span style="color:gray">⌥ + ⇧ + Drag</span> Move up or down todo items.
 
 ## Davinci Resolve Fairlight
 <span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
