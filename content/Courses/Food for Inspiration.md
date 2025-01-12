@@ -315,6 +315,7 @@ Frieder Nake, #interview #history About Generative art
 [Flying Ghost](https://codepen.io/ksenia-k/pen/QWmjgWX) It can be an interactive installation displaying visitor in the form of ghost.
 [Tornado effect](https://codepen.io/ksenia-k/pen/yLvVzzd)
 [1 Million Particles](https://github.com/poeti8/one-million-particles) 
+[WebGPU Flow field](https://pavelmazhuga.com/lab/flow-field/webgpu) Loaded 3d image in interactive mode with post fx...
 
 ### WebGL
 [Blobs](https://codepen.io/ksenia-k/pen/ExByemG)
