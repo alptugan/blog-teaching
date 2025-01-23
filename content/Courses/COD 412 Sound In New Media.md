@@ -63,13 +63,13 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 
 #sound #soundsculpture
 <iframe title="Peter Vogel - The Sound of Shadows" src="https://www.youtube.com/embed/2fs3ocTO744?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto"></iframe>
-<iframe title="RHYTMIC SOUNDS - PETER VOGEL" src="https://www.youtube.com/embed/JisYOweWHLw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="RHYTMIC SOUNDS - PETER VOGEL" src="https://www.youtube.com/embed/JisYOweWHLw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
 #sound #kineticsculpture #soundsculpture 
 <iframe title="THE MAGIC OF SOUND by Zimoun" src="https://www.youtube.com/embed/jjTLCZw8eMw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
 #sound #soundsculpture 
-<iframe title="&quot;The Wing&quot; Sound Sculpture Solo - Marilyn Donadt Percussion" src="https://www.youtube.com/embed/NbnKIu2f4dA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="&quot;The Wing&quot; Sound Sculpture Solo - Marilyn Donadt Percussion" src="https://www.youtube.com/embed/NbnKIu2f4dA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
 #sound #electroacoustic #graphicNotation 
 <iframe title="Iannis Xenakis - Mycenae Alpha (Audio + Score)" src="https://www.youtube.com/embed/a7EtqxHsJ9E?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
@@ -85,4 +85,4 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 <iframe title="TUTORIAL - HOW TO WIRE A PIEZO MIC // MAGIC GLOVES AND CODING PROGRESS // CHAINES" src="https://www.youtube.com/embed/zI7EEvV4Lp8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
 ## Custom Sound Design Objects
-<iframe title="Sounds of the Nightmare Machine" src="https://www.youtube.com/embed/1lTYPvArbGo?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe title="Sounds of the Nightmare Machine" src="https://www.youtube.com/embed/1lTYPvArbGo?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;" allowfullscreen="" allow="fullscreen"></iframe>
