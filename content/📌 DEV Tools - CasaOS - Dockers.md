@@ -22,7 +22,6 @@ Guacamole
 [FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 # Node Packages
 ## PNPM
-
 ```
 sudo npm install -g pnpm
 
@@ -58,18 +57,19 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 [Skia Canvas](https://github.com/samizdatco/skia-canvas?tab=readme-ov-file) Something like a framework built upon node. Capable of creating native windows. As I understand, it aims to easing the process of graphical assets via node... But it can be used as creative coding framework.
 
 ## Markdown
-[Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.
+- [Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.
 
 ## Browser Compatibility
-[Can I Use?](https://caniuse.com/webp) Checks which features compatible with which browsers? 
+- [Can I Use?](https://caniuse.com/webp) Checks which features compatible with which browsers? 
 
 ## Static Site HTML/Markdown Page Templates
-[HTML Rev](https://htmlrev.com/) 1500+ free HTML templates for websites, landing pages, blogs, portfolios, e-commerce and admin dashboards.
-[VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
+- [HTML Rev](https://htmlrev.com/) 1500+ free HTML templates for websites, landing pages, blogs, portfolios, e-commerce and admin dashboards.
+- [VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
 
 ## Icons, Assets & Colors
-[Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
-[Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
+- [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
+- [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
+- [Free SVG Illustrations](https://undraw.co/illustrations/3)
 
 
 ## Chat Bots for customers

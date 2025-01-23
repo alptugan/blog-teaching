@@ -17,8 +17,10 @@ draft: false
 5. [[#Troubleshooting]]
 
 ## Links to external resources
-https://cheatsheets.zip/cpp
-[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file) The repo includes variety of tools, shell commands related to CLI.
+- https://cheatsheets.zip/cpp
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file) The repo includes variety of tools, shell commands related to CLI.
+- https://quickref.me/
+- https://devhints.io/
 ## Linux General Commands
 ### awk
 awk is used to filter and manipulate output from other programs and functions. Slices the line from empty spaces and assign them to vars. Patterns are enclosed in curly braces `{}`. Together, a pattern and an action form a rule. The entire awk program is enclosed in single quotes `'`.
