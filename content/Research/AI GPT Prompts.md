@@ -32,4 +32,3 @@ Analoji: Antepli ustanın sushi yapması. Fine Tuning ile bir kere uzun eğitim 
 | Bilgi Güncelleme | Uzun Eğitim              | Çok hızlı güncelleme     |
 | Kaynak Kullanımı | İlk Eğitim Yüksek Kaynak | Sürekli Yüksek Kaynak    |
 | Esneklik         | Yeni bilgi eklemek zoe   | Yeni bilgi eklemek kolay |
-

@@ -65,6 +65,7 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 ## Static Site HTML/Markdown Page Templates
 - [HTML Rev](https://htmlrev.com/) 1500+ free HTML templates for websites, landing pages, blogs, portfolios, e-commerce and admin dashboards.
 - [VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
+- [Zola](https://www.getzola.org/documentation/getting-started/overview/) A fast static site generator in a single binary with everything built-in via Rust
 
 ## Icons, Assets & Colors
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
@@ -159,12 +160,16 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 ### Tutorials
 ⭐ [Fine Tuninning Models with pdf, TR](https://www.youtube.com/watch?v=nsl-1hb8Uxc) # Llama ile Kendi Yapay Zekanızı Ücretsiz Eğitin! (Fine Tuning Rehberi)
 
+[DeepSeek R1 RAG](https://medium.com/@sebastian-petrus/developing-rag-systems-with-deepseek-r1-ollama-f2f561cfda97) Developing RAG Systems with DeepSeek R1 & Ollama (Complete Code Included)
+
 [How to use Ollama and openWebUI and chat with documents](https://www.youtube.com/watch?v=Lb5D892-2HY)
 
 [Private Chat with your Documents with Ollama and PrivateGPT | Use Case | Easy Set up](https://www.youtube.com/watch?v=lhQ8ixnYO2Y)
 
 [Automated research and download paper from arxiv](https://www.youtube.com/watch?v=f1ihg20fQiU)
 
+[The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?v=Ixl3nykKG9M) A complete guide to the mathematics behind neural networks and back propagation.
+[Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) Harvard University lectures.
 # Automation
 [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
 [Dagu](https://dagu.readthedocs.io/) Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.

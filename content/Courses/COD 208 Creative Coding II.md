@@ -15,8 +15,15 @@ draft: false
 4. Presentations [page](https://alptugan.github.io/Slidev_Presentations/index.html)
 5. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
 6. RandomSeed Webpage [selected projects](https://randomseed.cargo.site/)
-7. 
- 
+
+
+### AI & ML
+[Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
+Hand Tracking With MEdia Pipe - https://www.youtube.com/watch?v=vfNHdVbE-l4
+
+[ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI
+[ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library.
+[ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) 
 # week 1
 1. 👀 Keep your eyes open. Choose a thing. Lets say your favourite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus.
 2. As we did in preivous semester, break it apart using CT principles. Redraw it using p5JS.
