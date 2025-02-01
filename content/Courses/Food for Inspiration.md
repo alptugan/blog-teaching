@@ -121,6 +121,9 @@ Given the start and end points of a line caluculate the coordinates
 >```
 
 
+### 6. Sorting Algorithms
+[Quick Sort Algorithm](https://editor.p5js.org/alptugan/sketches/OcRKTpg58) The most efficient sorting algorithm build for large databases.
+
 ---
 ## 📦 Third-party Apps
 ### 1. Timeline Apps OSC Protocoll
@@ -386,7 +389,10 @@ Central to my practice is consideration of my audience, and I find no greater jo
 - Hardware, software and internal debounce techniques on an Arduino or a Raspberry Pi, [forum post](https://www.gammon.com.au/forum/?id=11955)
 - Touch Designer beginner tutorials, [youtube](https://www.youtube.com/playlist?list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
 - Touch Designer, point cloud, web cam, [youtube](https://www.youtube.com/watch?v=NnrWjQ_zO-s)
-- 
+
+## Open Source Projects
+[Cine Pi](https://github.com/schoolpost/CinePI) OpenSource Cinema Camera using Raspberry Pi.
+
 ## Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing

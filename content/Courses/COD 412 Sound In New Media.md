@@ -34,6 +34,8 @@ This section includes selected articles from sound literature and research to pr
 >    
 >    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 
+## Weekly Resources
+
 
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
