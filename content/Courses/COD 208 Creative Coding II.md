@@ -1,5 +1,5 @@
 ---
-title: Final Projects (COD 208)
+title: COD 208 Creative Coding II
 date: 2024-04-17
 description: Ozyegin University Creative Coding Class Student Final Project Instructions
 tags:
@@ -23,7 +23,8 @@ Hand Tracking With MEdia Pipe - https://www.youtube.com/watch?v=vfNHdVbE-l4
 
 [ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI
 [ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library.
-[ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) 
+[ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection.
+
 # week 1
 1. 👀 Keep your eyes open. Choose a thing. Lets say your favourite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus.
 2. As we did in preivous semester, break it apart using CT principles. Redraw it using p5JS.
