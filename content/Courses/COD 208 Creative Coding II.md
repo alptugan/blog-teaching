@@ -19,12 +19,17 @@ draft: false
 
 ### AI & ML
 [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
-Hand Tracking With MEdia Pipe - https://www.youtube.com/watch?v=vfNHdVbE-l4
+Hand Tracking With Media Pipe - https://www.youtube.com/watch?v=vfNHdVbE-l4
 
 [ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI
 [ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library.
 [ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection.
 
+[Teachable Machine - Sound](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5&index=3&t=608s) Sound classifier to play snake game with different spoken words.
+
+[Teachable Machine - Pose](https://youtu.be/FYgYyq-xqAw?si=nBGWar0w_5Wm5oCI&t=1361) YMCA song with body gestures. The tutorial might be outdated. Check the following [tutorial](https://www.youtube.com/watch?v=T99fNXTUUaQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5)
+
+[ML5 Machine Learning In JS](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) The complete playlist of Daniel Schifman.
 # week 1
 1. 👀 Keep your eyes open. Choose a thing. Lets say your favourite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus.
 2. As we did in preivous semester, break it apart using CT principles. Redraw it using p5JS.
