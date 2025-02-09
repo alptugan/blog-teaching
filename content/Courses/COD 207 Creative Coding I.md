@@ -9,6 +9,8 @@ tags:
 aliases: 
 draft: false
 ---
+>Some of the contents in [[COD Creative Coding Selected Assignments]] will move here in order to keep everything organized.
+
 ## Introduction
 COD 207 Creative Coding I is a foundational course designed to introduce students to the essential principles of programming within the realm of creative coding. Through hands-on experiences with algorithmic art practices, students will gain a comprehensive understanding of the fundamental concepts that underlie this innovative field.
 
