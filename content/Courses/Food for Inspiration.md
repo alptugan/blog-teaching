@@ -74,6 +74,7 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 
 The following approach is grabbed from p5Js website.
 Check the following link -> [link](https://discourse.processing.org/t/calculate-the-next-point-along-a-line/45425/4)
+<br>
 ### 6. Sorting Algorithms
 [Quick Sort Algorithm](https://editor.p5js.org/alptugan/sketches/OcRKTpg58) The most efficient sorting algorithm build for large databases.
 
