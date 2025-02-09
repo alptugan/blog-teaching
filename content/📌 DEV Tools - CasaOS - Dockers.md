@@ -264,6 +264,11 @@ https://www.tailframes.com/
 
 ## Fonts
 [Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
+
+## Misc
+[Git Diagram](https://gitdiagram.com/) Scans the provided Github repository and generates block diagram. 
+[Fake Data](https://fakerjs.dev/) Modern version of Lorem Ipsum generator.
+[Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
 # Password Managers
 [KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
 [Bitwarden](https://github.com/bitwarden)
@@ -286,6 +291,7 @@ whiz → AI assisted Terminal
 wavacity → online Audacity
 workout.lol → Health care with daily objects at home to work out specific parts of your body.
 Metadata Cleaner → Remove meta data from any file.
+[Open source Apps](https://openalternative.co/categories)Alternatives to paid applications. 
 
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains

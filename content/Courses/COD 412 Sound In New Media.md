@@ -35,7 +35,14 @@ This section includes selected articles from sound literature and research to pr
 >    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 
 ## Weekly Resources
+### Week 1 
+Example projects:<br>[Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.
 
+### Week 2
+![[cardboard-synth.png|300]]
+Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsynth/index.html). You can connect your MIDI device and control the online synth.
+
+[The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
 
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
@@ -88,3 +95,13 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 
 ## Custom Sound Design Objects
 <iframe title="Sounds of the Nightmare Machine" src="https://www.youtube.com/embed/1lTYPvArbGo?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;" allowfullscreen="" allow="fullscreen"></iframe>
+
+## Assignment Pool
+### Live Coding and Silence
+Reading: Music and The New Audio Culture - Intro, John Cage - Future of Music: Credo.
+Reading: John Cage – The Moral Value of Silence   
+Assignment 1: Write an essay about John Cage's conceptual 4'33'' sound art piece.
+Assignment 2: Download and install Sonic Pi, bring headphones for the next class.
+
+
+
