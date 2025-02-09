@@ -70,11 +70,11 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [ASAP: Prioritizing Attention via Time Series Smoothing](https://github.com/stanford-futuredata/ASAP?tab=readme-ov-file) Reliable and fast data smoothing algorithm. Rust version is implemented by [Enes Altun](https://github.com/altunenes/asap-rs?tab=readme-ov-file), Link to paper in Zotero App. [ASAP Paper](zotero://open-pdf/library/items/ELS8XFWB?page=0), [Example Code](file:///Users/alptugan/Zotero/storage/ELS8XFWB)
 
 ### 5. Next point on a line
-![[next_point_on_a_line.png | A and B points line, C is the an imaginary point on the same axis. -left | 150]]This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
-<br>
+![[next_point_on_a_line.png | A and B points line, C is the an imaginary point on the same axis. -left | 150]] This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
+<br><br>
 The following approach is grabbed from p5Js website.
 Check the following link -> [link](https://discourse.processing.org/t/calculate-the-next-point-along-a-line/45425/4)
-<br>
+
 > [!NOTE]- Source Code
 > ```
 > PVector a, b, c;
@@ -119,7 +119,7 @@ Given the start and end points of a line caluculate the coordinates
   >return new PVector(x, y);
 >}
 >```
-
+>
 
 ### 6. Sorting Algorithms
 [Quick Sort Algorithm](https://editor.p5js.org/alptugan/sketches/OcRKTpg58) The most efficient sorting algorithm build for large databases.
@@ -337,6 +337,7 @@ Frieder Nake, #interview #history About Generative art
 ### Tutorials
 [Shader Learning](https://shader-learning.com/module-view/2) Great resource
 Collection of Three.js Resources for Building 3D Websites, [link](https://threejsresources.com/)
+[P5js Shader Tutorials](https://itp-xstory.github.io/p5js-shaders/#/) The repository includes beginner friendly shader development focused on p5JS. It also showcases how to implement shader programs from other tools like ShaderToy and Book of Shaders web sites.
 
 ---
 # Generative Art
