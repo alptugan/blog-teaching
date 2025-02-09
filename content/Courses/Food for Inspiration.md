@@ -70,57 +70,10 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [ASAP: Prioritizing Attention via Time Series Smoothing](https://github.com/stanford-futuredata/ASAP?tab=readme-ov-file) Reliable and fast data smoothing algorithm. Rust version is implemented by [Enes Altun](https://github.com/altunenes/asap-rs?tab=readme-ov-file), Link to paper in Zotero App. [ASAP Paper](zotero://open-pdf/library/items/ELS8XFWB?page=0), [Example Code](file:///Users/alptugan/Zotero/storage/ELS8XFWB)
 
 ### 5. Next point on a line
-![[next_point_on_a_line.png | A and B points line, C is the an imaginary point on the same axis. -left | 150]] This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
-<br><br>
+![[next_point_on_a_line.png | A and B points line, C is the an imaginary point on the same axis. -left|150]] This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
+
 The following approach is grabbed from p5Js website.
 Check the following link -> [link](https://discourse.processing.org/t/calculate-the-next-point-along-a-line/45425/4)
-
-> [!NOTE]- Source Code
-> ```
-> PVector a, b, c;
->
-void setup() {
-  size(300, 300);
-  a = new PVector(90, 50);
-  b = new PVector(200, 150);
-  c = extendedLinePoint(a, b, 60);
-}
->
-void draw() {
-  background(255, 255, 200);
-  stroke(192, 0, 0);
-  fill(192, 0, 0);
-  strokeWeight(2);
-  line(b.x, b.y, c.x, c.y);
-  ellipse(c.x, c.y, 6, 6);
-  text("C", c.x, c.y - 10);
-  stroke(0, 128, 0);
-  fill(0, 128, 0);
-  line(a.x, a.y, b.x, b.y);
-  ellipse(a.x, a.y, 6, 6);
-  ellipse(b.x, b.y, 6, 6);
-  text("A", a.x, a.y - 10);
-  text("B", b.x, b.y - 10);
-}
->
-/*
-Given the start and end points of a line caluculate the coordinates
- for the point that extends the line by a predetermined distance.
- */
->PVector extendedLinePoint(PVector v0, PVector v1, float dist) {
-  >float len =  dist(v0.x, v0.y, v1.x, v1.y);
-  >if (len == 0) {
-    >println("ERROR cannot extend a zero length line");
-    >return null;
- > }
-  >float t = 1 + dist / len;
-  >float x = v0.x + t * (v1.x - v0.x);
-  >float y = v0.y + t * (v1.y - v0.y);
-  >return new PVector(x, y);
->}
->```
->
-
 ### 6. Sorting Algorithms
 [Quick Sort Algorithm](https://editor.p5js.org/alptugan/sketches/OcRKTpg58) The most efficient sorting algorithm build for large databases.
 
