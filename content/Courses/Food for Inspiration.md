@@ -70,7 +70,7 @@ Moiré patterns are large-scale interference patterns that occur when two partia
 [ASAP: Prioritizing Attention via Time Series Smoothing](https://github.com/stanford-futuredata/ASAP?tab=readme-ov-file) Reliable and fast data smoothing algorithm. Rust version is implemented by [Enes Altun](https://github.com/altunenes/asap-rs?tab=readme-ov-file), Link to paper in Zotero App. [ASAP Paper](zotero://open-pdf/library/items/ELS8XFWB?page=0), [Example Code](file:///Users/alptugan/Zotero/storage/ELS8XFWB)
 
 ### 5. Next point on a line
-![[next_point_on_a_line.png | A and B points line, C is the an imaginary point on the same axis. -left|150]] This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
+![A and B points line, C is the an imaginary point on the same axis.| -left|150](next_point_on_a_line.png)This is a common type of problem that can be easily solved using parametric equations. The code below provides a simple function that will calculate the extension point for any line and any extension amount. This is the output produced by the sketch.
 
 The following approach is grabbed from p5Js website.
 Check the following link -> [link](https://discourse.processing.org/t/calculate-the-next-point-along-a-line/45425/4)
@@ -82,14 +82,14 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ## 📦 Third-party Apps
 ### 1. Timeline Apps OSC Protocoll
 [Chataigne](https://benjamin.kuperberg.fr/chataigne/en#tutorials) → Free, opensource, Mac OS, Windows
-[Vezer](https://imimot.com/vezer/) → Paid, Mac OS
-[Duration](https://web.archive.org/web/20160619122224/http://www.duration.cc/) → [docs](https://web.archive.org/web/20161113180016/https://github.com/YCAMInterlab/Duration), Standalone app of ofxTimeline, Free, Windows, Mac OS, Linux
-[Timeliner](https://vvvv.org/documentation/timelinersa) → Based on VVVV, Free, Windows, Mac OS, Linux
-[CuePilot](https://cuepilot.zendesk.com/hc/en-us) → Free, Windows, Mac OS, Linux
-[TWO](https://controlmedia.art/) → Free, Windows, Mac OS, Linux
-[Ossia](https://ossia.io/) → Free, Windows, Mac OS, Linux
-[Iannis](https://www.iannix.org/en/download-iannix/) → Free, Windows, Mac OS, Linux
-[Timeline](https://www.bigfug.com/software/timeline/) → Free, Windows
+- [Vezer](https://imimot.com/vezer/) → Paid, Mac OS
+- [Duration](https://web.archive.org/web/20160619122224/http://www.duration.cc/) → [docs](https://web.archive.org/web/20161113180016/https://github.com/YCAMInterlab/Duration), Standalone app of ofxTimeline, Free, Windows, Mac OS, Linux
+* [Timeliner](https://vvvv.org/documentation/timelinersa) → Based on VVVV, Free, Windows, Mac OS, Linux
+* [CuePilot](https://cuepilot.zendesk.com/hc/en-us) → Free, Windows, Mac OS, Linux
+* [TWO](https://controlmedia.art/) → Free, Windows, Mac OS, Linux
+* [Ossia](https://ossia.io/) → Free, Windows, Mac OS, Linux
+* [Iannis](https://www.iannix.org/en/download-iannix/) → Free, Windows, Mac OS, Linux
+* [Timeline](https://www.bigfug.com/software/timeline/) → Free, Windows
 
 ### 2. Body, Pose, Face, Hand Tracking Apps 
 [Popeye](https://github.com/thomasgeissl/popeye?tab=readme-ov-file)popeye does some very basic skeleton and hand tracking, and sends recognized landmarks via osc or mqtt. it uses mediapipe internally. Uses web-cam.
