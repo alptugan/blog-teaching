@@ -45,6 +45,10 @@ The SD card contains the Raspberry Pi's customized operating system, and the USB
 2. Insert the USB flash drive into your computer and replace the video file.
 3. Insert the USB flash drive back into the playback device.
 4. Power on the playback device.
+
+## References
+[Github Repository](https://github.com/andrewintw/rpi-video-sync-looper?tab=readme-ov-file#latest-release)
+
 ## Trouble Shoot
 > [!WARNING]- RPI throws error "Cannot read the video" from USB disk.
 > Remove USB from the RPI

@@ -44,6 +44,16 @@ Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsy
 
 [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
 
+### Week 3
+* İris Eryılmaz -> Sound of the City (Hatay soundscape)
+* Asya Korkmaz -> Disappearing Sound: A Sound Worth Saving (Aygaz Melodisi), Most Unpleasant Sound (Construction)
+* Esra Yücetürk -> Composed with sound (Ses kayıtları)
+* Bera Doğan ->  Best Imagined Sound (Babel), Unpleasant Sound (Taxi)
+* Zeynep Özer -> Best Imagined Sound (Space), Best Natural Sound (Sea Shell) 
+
+
+
+
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.

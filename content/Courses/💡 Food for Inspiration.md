@@ -1,5 +1,5 @@
 ---
-title: Food for resources
+title: 💡 Food for resources
 date: 2024-04-18
 description: Food for Inspiration
 tags:
@@ -81,7 +81,7 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ---
 ## 📦 Third-party Apps
 ### 1. Timeline Apps OSC Protocoll
-[Chataigne](https://benjamin.kuperberg.fr/chataigne/en#tutorials) → Free, opensource, Mac OS, Windows
+- [Chataigne](https://benjamin.kuperberg.fr/chataigne/en#tutorials) → Free, opensource, Mac OS, Windows
 - [Vezer](https://imimot.com/vezer/) → Paid, Mac OS
 - [Duration](https://web.archive.org/web/20160619122224/http://www.duration.cc/) → [docs](https://web.archive.org/web/20161113180016/https://github.com/YCAMInterlab/Duration), Standalone app of ofxTimeline, Free, Windows, Mac OS, Linux
 * [Timeliner](https://vvvv.org/documentation/timelinersa) → Based on VVVV, Free, Windows, Mac OS, Linux
@@ -94,15 +94,29 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ### 2. Body, Pose, Face, Hand Tracking Apps 
 [Popeye](https://github.com/thomasgeissl/popeye?tab=readme-ov-file)popeye does some very basic skeleton and hand tracking, and sends recognized landmarks via osc or mqtt. it uses mediapipe internally. Uses web-cam.
 
-## 3. Audiovisual
+### 3. Audiovisual
 [Draw Audio](https://draw.audio/) Online step-sequencer to create music tool according to selected root tone.
 
 ---
 ## ⚙️ Library & Addons
-P5js OSC library to communicate with Processing, [p5js_osc](https://github.com/golanlevin/p5js_osc_2024)
-Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
-Single line fonts to achieve plotter typography, [p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources?tab=readme-ov-file)
-Small high performance UI library that supports 3D and Three.js support [UIL](https://github.com/lo-th/uil)
+### p5JS Libraries
+- P5js OSC library to communicate with Processing, [p5js_osc](https://github.com/golanlevin/p5js_osc_2024)
+- Single line fonts to achieve plotter typography, [p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources?tab=readme-ov-file)
+- [p5.scaler](https://github.com/Morfologia-digital/p5.scaler) Scales the p5JS canvas proportionally to fit inside browser window size.
+- [p5.animS](https://wixette.github.io/p5.animS/#examples) p5.animS is a library that animates [p5.js](https://p5js.org/) shapes by rendering their drawing processes. It can be useful for teaching trigonometry...
+- 🎥 [p5.capture](https://github.com/tapioca24/p5.capture) Frame by frame p5JS sketch recorder in video, GIF, or sequence of images format.
+- 🖼️ [p5.Snap](https://zachkrall.github.io/p5snap/) A command line tool for creating snapshots of p5 sketches. 
+- 🖼️ ⭐️ [p5.FIP](https://prontopablo.github.io/p5.FIP/)  p5.FIP is a library that allows you to add image processing/post-processing effects to your p5.js sketch. In 5 lines of code you can add effects like bloom, glitching, cartoon shading and many more.
+- 🔁 [p5.createLoop](https://www.npmjs.com/package/p5.createloop) Create animation loops with noise and GIF exports in one line of code.
+- 🥽 [p5.simpleAR](https://github.com/tetunori/p5.simpleAR?tab=readme-ov-file) **p5.simpleAR** is a simple JavaScript supplement(mini-library) file to easily convert existing sketches into AR for PCs and smart devices. It includes 64 different marker patterns. Watch the [video](https://www.youtube.com/watch?v=I2mgpdLRX3g).
+- 🕹️ [p5.joystick.js](https://github.com/Vamoss/p5.joystick) The **p5.joystick** library aims to facilitate integration with physical Joysticks.It also has an easy calibration system, allowing you to configure different types of joysticks with the standard button format.
+- 🎹 [webmidi](https://github.com/djipco/webmidi) Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
+- 👯 [p5.party](https://github.com/jbakse/p5.party) p5.party is a library for easily creating online multi-user sketches with p5.js. With p5.party you can quickly prototype ideas for multiplayer games, real-time multi-user apps, and multi-computer art projects.
+
+### Other JS Libraries
+- Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
+- Small high performance UI library that supports 3D and Three.js support [UIL](https://github.com/lo-th/uil)
+- [q5.JS](https://github.com/q5js/q5.js) p5JS alternative for 2D operations. It does not support 3D option. But q5 can be handy for 2D drawings...
 
 ## 👩🏻‍🎤 Artists
 [Maggie Orth](http://www.maggieorth.com/) Artist work with textile and electronics. 
@@ -347,6 +361,8 @@ Central to my practice is consideration of my audience, and I find no greater jo
 
 ## Open Source Projects
 [Cine Pi](https://github.com/schoolpost/CinePI) OpenSource Cinema Camera using Raspberry Pi.
+
+[RPI Timelapse Controller](https://github.com/Daandelange/rpi-timelapse-controller) Bash script for capturing time lapses using gphoto2, lsusb and wiringPi to control a light trough GPIO.
 
 ## Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
