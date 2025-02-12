@@ -8,7 +8,7 @@ tags:
 aliases: 
 draft: false
 ---
-# Notes
+## Notes
 1. Check the [[Selected Computational Thinking Analysis Papers]] for how you should or not prepare your analysis about the project.
 2. p5js [website](https://p5js.org/)
 3. p5JS [cheatsheet](https://lms.ozyegin.edu.tr/pluginfile.php/72529/mod_label/intro/cheat%20sheet%20p5js.pdf)
@@ -18,80 +18,77 @@ draft: false
 
 
 ### AI & ML
-[Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)<br>[ml5.js Website](https://ml5js.org/)
+- [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
+- [ml5.js Website](https://ml5js.org/)
 
-[ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI #ml5 #Interface <br>[ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library. #ml5 #tutorial 
+* [ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI #ml5 #Interface <br>[ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library. #ml5 #tutorial 
+* [ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection. #tutorial  
+* [Hand Tracking With Media Pipe](https://www.youtube.com/watch?v=vfNHdVbE-l4) #tutorial  
+* [Flappy Bird NUI](https://www.youtube.com/watch?v=0yUHgDmwr2E) Playing Flappy Birds via body gestures. #ml5 #game 
+* [Elemental Powers AR](https://www.youtube.com/watch?v=s-aEP-bH83Y) Displays abstracted imagery of earth elements like water, wind, fire, soil... #ml5 #Interface #game 
+* [Body Painting](https://www.youtube.com/watch?v=E_U_Ftip7z0) Creating generative art via yoga gestures. #ml5 #generativeart  
+* [Posenet Xylophone](https://www.youtube.com/watch?v=p7nqgo8Dy_M&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=2) Blocks produce notes when left or right hand occupies the same space on the screen. #ml5 #Interface #music 
+* [Volume up/down](https://www.youtube.com/watch?v=OQFv5lueUF0&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=5) Volume up or down a signal according to the user's ankle movement.
+* [Head Tracking Piano](https://www.youtube.com/watch?v=3w3P_MyUKCo&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=7) Switch the notes via angle of the nose, and play the notes by opening mouth. #ml5 #Interface #music 
+* [Body Pose Music](https://www.youtube.com/watch?v=lkClgzumWRk&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=8) Play and switch the notes according to the user's body control points. #ml5 #Interface #music 
+* ⭐️ [Space Oddity - Performance w/ Posenet](https://www.youtube.com/watch?v=AIt7x0MvnrA&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=11) This performance uses the Posenet library in ml5.js to project the face of David Bowie as an image which follows my face during the performance. The lips moved based on the volume of my singing by using the Amplitude() object in the p5.Sound library. The other visuals in the sketch are also made in p5.js.. #ml5 #Interface #audiovisual 
 
-[ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection. #tutorial  
-
-[Hand Tracking With Media Pipe](https://www.youtube.com/watch?v=vfNHdVbE-l4) #tutorial  
-
-[Flappy Bird NUI](https://www.youtube.com/watch?v=0yUHgDmwr2E) Playing Flappy Birds via body gestures. #ml5 #game 
-
-[Elemental Powers AR](https://www.youtube.com/watch?v=s-aEP-bH83Y) Displays abstracted imagery of earth elements like water, wind, fire, soil... #ml5 #Interface #game
-
-[Body Painting](https://www.youtube.com/watch?v=E_U_Ftip7z0) Creating generative art via yoga gestures. #ml5 #generativeart  
-
-[Posenet Xylophone](https://www.youtube.com/watch?v=p7nqgo8Dy_M&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=2) Blocks produce notes when left or right hand occupies the same space on the screen. #ml5 #Interface #music
-
-[Volume up/down](https://www.youtube.com/watch?v=OQFv5lueUF0&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=5) Volume up or down a signal according to the user's ankle movement.
-
-[Head Tracking Piano](https://www.youtube.com/watch?v=3w3P_MyUKCo&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=7) Switch the notes via angle of the nose, and play the notes by opening mouth. #ml5 #Interface #music
-
-[Body Pose Music](https://www.youtube.com/watch?v=lkClgzumWRk&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=8) Play and switch the notes according to the user's body control points. #ml5 #Interface #music 
-
-⭐️ [Space Oddity - Performance w/ Posenet](https://www.youtube.com/watch?v=AIt7x0MvnrA&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=11) This performance uses the Posenet library in ml5.js to project the face of David Bowie as an image which follows my face during the performance. The lips moved based on the volume of my singing by using the Amplitude() object in the p5.Sound library. The other visuals in the sketch are also made in p5.js.. #ml5 #Interface #audiovisual 
-
-[Teachable Machine - Sound](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5&index=3&t=608s) Sound classifier to play snake game with different spoken words. #tutorial #ml5
-
-[Teachable Machine - Pose](https://youtu.be/FYgYyq-xqAw?si=nBGWar0w_5Wm5oCI&t=1361) YMCA song with body gestures. The tutorial might be outdated. Check the following [tutorial](https://www.youtube.com/watch?v=T99fNXTUUaQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5) #tutorial #ml5 #game
-
-[Teachable Machine - Image](https://www.youtube.com/watch?v=pbjR20eTLVs&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=4)How to train model based on different images. #tutorial 
-
-[Painting with Body](https://www.youtube.com/watch?v=eN843IOaLxM) Creates symmetrical drawing via hand gestures. 
-
-[Hand Pose - Emoji](https://www.youtube.com/watch?v=oTnjExkmPTU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM) Display an emoji according to prerecorded poses. #ml5 #Interface 
-
-[Guitar Chord Extractor](https://www.youtube.com/watch?v=27n8HSidoC0) Displays chords according to user hand pose. #ml5 #music
-
-
-[ML5 Machine Learning In JS](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) The complete playlist of Daniel Schifman.<br>
-# week 1
+* [Teachable Machine - Sound](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5&index=3&t=608s) Sound classifier to play snake game with different spoken words. #tutorial #ml5 
+* [Teachable Machine - Pose](https://youtu.be/FYgYyq-xqAw?si=nBGWar0w_5Wm5oCI&t=1361) YMCA song with body gestures. The tutorial might be outdated. Check the following [tutorial](https://www.youtube.com/watch?v=T99fNXTUUaQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5) #tutorial #ml5 #game 
+* [Teachable Machine - Image](https://www.youtube.com/watch?v=pbjR20eTLVs&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=4)How to train model based on different images. #tutorial 
+* [Painting with Body](https://www.youtube.com/watch?v=eN843IOaLxM) Creates symmetrical drawing via hand gestures. 
+* [Hand Pose - Emoji](https://www.youtube.com/watch?v=oTnjExkmPTU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM) Display an emoji according to prerecorded poses. #ml5 #Interface 
+* [Guitar Chord Extractor](https://www.youtube.com/watch?v=27n8HSidoC0) Displays chords according to user hand pose. #ml5 #music 
+* [ML5 Machine Learning In JS](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) The complete playlist of Daniel Schifman.<br>
+## week 1
 [week 01 Presentation](https://alptugan.github.io/Slidev_Presentations/week01_cod_208/dist)
-1. 👀 Keep your eyes open. Choose a thing. Let's say your favorite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus. Review the example [tutorial](https://openprocessing.org/sketch/1879055). On the last page of the tutorial, you will see that whenever you run the code, it generates different facial expressions.  
-2. As we did in the previous semester, break it apart using CT principles. Redraw it using p5JS.  
-3. Make it parametric. So whenever you run the app, determine its properties randomly.  
-4. ⏫ Upload the sketch to your openProcessing account.  
-5. ❗Submit the p5js link.  
-6. 📖 Read Delusions of Dialogue: Control and Choice in Interactive Art  
-7. 📺 Watch the videos on the last presentation page.
-8. 📖 Read [Delusions of Dialogue: Control and Choice in Interactive Art](https://www.jstor.org/stable/1576847)
-9. 📺 Watch the videos in the presentation. Read about [arrays](https://happycoding.io/tutorials/p5js/arrays#array-length)
+- 👀 Keep your eyes open. Choose a thing. Let's say your favorite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus. Review the example [tutorial](https://openprocessing.org/sketch/1879055). On the last page of the tutorial, you will see that whenever you run the code, it generates different facial expressions.  
+- As we did in the previous semester, break it apart using CT principles. Redraw it using p5JS.  
+- Make it parametric. So whenever you run the app, determine its properties randomly.  
+- ⏫ Upload the sketch to your openProcessing account.  
+- ❗Submit the p5js link.  
+- 📖 Read Delusions of Dialogue: Control and Choice in Interactive Art  
+- 📺 Watch the videos on the last presentation page.
+- 📖 Read [Delusions of Dialogue: Control and Choice in Interactive Art](https://www.jstor.org/stable/1576847)
+- 📺 Watch the videos in the presentation. Read about [arrays](https://happycoding.io/tutorials/p5js/arrays#array-length)
+### Selected Assignments A
+[Alara Yılmaz](https://openprocessing.org/sketch/2537613), [Aylin Bursalıoğlu](https://editor.p5js.org/aylin.bursalioglu/sketches/4l-Xl5xxKn), [Cansu Özbek](https://openprocessing.org/sketch/2539147), [Deniz Sönmez](https://openprocessing.org/sketch/2538279), [Duru Seyhan](https://editor.p5js.org/Duruzcan/sketches/Ycvl7wKMk), [Gizem Çobanoğlu](https://openprocessing.org/sketch/2539085) ⭐, [İdil Akan](https://editor.p5js.org/idil.akan/sketches/cRIUGZx0y), [İris Eryılmaz](https://editor.p5js.org/iriseryilmaz/sketches/MKOAVfqTK), [Lana Jamal](https://openprocessing.org/sketch/2538654), [Naz İpek](https://openprocessing.org/sketch/2538172), [Zaman Khan](https://openprocessing.org/sketch/2537004)
+
+### Selected Assignments B
+[Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/WClgazXPt), [Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/zxnioc4Ps), [Azra Sadıkoğlu](https://editor.p5js.org/azrasadikoglu/sketches/5D18hhWKb), 
 
 # week 2
-10. Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462)
-11. Create instances of your class by initializing it using different parameters.
-12. Create at least 10 different objects in different features.
-13. Position all of the objects in the same sketch. Do not create different sketches of each instance.
-14. ⏫ Upload the sketch to your openProcessing account.
-15. ❗Submit the openprocessing link.
-16. ❗Submit the sketch source code as zip file as well.
-17. 📺 Watch the video
+[week 02 Presentation](https://alptugan.github.io/Slidev_Presentations/week02_cod_208/dist)
+- Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462)
+- Create instances of your class by initializing it using different parameters.
+- Create at least 10 different objects in different features.
+- Position all of the objects in the same sketch. Do not create different sketches of each instance.
+- ⏫ Upload the sketch to your openProcessing account.
+- ❗Submit the openprocessing link.
+- ❗Submit the sketch source code as zip file as well.
+- 📺 Watch the video
+- **Game Showcases**
+	1.  [Side Scrolling Dog Game](https://aijs.io/project?user=Tezumie&project=SK89) Use space to jump. Hold shift to speed up. Collect bones. Runaway from obstacles. Pixelart game.
+	2.  [Platformer Game](https://aijs.io/project?user=Tezumie&project=p5play-AutoTile-Platformer) 
+	3.  [Line Physics Game](https://aijs.io/project?user=quinton-ashley&project=Draw_the_Line)
+	4.  [One Million Particles](https://aijs.io/editor?user=Tezumie&project=1-Million-Particles)
+- **Online Events**
+	1. [8-bit II: Computer Art From The 1980s](https://www.eventbrite.com/e/8-bit-ii-computer-art-from-the-1980s-tickets-1216653897559) 
 # week 3
-18. Write a mini game story. 
-19. Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
-20. Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
-21. Design Game Scene: A background, the hero, and enemies.
-22. Design Final Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS depending on your scenario.
-23. Export UI elements as PNG files.
-24. 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
+1. Write a mini game story. 
+2. Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
+3. Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
+4. Design Game Scene: A background, the hero, and enemies.
+5. Design Final Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS depending on your scenario.
+6. Export UI elements as PNG files.
+7. 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
 # week 4
-25. 👀 Implement all of the scenes that you design for your game in P5Js.
-26. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
-27. ⏫ Upload the sketch to your openProcessing account.
-28. ❗Submit the openprocessing link.
-29. ❗Submit the sketch source code as zip file as well.
+1. 👀 Implement all of the scenes that you design for your game in P5Js.
+2. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
+3. ⏫ Upload the sketch to your openProcessing account.
+4. ❗Submit the openprocessing link.
+5. ❗Submit the sketch source code as zip file as well.
 
 # week 5
 - Your games must be finished and finalized. 
@@ -169,18 +166,18 @@ Check the following page ([[REST API#Free Restful API list|List of Free Rest API
 🧠 You are free to propose any project idea as long as it includes programming. 
 
 If you need a topic or theme, you can utilize one of the following concepts;
-30. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
-31. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
-32. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
-33. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
-34. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
-35. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
-36. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
-37. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
-38. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
-39. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
-40. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
-41. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
-42. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
+6. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
+7. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
+8. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
+9. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
+10. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
+11. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
+12. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
+13. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
+14. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
+15. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
+16. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
+17. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
+18. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
    <iframe width="100%" height="400" src="https://www.youtube.com/embed/UWWDdKc2xko?si=etg3eW36B-qDyvih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    
