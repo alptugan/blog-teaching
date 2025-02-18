@@ -100,6 +100,9 @@ find . -size +200M -exec du -hs {} \; | sort -hr | head -n 10
 ```bash
 # remove all text context in a file
 echo "" > file_name.txt
+
+# List content of $PATH output line-by-line
+echo $PATH | tr : '\n'
 ```
 
 ### find

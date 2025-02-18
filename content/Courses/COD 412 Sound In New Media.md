@@ -42,16 +42,21 @@ Example projects:<br>[Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&li
 ![[cardboard-synth.png|300]]
 Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsynth/index.html). You can connect your MIDI device and control the online synth.
 
-[The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
-
 ### Week 3
+**Screening:** [Mimaroğlu](https://www.youtube.com/watch?v=G0nhh6Jkb1U) Document.
+**Reading:** Sound Art: Origins, development and ambiguities
+
 * İris Eryılmaz -> Sound of the City (Hatay soundscape)
 * Asya Korkmaz -> Disappearing Sound: A Sound Worth Saving (Aygaz Melodisi), Most Unpleasant Sound (Construction)
 * Esra Yücetürk -> Composed with sound (Ses kayıtları)
 * Bera Doğan ->  Best Imagined Sound (Babel), Unpleasant Sound (Taxi)
 * Zeynep Özer -> Best Imagined Sound (Space), Best Natural Sound (Sea Shell) 
 
+### Week 4
+**Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 
+- Live Coding
+- [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
 
 
 ## Watch List

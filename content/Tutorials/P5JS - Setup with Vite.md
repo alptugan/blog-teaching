@@ -111,7 +111,7 @@ At the root of `Genuary2025`, create a single `index.html` file that dynamically
   <script>
     const params = new URLSearchParams(window.location.search);
     const day = params.get('day') || 'day1'; // Default to day1
-    document.write(`<script src="./${day}/sketch.js"><\/script>`);
+    document.write(`<script type="module" src="./${day}/sketch.js"><\/script>`);
     document.write(`<link rel="stylesheet" href="./${day}/style.css">`);
   </script>
 </head>
