@@ -16,6 +16,8 @@ draft: false
 5. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
 6. RandomSeed Webpage [selected projects](https://randomseed.cargo.site/)
 
+### WebSockets + WebRTC + Arduino
+[Creative Code Syllabus at Devin University](https://github.com/devinekask/creative-code-4-s25/tree/main)
 
 ### AI & ML
 - [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
@@ -55,10 +57,17 @@ draft: false
 [Alara Yılmaz](https://openprocessing.org/sketch/2537613), [Aylin Bursalıoğlu](https://editor.p5js.org/aylin.bursalioglu/sketches/4l-Xl5xxKn), [Cansu Özbek](https://openprocessing.org/sketch/2539147), [Deniz Sönmez](https://openprocessing.org/sketch/2538279), [Duru Seyhan](https://editor.p5js.org/Duruzcan/sketches/Ycvl7wKMk), [Gizem Çobanoğlu](https://openprocessing.org/sketch/2539085) ⭐, [İdil Akan](https://editor.p5js.org/idil.akan/sketches/cRIUGZx0y), [İris Eryılmaz](https://editor.p5js.org/iriseryilmaz/sketches/MKOAVfqTK), [Lana Jamal](https://openprocessing.org/sketch/2538654), [Naz İpek](https://openprocessing.org/sketch/2538172), [Zaman Khan](https://openprocessing.org/sketch/2537004)
 
 ### Selected Assignments B
-[Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/WClgazXPt), [Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/zxnioc4Ps), [Azra Sadıkoğlu](https://editor.p5js.org/azrasadikoglu/sketches/5D18hhWKb), 
+[Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/WClgazXPt), [Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/zxnioc4Ps), [Azra Sadıkoğlu](https://editor.p5js.org/azrasadikoglu/sketches/5D18hhWKb), [Bahar Kızılkaya](https://openprocessing.org/sketch/2536989), [Boray Ünlü](https://openprocessing.org/sketch/2538167), [Duru Seyhan](https://openprocessing.org/sketch/2538147), [Duygu Aksöz](https://openprocessing.org/sketch/2538625), [İrem Apaydın](https://openprocessing.org/sketch/2538871), [Kerem Alp](https://openprocessing.org/sketch/2539084), [Kerme Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/PuyJ--loG), [Zeynep Erol](https://openprocessing.org/sketch/2538652)
 
-# week 2
+## week 2
 [week 02 Presentation](https://alptugan.github.io/Slidev_Presentations/week02_cod_208/dist)
+**2024-2025**
+1. Finalize the project that you started in class time. You have two options. Choose 1 or 2. It is optional to submit both of them.  
+    1. Create instances of your object (Class) and distribute them on the canvas using randomness. [Example](https://openprocessing.org/sketch/2183462)
+    2. Create instances of your object (Class) and distribute them on the canvas using tiling. [Example](https://editor.p5js.org/alptugan/sketches/kw-849J6M)
+2. The challenge is whenever we run the code, the formalistic features of your Object (Class) change randomly.
+3. Upload a screenshot of your choice. Review the keyPressed() function in [Example](https://editor.p5js.org/alptugan/sketches/kw-849J6M) to implement into your code.
+**2023-2024**
 - Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462)
 - Create instances of your class by initializing it using different parameters.
 - Create at least 10 different objects in different features.
@@ -66,29 +75,29 @@ draft: false
 - ⏫ Upload the sketch to your openProcessing account.
 - ❗Submit the openprocessing link.
 - ❗Submit the sketch source code as zip file as well.
-- 📺 Watch the video
-- **Game Showcases**
-	1.  [Side Scrolling Dog Game](https://aijs.io/project?user=Tezumie&project=SK89) Use space to jump. Hold shift to speed up. Collect bones. Runaway from obstacles. Pixelart game.
-	2.  [Platformer Game](https://aijs.io/project?user=Tezumie&project=p5play-AutoTile-Platformer) 
-	3.  [Line Physics Game](https://aijs.io/project?user=quinton-ashley&project=Draw_the_Line)
-	4.  [One Million Particles](https://aijs.io/editor?user=Tezumie&project=1-Million-Particles)
-- **Online Events**
-	1. [8-bit II: Computer Art From The 1980s](https://www.eventbrite.com/e/8-bit-ii-computer-art-from-the-1980s-tickets-1216653897559) 
+
 # week 3
-1. Write a mini game story. 
-2. Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
-3. Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
-4. Design Game Scene: A background, the hero, and enemies.
-5. Design Final Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS depending on your scenario.
-6. Export UI elements as PNG files.
-7. 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
+**2024-2025**
+- Utilize Arrays to dynamically control multiple objects.
+- Distribute objects on the canvas.
+- Animate them up/down, left/right
+- [Creative Coding Fest](https://ccfest.rocks/)
+
+**2023-2024**
+- Write a mini game story. 
+- Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
+- Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
+- Design Game Scene: A background, the hero, and enemies.
+- Design Final Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS depending on your scenario.
+- Export UI elements as PNG files.
+- 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
 # week 4
-1. 👀 Implement all of the scenes that you design for your game in P5Js.
-2. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
-3. ⏫ Upload the sketch to your openProcessing account.
-4. ❗Submit the openprocessing link.
-5. ❗Submit the sketch source code as zip file as well.
+11. 👀 Implement all of the scenes that you design for your game in P5Js.
+12. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
+13. ⏫ Upload the sketch to your openProcessing account.
+14. ❗Submit the openprocessing link.
+15. ❗Submit the sketch source code as zip file as well.
 
 # week 5
 - Your games must be finished and finalized. 
@@ -135,6 +144,14 @@ Holiday
 # week 11
 Project Proposal Submission
 
+- **Game Showcases**
+	1.  [Side Scrolling Dog Game](https://aijs.io/project?user=Tezumie&project=SK89) Use space to jump. Hold shift to speed up. Collect bones. Runaway from obstacles. Pixelart game.
+	2.  [Platformer Game](https://aijs.io/project?user=Tezumie&project=p5play-AutoTile-Platformer) 
+	3.  [Line Physics Game](https://aijs.io/project?user=quinton-ashley&project=Draw_the_Line)
+	4.  [One Million Particles](https://aijs.io/editor?user=Tezumie&project=1-Million-Particles)
+- **Online Events**
+	1. [8-bit II: Computer Art From The 1980s](https://www.eventbrite.com/e/8-bit-ii-computer-art-from-the-1980s-tickets-1216653897559) 
+
 # API Calls
 Check the following page ([[REST API#Free Restful API list|List of Free Rest APIs]]) to access more API-related content resources in the free version.
 
@@ -166,18 +183,18 @@ Check the following page ([[REST API#Free Restful API list|List of Free Rest API
 🧠 You are free to propose any project idea as long as it includes programming. 
 
 If you need a topic or theme, you can utilize one of the following concepts;
-6. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
-7. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
-8. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
-9. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
-10. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
-11. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
-12. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
-13. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
-14. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
-15. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
-16. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
-17. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
-18. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
+16. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
+17. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
+18. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
+19. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
+20. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
+21. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
+22. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
+23. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
+24. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
+25. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
+26. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
+27. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
+28. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
    <iframe width="100%" height="400" src="https://www.youtube.com/embed/UWWDdKc2xko?si=etg3eW36B-qDyvih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    

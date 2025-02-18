@@ -96,6 +96,10 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 
 ### 3. Audiovisual
 [Draw Audio](https://draw.audio/) Online step-sequencer to create music tool according to selected root tone.
+### 4. Shader Clients
+[ShaderToy](https://www.shadertoy.com/) An online app and community to write and share shader programs.
+[ShaderBoy](https://shaderboy.net/) A better UI for Shadertoy app.
+
 
 ---
 ## ⚙️ Library & Addons
@@ -154,6 +158,8 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 [Kimatica](https://kimatica.net/about/) A London-based creative studio designing transformative experiences through performance arts, interactive technology and the human body.
 
 [Creative Applications](https://www.creativeapplications.net/) An online art+design+technology hub for creative industries.
+
+[Creative Coding Fest](https://ccfest.rocks/) CC Fest is a free and friendly event for anyone curious about creative code.
 
 ---
 ## 📺 Video Archive
@@ -302,10 +308,15 @@ Frieder Nake, #interview #history About Generative art
 
 [Photo tile](https://codepen.io/ksenia-k/pen/rNEXXqN)
 
+### Post FX
+[CRT TV](https://www.shadertoy.com/view/wslcD8)
+[CRT TV with Case](https://www.shadertoy.com/view/lt2SDK)
+[Quick CRT Effect](https://www.shadertoy.com/view/mscBzs)
 ### Tutorials
 [Shader Learning](https://shader-learning.com/module-view/2) Great resource
 Collection of Three.js Resources for Building 3D Websites, [link](https://threejsresources.com/)
 [P5js Shader Tutorials](https://itp-xstory.github.io/p5js-shaders/#/) The repository includes beginner friendly shader development focused on p5JS. It also showcases how to implement shader programs from other tools like ShaderToy and Book of Shaders web sites.
+[p5JS Shader Examples](https://github.com/aferriss/p5jsShaderExamples/tree/gh-pages/4_image-effects) Includes how to setup shaders in p5JS coordinate system, image post fx effects, and various other topics.
 
 ---
 # Generative Art

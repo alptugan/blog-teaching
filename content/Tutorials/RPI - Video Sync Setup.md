@@ -62,6 +62,16 @@ The SD card contains the Raspberry Pi's customized operating system, and the USB
 > 2. The file names must be the same on the `master` and `slave`
 > For example, if the Master plays a video with the name GK5.mp4, the other two devices should also play a video named GK5.mp4. However, the size of the mp4 files played by these three devices may be different because their content is different.
 
+> [!WARNING]- 7 inch HDMI LCD (C) WaveShare Not Showing
+> ```
+> hdmi_group=2
+> hdmi_mode=87
+> hdmi_cvt 1024 600 60 6 0 0 0
+> hdmi_drive=1
+> ```
+> [reference](https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C))
+
+
 
 
 https://forums.raspberrypi.com/viewtopic.php?t=370251
