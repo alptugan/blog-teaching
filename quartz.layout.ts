@@ -21,8 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
+    Component.ContentMeta(),
     Component.TagList(),
-    //Component.DesktopOnly(Component.Timeline({favouriteNumber: 62})),
   ],
   pageBody: Component.Content(),
   left: [
@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Explorer({
+    /*Component.MobileOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
       sortFn: (a, b) => {
@@ -53,7 +53,8 @@ export const defaultContentPageLayout: PageLayout = {
           return -1
         }
       },
-    })),
+    })),*/
+    Component.Backlinks()
   ],
   middle: []
 }

@@ -360,6 +360,7 @@ Central to my practice is consideration of my audience, and I find no greater jo
 [Bounce2](https://github.com/thomasfredericks/Bounce2) Library to handle push button debouncing issues on Arduino
 
 [WiFiEspAT](https://github.com/JAndrassy/WiFiEspAT) This library creates standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.
+[Pyespargos](https://github.com/ESPARGOS/pyespargos) The python library for working with the ESPARGOS WiFi channel sounder.
 
 [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) Serial Studio is a multi-platform, versatile data visualization tool designed for embedded engineers, students, hackers, and teachers. It allows users to visualize, analyze, and represent data from their projects and devices without needing custom, project-specific visualization software.
 
