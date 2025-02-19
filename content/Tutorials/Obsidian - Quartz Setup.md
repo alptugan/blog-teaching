@@ -193,12 +193,15 @@ Check the following link to link the existing Quartz 4 folder to the original Ob
 [reference](https://www.youtube.com/watch?v=dz3GOp4hN50)
 ### F.A.Q
 
-> [!ERROR] The images or the pages are not displayed correctly
+> [!ERROR]- The images or the pages are not displayed correctly
 > 1. Make sure you follow all the steps. 
 > 2. Sometimes it takes time for Github to compile and publish your web-site.
 > 3. Clear the browser cache and cookies. 
 > 4. Try the same link with different browser.
 
+> [!ERROR]- Line breaks doesn't show up as it is on Obsidian.
+> Goto -> Setting -> Editor -> `Disable` Strict Line breaks
+> Open `quartz.config.ts` and add `Plugin.HardLineBreaks()`  to the <font color="#ffcc00">plugins>transformer</font>
 
 ## References
 - [Nicole Vanderhoeven](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)

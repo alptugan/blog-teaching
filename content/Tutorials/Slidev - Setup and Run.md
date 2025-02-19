@@ -59,4 +59,6 @@ pnpm run build --base /Slidev_Presentations/week03_cod_208/dist/
 
 ## Themes 
 - Academic Style Theme with tons of features [Neversink](https://github.com/gureckis/slidev-theme-neversink)
-- 
+- Apple Style [Apple Basic](https://github.com/slidevjs/themes/tree/main/packages/theme-apple-basic)
+- Academic style with footnote component and pagination [Academic](https://github.com/alexanderdavide/slidev-theme-academic)
+- Another academic theme, but bad interface [Academic 2](https://github.com/AvencastF/slidev-theme-hep)
