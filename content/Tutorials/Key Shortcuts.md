@@ -171,6 +171,7 @@ draft: false
 
 
 List of unicode characters, [link](https://unicode-explorer.com/)
+List of symbols and ASCII ornaments, [link](https://www.madeintext.com/flower-symbols/)
 ∆
 ↪ 
 ↩

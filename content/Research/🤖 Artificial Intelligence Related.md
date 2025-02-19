@@ -19,11 +19,27 @@ I am using the big-AGI couple of times. Somehow it doesn’t fit my needs in ter
 
 ⭐️[Open Web UI](https://github.com/open-webui/open-webui) Tested on damp server. It cannot use GPU or my hardware is not good enough to run the models.
 
-Similar to [big-AGI]()
+[https://gpt4all.io/index.html](https://gpt4all.io/index.html)
+
+[https://github.com/go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)
+
+AutoGPT
+    
+Create custom assistant → [https://www.youtube.com/watch?v=Ox8hhpgrUi0](https://www.youtube.com/watch?v=Ox8hhpgrUi0)
+    
+Setup additional model → [https://www.youtube.com/watch?v=MGr1V4LyGFA](https://www.youtube.com/watch?v=MGr1V4LyGFA)
+    
+
+[https://github.com/OpenInterpreter/open-interpreter?tab=readme-ov-file](https://github.com/OpenInterpreter/open-interpreter?tab=readme-ov-file) → Ollama’yla da çalışıyor. Bilgisayar otomasyon gibi işlere yarıyor. E.g: Bilgisayarı night moda çevir gibi…
+
+[Witsyai](https://witsyai.com/)
+
 
 ## Code Helper
 [Llama Coder](https://github.com/ex3ndr/llama-coder) alternative to Copilot
 [Tabby](https://tabby.tabbyml.com/docs/getting-started) Alternative code helper works with VS Code
+[https://refact.ai/pricing/](https://refact.ai/pricing/)
+[Codeium](https://codeium.com)
 ## Obsidian Plug-ins
 [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
 
@@ -211,27 +227,4 @@ Rewrite this article changing 50% of nouns and verbs for similar ones and rewrit
 
 [https://www.instagram.com/p/C45zxYMtNIO/?igsh=MTZmZmFlaHFnYmxjbQ==](https://www.instagram.com/p/C45zxYMtNIO/?igsh=MTZmZmFlaHFnYmxjbQ==)
 
-# Code Co-pilots
 
-⏳ [https://refact.ai/pricing/](https://refact.ai/pricing/)
-
-✅ [Codeium](https://codeium.com)
-
-⏳ [https://github.com/TabbyML/tabby](https://github.com/TabbyML/tabby)
-
-# Chatbots
-
-[https://gpt4all.io/index.html](https://gpt4all.io/index.html)
-
-[https://github.com/go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)
-
-AutoGPT
-
-- Ollama
-    
-    Create custom assistant → [https://www.youtube.com/watch?v=Ox8hhpgrUi0](https://www.youtube.com/watch?v=Ox8hhpgrUi0)
-    
-    Setup additional model → [https://www.youtube.com/watch?v=MGr1V4LyGFA](https://www.youtube.com/watch?v=MGr1V4LyGFA)
-    
-
-[https://github.com/OpenInterpreter/open-interpreter?tab=readme-ov-file](https://github.com/OpenInterpreter/open-interpreter?tab=readme-ov-file) → Ollama’yla da çalışıyor. Bilgisayar otomasyon gibi işlere yarıyor. E.g: Bilgisayarı night moda çevir gibi…

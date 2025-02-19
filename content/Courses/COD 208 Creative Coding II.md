@@ -76,6 +76,10 @@ draft: false
 - ❗Submit the openprocessing link.
 - ❗Submit the sketch source code as zip file as well.
 
+### Selected Assignments A
+
+### Selected Assignments B
+[Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/igAewG5F4), [Azra Sadıkoğlu](https://openprocessing.org/sketch/2543596), [Boray Ünlü](https://openprocessing.org/sketch/2546214), [Duru Seyhan](https://openprocessing.org/sketch/2542961), [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/Th9bVyaHn), [Kerem Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/5OgDrQQGQ), [Zeynep Erol](https://openprocessing.org/sketch/2546480)
 # week 3
 **2024-2025**
 - Utilize Arrays to dynamically control multiple objects.
