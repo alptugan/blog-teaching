@@ -43,21 +43,26 @@ Example projects:<br>[Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&li
 Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsynth/index.html). You can connect your MIDI device and control the online synth.
 
 ### Week 3
-**Screening:** [Mimaroğlu](https://www.youtube.com/watch?v=G0nhh6Jkb1U) Document.
-**Reading:** Sound Art: Origins, development and ambiguities, [İlhan Mimaroğlu - Müzik Tarihi](https://www.kitapyurdu.com/kitap/muzik-tarihi/1145.html)
+**Screening:** [Field Recording](https://www.youtube.com/watch?v=G0nhh6Jkb1U)
+**Reading:** Sound Art: Origins, development and ambiguities.
 **Overtone Singing** [POLYPHONIC OVERTONE SINGING - by Anna-Maria Hefele](https://www.youtube.com/watch?v=vC9Qh709gas)
 **Music Concrete Recipe**: [Music Technology Foundations](https://www.youtube.com/watch?v=2ZpwbXDleDw)
 
-**Tools:** 
+#### İlhan Mimaroğlu
+- [İlhan Mimaroğlu | interlude - night and snow](https://www.youtube.com/watch?v=rDb7bAazU64) Beaux Arts String Quartet & Janis Siegel ‎ String Quartet No. 4 "Like There's Tomorrow" from the movie "The Turin Horse" at 1982.
+- [Mimaroğlu](https://www.youtube.com/watch?v=rDb7bAazU64) Documentary
+- [İlhan Mimaroğlu - Müzik Tarihi](https://www.kitapyurdu.com/kitap/muzik-tarihi/1145.html) Book about the history of world music in Turkish.
+
+#### Tools
 ![[cod412-week-3paulxstretch_screenshot.png]]
 [PaulXStretch](https://sonosaurus.com/paulxstretch/) PaulXStretch is designed for radical transformation of sounds. It is NOT suitable for subtle time or pitch correction. Ambient music and sound design are probably the most suitable use cases. It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
 Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
 
-[MyNoise.net](https://mynoise.net/NoiseMachines/northAmericaForestSoundscape.php) Soundscape generators
+[MyNoise.net](https://mynoise.net/NoiseMachines/northAmericaForestSoundscape.php) Online soundscape tool helps you to generate soundscapes for variety of spaces.
 
-[Imaginary Soundscapes](https://www.imaginarysoundscape.net/) Listen to the soundscape of places
+[Imaginary Soundscapes](https://www.imaginarysoundscape.net/) Listen to the soundscape of places. Google maps based online tool allows you to navigate to different places of the world and listen to their soundscapes recorded by volunteer people who works with sound.
 
-[Free VST Tools](https://www.youtube.com/watch?v=hBE1T5QSTRY) Youtube video presents free vst tools.
+[Free VST Tools](https://www.youtube.com/watch?v=hBE1T5QSTRY) Youtube video presents free vst tools that can be useful for your sound projects.
 
 
 #### Soundscape Projects
@@ -71,7 +76,6 @@ Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 - Live Coding
 - [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
-
 
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
