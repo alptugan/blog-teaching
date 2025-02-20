@@ -1,20 +1,23 @@
 ---
-title: Cheat Sheet - Linux
+title: Cheat Sheets
 date: 2024-05-13
+modfification date: 2024-02-20
 description: Cheat Sheet for Linux Webmin Interface
 tags:
   - linux
   - webmin
   - casaos
+  - brew
 aliases: 
 draft: false
 ---
 # TOC
 1. [[#Linux General Commands]]
-2. [[#Docker Basics]]
-3. [[#Locations]]
+2. 🍺 [[#Brew]]
+3. 🐳 [[#Docker Basics]]
 4. [[#Run docker container's command]]
-5. [[#Troubleshooting]]
+5. [[#Locations]]
+6. [[#Troubleshooting]]
 
 ## Links to external resources
 - https://cheatsheets.zip/cpp
@@ -96,13 +99,17 @@ find . -size +200M -exec du -hs {} \;
 find . -size +200M -exec du -hs {} \; | sort -hr | head -n 10
 ```
 
-### echo
+### echo 
+You can either use it for verbose operations and debugging or writing data in files
 ```bash
 # remove all text context in a file
 echo "" > file_name.txt
 
 # List content of $PATH output line-by-line
 echo $PATH | tr : '\n'
+
+# Export file names in the current directory to a txt file
+for f in *.mp4; do echo "file '$f'" >> videos.txt; done
 ```
 
 ### find
@@ -329,7 +336,7 @@ watch 'command_1 | command_2 | command_3'
 watch -n 1 nvidia-smi
 ```
 
-### Docker Basics
+## Docker Basics
 ```shell
 # List docker images
 docker ps
@@ -348,7 +355,7 @@ sudo systemctl restart docker
 ```
 
 [Documentation on basic usage](https://dev.to/meghasharmaaaa/dockerfile-explain-jd4) Blog-post on DEV site.
-### Locations
+#### Docker Locations File Paths
 /etc/docker/daemon.json
 /var/lib/docker/containers → include casaos failed folders as well
 /var/lib/casaos/www → webpage location
@@ -360,8 +367,30 @@ sudo systemctl restart docker
 sudo nano starter.desktop
 ```
 
-.ssh/config file
+#### NVIDIA Encoding/Decoding codecs → [link](https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new)
+```json
+/etc/docker/daemon.json
+{
+  "hosts": [
+    "tcp://0.0.0.0:2375",
+    "unix:///var/run/docker.sock"
+  ],
+  "default-runtime": "nvidia",
+  "runtimes": {
+    "nvidia": {
+      "path": "/usr/bin/nvidia-container-runtime",
+      "runtimeArgs": [
+        "--gpus",
+        "all"
+      ]
+    }
+  }
+}
+```
+
+#### .ssh/config file
 `ProxyCommand docker exec -i cloudflared cloudflared access ssh --hostname %h`
+
 ## Bash Cheat Sheet
 ![[bash-cheatsheet.jpg]]
 ## Troubleshooting
@@ -396,23 +425,115 @@ ProxyCommand docker exec -i cloudflared cloudflared access ssh --hostname %h
 sudo apt autoremove --purge Stremio
 ```
 
-### NVIDIA Encoding/Decoding codecs → [link](https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new)
-```json
-/etc/docker/daemon.json
-{
-  "hosts": [
-    "tcp://0.0.0.0:2375",
-    "unix:///var/run/docker.sock"
-  ],
-  "default-runtime": "nvidia",
-  "runtimes": {
-    "nvidia": {
-      "path": "/usr/bin/nvidia-container-runtime",
-      "runtimeArgs": [
-        "--gpus",
-        "all"
-      ]
-    }
-  }
-}
+## Brew 
+```bash
+#########################################
+# GENERAL
+#########################################
+# Listing Installed Packages
+brew list
+
+# Upgrade packages
+brew update && brew upgrade
+
+# If you want to keep a formula not updated, you can use `unpin` command
+brew pin <formula>
+# To make it upgradable again use `unpin`
+brew unpin <formula>
+
+# Uninstalling a Single Package
+brew uninstall packageName
+
+# Checking for Unused dependencies
+# The `--dry-run` flag shows what would be removed, without actually doing it.
+brew cleanup --dry-run
+brew cleanup --prune-prefix
+
+# Search Available Version
+brew search <package-name>
+
+# Once you find the specific version you need, you might want to get more information about that version:
+brew info node@14
+
+#########################################
+# SERVICES
+#########################################
+# Starting/Stopping/Restarting a Service
+brew services start mysql
+brew services stop mysql
+brew services restart mysql
+
+# List Running Services
+brew services list
+
+# Running Services on User Login
+# Homebrew allows you to run services on user login instead of immediately on boot. For this, use the ‘run’ command:
+brew services run <service>
+
+# Cleaning Up Unused Services
+brew services cleanup
+
+# Troubleshoot Services
+brew services restart --verbose mysql
+```
+
+
+## FFmpeg
+```shell
+# Covert image sequence to high-quality mp4 video
+ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" output5.mp4
+
+# %07d -> filename includes 7 digits...
+# -preset veryslow -> takes more time but better quality
+# -crf 18 -> This value determines the quality of images 18 to 25 safe. Lower the better
+
+# TRIM Video
+# ffmpeg -i input.mp4 -ss start_time -t duration -c copy output.mp4
+ffmpeg -i scott-ko.mp4 -ss 00:00:10 -t 5 -c copy trimmed.mp4
+
+# CROP Video
+# ffmpeg -i input.mp4 -filter:v "crop=w:h:x:y" output.mp4
+ffmpeg -i scott-ko.mp4 -filter:v "crop=640:640:900:50" cropped.mp4
+ffmpeg -i scott-ko.mp4 -filter:v "crop=1080:1080" cropped.mp4
+
+# RESIZE Video
+ffmpeg -i input.mp4 -vf "scale=w:h" resized.mp4
+
+# RESIZE Video with aspect ratio
+ffmpeg -i scott-ko.mp4 -vf "scale=-1:720" resized.mp4
+
+# SPEED UP Video
+ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" fast.mp4
+
+# SPEED DOWN Video
+ffmpeg -i input.mp4 -filter:v "setpts=2.0*PTS" slow.mp4
+
+# AUDIO Extract
+ffmpeg -i input.mp4 -vn output.mp3
+
+# AUDIO Mute
+ffmpeg -i input.mp4 -an -c:v copy output.mp4
+
+# CONVER tO GIF
+ffmpeg -i input.mp4 -vf "fps=10,scale=320:-1:flags=lanczos" -c:v gif animation.gif
+
+```
+
+#### Use FFmpeg concat to merge videos
+Use the for loop script in the [[#echo]] section. It will generate the following result:
+```bash
+# videos.txt
+file 'input1.mp4'
+file 'input2.mp4'
+file 'input3.mp4'
+```
+
+Then run the following script to create merged video
+```bash
+ffmpeg -f concat -i videos.txt -c copy output8.mp4
+```
+
+Or write the video order in the command:
+```bash
+ffmpeg -i "concat:input1.mp4|input2.mp4|input3.mp4|input4.mp4" -c copy output10.mp4
 ```

@@ -13,11 +13,11 @@ aliases:
 draft: true
 ---
 
-# Tutorials to check
+## Tutorials to check
 https://gist.github.com/agrlh/7618ed3e46fb02388022
 https://pimylifeup.com/raspberry-pi-afp/
 
-# Below steps failed
+## Below steps failed
 1. Install Webmin.
 2. Open Webmin from the remote machine on the browser.
 3. Download [Netatalk-webmin](https://github.com/Netatalk/netatalk-webmin/) module to the remote computer.
@@ -30,8 +30,6 @@ https://pimylifeup.com/raspberry-pi-afp/
 10. Copy the file path for the configuration file. 
 11. Open Terminal from the Webmin > Tools > Terminal
 12. Type `sudo nano /usr/local/etc/afp.conf` edit the file.
-
-
 
 ![[Screenshot 2024-04-18 at 10.48.31.png | Figure 7. Configure module settings.]]
 

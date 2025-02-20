@@ -202,6 +202,9 @@ Run the Vite development server:
 
 ```bash
 npm run dev
+
+# or use pnpm
+pnpm run dev
 ```
 
 The server will start, and the browser will open at:
