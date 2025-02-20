@@ -8,6 +8,7 @@ tags:
   - webmin
   - casaos
   - brew
+  - ffmpeg
 aliases: 
 draft: false
 ---
@@ -15,9 +16,10 @@ draft: false
 1. [[#Linux General Commands]]
 2. 🍺 [[#Brew]]
 3. 🐳 [[#Docker Basics]]
-4. [[#Run docker container's command]]
-5. [[#Locations]]
-6. [[#Troubleshooting]]
+4. 🎞️ [[#FFmpeg]]
+5. [[#Run docker container's command]]
+6. [[#Locations]]
+7. [[#Troubleshooting]]
 
 ## Links to external resources
 - https://cheatsheets.zip/cpp
