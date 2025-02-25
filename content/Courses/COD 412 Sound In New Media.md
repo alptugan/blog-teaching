@@ -76,6 +76,8 @@ Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 - Live Coding
 - [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
+- [Every Noise](https://everynoise.com/)
+- [Portfolio Showcase](https://www.kunsf.xyz) 
 
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)

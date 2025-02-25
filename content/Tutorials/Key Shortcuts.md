@@ -28,6 +28,9 @@ draft: false
 <font color="gray">⌃ + ⌥ + "</font> Insert double quotes `""` on Turkish keyboard setup.
 
 
+## Affinity Photo
+<span style="color:gray">⌘ + C</span> Copy the layer and FX.
+<span style="color:gray">⌘ + ⇧ + V</span> Paste the layer style to the selected layer.   
 ## Arc Browser (Chrome Extensions)
 ### DeepL Extension
 <span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text 
@@ -35,13 +38,9 @@ draft: false
 
 ## Obsidian
 <span style="color:gray">⌘ + ⇧ + S</span> Strike over selected text
-
 <span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu 
-
 <span style="color:gray">⌘ + ⌥ + F</span> Find a word, all occurrences, and replace
-
 <span style="color:gray">⌥ + ↓ | ↑</span> Move up or down todo items.
-
 <span style="color:gray">⌥ + ⇧ + Drag</span> Move up or down todo items.
 
 ## Davinci Resolve Fairlight

@@ -15,9 +15,13 @@ draft: false
 4. Presentations [page](https://alptugan.github.io/Slidev_Presentations/index.html)
 5. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
 6. RandomSeed Webpage [selected projects](https://randomseed.cargo.site/)
-
-### WebSockets + WebRTC + Arduino
+### Topics
+#### WebSockets + WebRTC + Arduino (Physical Computing)
 [Creative Code Syllabus at Devin University](https://github.com/devinekask/creative-code-4-s25/tree/main)
+
+#### ML5 Related
+[Neural Network Model Training](https://github.com/shiffman/ml5-neural-network-example/tree/main)
+
 
 ### AI & ML
 - [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
@@ -80,7 +84,7 @@ draft: false
 
 ### Selected Assignments B
 [Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/igAewG5F4), [Azra Sadıkoğlu](https://openprocessing.org/sketch/2543596), [Boray Ünlü](https://openprocessing.org/sketch/2546214), [Duru Seyhan](https://openprocessing.org/sketch/2542961), [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/Th9bVyaHn), [Kerem Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/5OgDrQQGQ), [Zeynep Erol](https://openprocessing.org/sketch/2546480)
-# week 3
+## week 3
 **2024-2025**
 - Utilize Arrays to dynamically control multiple objects.
 - Distribute objects on the canvas.
@@ -96,12 +100,17 @@ draft: false
 - Export UI elements as PNG files.
 - 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
-# week 4
-11. 👀 Implement all of the scenes that you design for your game in P5Js.
-12. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
-13. ⏫ Upload the sketch to your openProcessing account.
-14. ❗Submit the openprocessing link.
-15. ❗Submit the sketch source code as zip file as well.
+## week 4
+**2024-2025**
+Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
+Making a software visual guide, [link](https://www.makingsoftware.co/)
+
+**2023-2024**
+1. 👀 Implement all of the scenes that you design for your game in P5Js.
+2. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
+3. ⏫ Upload the sketch to your openProcessing account.
+4. ❗Submit the openprocessing link.
+5. ❗Submit the sketch source code as zip file as well.
 
 # week 5
 - Your games must be finished and finalized. 

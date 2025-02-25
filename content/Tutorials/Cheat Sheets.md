@@ -483,7 +483,7 @@ brew services restart --verbose mysql
 ## FFmpeg
 ```shell
 # Covert image sequence to high-quality mp4 video
-ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" output5.mp4
+ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
 
 # %07d -> filename includes 7 digits...
 # -preset veryslow -> takes more time but better quality

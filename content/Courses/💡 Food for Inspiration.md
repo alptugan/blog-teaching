@@ -116,6 +116,8 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - 🕹️ [p5.joystick.js](https://github.com/Vamoss/p5.joystick) The **p5.joystick** library aims to facilitate integration with physical Joysticks.It also has an easy calibration system, allowing you to configure different types of joysticks with the standard button format.
 - 🎹 [webmidi](https://github.com/djipco/webmidi) Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
 - 👯 [p5.party](https://github.com/jbakse/p5.party) p5.party is a library for easily creating online multi-user sketches with p5.js. With p5.party you can quickly prototype ideas for multiplayer games, real-time multi-user apps, and multi-computer art projects.
+- [p5.riso](https://github.com/antiboredom/p5.riso) A p5js library for risograph printing by Sam Lavigne and Tega Brain.
+- [p5.gif](https://github.com/antiboredom/p5.gif.js/tree/master) p5.gif.js is a library that let's you play animated gifs in p5.js sketches. You load a gif by calling `loadGif('something.gif')` and then can display it using p5's built in `image()` function. 
 
 ### Other JS Libraries
 - Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
