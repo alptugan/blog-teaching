@@ -434,4 +434,97 @@ After the you created the `intro.js` class, update the `index.html` file.
 
 Now, we start to code `intro` class. If you did not upload your game assets go and check [[#Export interface elements]] section above. You also need to have created the objects that are shown in the [[#Create Required Classes]] section above.
 
+Your `into.js` class should look like below;
+```js
+class intro {
+  constructor() {
+    this.x = 0;
+    this.y = 0;
+    
+    this.width = 0;
+    this.height = 0;
+    
+    this.img = null;
+  }
 
+  display() {
+    if(this.img != null) {
+      image(this.img, 0,0, this.width, this.height);
+    }
+  }
+  
+  async setImage(imagePath) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => {
+        // Create a p5.js compatible image
+        const p5Img = createImage(img.width, img.height);
+        p5Img.drawingContext.drawImage(img, 0, 0);
+        this.img = p5Img;
+        this.width = img.width;
+        this.height = img.height;
+        resolve();
+      };
+      img.onerror = reject;
+      img.src = imagePath;
+      
+    });
+  }
+}
+```
+
+
+Then, in your main `sketch.js` file, update the code base
+```js
+// Now instantiate the game scene via game class
+// Declare the variable
+var sceneGame;
+var sceneIntro;
+
+// define a current variable
+// we will have 3 main scenes -> "intro", "game", "end"
+var currentScene;
+
+function setup() {
+  createCanvas(800, 800);
+
+  sceneIntro = new intro();
+  sceneIntro.setImage("s1_bg.jpg");
+  
+  // Create instance of the game class
+  sceneGame = new game();
+
+  // Set current scene
+  // This will determine the order of the game scenes...
+  currentScene = "intro";
+}
+
+function draw() {
+  background(250);
+
+  // Render Intro Scene
+  if (currentScene == "intro") {
+    sceneIntro.display()
+  }
+  
+  // Render Game Scene
+  if (currentScene == "game") {
+    // To display the content we need to call display function in the game class
+    sceneGame.display();
+  }
+  
+  
+  // Render End Scene
+  if (currentScene == "end") {
+    
+  }
+}
+
+function keyPressed() {
+  if (key === "s") {
+    // Use the following naming convention while uploading the images.
+    saveCanvas("week4-assignment-alptugan.jpg");
+  }
+}
+
+```

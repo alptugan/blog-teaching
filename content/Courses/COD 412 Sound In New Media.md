@@ -73,6 +73,9 @@ Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
 * Zeynep Özer -> Best Imagined Sound (Space), Best Natural Sound (Sea Shell) 
 
 ### Week 4
+[piezzo speaker](https://www.youtube.com/watch?v=EzSu5zOX_Qg)
+[sound box](https://www.youtube.com/watch?v=Laau6Aui4dU)
+
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 - Live Coding
 - [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)

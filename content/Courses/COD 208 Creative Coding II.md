@@ -21,6 +21,7 @@ draft: false
 
 #### ML5 Related
 [Neural Network Model Training](https://github.com/shiffman/ml5-neural-network-example/tree/main)
+[Golan Levin Example Codes](https://github.com/golanlevin/exercises/tree/main/16_machine_learning)
 
 
 ### AI & ML
@@ -113,6 +114,7 @@ Making a software visual guide, [link](https://www.makingsoftware.co/)
 5. ❗Submit the sketch source code as zip file as well.
 
 # week 5
+
 - Your games must be finished and finalized. 
 - I don't want to hear any apologies or last day help requests.
 - Upload your whole sketch folder.

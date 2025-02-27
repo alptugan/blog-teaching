@@ -539,3 +539,7 @@ Or write the video order in the command:
 ```bash
 ffmpeg -i "concat:input1.mp4|input2.mp4|input3.mp4|input4.mp4" -c copy output10.mp4
 ```
+
+## Default Mac OS Paths
+> [!NOTE]- Custom Services created via Automator App
+> /Users/alptugan/Library/Services/Convert PNG Sequence to Video.workflow
