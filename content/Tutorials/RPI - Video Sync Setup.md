@@ -20,7 +20,8 @@ draft: false
 1. Prepare the video in mov or mp4 format.
 2. Copy the video file into a USB disk.
 3. Plug the USB to RPI.
-4. Power ON the RPI and you will see the video playing in loop.
+4. Power ON monitor.
+5. Power ON the RPI and you will see the video playing in loop.
 
 ## Multiple Video Sync Loop
 1. Burn the image to the SD card.
@@ -50,19 +51,24 @@ The SD card contains the Raspberry Pi's customized operating system, and the USB
 [Github Repository](https://github.com/andrewintw/rpi-video-sync-looper?tab=readme-ov-file#latest-release)
 
 ## Trouble Shoot
-> [!WARNING]- RPI throws error "Cannot read the video" from USB disk.
+> [!scale]- Videos are not synced.
+> 1. The video must be at least 60 seconds long.
+> 2. The file names must be the same on the `master` and `slave`
+> For example, if the Master plays a video with the name GK5.mp4, the other two devices should also play a video named GK5.mp4. However, the size of the mp4 files played by these three devices may be different because their content is different.
+
+> [!scale]- Resolution/aspect ratio of the video displaying wrong size
+> 1. Turn off Raspberry Pi.
+> 2. Turn off monitor.
+> 3. First turn on the monitor, then boot up the Raspberry Pi.
+
+> [!error]- RPI throws error "Cannot read the video" from USB disk.
 > Remove USB from the RPI
 >Connect to Mac. 
 >Open Disk Utility, format the USB disk with `EXFAT`
 ![[merve01.png]]
 > Convert the video file to MP4 `H264` format via Handbrake App.
 
-> [!WARNING]- Videos are not synced.
-> 1. The video must be at least 60 seconds long.
-> 2. The file names must be the same on the `master` and `slave`
-> For example, if the Master plays a video with the name GK5.mp4, the other two devices should also play a video named GK5.mp4. However, the size of the mp4 files played by these three devices may be different because their content is different.
-
-> [!WARNING]- 7 inch HDMI LCD (C) WaveShare Not Showing
+> [!HELP]- 7 inch HDMI LCD (C) WaveShare Not Showing
 > ```
 > hdmi_group=2
 > hdmi_mode=87
@@ -71,13 +77,11 @@ The SD card contains the Raspberry Pi's customized operating system, and the USB
 > ```
 > [reference](https://www.waveshare.com/wiki/7inch_HDMI_LCD_(C))
 
-
-
-
-https://forums.raspberrypi.com/viewtopic.php?t=370251
-
-https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-05-03/
-
-
-https://www.raspberrypi.com/documentation/computers/configuration.html#kernel-command-line-cmdline-txt
-![[rapi-screen-rot.png]]
+> [!HELP]- Monitor related issues
+> https://forums.raspberrypi.com/viewtopic.php?t=370251
+> 
+> https://downloads.raspberrypi.com/raspios_oldstable_armhf/images/raspios_oldstable_armhf-2023-05-03/
+> 
+> https://www.raspberrypi.com/documentation/computers/configuration.html#kernel-command-line-cmdline-txt
+> 
+> ![[rapi-screen-rot.png]]

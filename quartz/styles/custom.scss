@@ -55,3 +55,26 @@ img[alt*="left"] {
 /* TIMELINE BEGIN */
 
 /* TIMELINE END */
+
+
+/* CALLOUT */
+.callout[data-callout="scale"] {
+    --callout-color: 244, 0, 0;
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="video"] {
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="image"] {
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="my-comment"] {
+    --callout-icon: lucide-message-square;
+    /* --callout-icon: message-o; // font-awesome
+    border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
+}
