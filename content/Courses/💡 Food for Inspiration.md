@@ -51,6 +51,7 @@ https://twitter.com/Prathkum/status/1775878750518866158
 ---
 ## 🎮 Algorithms & Concepts
 [Timeline of Algorithms](https://omni.wikiwand.com/en/articles/Timeline_of_algorithms)
+[Generative Art with Math](https://tetunori.github.io/GenerativeArtWithMath-p5.js/index.html) repository focuses on tilling and pattern creation through mathematical concepts.
 ### 1. Paper Marbling Algorithm
 [video](https://www.youtube.com/watch?v=p7IGZTjC008)
 [Paper Marbling](https://www.wikiwand.com/en/Paper_marbling) 

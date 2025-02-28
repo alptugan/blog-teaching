@@ -73,8 +73,16 @@ Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
 * Zeynep Özer -> Best Imagined Sound (Space), Best Natural Sound (Sea Shell) 
 
 ### Week 4
+**Assignment**
+Read the attached document (Audio-Vision: Sound on Screen, Michel Chion). The ebook is available on OZU as well, if you want to skim the whole content. 
+
+Record 2 different sound samples for each category mentioned in the book. Keep the recording lengths between 5-20 seconds long. So you must upload 6 sound samples in total.
 [piezzo speaker](https://www.youtube.com/watch?v=EzSu5zOX_Qg)
 [sound box](https://www.youtube.com/watch?v=Laau6Aui4dU)
+
+**Reading:** COD412_Three_listening_Modes.pdf
+
+
 
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 - Live Coding

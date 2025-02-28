@@ -8,7 +8,7 @@ tags:
   - video
   - sync
 aliases: 
-draft: true
+draft: false
 ---
 ## Download Image
 1. Goto link and download the Raspberry Pi image -> [download](https://github.com/andrewintw/rpi-video-sync-looper?tab=readme-ov-file#latest-release)

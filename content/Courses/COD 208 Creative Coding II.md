@@ -105,6 +105,7 @@ draft: false
 **2024-2025**
 Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
 Making a software visual guide, [link](https://www.makingsoftware.co/)
+Feedback for the games
 
 **2023-2024**
 1. 👀 Implement all of the scenes that you design for your game in P5Js.
@@ -113,8 +114,7 @@ Making a software visual guide, [link](https://www.makingsoftware.co/)
 4. ❗Submit the openprocessing link.
 5. ❗Submit the sketch source code as zip file as well.
 
-# week 5
-
+## week 5
 - Your games must be finished and finalized. 
 - I don't want to hear any apologies or last day help requests.
 - Upload your whole sketch folder.
