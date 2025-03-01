@@ -1,7 +1,7 @@
 ---
 title: MACOS - Run Command on Context Menu
 date: 2025-02-23
-modfification date: Sunday 23rd February 2025 14:09:16
+modification date: Sunday 23rd February 2025 14:09:16
 description: 
 tags:
   - tutorial

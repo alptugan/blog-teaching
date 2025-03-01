@@ -1,7 +1,7 @@
 ---
 title: RPI - Video Sync Setup
 date: 2025-02-06
-modfification date: Thursday 6th February 2025 15:53:12
+modification date: 2025 15:53:12
 description: 
 tags:
   - raspberrypi
@@ -16,14 +16,14 @@ draft: false
 ![[merve01.png]]
 1. Burn the image to SD card.
 
-## Single Video Loop
+## Option 1: Single Video Loop
 1. Prepare the video in mov or mp4 format.
 2. Copy the video file into a USB disk.
 3. Plug the USB to RPI.
 4. Power ON monitor.
 5. Power ON the RPI and you will see the video playing in loop.
 
-## Multiple Video Sync Loop
+## Option 2: Multiple Video Sync Loop
 1. Burn the image to the SD card.
 2. Plug it to the computer again.
 3. Open the `video-sync.conf` file in nano editor.

@@ -82,6 +82,8 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 - [obsidian-zotero-integration/Templating.md at main · mgmeyers/obsidian-zotero-integration (github.com)](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/Templating.md)
 - Sytax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
 
+### Obsidian sync across devices
+https://www.youtube.com/watch?v=PScdHzUiBLA
 
 ## 7. Columns
 <div style="display:grid;grid-template-columns:1fr 1fr">
