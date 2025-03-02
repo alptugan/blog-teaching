@@ -34,7 +34,7 @@ I save the above code in document called `update_blog`. Then, make it executable
 sh /Users/alptugan/Documents/DEVS/scripts/update_blog
 ```
 
-### TL;DR
+### TL;DR Cheat Sheet
 ```bash
 # upload to Github
 npx quartz sync

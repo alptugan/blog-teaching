@@ -80,10 +80,10 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 ## 6. PLUG-INS
 ### Obsidian Bridge
 - [obsidian-zotero-integration/Templating.md at main · mgmeyers/obsidian-zotero-integration (github.com)](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/Templating.md)
-- Sytax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
+- Syntax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
 
 ### Obsidian sync across devices
-https://www.youtube.com/watch?v=PScdHzUiBLA
+The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.
 
 ## 7. Columns
 <div style="display:grid;grid-template-columns:1fr 1fr">

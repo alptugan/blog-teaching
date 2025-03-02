@@ -15,7 +15,6 @@ draft: false
 - Visual representation of data tends to be perceived more easily by students... Coding
 	[Knowledge Visualization as a Teaching Tool: Education Book Chapter | IGI Global (igi-global.com)](https://www.igi-global.com/chapter/knowledge-visualization-as-a-teaching-tool/195057)
 
-
 - Kinesthetic learning;
 	- The VARK Model by Neil [[Fleming]]
 	- Visual learning (Using Processing or other frameworks that are built for creating visual output from code)
@@ -112,6 +111,7 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - 🎥 [p5.capture](https://github.com/tapioca24/p5.capture) Frame by frame p5JS sketch recorder in video, GIF, or sequence of images format.
 - 🖼️ [p5.Snap](https://zachkrall.github.io/p5snap/) A command line tool for creating snapshots of p5 sketches. 
 - 🖼️ ⭐️ [p5.FIP](https://prontopablo.github.io/p5.FIP/)  p5.FIP is a library that allows you to add image processing/post-processing effects to your p5.js sketch. In 5 lines of code you can add effects like bloom, glitching, cartoon shading and many more.
+- 🖼️  [Diorama 3D](https://dev.codemotionkids.com/libraries/diorama/docs/) Uses Three.js as a wrapper for p5js in 3D space. Check also the documentation [link](https://dev.codemotionkids.com/libraries/diorama/docs/global.html). It supports post fx, but not all of the post fx options present in the library. [p5js examples](https://editor.p5js.org/MassimoAvvisati/collections/2laScvB97) collection is available as well.
 - 🔁 [p5.createLoop](https://www.npmjs.com/package/p5.createloop) Create animation loops with noise and GIF exports in one line of code.
 - 🥽 [p5.simpleAR](https://github.com/tetunori/p5.simpleAR?tab=readme-ov-file) **p5.simpleAR** is a simple JavaScript supplement(mini-library) file to easily convert existing sketches into AR for PCs and smart devices. It includes 64 different marker patterns. Watch the [video](https://www.youtube.com/watch?v=I2mgpdLRX3g).
 - 🕹️ [p5.joystick.js](https://github.com/Vamoss/p5.joystick) The **p5.joystick** library aims to facilitate integration with physical Joysticks.It also has an easy calibration system, allowing you to configure different types of joysticks with the standard button format.
@@ -119,6 +119,7 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - 👯 [p5.party](https://github.com/jbakse/p5.party) p5.party is a library for easily creating online multi-user sketches with p5.js. With p5.party you can quickly prototype ideas for multiplayer games, real-time multi-user apps, and multi-computer art projects.
 - [p5.riso](https://github.com/antiboredom/p5.riso) A p5js library for risograph printing by Sam Lavigne and Tega Brain.
 - [p5.gif](https://github.com/antiboredom/p5.gif.js/tree/master) p5.gif.js is a library that let's you play animated gifs in p5.js sketches. You load a gif by calling `loadGif('something.gif')` and then can display it using p5's built in `image()` function. 
+- [p5.mapper](https://github.com/jdeboi/p5.mapper/) library for projection mapping with p5.js.
 
 ### Other JS Libraries
 - Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
@@ -146,23 +147,15 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 
 ---
 ## 🏘️ Creative Coding Studios & Links
-[Onformative](https://onformative.com/) Berlin based studio for digital art and design.
-
-[Filika Interactive](https://www.filikatasarim.com/v2/portfolyo/) Istanbul based studio for art+design+technology.
-
-[Decol](https://www.decol.tv/) Istanbul based studio for art+design+technology.
-
-[Molten Immersive Art](https://moltenimmersiveart.com/) It straddles the boundaries of multi-discipline artistic experiences across ALL the senses.
-
-[Intuity](https://www.intuity.de/en/) Germany based company focused on interactive software and hardware solutions.
-
-[Studio Nowhere](https://studionowhere.com/about/) Digital art and design studio based in Shangai dedicated to new forms of public engagements with creative experiences.
-
-[Kimatica](https://kimatica.net/about/) A London-based creative studio designing transformative experiences through performance arts, interactive technology and the human body.
-
-[Creative Applications](https://www.creativeapplications.net/) An online art+design+technology hub for creative industries.
-
-[Creative Coding Fest](https://ccfest.rocks/) CC Fest is a free and friendly event for anyone curious about creative code.
+- [Onformative](https://onformative.com/) Berlin based studio for digital art and design.
+- [Filika Interactive](https://www.filikatasarim.com/v2/portfolyo/) Istanbul based studio for art+design+technology.
+- [Decol](https://www.decol.tv/) Istanbul based studio for art+design+technology.
+- [Molten Immersive Art](https://moltenimmersiveart.com/) It straddles the boundaries of multi-discipline artistic experiences across ALL the senses.
+- [Intuity](https://www.intuity.de/en/) Germany based company focused on interactive software and hardware solutions.
+- [Studio Nowhere](https://studionowhere.com/about/) Digital art and design studio based in Shangai dedicated to new forms of public engagements with creative experiences.
+- [Kimatica](https://kimatica.net/about/) A London-based creative studio designing transformative experiences through performance arts, interactive technology and the human body.
+- [Creative Applications](https://www.creativeapplications.net/) An online art+design+technology hub for creative industries.
+- [Creative Coding Fest](https://ccfest.rocks/) CC Fest is a free and friendly event for anyone curious about creative code.
 
 ---
 ## 📺 Video Archive

@@ -115,6 +115,7 @@ Feedback for the games
 5. ❗Submit the sketch source code as zip file as well.
 
 ## week 5
+**Augmented Reality**
 - Your games must be finished and finalized. 
 - I don't want to hear any apologies or last day help requests.
 - Upload your whole sketch folder.

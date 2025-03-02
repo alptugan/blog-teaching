@@ -82,7 +82,14 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 
 **Reading:** COD412_Three_listening_Modes.pdf
 
+### Week 5
+- Who is Michel Chion?
+- What are the listening modes? Why do they matter?
+- Examples of Causal, Semantic and Reduced Listening discussion.
 
+**In class Showcase**
+![-right](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sol-resol.png/200px-Sol-resol.png)[Solresol](https://www.wikiwand.com/en/articles/Solresol) musical language called Langue Universelle developed by **Jean-François Sudre** in 19th century. 
+<br><br><br><br><br><br><br><br>
 
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
 - Live Coding
