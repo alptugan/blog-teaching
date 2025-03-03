@@ -115,6 +115,8 @@ Feedback for the games
 5. ❗Submit the sketch source code as zip file as well.
 
 ## week 5
+> [!TIP] This form, which will be available starting **Monday, March 3**, consists of **two open-ended questions** where students can share what they find positive about the courses and the areas they believe could be improved for a better learning experience. The form will remain accessible via SIS **throughout the upcoming week**.
+
 **Augmented Reality**
 - Your games must be finished and finalized. 
 - I don't want to hear any apologies or last day help requests.

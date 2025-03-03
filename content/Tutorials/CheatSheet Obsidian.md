@@ -85,6 +85,8 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 ### Obsidian sync across devices
 The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.
 
+Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132eeUU)
+
 ## 7. Columns
 <div style="display:grid;grid-template-columns:1fr 1fr">
   <div>This is column 1</div>

@@ -24,6 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   pageBody: Component.Content(),
+  afterBody: [],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -53,8 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks()
-  ],
-  middle: []
+  ]
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -70,3 +70,17 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+/* components for the homepage (index.md)
+export const indexPageLayout: PageLayout = {
+  beforeBody: [],
+  pageBody: [
+    Component.RecentNotes({ limit: 5 }),
+    Component.Content(),
+  ],
+  left: [],
+  right: [],
+}
+
+Component.RecentNotes({ limit: 5, showTags: false, linkToMore: "Tutorials/" })
+*/
