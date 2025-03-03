@@ -47,10 +47,15 @@ Designers can utilize AR in creative coding for several purposes:
 
 ## p5.SimpleAR Library Installation
 **p5.simpleAR** is a simple JavaScript supplement (mini-library) file to easily convert existing sketches into AR for PCs and smart devices. It includes 64 different marker patterns. Watch the [video](https://www.youtube.com/watch?v=I2mgpdLRX3g).
+<iframe title="p5.simpleAR key visual" src="https://www.youtube.com/embed/I2mgpdLRX3g?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
-1. First, you need to print a marker. Choose your from the following link. Print the marker on A4 size paper. You scale the marker any size as long as it is too small for your webcam can focus on it. We will assign marker with our p5JS sketch. Whenever any camera captures the marker, we will show a uniqe content to the viewer. Note down the marker id that you choose. We will use the id of the marker in out p5JS sketch to tell our app to display content specifically when it sees the marker that we choose. For instance I choose the following image. The filename of the image is 48wFrame.png. So I will note down the id as `48`. I print my marker 5 x 5 cm  size with the white borders included.
-   ![48wFrame.png](https://github.com/tetunori/p5.simpleAR/blob/main/markers/48wFrame.png?raw=true)
+1. Initially, a fiducial marker must be printed for use in an augmented reality application. A selection of suitable markers is available via a provided link. The chosen marker should be printed on A4-sized paper, with scaling considerations to ensure it remains within the focal range of the webcam. This marker will be programmatically associated with a p5JS sketch. Upon camera detection of the marker, specific digital content will be rendered to the viewer. The numerical identifier (ID) of the selected marker must be recorded, as this ID will be employed within the p5JS sketch to trigger the display of the designated content when the application recognizes the marker. For example, if the selected marker's image filename is "48wFrame.png," the corresponding ID is "48." The marker should then be printed, maintaining the white borders, at a size of 5 x 5 cm.
+   🔗 [Link to diducial markers](https://github.com/tetunori/p5.simpleAR/tree/main/markers)
+   
    ![[p5js-ar00015.jpeg]]
+   
+   Click on the png file, and download the image. Fiducial markers are just a simple black and white graphics.
+   ![48wFrame.png](https://github.com/tetunori/p5.simpleAR/blob/main/markers/48wFrame.png?raw=true)
 2. Copy the following library link
    `https://tetunori.github.io/p5.simpleAR/dist/latest/p5SimpleAR.js` and paste in `<script>` element. Import the library after the `p5.js` library. The overall `index.html` should look like the following:
 ```html
@@ -91,5 +96,11 @@ function draw() {
 }
 ```
 
-1. Now run the sketch, your computer asks for permission to use your computer's webcam. You must allow the browser, otherwise the camera cannot be initialized. Show the marker to the camera, and you will see your p5JS sketch as if it was generated on the marker. You can also navigate to your sketch link using your phones browser and display the content with on your phone. Actually, anyone with the link and the marker can view the content using their own devices. Here is [link](https://editor.p5js.org/alptugan/sketches/8Y-ykeDOF) to running code.
-   
+5. Now run the sketch, your computer may ask for permission to use your computer's webcam. You must allow the browser, otherwise the camera cannot be initialized. Show the marker to the camera, and you will see your p5JS sketch as if it was generated on the marker. 
+   ![[cod208_week4_simpleAR.mp4]]
+## Final Remarks
+You can also navigate to your sketch link using your phones browser and display the content with on your phone. Actually, anyone with the link and the marker can view the content using their own devices. Here is [link](https://editor.p5js.org/alptugan/sketches/8Y-ykeDOF) to running code.
+
+## Augmented Reality with ML5 Library
+<br>
+<iframe title="Create AR filters in the browser with ML5.js and P5.js | Creative Coding Tutorial" src="https://www.youtube.com/embed/9WywDPOV5nA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
