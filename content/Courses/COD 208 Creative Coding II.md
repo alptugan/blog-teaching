@@ -106,6 +106,16 @@ draft: false
 Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
 Making a software visual guide, [link](https://www.makingsoftware.co/)
 Feedback for the games
+**Assignment**
+Dear all,  
+Let me clarify one thing. Those who do not attend classes submit irrelevant assignments. It does not mean that if your code is running, you will get high grades. This is a friendly reminder for you. Please read the LMS submissions carefully or ask your friends in the class before submission. For this game project, I won't decrease anyone's grade. But for the upcoming projects, if I receive irrelevant assignments, do not shock when you see your grades 🤷‍♂️. You're warned!
+
+For the next week, I want all of you to finalize your games. Each game must have 3 different scenes, as discussed in the lecture time. You will be graded according to your game interface design (40 points) and game mechanics (40 points).   
+1. Submit the link to your project. (10 points)  
+2. Submit a zip version of your project. (10 points)  
+3. Submit screen-capture video of your game play. Keep it under 2 minutes. Convert the screen capture to mp4 video format. [Handbrake Software tutorial](https://www.youtube.com/watch?v=Oar4ESK-g1g) (10 points)
+
+For more information about the game format, visit the [link](https://alptugan.github.io/blog-teaching/Tutorials/P5JS---Casual-Game).
 
 **2023-2024**
 1. 👀 Implement all of the scenes that you design for your game in P5Js.

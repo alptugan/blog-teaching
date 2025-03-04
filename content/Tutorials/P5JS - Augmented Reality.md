@@ -63,7 +63,7 @@ Designers can utilize AR in creative coding for several purposes:
 
 ### 1. Choose a Fiducial Marker and Print
 Initially, a fiducial marker must be printed for use in an augmented reality application. A selection of suitable markers is available via a provided link. The chosen marker should be printed on A4-sized paper, with scaling considerations to ensure it remains within the focal range of the webcam. This marker will be programmatically associated with a p5JS sketch. Upon camera detection of the marker, specific digital content will be rendered to the viewer. The numerical identifier (ID) of the selected marker must be recorded, as this ID will be employed within the p5JS sketch to trigger the display of the designated content when the application recognizes the marker. For example, if the selected marker's image filename is "48wFrame.png," the corresponding ID is "48." The marker should then be printed, maintaining the white borders, at a size of 5 x 5 cm.
-   🔗 [Link to diducial markers](https://github.com/tetunori/p5.simpleAR/tree/main/markers)
+   🔗 [Link to fiducial markers](https://github.com/tetunori/p5.simpleAR/tree/main/markers)
    
    ![[p5js-ar00015.jpeg]]
    
