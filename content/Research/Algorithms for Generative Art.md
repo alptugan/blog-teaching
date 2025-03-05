@@ -1,7 +1,7 @@
 ---
 title: Algorithms for Generative Art
 date: 2025-02-08
-modfification date: Saturday 8th February 2025 15:58:16
+modification date: Saturday 8th February 2025 15:58:16
 description: 
 tags: 
 aliases: 

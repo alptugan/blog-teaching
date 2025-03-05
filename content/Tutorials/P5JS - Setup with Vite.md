@@ -1,7 +1,7 @@
 ---
 title: P5JS - Setup with Vite
 date: 2024-12-25
-modfification date: Wednesday 25th December 2024 19:29:39
+modification date: Wednesday 25th December 2024 19:29:39
 description: Shows how to create p5js projects inside a dedicated folder
 tags:
   - p5js

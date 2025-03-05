@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - Video Track Layer
 date: 2024-11-30
-modfification date: Saturday 30th November 2024 20:32:08
+modification date: Saturday 30th November 2024 20:32:08
 description: 
 tags:
   - DavinciResolve

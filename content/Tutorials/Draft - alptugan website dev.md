@@ -1,7 +1,7 @@
 ---
 title: Untitled
 date: 2024-07-02
-modfification date: Tuesday 2nd July 2024 15:01:52
+modification date: Tuesday 2nd July 2024 15:01:52
 description: 
 tags: 
 aliases: 

@@ -1,7 +1,7 @@
 ---
 title: Reaper - MIDI Learn
 date: 2024-10-14
-modfification date: Monday 14th October 2024 12:37:19
+modification date: Monday 14th October 2024 12:37:19
 description: Customize you midi device buttons in Reaper
 tags:
   - sound

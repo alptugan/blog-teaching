@@ -1,7 +1,7 @@
 ---
 title: Dithering
 date: 2024-12-10
-modfification date: Tuesday 10th December 2024 08:41:14
+modification date: Tuesday 10th December 2024 08:41:14
 description: 
 tags: 
 aliases: 

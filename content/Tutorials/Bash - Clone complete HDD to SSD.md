@@ -1,7 +1,7 @@
 ---
 title: Bash - Clone complete HDD to SSD
 date: 2024-06-09
-modfification date: Sunday 9th June 2024 01:55:03
+modification date: Sunday 9th June 2024 01:55:03
 description: 
 tags:
   - ubuntu

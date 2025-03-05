@@ -1,7 +1,7 @@
 ---
 title: COD 412 Sound In New Media
 date: 2024-10-23
-modfification date: Wednesday 23rd October 2024 10:33:55
+modification date: Wednesday 23rd October 2024 10:33:55
 description: Includes course related screening contents.
 tags:
   - soundart
@@ -96,6 +96,8 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 - [The Secrets of Sound](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26)
 - [Every Noise](https://everynoise.com/)
 - [Portfolio Showcase](https://www.kunsf.xyz) 
+- [Modes of listening: Causal - YouTube](https://www.youtube.com/watch?v=eKXfbLpxnuE)
+- [Unusual and Strange Musical Instruments Compilation - YouTube](https://www.youtube.com/watch?v=3EPdeQTTFt8&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=14)
 
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)

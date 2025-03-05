@@ -1,7 +1,7 @@
 ---
 title: COD 207 Creative Coding I
 date: 2025-02-08
-modfification date: Saturday 8th February 2025 19:59:17
+modification date: Saturday 8th February 2025 19:59:17
 description: 
 tags:
   - Teaching

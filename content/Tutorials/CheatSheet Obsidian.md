@@ -88,6 +88,16 @@ The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to 
 Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132eeUU)
 
 ## 7. Columns
+### When is the best to ski in Switzerland?
+> [!blank-container|float-right-small] 
+> ![[image-PeelFriedrichsen_2018-2-x33-y499.png]]
+> *Average Temperatures and Rainfall*
+
+- Most tourists who intend to ski tend to visit **between Christmas and New Year**. Lots of locals go skiing during this period as well.
+- **January** is the best month to ski in my opinion. Snow conditions are often good, there are fewer crowds and hotel prices are not as high.
+- During **February**, it is common for locals to take ski vacations. If you go during this time, expect more crowds and higher hotel prices.
+
+
 <div style="display:grid;grid-template-columns:1fr 1fr">
   <div>This is column 1</div>
   <div>This is column 2</div>

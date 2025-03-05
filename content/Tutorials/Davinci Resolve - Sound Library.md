@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - Sound Library
 date: 2024-10-14
-modfification date: Monday 14th October 2024 12:02:07
+modification date: Monday 14th October 2024 12:02:07
 description: Shows how to add samples to your Fairlight projects in Davinci Resolve
 tags:
   - DavinciResolve

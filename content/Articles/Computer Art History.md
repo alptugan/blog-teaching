@@ -1,7 +1,7 @@
 ---
 title: Computer Art History
 date: 2024-08-20
-modfification date: Tuesday 20th August 2024 17:40:21
+modification date: Tuesday 20th August 2024 17:40:21
 description: Landmarks on Computer Art History from Tuğan's perspective.
 tags:
   - history

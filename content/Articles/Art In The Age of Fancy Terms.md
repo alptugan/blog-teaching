@@ -1,7 +1,7 @@
 ---
 title: Art In The Age of Fancy Terms
 date: 2024-12-28
-modfification date: Saturday 28th December 2024 17:37:20
+modification date: Saturday 28th December 2024 17:37:20
 description: 
 tags:
   - Art

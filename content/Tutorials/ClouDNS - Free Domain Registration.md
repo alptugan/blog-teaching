@@ -1,7 +1,7 @@
 ---
 title: ClouDNS - Free Domain Registration
 date: 2024-06-16
-modfification date: Sunday 16th June 2024 16:20:27
+modification date: Sunday 16th June 2024 16:20:27
 description: 
 tags:
   - tutorial

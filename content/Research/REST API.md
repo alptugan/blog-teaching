@@ -1,7 +1,7 @@
 ---
 title: REST API
 date: 2024-11-28
-modfification date: Thursday 28th November 2024 16:30:59
+modification date: Thursday 28th November 2024 16:30:59
 description: 
 tags:
   - REST

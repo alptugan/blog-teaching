@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - EQ Effects
 date: 2024-11-30
-modfification date: Saturday 30th November 2024 20:13:35
+modification date: Saturday 30th November 2024 20:13:35
 description: 
 tags:
   - DavinciResolve

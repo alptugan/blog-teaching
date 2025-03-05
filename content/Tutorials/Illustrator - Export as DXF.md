@@ -1,7 +1,7 @@
 ---
 title: Illustrator - Export as DXF
 date: 2024-12-10
-modfification date: Tuesday 10th December 2024 19:40:35
+modification date: Tuesday 10th December 2024 19:40:35
 description: 
 tags:
   - Illustrator

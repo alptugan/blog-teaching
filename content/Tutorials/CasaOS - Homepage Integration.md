@@ -1,7 +1,7 @@
 ---
 title: CasaOS - Homepage Integration
 date: 2024-07-04
-modfification date: Thursday 4th July 2024 14:53:23
+modification date: Thursday 4th July 2024 14:53:23
 description: Access CasaOS docker containers on Homepage dashboard.
 tags:
   - tutorial

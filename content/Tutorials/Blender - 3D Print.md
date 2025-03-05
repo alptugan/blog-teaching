@@ -1,7 +1,7 @@
 ---
 title: Blender - 3D Print
 date: 2024-12-09
-modfification date: Monday 9th December 2024 12:20:40
+modification date: Monday 9th December 2024 12:20:40
 description: 
 tags:
   - Blender

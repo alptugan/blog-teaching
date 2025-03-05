@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - Audio Track Layers
 date: 2024-11-30
-modfification date: Saturday 30th November 2024 20:28:14
+modification date: Saturday 30th November 2024 20:28:14
 description: 
 tags:
   - DavinciResolve

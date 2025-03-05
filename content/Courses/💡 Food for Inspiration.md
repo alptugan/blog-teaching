@@ -78,6 +78,9 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ### 6. Sorting Algorithms
 [Quick Sort Algorithm](https://editor.p5js.org/alptugan/sketches/OcRKTpg58) The most efficient sorting algorithm build for large databases.
 
+### 7. Controlling Curves
+[Controlling curves](https://kyndinfo.notion.site/Controlling-curves-69ce2d8dc720457ba7cd9392e350dbce) We have explored different ways of defining and drawing curves, but we haven't discussed the quality of curves much. Curves can have various visual characteristics. For example, some curves might look more organic and natural, while others might appear more geometric and mechanical. How can we create these different looks of curves?
+
 ---
 ## 📦 Third-party Apps
 ### 1. Timeline Apps OSC Protocoll

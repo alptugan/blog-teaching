@@ -2,7 +2,9 @@
 title: AI is the new God
 date: 2024-04-21
 description: 
-tags: 
+tags:
+  - AI
+  - article
 aliases: 
 draft: true
 ---

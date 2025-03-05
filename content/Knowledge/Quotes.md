@@ -1,7 +1,7 @@
 ---
 title: Quotes
 date: 2024-12-28
-modfification date: Saturday 28th December 2024 10:47:08
+modification date: Saturday 28th December 2024 10:47:08
 description: 
 tags: 
 aliases: 

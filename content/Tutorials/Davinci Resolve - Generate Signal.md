@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve Generate Signal
 date: 2024-09-24
-modfification date: Tuesday 24th September 2024 22:12:45
+modification date: Tuesday 24th September 2024 22:12:45
 description: Article covers how to generate sine or noise signal in Davinci Resolve Fairlight
 tags:
   - video

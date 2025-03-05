@@ -1,7 +1,7 @@
 ---
 title: Cloudflare - Domain Register
 date: 2024-05-26
-modfification date: Sunday 26th May 2024 10:30:11
+modification date: Sunday 26th May 2024 10:30:11
 description: Shows domain register on Cloudflare
 tags:
   - tutorial

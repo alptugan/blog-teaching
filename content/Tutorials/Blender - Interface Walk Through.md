@@ -1,7 +1,7 @@
 ---
 title: Blender - Interface Walk Through
 date: 2024-12-09
-modfification date: Monday 9th December 2024 13:44:42
+modification date: Monday 9th December 2024 13:44:42
 description: 
 tags:
   - 3d

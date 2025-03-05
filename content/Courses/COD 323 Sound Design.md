@@ -1,7 +1,7 @@
 ---
 title: COD 323 Sound Design
 date: 2024-09-11
-modfification date: Wednesday 11th September 2024 13:42:10
+modification date: Wednesday 11th September 2024 13:42:10
 description: Includes course materials covering my sound design classes.
 tags:
   - sound

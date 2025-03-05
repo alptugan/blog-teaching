@@ -1,7 +1,7 @@
 ---
 title: Cheat Sheets
 date: 2024-05-13
-modfification date: 2024-02-20
+modification date: 2024-02-20
 description: Cheat Sheet for Linux Webmin Interface
 tags:
   - linux

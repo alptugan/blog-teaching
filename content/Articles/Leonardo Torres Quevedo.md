@@ -1,7 +1,7 @@
 ---
 title: Leonardo Torres Quevedo
 date: 2025-02-09
-modfification date: Sunday 9th February 2025 11:57:37
+modification date: Sunday 9th February 2025 11:57:37
 description: 
 tags:
   - computer-art

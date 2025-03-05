@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - Foley Sampler
 date: 2024-10-07
-modfification date: Monday 7th October 2024 17:03:25
+modification date: Monday 7th October 2024 17:03:25
 description: How to use Foley Sampler Plugin on Davinci Resolve Fairlight
 tags:
   - DavinciResolve

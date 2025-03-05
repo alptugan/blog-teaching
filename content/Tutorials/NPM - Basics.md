@@ -1,7 +1,7 @@
 ---
 title: NPM - Basics
 date: 2025-02-17
-modfification date: Monday 17th February 2025 16:46:43
+modification date: Monday 17th February 2025 16:46:43
 description: 
 tags:
   - npm

@@ -1,7 +1,7 @@
 ---
 title: Algorithmic Art - 01Super-FormulaUntitled
 date: 2025-01-11
-modfification date: Saturday 11th January 2025 15:13:37
+modification date: Saturday 11th January 2025 15:13:37
 description: 
 tags:
   - algorithmicart

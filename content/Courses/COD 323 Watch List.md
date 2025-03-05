@@ -1,7 +1,7 @@
 ---
 title: COD 323 Watch List
 date: 2024-10-16
-modfification date: Wednesday 16th October 2024 08:59:14
+modification date: Wednesday 16th October 2024 08:59:14
 description: Includes movie and documentary list
 tags:
   - sound

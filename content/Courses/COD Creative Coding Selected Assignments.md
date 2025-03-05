@@ -2,7 +2,7 @@
 banner: Assets/covers/cover_coding.png
 title: COD 207 Creative Coding Selected Assignments
 date: 2024-10-10
-modfification date: Thursday 10th October 2024 09:32:19
+modification date: Thursday 10th October 2024 09:32:19
 description: Includes selected student assignments
 tags:
   - p5js

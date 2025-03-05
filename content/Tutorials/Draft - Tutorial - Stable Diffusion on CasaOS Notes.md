@@ -1,7 +1,7 @@
 ---
 title: Stable Diffusion on CasaOS Notes
 date: 2024-06-28
-modfification date: Friday 28th June 2024 21:28:52
+modification date: Friday 28th June 2024 21:28:52
 description: Model installation, stable diffusion UI, etc...
 tags:
   - AI

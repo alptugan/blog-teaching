@@ -11,6 +11,8 @@ tags:
   - cod208
 aliases: 
 draft: false
+cssclass:
+  - wide
 ---
 ## What is augmented reality?
 Augmented reality (AR) is a technology that overlays computer-generated images onto the real world, providing an enhanced or altered view of reality. Think of it as blending digital content with your physical surroundings.
@@ -33,23 +35,21 @@ Designers can combine digital information with the physical world to create imme
 ## Use Cases of AR Technology
 1. **Interactive Projections**: For instance, a designer can enhance the customer experience using AR technologies. Imagine a brand identity representing a static images of the customer's company. When user points the smart phone camera onto the poster, the viewer can display animated version of the design, or give extra information about the company that can not be included in the identity.
    
-   ![[p5js-ar00014.jpg]]
+![[p5js-ar00014.jpg]]
 
 2. **Architecture**: People can view the rendered 3D version of a building in planning phase. Or they can customize the inner design of a house before buying it.
    
-   ![[p5js-ar00001.jpg]]
-   ![[p5js-ar00004.jpg]]
+   ![[p5js-ar00001.jpg]]![[p5js-ar00004.jpg]]
    ![[p5js-ar00011.jpg]]
 
 3. **Interactive Games**: Imagine a traditional treasure hunt game. A set of markers can be distributed in closed or opened space, and players try to find the quests in correct order via scanning the markers. Or in a card game, the characters can be displayed in 3D and interact with the user.
    
-   ![[p5js-ar00003.jpg]]
-   ![[p5js-ar00007.jpg]]
+   ![[p5js-ar00003.jpg]]![[p5js-ar00007.jpg]]
 
 Designers can utilize AR in creative coding for several purposes:
 
 - **Prototyping**: They test designs in virtual environments without physical models, allowing them to visualize and refine concepts efficiently.
-  ![[p5js-ar00009.jpg]]![[p5js-ar00005.jpg]]![[p5js-ar00002 1.png]]
+  ![[p5js-ar00009.jpg]]![[p5js-ar00005.jpg]]
   
 - **Immersive Experiences**: Designers create experiences that respond to the user's presence within their environment. For example, a virtual art gallery where each exhibit reacts to movement, providing an interactive and engaging experience.
   ![[p5js-ar00008.jpg]]
@@ -76,7 +76,7 @@ First of all, we need the [p5.SimpleAR](https://github.com/tetunori/p5.simpleAR/
 > [!TIP]- How to import libraries on P5JS Editor?
 > ![[cod208_p5js_import_library.mp4]]
 
-> [!TIP]- How to import libraries on P5JS Editor?
+> [!info]- How to import libraries on OpenProcessing Editor?
 > ![[cod208_openprocessing_lib.mp4]]
 
 For your personal projects, copy the following library link:

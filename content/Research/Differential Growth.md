@@ -1,7 +1,7 @@
 ---
 title: Untitled
 date: 2024-11-10
-modfification date: Sunday 10th November 2024 17:23:52
+modification date: Sunday 10th November 2024 17:23:52
 description: 
 tags:
   - generativeart

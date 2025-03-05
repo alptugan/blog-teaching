@@ -1,7 +1,7 @@
 ---
 title: Davinci Resolve - Create Fairlight Project
 date: 2024-10-07
-modfification date: Monday 7th October 2024 17:32:05
+modification date: Monday 7th October 2024 17:32:05
 description: Shows how to create Fairlight Project on Davinci Resolve
 tags:
   - sound

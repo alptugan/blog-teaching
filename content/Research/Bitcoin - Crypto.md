@@ -1,7 +1,7 @@
 ---
 title: Bitcoin - Crypto
 date: 2024-12-22
-modfification date: Sunday 22nd December 2024 16:33:03
+modification date: Sunday 22nd December 2024 16:33:03
 description: 
 tags: 
 aliases: 

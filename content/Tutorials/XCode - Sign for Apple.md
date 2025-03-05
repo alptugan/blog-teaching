@@ -1,7 +1,7 @@
 ---
 title: XCode - Sign for Apple
 date: 2024-06-03
-modfification date: Monday 3rd June 2024 15:32:36
+modification date: Monday 3rd June 2024 15:32:36
 description: 
 tags:
   - tutorial

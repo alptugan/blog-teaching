@@ -1,7 +1,7 @@
 ---
 title: P5JS - Fxhash Project Template
 date: 2025-02-22
-modfification date: Saturday 22nd February 2025 14:55:48
+modification date: Saturday 22nd February 2025 14:55:48
 description: 
 tags:
   - p5js

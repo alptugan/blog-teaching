@@ -1,7 +1,7 @@
 ---
 title: AI GPT Prompts
 date: 2024-11-10
-modfification date: Sunday 10th November 2024 18:32:20
+modification date: Sunday 10th November 2024 18:32:20
 description: 
 tags:
   - AI

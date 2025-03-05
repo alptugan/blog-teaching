@@ -1,7 +1,7 @@
 ---
 title: Selected Computational Thinking Analysis Papers
 date: 2025-01-07
-modfification date: Tuesday 7th January 2025 22:16:46
+modification date: Tuesday 7th January 2025 22:16:46
 description: 
 tags:
   - computational_thinking
