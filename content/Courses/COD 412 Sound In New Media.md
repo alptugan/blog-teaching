@@ -88,7 +88,7 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 - Examples of Causal, Semantic and Reduced Listening discussion.
 
 **In class Showcase**
-![-right](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sol-resol.png/200px-Sol-resol.png)[Solresol](https://www.wikiwand.com/en/articles/Solresol) musical language called Langue Universelle developed by **Jean-François Sudre** in 19th century. 
+![-right](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sol-resol.png/200px-Sol-resol.png)[Solresol](https://www.wikiwand.com/en/articles/Solresol) musical language called Langue Universelle developed by **Jean-François Sudre** in the 19th century. 
 <br><br><br><br><br><br><br><br>
 
 **Screening:** [Patch Notes: Hélène Vogelsinger](https://www.youtube.com/watch?v=kYxheEGl2oM)
@@ -99,6 +99,10 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 - [Modes of listening: Causal - YouTube](https://www.youtube.com/watch?v=eKXfbLpxnuE)
 - [Unusual and Strange Musical Instruments Compilation - YouTube](https://www.youtube.com/watch?v=3EPdeQTTFt8&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=14)
 
+
+### Week 6 - Live Coding Overview
+History of Live Coding
+In class practice
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.
@@ -158,5 +162,25 @@ Reading: John Cage – The Moral Value of Silence
 Assignment 1: Write an essay about John Cage's conceptual 4'33'' sound art piece.
 Assignment 2: Download and install Sonic Pi, bring headphones for the next class.
 
+### Live Coding with Sonic Pi
+[Week 5 Content (Three Listening Modes)](https://alptugan.github.io/blog-teaching/Articles/The-Three-Listening-Modes)
+
+**Links**
+1. [[Solresol](https://www.wikiwand.com/en/articles/Solresol)] musical language called Langue Universelle developed by Jean-François Sudre in the 19th century.
+2. [Every noise](https://everynoise.com/) A web page for exploring music genres with an experimental UI.
+3. [Kuntay Seferoğlu Instruments - Portfolio Review](https://www.kunsf.xyz)
+4. [Unusual Musical Instruments](https://www.youtube.com/watch?v=3EPdeQTTFt8&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=15)
+5. [Chord Progression Cheat Sheet](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26) This is the source if you want to play around with notes according to classical western harmony. 
+
+**Assignment**
+1. Download and install Sonic Pi from [https://sonic-pi.net/](https://sonic-pi.net/).
+2. Open the application and familiarize yourself with the interface:
+    - **Code Editor:** Where you write your code.
+    - **Log Window:** Displays feedback and errors.
+    - **Help System:** Provides documentation and examples.
+3. Go to the [website](https://sonic-pi.mehackit.org/exercises/en/01-introduction/02-play-a-melody.html) and review examples. There are also tons of tutorials on YouTube.
+4. Create a basic melody with live coding using Sonic Pi. 
+5. Submit your code as a txt file.
+6. This assignment does not measure the musical quality or tonality. And this is not a programming class. Your primary focus should be on exploring the limits of sound through the use of modern technological tools. So do not stress out. Just try to make something sound good to you.
 
 

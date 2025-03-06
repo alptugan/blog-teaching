@@ -128,6 +128,8 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
 - Small high performance UI library that supports 3D and Three.js support [UIL](https://github.com/lo-th/uil)
 - [q5.JS](https://github.com/q5js/q5.js) p5JS alternative for 2D operations. It does not support 3D option. But q5 can be handy for 2D drawings...
+- [AR.js](https://github.com/AR-js-org/AR.js) Augmented reality library including geolocation-based and custom image-based content creation.
+- [Mind-ar.js](https://github.com/hiukim/mind-ar-js) ⛔️ This library is outdated. Web Augmented Reality. Image Tracking, Face Tracking. Tensorflow. 
 
 ## 👩🏻‍🎤 Artists
 [Maggie Orth](http://www.maggieorth.com/) Artist work with textile and electronics. 

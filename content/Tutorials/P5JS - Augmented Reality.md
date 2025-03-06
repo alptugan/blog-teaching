@@ -11,8 +11,7 @@ tags:
   - cod208
 aliases: 
 draft: false
-cssclass:
-  - wide
+cssclasses: []
 ---
 ## What is augmented reality?
 Augmented reality (AR) is a technology that overlays computer-generated images onto the real world, providing an enhanced or altered view of reality. Think of it as blending digital content with your physical surroundings.
@@ -87,6 +86,7 @@ For your personal projects, copy the following library link:
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <!-- Import the p5.SimpleAR library after p5.js and p5.sound.min.js imports above -->
     <script src="https://tetunori.github.io/p5.simpleAR/dist/latest/p5SimpleAR.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
@@ -103,20 +103,25 @@ For your personal projects, copy the following library link:
 Open the `sketch.js` file and change `createCanvas` -> `createARCanvas` in your `setup()` function as follows;
 ```js
 function setup() {
-  createARCanvas(240, 240);
+	createARCanvas(240, 240, P2D, {scale: 2, markerId: 6});
+	// instead of markerId: 6, type your choosen marker's id number
 }
 ```
 
 Write some code that displays and image or draws an animated content in `draw()` function. For example I write an animated circle rotates around another circle as follows;
 ```js {lineNumbers:true}
 function setup() {
-  createARCanvas(240, 240);
+	createARCanvas(240, 240, P2D, {scale: 2, markerId: 6});
+	// instead of markerId: 6, type your choosen marker's id number
 }
 
 function draw() {
-  background(220);
-  fill(0);
-  circle(cos(frameCount * 0.02) * 83 + width / 2, sin(frameCount * 0.02) * 83 + height / 2, 33);
+	background(220);
+	fill(0);
+	var xx = cos(frameCount * 0.02) * 83 + width / 2;
+	var yy = sin(frameCount * 0.02) * 83 + height / 2;
+	var rad = 33;
+	circle(xx, yy, rad);
 }
 ```
 

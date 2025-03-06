@@ -1,7 +1,6 @@
 ---
 title: P5JS - Startwars Intro Remake
 date: 2025-03-02
-modification date: Sunday 2nd March 2025 14:45:43
 description: 
 tags:
   - p5js
@@ -16,11 +15,10 @@ draft: true
 ## Analysis
 According to reference videos, light moves from left to right or vice versa. Sometimes it makes circular movement. There is no identifiable pattern in which step it creates the circular movement. 
 
-According to the [remake](https://www.youtube.com/watch?v=u4Mj2FWH8N4) lights seem to rotate around center point on Y axis. The behavior looks like as if the object in the center and the light acts like a satellite of the object. The light rotates around the subject.
+![[p5js-starwars01.png |-left| 300]]According to the [remake](https://www.youtube.com/watch?v=u4Mj2FWH8N4) lights seem to rotate around center point on Y axis. The behavior looks like as if the object in the center and the light acts like a satellite of the object. The light rotates around the subject.
 
 The [video](https://www.youtube.com/watch?v=dwOgfAebq6E) showcases how to create the light effect and material setup using Blender. 
 
-![[p5js-starwars01.png]]
 ## How to achieve such setup in P5JS?
 First of all, we need to determine a systematic approach to focus on one problem at a time. I divided the coding challenge in to two main sections. The first one is the technical part, the second is the formal aesthetics part.
 ## References

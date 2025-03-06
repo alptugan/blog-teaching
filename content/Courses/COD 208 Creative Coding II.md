@@ -127,13 +127,29 @@ For more information about the game format, visit the [link](https://alptugan.gi
 ## week 5
 > [!TIP] This form, which will be available starting **Monday, March 3**, consists of **two open-ended questions** where students can share what they find positive about the courses and the areas they believe could be improved for a better learning experience. The form will remain accessible via SIS **throughout the upcoming week**.
 
+**2025-2026**
+PLEASE READ CAREFULLY!
+**You have 3 options. Choose one below.**
+1. **Art:** Create an interactive AR sketch where the fiducial marker displays a unique piece of digital art or animation.
+2. **Education:** Design an AR-based educational tool that uses fiducial marker to teach a concept (e.g., design, astronomy, biology, geography, or math).
+3. **Interactive Poster:** Create a poster about a topic of your choice. You can use a material that you did before in your other typography or basic design courses. Attach the marker to the corner of your poster. Whenever, the user points the camera on to the poster display some more information or animation related to the printed design.
+
+You can use a single or multiple markers if you want. Refer to the example [sketch](https://openprocessing.org/sketch/1898840) In this sketch you need to print the first 6 markers (0wFrame.png, 1wFrame.png, 2wFrame.png, 3wFrame.png, 4wFrame.png, 5wFrame.png) from the following [link](https://github.com/tetunori/p5.simpleAR/tree/main/markers).
+
+**General Submission Guidelines for All Assignments:**
+1. **Code Submission:** Submit the p5.js source code and any additional assets (images, sounds, etc.) used in the project.
+2. **Zipped Project Folder:** Compress the entire project folder.
+3. **Proof of Concept Video:** Record a video using a mobile phone to demonstrate the AR application in action. The video should clearly show the fiducial markers being detected and the AR content responding accordingly.
+
+**Sign up for a free account on the [GitHub](https://github.com/) web page due to the upcoming class.**
+
 **Augmented Reality**
 - Your games must be finished and finalized. 
 - I don't want to hear any apologies or last day help requests.
 - Upload your whole sketch folder.
 - Submit the link of your game.
 
-# week 6
+## week 6
 ## Assignment 1: ML
 - You can use face, hand, or body position to move your character. Refer to the [example code](https://openprocessing.org/sketch/2213827) that I wrote in class time.
 - Upload the link of your sketch

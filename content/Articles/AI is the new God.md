@@ -8,7 +8,20 @@ tags:
 aliases: 
 draft: true
 ---
-
+## How LLM Work?
+- How AI models work. Talks about embeddings, and sentence generation. He claims that the more data means more accuracy. But this causes an endless loop. The more data requires more processing power. The ultimate level is considered reaching AGI (Artificial General Intelligence) [AI Has a Fatal Flaw—And Nobody Can Fix It ](https://www.youtube.com/watch?v=_IOh0S_L3C4)
+- What is intelligence then?
+- Everything depends on statistical operations.
+- AI is capable of solving abstract human concepts, and faster than human. But does it mean that it is really better at reasoning? Because it fails on reasoning questions mostly still.
+- 💰 This is a $100 million line—the cost of advanced AI models.
+- 🤖 Current AI lacks true intelligence despite outperforming humans in specific tasks.
+- 📉 AI faces diminishing returns when scaled beyond a certain point.
+- 🤔 Common sense reasoning remains a challenge for AI.
+- 🔗 Chain of Thought illustrates AI's step-by-step thinking process.
+- 🎓 GPT models excel at word prediction but struggle with mathematical reasoning.
+- 🚫 AI lacks the capability for creativity and real-world decision-making.
+- 🤷‍♂️ The question of whether AI can think depends on how we define thinking.
+- AI can outperform humans in many tasks, it still lacks true understanding and reasoning abilities. This is illustrated through discussions on AI training methods, particularly the extensive number of parameters it employs, and how these models are beginning to hit a wall of diminishing returns as they scale. Additionally, the video highlights the challenges in real-world applications, such as common sense reasoning and advanced math, and suggests that achieving true artificial general intelligence presents significant hurdles that must be overcome.
 
 People miss the point that many of the AI tools (paid ones especially) are the products. Companies must sell their products, so they can continue to develop more products and gain capital. ChatETC… tools are good for generating ideas, they can inspire us, they can instantly collect and synthesize information faster than us. But the point is speed doesn’t mean that accuracy. AI system still producing false information. So the question is what you are looking for. 
 All of the ontology created upon the center of humanity. Triple O can supply answer for us for today. Harman says that there are sensual objects independent from humans. For example, pleasure is a sensual object. We cannot know the pleasure that your pet feels. Because humanity created the construct to describe the concept of pleasure. For example a baby doesn’t aware of the constructed concept of pleasure. But we can identify it according to their mimics and gestures we can say that a baby is happy or sad. A newborn cannot capable of the meaning of pleasure or the concept. But they can use that sensual object. So we can epistemologically determine that object according to 1000s year of experience and say that if a baby is happy or not. 

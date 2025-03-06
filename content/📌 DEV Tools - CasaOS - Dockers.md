@@ -178,6 +178,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Leon](https://getleon.ai/) Open-source personal assistant who can live on your server. AI
 [Matchering](https://github.com/sergree/matchering) A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel).
 [MeTube](https://github.com/alexta69/metube) Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
+[YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.
 [nefarious](https://github.com/lardbit/nefarious) Web application that automates downloading Movies and TV Shows.
 [OliveTin](https://github.com/OliveTin/OliveTin)OliveTin is a web interface for running Linux shell commands. (Web arayüzünden komutlar çalıştırma ve kompleks komutlar için düğmeler yapma. Filika da işe yarar.)
 

@@ -81,6 +81,8 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 ### Obsidian Bridge
 - [obsidian-zotero-integration/Templating.md at main · mgmeyers/obsidian-zotero-integration (github.com)](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/Templating.md)
 - Syntax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
+- [Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Wikipedia%20like%20infobox.md) Several css snippets for UI improvement.
+- [raisabelatrix’s gists · GitHub](https://gist.github.com/raisabelatrix)
 
 ### Obsidian sync across devices
 The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.

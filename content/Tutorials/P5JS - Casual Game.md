@@ -403,6 +403,7 @@ Update the `index.html` file to import newly created files. Otherwise the `sketc
 ```
 
 ## Create the game scenes
+Before developing the game, 
 ### 1. Intro Scene
 In order to start coding your game scenes, you need to clean up your main `sketch.js` file. Review the [[P5JS - How to create class]] article if you have issues converting your week2 assignment to a class. The following video presents how to create the intro class.
 ![[p5js_week4_3-intro_class.mp4]]
