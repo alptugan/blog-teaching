@@ -10,9 +10,14 @@ tags:
 aliases: 
 draft: false
 ---
-## Export interface elements
+## Analysis and Planning of The Game
+
+
+## Prepare The Interface Elements
+The first step is creating the game interface. You can start with sketching on paper. After you determine the fundamental requirements and draft material on paper, you can switch to digital space. Using your preferred image editing tool, you start to create game assets. 
 ![[p5js02.jpg]]
 
+## Export The Interface Elements
 From left to right you see three different scene designs. Before exporting the files make sure that you design the interface 800x800 pixel size.
 1. **Intro Scene**: Export background image and Start button image separately.
 ![[p5js_week4_design_intro.mp4]]
@@ -402,8 +407,7 @@ Update the `index.html` file to import newly created files. Otherwise the `sketc
 </html>
 ```
 
-## Create the game scenes
-Before developing the game, 
+## Create the game scenes 
 ### 1. Intro Scene
 In order to start coding your game scenes, you need to clean up your main `sketch.js` file. Review the [[P5JS - How to create class]] article if you have issues converting your week2 assignment to a class. The following video presents how to create the intro class.
 ![[p5js_week4_3-intro_class.mp4]]

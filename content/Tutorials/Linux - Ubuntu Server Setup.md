@@ -1,7 +1,7 @@
 ---
 title: Linux - Ubuntu Server Setup
 date: 2024-05-15
-modification date: Wednesday 15th May 2024 15:21:19
+modification date: 2025-03-07T12:45:00
 description: 
 tags:
   - tutorial

@@ -12,13 +12,13 @@ tags:
 aliases: 
 draft: false
 ---
-# TOC
+## TOC
 1. [[#Linux General Commands]]
 2. 🍺 [[#Brew]]
 3. 🐳 [[#Docker Basics]]
 4. 🎞️ [[#FFmpeg]]
 5. [[#Run docker container's command]]
-6. [[#Locations]]
+6. [[#Default Mac OS Paths]]
 7. [[#Troubleshooting]]
 
 ## Links to external resources
@@ -215,6 +215,7 @@ rm -rf folder_name/ file_name
 
 
 ### rsync
+Check [[Zotero - Sync to Host]] to learn how to use `rsync` to synchronize files between your computer and your web server.
 ```bash
 # display copied file names
 rsync -av source_folder/ target_location
@@ -414,7 +415,7 @@ I generated these keys on my local machine
 .ssh/id_rsa.pub  → public key
 https://www.youtube.com/watch?v=_FXyQso1H50 (guacamole)
 ### Run docker container's command
-```
+```shell
 # Go to .ssh/ folder 
 # edit the config file as follows
 Host ssh-filika.damp-server.org
@@ -479,8 +480,56 @@ brew services cleanup
 brew services restart --verbose mysql
 ```
 
+## Pandoc
+A `pandoc` script handles the image captions used in markdown. Note to myself the original script is in my `scripts` directory 😉
+ ```shell
+#!/bin/bash
 
+# Check if input and output filenames are provided
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <input_file.md> <output_file.docx>"
+    exit 1
+fi
+
+# Input and output file variables
+INPUT_FILE="$1"
+OUTPUT_FILE="$2"
+
+# Confirm the input file exists
+if [ ! -f "$INPUT_FILE" ]; then
+    echo "Error: Input file '$INPUT_FILE' not found."
+    exit 1
+fi
+
+echo "Processing '$INPUT_FILE' and exporting to '$OUTPUT_FILE'..."
+
+# Step 1: Reformat captions from custom syntax to standard Markdown
+
+# From ![[file|caption|size]] -> ![caption.](file)
+sed -i '' 's/!\[\[\([^|]*\)|\([^|]*\)|[^|]*\]\]/![\2.](\1)/g' "$INPUT_FILE" && echo "Step 1: Reformatted ![[file|caption|size]]"
+
+# From ![[file|caption]] -> ![caption](file)
+sed -i '' 's/!\[\[\(.*\)|\(.*\)\]\]/![\2](\1)/g' "$INPUT_FILE" && echo "Step 2: Reformatted ![[file|caption]]"
+
+# From ![[file | caption]] -> ![](file)
+sed -i '' 's/!\[\[\(.*\)\s*|.*\]\]/![](\1)/g' "$INPUT_FILE" && echo "Step 3: Reformatted ![[file | caption]]"
+
+# From ![[file]] -> ![](file)
+sed -i '' 's/!\[\[\(.*\)\]\]/![](\1)/g' "$INPUT_FILE" && echo "Step 4: Reformatted ![[file]]"
+
+# Step 2: Add Pandoc-compatible figure block for captions
+sed -i '' 's/!\[\(.*\)\](\(.*\))/\n:::{.figure}\n![\1](\2)\n:::\n/g' "$INPUT_FILE" && echo "Step 5: Added Pandoc figure blocks"
+
+# Step 3: Convert Markdown to DOCX using Pandoc
+RESOURCE_PATH="./:/Users/alptugan/Documents/Obsidian/Assets/PHD:/Users/alptugan/Documents/Obsidian/Assets/PHD/ALAP Category Examples:/Users/alptugan/Documents/Obsidian/Assets/PHD/ALAP_Survey_ss:/Users/alptugan/Documents/Obsidian/Assets/PHD/observations:/Users/alptugan/Documents/Obsidian/Assets/PHD/Praxis Thumbs:/Users/alptugan/Documents/Obsidian/Assets/PHD/survery1_images:/Users/alptugan/Documents/Obsidian/Assets/PHD/survey_Method_Results"
+
+pandoc "$INPUT_FILE" -o "$OUTPUT_FILE" --resource-path="$RESOURCE_PATH" && echo "Step 6: Converted Markdown to DOCX successfully."
+
+echo "Done! Output saved as '$OUTPUT_FILE'."
+
+```
 ## FFmpeg
+### Video Conversion
 ```shell
 # Covert image sequence to high-quality mp4 video
 ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
@@ -540,6 +589,35 @@ Or write the video order in the command:
 ffmpeg -i "concat:input1.mp4|input2.mp4|input3.mp4|input4.mp4" -c copy output10.mp4
 ```
 
+### Audio Conversion
+```bash
+ffmpeg -i input_file_name.wav -b:a 320k -acodec libmp3lame output_file_name.mp3
+```
 ## Default Mac OS Paths
+Download the latest copy of [imgcat](https://raw.github.com/gnachman/iTerm2/master/tests/imgcat) from GitHub and put it into a bin directory which is inside your `$PATH` variable. ([What is PATH](http://www.linfo.org/path_env_var.html))
+
+If you have a `~/bin` directory, just put it there and it will work for your user only, otherwise put it into `/usr/local/bin` for all users.
+
 > [!NOTE]- Custom Services created via Automator App
 > /Users/alptugan/Library/Services/Convert PNG Sequence to Video.workflow
+
+System Frameworks `/System/Library/Frameworks/`
+M2 Pro - Frameworks `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks`
+SuperCollider → Extensions `/Users/username/Library/Application Support/SuperCollider/Extensions`
+Autorun Items → RunAtLoad to false `/Library/LaunchAgents`, `/Library/LaunchDaemons/`, `/Library/PrivilegedHelperTools/`
+$PATH variable `/private/etc/paths.d`
+M2 Pro zbash location `sudo nano ~/.zshrc then type source ~/.zshrc`
+Brew `/opt/homebrew/bin`
+Android SDK `/Users/username/Library/Android/sdk`
+Disable Gate Keeper app on mac. Settings→Security & Privacy 
+```shell
+# Disable: 
+sudo spctl --master-disable 
+
+# Enable: 
+sudo spctl --master-enable 
+
+# Status: 
+spctl --status
+```
+

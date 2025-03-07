@@ -1,12 +1,11 @@
 ---
 title: Bash - Backup files via rsync and tar
 date: 2024-12-27
-modification date: Friday 27th December 2024 08:29:54
 description: 
 tags:
   - backup
 aliases: 
-draft: true
+draft: false
 ---
 https://tonyteaches.tech/rsync-backup-tutorial/
 

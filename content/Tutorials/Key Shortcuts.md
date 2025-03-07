@@ -1,7 +1,7 @@
 ---
 title: Key Shortcuts
 date: 2024-10-19
-modification date: Saturday 19th October 2024 12:01:49
+modification date: 2025-03-07T14:26:00
 description: List of keyboard shortcut
 tags:
   - shortcut
@@ -25,41 +25,18 @@ draft: false
 | ␣    | Space                  |
 
 ## Mac OS Global
-<font color="gray">⌃ + ⌥ + "</font> Insert double quotes `""` on Turkish keyboard setup.
-
-
+<font color="gray">⌃ + ⌥ + "</font>  - Insert double quotes `""` on Turkish keyboard setup.
+<font color="#646a73">⌘ + ⌥ + h</font> - Keeps the current window hide everything else
+## Xcode
+<font color="#646a73">⌃ + i </font> - Align code indentations.
 ## Affinity Photo
 <span style="color:gray">⌘ + C</span> Copy the layer and FX.
 <span style="color:gray">⌘ + ⇧ + V</span> Paste the layer style to the selected layer.   
+
 ## Arc Browser (Chrome Extensions)
+<font color="#646a73">⌘ + ⌥ + i</font> - Developer Tools
 ### DeepL Extension
 <span style="color:gray">⌘ + ⇧ + T</span>  Translates the selected text 
-
-
-## Obsidian
-<span style="color:gray">⌘ + ⇧ + S</span> Strike over selected text
-<span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu 
-<span style="color:gray">⌘ + ⌥ + F</span> Find a word, all occurrences, and replace
-<span style="color:gray">⌥ + ↓ | ↑</span> Move up or down todo items.
-<span style="color:gray">⌥ + ⇧ + Drag</span> Move up or down todo items.
-
-## Davinci Resolve Fairlight
-<span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
-
-<span style="color:gray">J</span>  Reverse Playback.
-
-<span style="color:gray">M</span>  Add marker on the timeline. Double-click on marker to delete it
-
-<span style="color:gray">⇧ + Z</span>  Fit entire timeline to available space
-
- <span style="color:gray">⌥ + Scroll</span>  Zoom in/out timeline horizontal
- 
- <span style="color:gray">⇧ + Scroll</span>  Zoom in/out timeline vertical
-
-<span style="color:gray">⌘ + Scroll</span>  Slide timeline back/forward
-
-<span style="color:gray">D</span>  Select the track first then hit `D` to disable sound
-
 
 ## Blender
 <font color="#7f7f7f">Middle Mouse Button + Drag</font> Rotate
@@ -175,3 +152,38 @@ List of symbols and ASCII ornaments, [link](https://www.madeintext.com/flower-sy
 ↪ 
 ↩
 ➜ ➞ 
+
+## Davinci Resolve Fairlight
+<span style="color:gray">⌘ + B</span> Without selecting any specific clip, press the ‘**Ctrl + B**‘ key on your keyboard. This will instantly create a cut across every single clip located directly below the playhead.
+
+<span style="color:gray">J</span>  Reverse Playback.
+
+<span style="color:gray">M</span>  Add marker on the timeline. Double-click on marker to delete it
+
+<span style="color:gray">⇧ + Z</span>  Fit entire timeline to available space
+
+ <span style="color:gray">⌥ + Scroll</span>  Zoom in/out timeline horizontal
+ 
+ <span style="color:gray">⇧ + Scroll</span>  Zoom in/out timeline vertical
+
+<span style="color:gray">⌘ + Scroll</span>  Slide timeline back/forward
+
+<span style="color:gray">D</span>  Select the track first then hit `D` to disable sound
+
+
+## VS Code
+<font color="#646a73">⇧ + ⌥ + F</font> Align indents
+<font color="#646a73">⌘ + ⇧ + P</font> Open User Settings (JSON), Helps to customize UI and custom functions
+### openFrameworks
+<font color="#646a73">⌘ + ⇧ + B</font> Build for openframeworks
+<font color="#646a73">⌘ + ⇧ + R</font> Run for openframeworks
+
+## Obsidian
+<span style="color:gray">⌘ + ⇧ + S</span> Strike over selected text
+<span style="color:gray">⌘ + ⇧ + A</span> Open Local AI menu 
+<span style="color:gray">⌘ + ⌥ + F</span> Find a word, all occurrences, and replace
+<span style="color:gray">⌥ + ↓ | ↑</span> Move up or down todo items.
+<span style="color:gray">⌥ + ⇧ + Drag</span> Move up or down todo items.
+
+## Reaper
+<font color="#646a73">⌘ + ⇧ + Drag </font>- Docker içinde pencereleri yan yana dizmek için kullanılır. Pencerenin alt tarafının hi-light olması gerekir. Kanal üzerindeyken de ses bloğunu duplicate ediyor.

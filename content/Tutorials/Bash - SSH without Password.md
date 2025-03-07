@@ -5,27 +5,29 @@ description: Login to remote host without password via SSH
 tags:
   - ssh
   - tutorial
+  - shell
+  - script
 aliases: 
 draft: false
 ---
 ## 1. Check Available SSH Key
-```
+```shell
 ls -l ~/.ssh/id*
 ```
 The command should generate output alike the following;
-```
+```shell
 .rw-------@ 2.6k user_name 30 Aug  2023 /Users/user_name/.ssh/id_rsa
 .rw-------@  585 user_name 30 Aug  2023 /Users/user_name/.ssh/id_rsa.pub
 ```
 If you get the above message, you can skip **step 2**
 ## 2. Generate SSH Key on the Host Device
 Execute the following command on your computer not in the target computer (if you already have an SSH key, you can skip this step). When prompted, do not enter password, just hit <kbd>Return</kbd>;
-```
+```shell
 ssh-keygen
 ```
 
 ## 3. Copy the Generated Key to The Remote Device
-```
+```shell
 ssh-copy-id user@server_ip
 
 ## or if your server uses custom port no:
@@ -35,12 +37,12 @@ Enter the SSH password for the `user` for one last time.
 
 ## 4. Test Your Login Process
 From now on, you won't be asked for password again.
-```
+```shell
 ssh user@server_ip
 ```
 
 ## Example Walk-through  on Terminal App
-```
+```shell
 alptugan@MacbookPro:~$ ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/alptugan/.ssh/id_rsa):

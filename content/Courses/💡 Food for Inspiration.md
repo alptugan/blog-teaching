@@ -46,6 +46,7 @@ https://twitter.com/Prathkum/status/1775878750518866158
 [Easing.net](https://easings.net/) The web site showcases common easing functions in CSS and Math function separately.  
 [OpenProcessing](https://openprocessing.org/user/68647/?view=activity&o=48)
 [ShaderToy](https://www.shadertoy.com/)
+⭐️ [gemini-p5-editor](https://github.com/kylemcdonald/gemini-p5-editor/)  An interactive p5.js code editor powered by Google's Gemini AI model. Write and execute p5.js sketches with AI assistance.
 
 ---
 ## 🎮 Algorithms & Concepts

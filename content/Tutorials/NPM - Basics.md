@@ -1,10 +1,12 @@
 ---
 title: NPM - Basics
 date: 2025-02-17
-modification date: Monday 17th February 2025 16:46:43
+modification date: 2025-03-07T12:50:00
 description: 
 tags:
   - npm
+  - nodejs
+  - script
 aliases: 
 draft: false
 ---

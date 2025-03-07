@@ -1,11 +1,12 @@
 ---
 title: FFMPEG - Video Export for Social Media
 date: 2025-03-02
-modification date: Sunday 2nd March 2025 12:30:58
+modification date: 2025-03-07T12:44:00
 description: 
 tags:
   - ffmpeg
   - video
+  - script
 aliases: 
 draft: false
 ---

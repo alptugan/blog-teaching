@@ -385,13 +385,13 @@ server {
 ```
 ## Healthchecks
 ![[healthchecks.png]]
-```
+```shell
 # To send pings and control them add cronjob use sudo
 crontab -e
 ```
 
 Paste the following content;
-```
+```shell
 @reboot sudo sh -c 'sleep 240 && curl -m 10 --retry 20 http://192.168.1.247:8000/ping/8fedd5ad-218>
 
 0 */3 * * * python3 /home/alptugan/check.py
@@ -400,7 +400,7 @@ Paste the following content;
 
 ```
 
-```
+```shell
 # ping manually from Telegram
 curl -m 10 --retry 5 http://filika-healthchecks.damp-server.org/ping/55e701f3-3968-4958-947a-850da1a9a0d0
 ```
@@ -415,7 +415,7 @@ curl -m 10 --retry 5 http://filika-healthchecks.damp-server.org/ping/55e701f3-39
 > 6. Notification will appear on Telegram App
 ## NextCloud
 → /etc/apache2/sites-enabled is editted with the following lines;
-```bash
+```c
 ServerName filika_cloud.damp-server.org
 <IfModule mod_headers.c>
     Header always set Strict-Transport-Security "max-age=15552000; includeSubDomains"
@@ -424,7 +424,7 @@ ServerName filika_cloud.damp-server.org
 
 → /var/www/html
 .htaccess files
-```bash
+```c
 php_value upload_max_filesize 16G
 php_value post_max_size 16G
 php_value max_input_time 3600
