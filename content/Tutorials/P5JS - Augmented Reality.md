@@ -1,7 +1,7 @@
 ---
 title: P5JS - Augmented Reality
 date: 2025-03-01
-modification date: Saturday 1st March 2025 22:41:08
+modification date: 2025-03-08T15:03:00
 description: 
 tags:
   - p5js
@@ -11,7 +11,7 @@ tags:
   - cod208
 aliases: 
 draft: false
-cssclasses: []
+cssclasses:
 ---
 ## What is augmented reality?
 Augmented reality (AR) is a technology that overlays computer-generated images onto the real world, providing an enhanced or altered view of reality. Think of it as blending digital content with your physical surroundings.
@@ -33,11 +33,9 @@ Designers can combine digital information with the physical world to create imme
 
 ## Use Cases of AR Technology
 1. **Interactive Projections**: For instance, a designer can enhance the customer experience using AR technologies. Imagine a brand identity representing a static images of the customer's company. When user points the smart phone camera onto the poster, the viewer can display animated version of the design, or give extra information about the company that can not be included in the identity.
-   
-![[p5js-ar00014.jpg]]
+   ![[p5js-ar00014.jpg]]
 
 2. **Architecture**: People can view the rendered 3D version of a building in planning phase. Or they can customize the inner design of a house before buying it.
-   
    ![[p5js-ar00001.jpg]]![[p5js-ar00004.jpg]]
    ![[p5js-ar00011.jpg]]
 
@@ -46,7 +44,6 @@ Designers can combine digital information with the physical world to create imme
    ![[p5js-ar00003.jpg]]![[p5js-ar00007.jpg]]
 
 Designers can utilize AR in creative coding for several purposes:
-
 - **Prototyping**: They test designs in virtual environments without physical models, allowing them to visualize and refine concepts efficiently.
   ![[p5js-ar00009.jpg]]![[p5js-ar00005.jpg]]
   
@@ -128,6 +125,33 @@ function draw() {
 ### 4. Point Your Cam to The Fiducial Marker
 Now run the sketch, your computer may ask for permission to use your computer's webcam. You must allow the browser, otherwise the camera cannot be initialized. Show the marker to the camera, and you will see your p5JS sketch as if it was generated on the marker. 
    ![[cod208_week4_simpleAR.mp4]]
+## Multiple Markers
+If you want to use multiple markers, it is required to create multiple layers in your sketch code. We can use `createARGraphics()` method to create multiple AR layers. Suppose that we want to use markers between 20-26. The following code assigns markerId from 20-26, except the markerId:26, creates six independent layer groups.
+```js
+const gfxs = []; // The Array will contain the individual 6 layers
+const W = 240; // width of the canvas
+
+const cols = ['#01295f', '#437f97', '#849324', '#ffb30f', '#fd151b', '#ffb30f'];
+
+function setup() {
+  for (let i = 20; i < 26; i++) {
+	// create the layer gfx
+    const gfx = createARGraphics(W, W, P2D, { scale: 1, markerId: i });
+	gfx.noStroke(); // disable stroke for each layer
+    gfxs.push(gfx); // insert each layer into the gfx array
+  }
+}
+
+function draw() {
+	// create a loop that processes each individual layer inside the gfxs array
+  gfxs.forEach((gfx, index) => {
+    gfx.clear(); // Clear the layer first
+    gfx.fill(cols[index]); // set fill color for each layer from the cols array
+    gfx.circle(W / 2, W / 2, W); // Draw the circle
+  });
+}
+```
+[reference code](https://openprocessing.org/sketch/1898840) uses markerIds from 0 to 6, and draws animation content on each marker.
 ## Final Remarks
 You can also navigate to your sketch link using your phones browser and display the content with on your phone. Actually, anyone with the link and the marker can view the content using their own devices. Here is [link](https://editor.p5js.org/alptugan/sketches/8Y-ykeDOF) to running code.
 
