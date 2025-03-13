@@ -313,8 +313,6 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 
 
 ---
-
-
 # Digital Signage 
 [TooLoop](https://github.com/Tooloop/Tooloop-OS) Tooloop OS is a platform for media artists to safely and easily develop and deploy multimedia installations. Tooloop OS is based on Ubuntu Server 24.04 LTS and the super lightweight window manager Openbox. Both are customized to fit the needs of live and public multimedia installations.
 # My CasaOS Fundamentals
@@ -472,8 +470,6 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting
 ### Current Config
 https://github.com/universonic/docker-stable-diffusion-webui
 
-## Casa OS App Stores
-https://github.com/eudard/CasaOS-LocalAI-AppStore/archive/refs/tags/latest.zip
 
 ## ⛔️ Cronicle
 configs → /opt/cronicle/conf/config.json
