@@ -1,16 +1,17 @@
 ---
-title: Davinci Resolve - Audio Track Layers
+title: Davinci Resolve - Layered Audio Editing
 date: 2024-11-30
-modification date: Saturday 30th November 2024 20:28:14
+modification date: 2025-03-14T00:16:00
 description: 
 tags:
   - DavinciResolve
   - sound
   - layer
+  - tutorial
 aliases: 
 draft: false
 ---
-	## 1. Layered Audio Editing
+## 1. Layered Audio Editing
 Enable "Layered Audio Editing" as follows from the `Timeline` menu.
 ![[Screenshot 2024-11-04 at 13.33.49.png]]
 

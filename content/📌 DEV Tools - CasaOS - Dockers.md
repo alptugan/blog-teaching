@@ -109,8 +109,11 @@ AdGuard Home
 [Nginx Proxy Manager](https://nginxproxymanager.com/)
 [ddev](https://github.com/ddev/ddev?tab=readme-ov-file) → PHP, NodeJs
 [Yunohost](https://yunohost.org/en/install/hardware:vps_debian) Türk çocuğun tutorialları var
+
+# Ethical Hacking
+⭐️ [Genymobile/scrcpy: ](https://github.com/Genymobile/scrcpy) Display and control your Android device. This application mirrors Android devices (video and audio) connected via USB or [TCP/IP](https://github.com/Genymobile/scrcpy/blob/master/doc/connection.md#tcpip-wireless) and allows control using the computer's keyboard and mouse. It does not require _root_ access or an app installed on the device. It works on _Linux_, _Windows_, and _macOS_.
 # AI Related
-⭐️[Video](https://www.youtube.com/watch?v=8dXGk3RTTKs) It seems very useful for creating tutorials for students in video format step by step guides. Train a model with your face and generate images. Youtube video cover generator. Napkin seems great for generating diagrams and illustrations for papers and presentations. 
+⭐️ [Video](https://www.youtube.com/watch?v=8dXGk3RTTKs) It seems very useful for creating tutorials for students in video format step by step guides. Train a model with your face and generate images. Youtube video cover generator. Napkin seems great for generating diagrams and illustrations for papers and presentations. 
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 
 [DevGPT](https://www.getdevkit.com/dashboard) GPT trained for coding tasks.
 [Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
