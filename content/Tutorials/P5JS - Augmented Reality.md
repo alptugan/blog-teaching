@@ -158,6 +158,7 @@ You can also navigate to your sketch link using your phones browser and display 
 As you know, sky is the limit when we talk about creative coding. The following company presents set of methods on how playing with fiducial marker can push the limits of marker-based AR applications in real-life cases.
 <iframe title="DynaTags: Low-Cost Fiducial Marker Mechanisms" src="https://www.youtube.com/embed/3ddTIa-AhXE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
+You can also publish the project on internet using GitHub Pages. Follow the instruction on [[Github - Free Hosting for Online Apps]] article to learn how to do that.
 ## Augmented Reality with ML5 Library
 Simple, yet powerful method to engage viewers with AR technologies.
 <iframe title="Create AR filters in the browser with ML5.js and P5.js | Creative Coding Tutorial" src="https://www.youtube.com/embed/9WywDPOV5nA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>

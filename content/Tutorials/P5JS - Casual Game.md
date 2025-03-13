@@ -1,7 +1,7 @@
 ---
 title: P5JS - Casual Game
 date: 2025-02-24
-modification date: Monday 24th February 2025 19:59:43
+modification date: 2025-03-08T17:39:00
 description: 
 tags:
   - game
@@ -11,7 +11,7 @@ aliases:
 draft: false
 ---
 ## Analysis and Planning of The Game
-
+![[p5js_game_analysis.png]]
 
 ## Prepare The Interface Elements
 The first step is creating the game interface. You can start with sketching on paper. After you determine the fundamental requirements and draft material on paper, you can switch to digital space. Using your preferred image editing tool, you start to create game assets. 

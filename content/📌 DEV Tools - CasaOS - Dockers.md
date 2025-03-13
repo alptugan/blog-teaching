@@ -1,7 +1,9 @@
 ---
-title: Things to do
-draft: true
+title: 📌 DEV Tools - CasaOS - Dockers
+draft: false
 tags:
+  - docker
+  - shell
 ---
 # Remote Open Source Alternatives
 https://www.youtube.com/watch?v=DZ0Ocwga43w
@@ -10,10 +12,6 @@ Tailscale
 Headscale
 Guacamole
 
-# Static Sites / Frameworks
-[Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
-[Awesome Portfolio](https://dly.to/K0v1qpgFvDe) Web-site template that mimics the VS Code interface.
-
 # AI Data Analysis tools
 [Microsoft Lida](https://microsoft.github.io/lida/)
 
@@ -21,19 +19,11 @@ Guacamole
 [Open Foundry](https://open-foundry.com/fonts) Fonts
 [FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 # Node Packages
-## PNPM
-```
-sudo npm install -g pnpm
-
-git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
-
-# if dependency error, use pnpm add <package_name>
-```
-
 ## PM2 
 [source](https://pm2.keymetrics.io/docs/usage/monitoring/) It helps stay up your node service whenever there occurs a problem.
 
-
+## SWC
+[source](https://swc.rs/) SWC is an extensible Rust-based platform for the next generation of fast developer tools. SWC is **20x faster than Babel** on a single thread and **70x faster** on four cores.
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
 [Pico](https://picocss.com/) ⭐️
@@ -66,6 +56,9 @@ git clone https://github.com/Ethan-C-Honzik/P5-Typescript-Parcel-Template.git
 - [HTML Rev](https://htmlrev.com/) 1500+ free HTML templates for websites, landing pages, blogs, portfolios, e-commerce and admin dashboards.
 - [VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
 - [Zola](https://www.getzola.org/documentation/getting-started/overview/) A fast static site generator in a single binary with everything built-in via Rust
+- [Eleventy](https://www.11ty.dev/docs/cms/) 
+- Jekyll
+	- [Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 ## Icons, Assets & Colors
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
@@ -200,15 +193,14 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Dub](https://dub.co/) An open source link shortener.
 ## Documentation
 [Docz](https://www.docz.site/docs/getting-started)
-[docsify](https://docsify.js.org/#/) Generates documentation page via readme file on Github.
-## Free Domain & hosting
-[JS.org](https://js.org/?) Sub Domain name for github pages
-[Tiiny.host](https://tiiny.host/pricing) Allows single domain for project.
+[docsify](https://docsify.js.org/#/) Generates documentation page via readme 
 
 ## Database & CMS
 [NocoDB](https://github.com/nocodb/nocodb) Create databases as if using spreadsheets.
 [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples
-
+[Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
+[Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
+[Decap CMS \| Open-Source Content Management System](https://decapcms.org/)
 # File Managers
 [FileGator](https://filegator.io/) Nice interface. Better than fileBrowser
 [Directorylister](https://www.directorylister.com/) Olny View mode. Available for download
@@ -232,6 +224,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 ## UI / CSS
 [FlexboxLabs](https://flexboxlabs.netlify.app/) it’s a visual tool that helps you create layouts using CSS Flexbox.
 [UIVerse](https://uiverse.io/elements?page=1) Open-Source UI elements made with CSS or Tailwind.
+[daisyUI — Tailwind CSS Components](https://daisyui.com/)  Components compatible with Tailwind.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
 [Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
 https://stunningui.design/
@@ -296,6 +289,10 @@ Metadata Cleaner → Remove meta data from any file.
 
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
+[JS.org](https://js.org/?) Sub Domain name for github pages
+[Tiiny.host](https://tiiny.host/pricing) Allows single domain for project.
+[Netfily](https://www.netlify.com/) Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.
+[Vercel](https://vercel.com/alptugan-protonmailcs-projects) Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. 
 [Free DNS](https://freedns.afraid.org/domain/add.php)
 [DuckDNS](https://www.duckdns.org/)
 [freedomain](https://freedomain.one/)

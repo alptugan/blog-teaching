@@ -1,13 +1,13 @@
 ---
 title: REST API
 date: 2024-11-28
-modification date: Thursday 28th November 2024 16:30:59
+modification date: 2025-03-10T00:16:00
 description: 
 tags:
   - REST
   - API
 aliases: 
-draft: true
+draft: false
 ---
 ## What is REST API
 <iframe title="What is a REST API?" src="https://www.youtube.com/embed/lsMQRaeKNDk?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;" allowfullscreen="" allow="fullscreen"></iframe>
@@ -29,3 +29,5 @@ Created with <3 for front-end developers who need a quick back-end for prototypi
 2. [Get Weather Information](https://editor.p5js.org/jackbdu/sketches/DwblU8agP)
 3. [NY Times Content](https://editor.p5js.org/jackbdu/sketches/XLWlj2qZw)
 4. [List of Public APIs](https://github.com/public-apis/public-apis)
+5. [🚀 10 Free APIs Every Developer Should Experiment With! 🔧 - DEV Community](https://dev.to/dct_technologyprivatelimited/10-free-apis-every-developer-should-experiment-with-47d8)
+6. 

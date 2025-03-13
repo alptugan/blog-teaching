@@ -150,6 +150,16 @@ You can use a single or multiple markers if you want. Refer to the example [sket
 - Submit the link of your game.
 
 ## week 6
+Watch the following videos in order.
+1. [Introduction to Machine Learning](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction)
+2. [Pose Detection ](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-bodypose/pose-detection)
+3. [Hand Pose Detection with ml5.js ](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/hand-pose)
+4. [Face Mesh with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh)
+5. [ml5.js 1.0 and Guest Conductor Patt Vira](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/patt-vira)
+
+Option 1: Choose one of your algorithmic art assignments code from the last semester or create a new algorithmic art sketch. When we run the app, the user can change the properties of your art work by using his/her hand gestures. Use the code [Hand Pose Detection with ml5.js ](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/hand-pose) as reference. Watch related videos and review the code examples on the page to get inspiration.
+
+Options 2: Create three different masks in Photoshop or Illustrator. Upload the masks to your project. Use the code  [Face Mesh with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh) as reference. Whenever we run the app, make the app chooses randomly one of the masks and display on the user's face.
 ## Assignment 1: ML
 - You can use face, hand, or body position to move your character. Refer to the [example code](https://openprocessing.org/sketch/2213827) that I wrote in class time.
 - Upload the link of your sketch

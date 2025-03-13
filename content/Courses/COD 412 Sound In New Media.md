@@ -1,7 +1,7 @@
 ---
 title: COD 412 Sound In New Media
 date: 2024-10-23
-modification date: Wednesday 23rd October 2024 10:33:55
+modification date: 2025-03-11T22:54:00
 description: Includes course related screening contents.
 tags:
   - soundart
@@ -103,6 +103,15 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 ### Week 6 - Live Coding Overview
 History of Live Coding
 In class practice
+- Diziler Buffer 01
+- Effectler -> Signal Chain
+- [Note names, MIDI numbers and frequencies](https://newt.phys.unsw.edu.au/jw/notes.html)
+- Live Coding videoları
+	- [Algorave Generation \| Resident Advisor - YouTube](https://www.youtube.com/watch?v=S2EZqikCIfY)
+	- [Coding the Party : Algorave - YouTube](https://www.youtube.com/watch?v=BcbsDcZ9k-A)
+	- [Kindohm Live @ ICLC 2016, Hamilton, Ontario - YouTube](https://www.youtube.com/watch?v=smQOiFt8e4Q)
+	- [Joint Breakcore Live Coding \| Tidal Cycles - YouTube](https://www.youtube.com/watch?v=XYe8AKYPUYc)
+	
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.

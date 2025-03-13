@@ -89,6 +89,16 @@ The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to 
 
 Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132eeUU)
 
+
+> [!Tip] Obsidian live-sync
+> [Obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/quick_setup.md#1-using-setup-uris) Github repo
+> ```shell
+> # The following script creates required ini file for the CouchDB 
+> bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-bear-scripts/master/generate-obsidian-livesync-local-ini/run.sh)"
+> ```
+> [short video](https://www.youtube.com/watch?v=r4NKCDirm64)
+> In order to make it work over WAN, it may require to edit the ini file
+
 ## 7. Columns
 ### When is the best to ski in Switzerland?
 > [!blank-container|float-right-small] 

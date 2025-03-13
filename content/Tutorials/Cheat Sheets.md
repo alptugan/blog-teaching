@@ -227,14 +227,25 @@ rsync -ah --progress  source_folder/ target_location
 rsync -ah --progress  –partial source_folder/ target_location
 
 # remote copy
-rsync -ahP source_folder user@192.168.1.247:/user/
+rsync -ahP source_folder user@192.168.1.XXX:/user/
+
+# Sync files in local to remote server
+rsync -avzP --delete -e "ssh -p 7822" /path_to_local_files <username>@ip_or_hostname:/home/<username>/public_html/zotsite/
+
+# Exlude specific files and folder, hidden folders
+rsync -avzP --delete --exclude={'.git','.gitignore','.obsidian','.smart-env','.space','.vault-stats','.*','*.*.*','*/.*'} -e "ssh " /Users/username/Documents/Obsidian/ alptugan@192.168.X.XXX:/DATA/AppData/syncthing/config/ObsidianServer/
+
 ```
 
 
 ### scp
-```shell
+```bash
 # Copy a file from Mac to Windows
 scp Remote.It-Installer-x64.exe filika@192.168.1.100:C:\Users\ASUS\Desktop
+
+# On Mac -> Local CASAOS server
+# First share the folder via CASAOS's file explorer app
+scp -r /Users/username/Documents/Obsidian/ sshUsername@192.168.1.247:/DATA/AppData/syncthing/config/ObsisianCloud/
 ```
 
 

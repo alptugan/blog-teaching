@@ -1,7 +1,7 @@
 ---
 title: Wordclock
 date: 2024-12-02
-modification date: Monday 2nd December 2024 23:11:56
+modification date: 2025-03-10T00:17:00
 description: 
 tags:
   - Arduino
