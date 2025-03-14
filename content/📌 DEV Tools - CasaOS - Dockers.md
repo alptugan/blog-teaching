@@ -118,13 +118,18 @@ AdGuard Home
 [DevGPT](https://www.getdevkit.com/dashboard) GPT trained for coding tasks.
 [Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
 [pinokio AI](https://pinokio.computer/) AI operating system to install variety of AI tech easily. It automates the github installation process.
-## Text to Image
+
+## Apps
+### Image Generation
 [Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
+
+## Speech Generation
 
 ## Personal Assistant
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
 > [!NOTE] Bunu kendi küçük robotuma entegre etmeye çalşabilirim.
 
+[Sesame](https://www.sesame.com/) Very humanistic conversational AI model.
 [Mintlify](https://mintlify.com/) Documentation tool including AI assistant as Mem0 app above.
 [Zotero Ollama Chat](https://github.com/sanketsabharwal/ZoteroScholar)
 	- [Quatize Models](https://towardsdatascience.com/set-up-a-local-llm-on-cpu-with-chat-ui-in-15-minutes-4cdc741408df)

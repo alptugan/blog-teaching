@@ -89,8 +89,7 @@ The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to 
 
 Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132eeUU)
 
-
-> [!Tip] Obsidian live-sync
+> [!Tip]- Obsidian live-sync (Detailed instructions on [[Obsidian - Self-hosted LiveSync Setup on Docker]] page)
 > [Obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/quick_setup.md#1-using-setup-uris) Github repo
 > ```shell
 > # The following script creates required ini file for the CouchDB 
@@ -98,6 +97,11 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 > ```
 > [short video](https://www.youtube.com/watch?v=r4NKCDirm64)
 > In order to make it work over WAN, it may require to edit the ini file
+
+### AI
+[Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
+
+[Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
 
 ## 7. Columns
 ### When is the best to ski in Switzerland?

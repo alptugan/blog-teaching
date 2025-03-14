@@ -1,7 +1,7 @@
 ---
 title: AI GPT Prompts
 date: 2024-11-10
-modification date: Sunday 10th November 2024 18:32:20
+modification date: 2025-03-14T14:50:00
 description: 
 tags:
   - AI
@@ -9,6 +9,7 @@ tags:
 aliases: 
 draft: true
 ---
+![[prompt_engineering.jpg |  | 300]]
 ## ChatGPT 4o
 In order to improve the answer. Ask your question first.
 > Summarize the findings from attached document

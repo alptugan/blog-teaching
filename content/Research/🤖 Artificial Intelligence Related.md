@@ -40,11 +40,6 @@ Setup additional model → [https://www.youtube.com/watch?v=MGr1V4LyGFA](https:/
 [Tabby](https://tabby.tabbyml.com/docs/getting-started) Alternative code helper works with VS Code
 [https://refact.ai/pricing/](https://refact.ai/pricing/)
 [Codeium](https://codeium.com)
-## Obsidian Plug-ins
-[Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
-
-[Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
-
 ## Ideas
 Use llava model to analyze image, and generate textual content. Example usage [here](https://www.youtube.com/watch?v=GWB9ApTPTv4) 
 

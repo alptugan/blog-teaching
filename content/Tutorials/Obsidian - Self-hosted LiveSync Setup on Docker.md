@@ -37,5 +37,9 @@ Then move to settings and run <font color="#00b050">Manual Setup</font> method. 
 ## 3. Customization and Workflow
 Disable hidden files synchronization to avoid issues caused by different community plugins. 
 
-## 4. Webdav Synchronization 
+## 4. Alternative Methods
+### Webdav Synchronization 
 [How to Obsidian Sync for FREE ! (ALL PLATFORMS) (macOS+iOS+Linux+Windows+Android) - YouTube](https://www.youtube.com/watch?v=yOZ08d0UQqg)
+
+### Syncthing
+[Selfhost OBSIDIAN Notes + SYNCTHING to sync across devices \| Self-Hosted Lab Series - YouTube](https://www.youtube.com/watch?v=KVZmLjt270c&t=152s)
