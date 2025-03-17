@@ -8,6 +8,7 @@ tags:
   - creativecoding
   - tutorial
   - ml5
+  - AI
 aliases: 
 draft: false
 ---

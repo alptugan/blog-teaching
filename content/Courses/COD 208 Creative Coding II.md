@@ -173,6 +173,7 @@ Options 2: Create three different masks in Photoshop or Illustrator. Upload the 
 
 ## week 7
 **2025-2026**
+### Personal Portfolio Inspiration
 The only web design inspiration sites you need: 
 [Build, Share, and Explore Developer Portfolios](https://www.webportfolios.dev/) → Portfolio creation guides 
 [http://curated.design](https://t.co/ZWHuJfxuQf) → My personal fav
@@ -185,6 +186,13 @@ Would add [http://mobbin.com](https://t.co/KOkRsFCf9R) to this!
 [unicorn.studio — No-code WebGL Tool](https://www.unicorn.studio/)
 Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14cadc105f5742b3f7533) to check.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
+
+### Hand pose Examples
+[p5.js Web Editor \| Hand Pose Thumbs Up or Down](https://editor.p5js.org/codingtrain/sketches/0_qPHtsF_)
+
+
+### Teachable Machine
+
 
 **2024-2025**
 ##### Please READ💢
