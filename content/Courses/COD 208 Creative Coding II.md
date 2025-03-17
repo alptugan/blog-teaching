@@ -23,7 +23,6 @@ draft: false
 [Neural Network Model Training](https://github.com/shiffman/ml5-neural-network-example/tree/main)
 [Golan Levin Example Codes](https://github.com/golanlevin/exercises/tree/main/16_machine_learning)
 
-
 ### AI & ML
 - [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
 - [ml5.js Website](https://ml5js.org/)
@@ -157,21 +156,37 @@ Watch the following videos in order.
 4. [Face Mesh with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh)
 5. [ml5.js 1.0 and Guest Conductor Patt Vira](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/patt-vira)
 
+**Assignment 06**
 Option 1: Choose one of your algorithmic art assignments code from the last semester or create a new algorithmic art sketch. When we run the app, the user can change the properties of your art work by using his/her hand gestures. Use the code [Hand Pose Detection with ml5.js ](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/hand-pose) as reference. Watch related videos and review the code examples on the page to get inspiration.
 
 Options 2: Create three different masks in Photoshop or Illustrator. Upload the masks to your project. Use the code  [Face Mesh with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh) as reference. Whenever we run the app, make the app chooses randomly one of the masks and display on the user's face.
-## Assignment 1: ML
+### Assignment 1: ML
 - You can use face, hand, or body position to move your character. Refer to the [example code](https://openprocessing.org/sketch/2213827) that I wrote in class time.
 - Upload the link of your sketch
 - Upload The codes as well in zip format.
-## Assignment 2: Mask
+### Assignment 2: Mask
 - You can choose whatever image you want.
 - You can create illustration using simple shapes.
 - We will write the code in class time.   
 - Upload the image you choose. 
 - References : [Computational Mask Repo](https://www.pinterest.com/alptugan/02-computational-masks-repo/more_ideas/?request_params=%7B%221%22:%2039,%20%227%22:%20%221100798308726688953%22,%20%228%22:%20%22575686833557453072%22,%20%2232%22:%2020,%20%2237%22:%20%22Ideas%20for%20your%20board%22%7D&full_feed_title=Ideas%20for%20your%20board&view_parameter_type=3173&pins_display=3&ideas_referrer=25), [Generative Masks](https://generativemasks.io/), [Ref3](https://www.britannica.com/art/mask-face-covering/The-functions-and-forms-of-masks)
 
-# week 7
+## week 7
+**2025-2026**
+The only web design inspiration sites you need: 
+[Build, Share, and Explore Developer Portfolios](https://www.webportfolios.dev/) → Portfolio creation guides 
+[http://curated.design](https://t.co/ZWHuJfxuQf) → My personal fav
+[http://land-book.com](https://t.co/0iDg051tam) → Large selection 
+[http://landing.gallery](https://t.co/Eb3u3iUbsy) → All niches 
+[http://saaslandingpage.com](https://t.co/UAyVWJUgrY) → SaaS 
+[http://admiretheweb.com](https://t.co/Va5E1qUP9t) → Unique 
+[http://supahero.io](https://t.co/HkdCFO4TY2) 
+Would add [http://mobbin.com](https://t.co/KOkRsFCf9R) to this!
+[unicorn.studio — No-code WebGL Tool](https://www.unicorn.studio/)
+Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14cadc105f5742b3f7533) to check.
+[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
+
+**2024-2025**
 ##### Please READ💢
 ##### No Late Submissions❗❗❗If you don't understand ask me, or your friend, or to an AI chatbot.  
 - Use **Decomposition**, **Flow**, **Translation**, and **Algorithm Design** steps for your mask generation. I want to see how you implement your ideas. Upload text, diagram or any kind of material that you include your programming activity. Create a pdf for your design process as I show you in the presentation. You don't need to include material for the Algorithm Desin section since your codes on openProcessing is the last step actually. **(40 points)** [Tutorial](https://openprocessing.org/sketch/2217223 "https://openprocessing.org/sketch/2217223")
@@ -237,18 +252,18 @@ Check the following page ([[REST API#Free Restful API list|List of Free Rest API
 🧠 You are free to propose any project idea as long as it includes programming. 
 
 If you need a topic or theme, you can utilize one of the following concepts;
-16. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
-17. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
-18. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
-19. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
-20. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
-21. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
-22. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
-23. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
-24. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
-25. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
-26. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
-27. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
-28. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
+1. A project including machine learning ideas using → [ml5 library](https://ml5js.org/community/) 
+2. A project including interactive platform games. Check previous students’ works → [1](https://youtu.be/2-yNuso1X60?si=m8G2TjMhKRzbFtjG), [3](https://youtu.be/1wn6V5YheH0?si=fS63lD9hldYp2DTg), [4](https://youtu.be/6S3pfdNX6Ic?si=g__dyO-aTq6xyUeS), [5](https://youtu.be/uoxfz_VDW8k?si=JFwFxmHXobj5PBuD), [6](https://youtu.be/KXWV60toNls?si=usisEuFszISmCX0j), [7](https://youtu.be/_aTI0iXwlKY?si=3kRhqMlR6K_XUQMk), [8](https://youtu.be/dLC-OlwX4uQ?si=1GqTE1BAqf1xzwMG)
+3. Interactive educational applications and games. Check previous students’ works → [1](https://youtu.be/7CFwzVjRJ8c?si=aIGnoZDaKuhaMmgO)
+4. Puzzle games → [1](https://youtu.be/LKxFQc5UQmQ?si=7aOG9ZxDmoEVhWU9)
+5. Sound interactive games and applications → [1](https://youtu.be/0n8UBVIDWBI?si=Hru5zYsUwh81skqZ), [2](https://youtu.be/KzduO1aqbq8?si=Gr_YKhCLqUNZhVB5)
+6. Interactive applications about a specific theme → [Travel Guide](https://youtu.be/Sb1cD9rKpq0?si=15VGKoPdc16DHwBA), [Cancel Culture](https://youtu.be/1Uo1cRhzrvU?si=tWvmq9JqJwBKWVzc)
+7. Interactive illustration stories → [1](https://youtu.be/CjQd5ElNJ0I?si=TUmPg-LA5W4nHzkV)
+8. Audiovisual VJ apps → [ASCII-art](https://youtu.be/6graAekLCXY?si=7_xwvgfwdqG2vsZf), [Drum Performance Visualizer](https://youtu.be/KbOobb4JS6I?si=_c5ByXL0hXMCjh4O), [Op-art](https://www.youtube.com/watch?v=MgMwV4yS0Xg&list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&index=2&t=33s), [The Story of Nothing](https://www.youtube.com/watch?v=E68__n-touk&list=PLvcJjvBzWDXajuij3LYytZuwcNjfvKwh-&index=2)
+9. Skeuomorphic conceptual applications → [1](https://youtu.be/RmVb9Zwyfvo?si=CN06quDjg0Sf7WBD)
+10. Generative Art (Recursion, Fractals) → [1](https://youtu.be/aWZzg2yD5e8?si=jsWNrqpHHRc2fbmw)
+11. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
+12. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
+13. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
    <iframe width="100%" height="400" src="https://www.youtube.com/embed/UWWDdKc2xko?si=etg3eW36B-qDyvih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    

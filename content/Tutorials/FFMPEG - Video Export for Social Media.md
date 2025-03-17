@@ -10,7 +10,6 @@ tags:
 aliases: 
 draft: false
 ---
-
 You can convert sequence of images in a folder via [[Cheat Sheets#FFmpeg|cheat sheet]] document. Specifically check the `# Covert image sequence to high-quality mp4 video`  commented one.
 
 ## Screen Capture Process
@@ -22,7 +21,9 @@ Finally, I use the following FFMPEG script for creating hi-quality H.264 mp4 vid
 
 ```shell
 # Covert image sequence to high-quality mp4 video 
-ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
+# -preset veryslow causes glitches on video
+# -preset slow works better
+ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
 ```
 
 Finally, since writing down or copy/paste the script every time is a tedious task. I create shell script and assign the script to an Automator `Quick Action` app. So, I can directly right-click on the folder and execute the FFMPEG command on the context menu. 

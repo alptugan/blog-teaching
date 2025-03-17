@@ -82,6 +82,9 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ### 7. Controlling Curves
 [Controlling curves](https://kyndinfo.notion.site/Controlling-curves-69ce2d8dc720457ba7cd9392e350dbce) We have explored different ways of defining and drawing curves, but we haven't discussed the quality of curves much. Curves can have various visual characteristics. For example, some curves might look more organic and natural, while others might appear more geometric and mechanical. How can we create these different looks of curves?
 
+### 8. Interpolation & Animation & Easing Functions (Tween)
+[Interpolation and Animation](https://kyndinfo.notion.site/Interpolation-and-Animation-44d00edd89bc41d686260d6bfd6a01d9)
+
 ---
 ## 📦 Third-party Apps
 ### 1. Timeline Apps OSC Protocoll

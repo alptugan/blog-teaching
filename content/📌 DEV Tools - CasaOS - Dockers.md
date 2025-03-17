@@ -31,6 +31,7 @@ Guacamole
 [Bootstrap](https://getbootstrap.com/)
 [Universe.io](https://uiverse.io/cards?page=5)
 [cuicui](https://cuicui.day/) Copy/paste React component library.
+[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
 ## JS Libraries
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
@@ -80,6 +81,7 @@ https://www.youtube.com/watch?v=n3T2J0WQH10
 [Homer](https://github.com/bastienwirtz/homer) Simple static page as a dashboard for your home server. 
 [Heimdall](https://heimdall.site/) 
 Homepage dev
+[GitHub - glanceapp/glance](https://github.com/glanceapp/glance/tree/main) A self-hosted dashboard that puts all your feeds in one place. Seems better than Homepage. You can govern the configuration from a single .yaml file. But it needs to be installed with customized setup.
 
 ## Media Server
 [Jellyfin](https://jellyfin.org/)
