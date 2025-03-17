@@ -126,6 +126,7 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - 👯 [p5.party](https://github.com/jbakse/p5.party) p5.party is a library for easily creating online multi-user sketches with p5.js. With p5.party you can quickly prototype ideas for multiplayer games, real-time multi-user apps, and multi-computer art projects.
 - [p5.riso](https://github.com/antiboredom/p5.riso) A p5js library for risograph printing by Sam Lavigne and Tega Brain.
 - [p5.gif](https://github.com/antiboredom/p5.gif.js/tree/master) p5.gif.js is a library that let's you play animated gifs in p5.js sketches. You load a gif by calling `loadGif('something.gif')` and then can display it using p5's built in `image()` function. 
+- 🗣️ [p5.Speech](https://idmnyu.github.io/p5.js-speech/) Speech synthesis and recognition for p5.js
 - [p5.mapper](https://github.com/jdeboi/p5.mapper/) library for projection mapping with p5.js.
 
 ### Other JS Libraries

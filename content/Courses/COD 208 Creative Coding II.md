@@ -190,6 +190,8 @@ Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14c
 ### Hand pose Examples
 [p5.js Web Editor \| Hand Pose Thumbs Up or Down](https://editor.p5js.org/codingtrain/sketches/0_qPHtsF_)
 
+## Pose Net
+[Object Detection and Speech Synthesis](https://editor.p5js.org/alptugan/sketches/U-jA-D_Pl)
 
 ### Teachable Machine
 
