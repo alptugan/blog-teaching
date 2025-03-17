@@ -1,5 +1,5 @@
 ---
-title: P5JS - ML5 Image Classification
+title: P5JS - ml5 and Teachable Machine Integration
 date: 2025-03-17
 description: 
 tags:
@@ -26,7 +26,7 @@ On the following screen, choose <font color="#0070c0">Standart image model</font
 ![[p5js-week07-teachable02.jpeg|-center|400]]
 
 You will see the following screen;
-![[p5js-week07-teachable03.jpeg]]
+![[p5js-week07-teachable03.jpeg|-center|400]]
 
 I use two different objects to make my app identify them. The first is a book titled "Object Oriented Ontology" and the second one the starfish character called Patrick from the Sponge Bob cartoon series. 
 
@@ -34,7 +34,7 @@ In order to train a model with a specific image,
 1. Hit the Webcam to capture the image in real-time. If you have images prepared beforehand you can upload them one by one. 
 2. Record or upload at least 100 sample of the object from different angles and distances. 
 
-![[p5js-week07-teachable04.png]]
+![[p5js-week07-teachable04.png|-center|400]]
 
 
 ## Train the Model
@@ -44,18 +44,18 @@ In the node graph, next step is <font color="#0070c0">Training</font> the `Mobil
 - **Learning Rate:** You can leave it with default value. Even small changes on that value may create dramatic effects. 
 
 During the model training process do not close the page, wait until it ends.
-![[p5js-week07-teachable05.jpeg]]
+![[p5js-week07-teachable05.jpeg|-center|400]]
 
 > [!WARNING] During the training, it is a good practice to capture the background as a default image sample. Name the class as "background" to keep it separate from your images.
 
 When the training is done, you can test model to see, if it works good enough. If you are satisfied with the results you can hit <font color="#4f81bd">Export Model</font>. 
 
 When you hit the export button, you will see a new pop-up page. You can upload the data to google cloud and use the link to load your trained samples over `MobilNet` model.
-![[p5js-week07-teachable06.jpeg]]
+![[p5js-week07-teachable06.jpeg|-center|400]]
 
 The copied URL is your trained model's location on Google server. In order to load the customized model into your project, use the following code as a boiler plate. Replace the URL of `imageModelURL` variable with yours.
 
-![[p5js-week07-teachable07.jpeg]]
+![[p5js-week07-teachable07.jpeg|-center|400]]
 
 ```js
 // A variable to initialize the Image Classifier
