@@ -1,6 +1,6 @@
 ---
 title: Bash - Backup files via rsync and tar
-date: 2024-12-27
+date: 2024-12-27T01:00:00
 description: 
 tags:
   - backup

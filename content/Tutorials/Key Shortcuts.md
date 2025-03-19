@@ -1,6 +1,6 @@
 ---
 title: Key Shortcuts
-date: 2024-10-19
+date: 2024-10-19T00:04:00
 modification date: 2025-03-07T14:26:00
 description: List of keyboard shortcut
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Davinci Resolve - Automation Curves
-date: 2024-11-30
+date: 2024-11-30T01:00:00
 modification date: 2025-03-06T20:55:00
 description: 
 tags:

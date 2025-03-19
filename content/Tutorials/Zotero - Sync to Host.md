@@ -1,6 +1,6 @@
 ---
 title: Zotero - Sync to Host
-date: 2025-03-07
+date: 2025-03-07T04:00:00
 description: 
 tags:
   - zotero

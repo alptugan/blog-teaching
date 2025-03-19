@@ -1,6 +1,6 @@
 ---
 title: Bash - Clone complete HDD to SSD
-date: 2024-06-09
+date: 2024-06-09T01:00:00
 modification date: Sunday 9th June 2024 01:55:03
 description: 
 tags:

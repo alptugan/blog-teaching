@@ -1,6 +1,6 @@
 ---
 title: CasaOS - Custom Docker Setup
-date: 2024-06-26
+date: 2024-06-26T01:00:00
 description: Installation of docker images that are not served in Casa OS app store.
 tags:
   - tutorial

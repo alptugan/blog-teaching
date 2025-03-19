@@ -1,6 +1,6 @@
 ---
 title: P5JS - How to create class
-date: 2025-02-25
+date: 2025-02-25T01:00:00
 modification date: Tuesday 25th February 2025 08:56:25
 description: 
 tags:

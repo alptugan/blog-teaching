@@ -1,6 +1,6 @@
 ---
 title: NPM - Basics
-date: 2025-02-17
+date: 2025-02-17T00:01:00
 modification date: 2025-03-07T12:50:00
 description: 
 tags:

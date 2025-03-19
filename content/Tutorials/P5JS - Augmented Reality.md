@@ -1,6 +1,6 @@
 ---
 title: P5JS - Augmented Reality
-date: 2025-03-01
+date: 2025-03-01T02:00:00
 modification date: 2025-03-08T15:03:00
 description: 
 tags:

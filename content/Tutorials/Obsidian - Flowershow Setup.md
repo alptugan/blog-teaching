@@ -1,6 +1,6 @@
 ---
 title: Obsidian - Flowershow Setup
-date: 2024-04-11
+date: 2024-04-11T00:01:00
 description: 
 tags:
   - tutorial

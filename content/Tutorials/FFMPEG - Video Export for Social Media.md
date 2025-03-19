@@ -1,6 +1,6 @@
 ---
 title: FFMPEG - Video Export for Social Media
-date: 2025-03-02
+date: 2025-03-02T02:00:00
 modification date: 2025-03-07T12:44:00
 description: 
 tags:

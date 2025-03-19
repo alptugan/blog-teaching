@@ -1,6 +1,6 @@
 ---
 title: Davinci Resolve - Cross-fade Effect
-date: 2025-03-14
+date: 2025-03-14T02:00:00
 description: 
 tags:
   - DavinciResolve

@@ -1,6 +1,6 @@
 ---
 title: RPI - Video Sync Setup
-date: 2025-02-06
+date: 2025-02-06T02:00:00
 modification date: 2025 15:53:12
 description: 
 tags:

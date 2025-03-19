@@ -4,6 +4,7 @@ draft: false
 tags:
   - docker
   - shell
+date: 2025-03-19T12:00:00
 ---
 # Remote Open Source Alternatives
 https://www.youtube.com/watch?v=DZ0Ocwga43w

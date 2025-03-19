@@ -1,6 +1,6 @@
 ---
 title: Webmin - Netatalk Module
-date: 2024-04-18
+date: 2024-04-02T02:00:00
 description: Shows how to install and use Netatalk for Webmin on Raspberry Pi to enable AFP file sharing and backup
 tags:
   - timemachine

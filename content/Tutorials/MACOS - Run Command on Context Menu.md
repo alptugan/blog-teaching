@@ -1,6 +1,6 @@
 ---
 title: MACOS - Run Command on Context Menu
-date: 2025-02-23
+date: 2025-02-23T00:01:00
 modification date: 2025-03-07T12:46:00
 description: 
 tags:

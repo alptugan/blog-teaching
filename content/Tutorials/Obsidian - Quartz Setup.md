@@ -1,6 +1,6 @@
 ---
 title: Obsidian - Quartz Publish
-date: 2023-10-15
+date: 2023-10-15T01:00:00
 description: Quartz setup on Mac
 tags:
   - quartz

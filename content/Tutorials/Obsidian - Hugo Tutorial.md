@@ -6,6 +6,7 @@ tags:
   - Hugo
   - Obsidian
   - Static-Website
+date: 2024-01-10T13:00:00
 ---
 ## Summary
 This tutorial covers how to build basic Hugo static site and publish specific pages in your current Obsidian Vault.

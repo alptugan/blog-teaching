@@ -1,6 +1,6 @@
 ---
 title: Bash - File Encrypt & Decrypt for Free
-date: 2024-07-30
+date: 2024-07-30T01:00:00
 description: How to encrypt and decrypt any file on Mac OS natively.
 tags:
   - tutorial

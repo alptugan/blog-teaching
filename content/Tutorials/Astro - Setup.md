@@ -1,6 +1,6 @@
 ---
 title: Astro - Setup
-date: 2024-04-14
+date: 2024-04-14T01:00:00
 description: 
 tags: 
 aliases: 

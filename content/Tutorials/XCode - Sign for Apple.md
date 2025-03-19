@@ -1,6 +1,6 @@
 ---
 title: XCode - Sign for Apple
-date: 2024-06-03
+date: 2024-06-03T04:00:00
 modification date: Monday 3rd June 2024 15:32:36
 description: 
 tags:

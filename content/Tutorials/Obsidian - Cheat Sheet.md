@@ -1,6 +1,6 @@
 ---
 title: CheatSheet Obsidian
-date: 2024-11-27
+date: 2024-11-27T00:01:00
 description: Cheat Sheet for Obsidian App
 tags:
   - markdown

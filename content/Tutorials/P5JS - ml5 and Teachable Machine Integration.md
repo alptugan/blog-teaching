@@ -1,6 +1,6 @@
 ---
 title: P5JS - ml5 and Teachable Machine Integration
-date: 2025-03-17
+date: 2025-03-17T01:00:00
 description: 
 tags:
   - p5js

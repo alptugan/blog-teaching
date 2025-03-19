@@ -1,6 +1,6 @@
 ---
 title: Blender - Fix Topology of Mesh
-date: 2024-12-09
+date: 2024-12-09T01:00:00
 modification date: Monday 9th December 2024 12:16:20
 description: 
 tags:
