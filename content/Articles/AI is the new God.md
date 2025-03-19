@@ -41,3 +41,12 @@ In order to know the array, you need to the concept of variables. According to t
 TLDR; We must know have the knowledge in order to accurately benefit from the AI systems. Otherwise it becomes something like a lottery. The concept of knowing things becomes the concept of beliefs. As it is declared on Megadeth’s lyrics; In every be(lie)f there is lie…
 
 In the history of time, the capitalist system tries to create a consumer society by black-boxing the technologies. All time of the events, actors of specific social groups break the box and open it to make it accessible to social groups. In the early days of computers, only professionals could code the computers. Within the tech advances and high level programming languages, programming gets wide spread. But we were capable of limited actions using computers until the Arduino is invented, later Raspberry Pi and we can start to get benefit form computers again. Today the same thing is happening in terms of programming. Because if you leave programming to companies, companies can govern you. The NVIDIA conference is a proof of that. The CEO says “leave computer programming to us”. Why? It is for me declaring “leave reading a book for us, we can summarize for you”
+
+
+## How to do vs. how to learn
+People are prone to seek how to do something rather than learning knowledge. This will result in a result specific attitude rather than process specific attitude.
+
+The results of that method causes too many issues in the long run. For instance a Reddit user complains about loosing 4 months of work suddenly because of AI agents. 
+![[ai-is-the-new-god01.jpg]]
+
+The lack of thepretical knowledge causes such problems. actually one needs to use a backup system like Git, or any other solution can avoid such loss of time.

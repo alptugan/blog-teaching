@@ -33,6 +33,8 @@ draft: false
 
 [Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
 
+[Pixabay](https://pixabay.com/sound-effects/) 90,000+ Royalty Free Sound Effects for Download.
+
 ---
 ## Tutorials
 [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)

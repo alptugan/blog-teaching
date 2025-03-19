@@ -65,13 +65,14 @@ draft: false
 
 ## week 2
 [week 02 Presentation](https://alptugan.github.io/Slidev_Presentations/week02_cod_208/dist)
-**2024-2025**
+
+#### 2025-2026
 1. Finalize the project that you started in class time. You have two options. Choose 1 or 2. It is optional to submit both of them.  
     1. Create instances of your object (Class) and distribute them on the canvas using randomness. [Example](https://openprocessing.org/sketch/2183462)
     2. Create instances of your object (Class) and distribute them on the canvas using tiling. [Example](https://editor.p5js.org/alptugan/sketches/kw-849J6M)
 2. The challenge is whenever we run the code, the formalistic features of your Object (Class) change randomly.
 3. Upload a screenshot of your choice. Review the keyPressed() function in [Example](https://editor.p5js.org/alptugan/sketches/kw-849J6M) to implement into your code.
-**2023-2024**
+#### 2024-2025
 - Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462)
 - Create instances of your class by initializing it using different parameters.
 - Create at least 10 different objects in different features.
@@ -85,13 +86,13 @@ draft: false
 ### Selected Assignments B
 [Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/igAewG5F4), [Azra Sadıkoğlu](https://openprocessing.org/sketch/2543596), [Boray Ünlü](https://openprocessing.org/sketch/2546214), [Duru Seyhan](https://openprocessing.org/sketch/2542961), [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/Th9bVyaHn), [Kerem Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/5OgDrQQGQ), [Zeynep Erol](https://openprocessing.org/sketch/2546480)
 ## week 3
-**2024-2025**
+#### 2025-2026
 - Utilize Arrays to dynamically control multiple objects.
 - Distribute objects on the canvas.
 - Animate them up/down, left/right
 - [Creative Coding Fest](https://ccfest.rocks/)
 
-**2023-2024**
+#### 2024-2025
 - Write a mini game story. 
 - Design the storyboard. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
 - Design Intro Scene: A background, Clearly explain instructions to play the game shortly. A button to start the game.
@@ -101,7 +102,7 @@ draft: false
 - 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
 ## week 4
-**2024-2025**
+#### 2025-2026
 Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
 Making a software visual guide, [link](https://www.makingsoftware.co/)
 Feedback for the games
@@ -116,7 +117,7 @@ For the next week, I want all of you to finalize your games. Each game must have
 
 For more information about the game format, visit the [link](https://alptugan.github.io/blog-teaching/Tutorials/P5JS---Casual-Game).
 
-**2023-2024**
+#### 2024-2025
 1. 👀 Implement all of the scenes that you design for your game in P5Js.
 2. You can use the codes in my game and implement to yours. Fork my [game template] to adapt your game scenes. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js. Please ask to me or your friends in class whenever you need help or get stuck!!! I can provide you tutorials and reference code snippets.
 3. ⏫ Upload the sketch to your openProcessing account.
@@ -126,7 +127,7 @@ For more information about the game format, visit the [link](https://alptugan.gi
 ## week 5
 > [!TIP] This form, which will be available starting **Monday, March 3**, consists of **two open-ended questions** where students can share what they find positive about the courses and the areas they believe could be improved for a better learning experience. The form will remain accessible via SIS **throughout the upcoming week**.
 
-**2025-2026**
+#### 2025-2026
 PLEASE READ CAREFULLY!
 **You have 3 options. Choose one below.**
 1. **Art:** Create an interactive AR sketch where the fiducial marker displays a unique piece of digital art or animation.
@@ -149,6 +150,7 @@ You can use a single or multiple markers if you want. Refer to the example [sket
 - Submit the link of your game.
 
 ## week 6
+#### 2025-2026
 Watch the following videos in order.
 1. [Introduction to Machine Learning](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction)
 2. [Pose Detection ](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-bodypose/pose-detection)
@@ -172,8 +174,53 @@ Options 2: Create three different masks in Photoshop or Illustrator. Upload the 
 - References : [Computational Mask Repo](https://www.pinterest.com/alptugan/02-computational-masks-repo/more_ideas/?request_params=%7B%221%22:%2039,%20%227%22:%20%221100798308726688953%22,%20%228%22:%20%22575686833557453072%22,%20%2232%22:%2020,%20%2237%22:%20%22Ideas%20for%20your%20board%22%7D&full_feed_title=Ideas%20for%20your%20board&view_parameter_type=3173&pins_display=3&ideas_referrer=25), [Generative Masks](https://generativemasks.io/), [Ref3](https://www.britannica.com/art/mask-face-covering/The-functions-and-forms-of-masks)
 
 ## week 7
-**2025-2026**
-### Personal Portfolio Inspiration
+#### 2025-2026
+You may choose one of the following:
+
+**Option 1: Interactive Art Installation**
+**Objective:** Create an interactive digital art piece that responds to real-world objects.
+
+**Instructions:**
+1. Collect and Train: Gather at least 10 distinct objects.
+2. Develop with p5.js:
+
+Integrate the trained model into a p5.js sketch.
+Design visual elements that change based on the detected object. For example, displaying different animations or colors corresponding to each object.
+
+
+**Option 2: Educational Game**
+**Objective**: Develop a simple game that teaches users about the objects recognized by the classifier.
+
+**Instructions:**
+1. Collect and Train: Select 10 educational items (e.g., fruits, geometric shapes, tools). Train a model using Teachable Machine to identify each item.
+2. Game Development: Create a p5.js game where users present objects to the camera. Provide feedback or facts about the object upon correct identification.
+
+**Option 3: Assistive Tool**
+**Objective**: Build a tool that aids individuals with visual impairments by audibly identifying objects.
+
+**Instructions**:
+1. Collect and Train: Assemble 10 everyday objects. Train an image classifier using Teachable Machine to recognize these items.
+2. Develop with p5.js: Integrate the model into a p5.js sketch.
+
+Implement functionality to speak the name of the detected object using the p5.js sound library.
+
+
+#### 2024-2025
+##### Please READ💢
+##### No Late Submissions❗❗❗If you don't understand ask me, or your friend, or to an AI chatbot.  
+- Use **Decomposition**, **Flow**, **Translation**, and **Algorithm Design** steps for your mask generation. I want to see how you implement your ideas. Upload text, diagram or any kind of material that you include your programming activity. Create a pdf for your design process as I show you in the presentation. You don't need to include material for the Algorithm Desin section since your codes on openProcessing is the last step actually. **(40 points)** [Tutorial](https://openprocessing.org/sketch/2217223 "https://openprocessing.org/sketch/2217223")
+- Write down the mask code. **(20 points)**
+- Apply ML5 library to enable head tracking on camera. **(20 points)** 
+    - Head Tracking Code: [ML5 Face Tracking Example](https://openprocessing.org/sketch/2213624 "https://openprocessing.org/sketch/2213624")
+    - Head Tracking With Mask Implementation Code: [Face Tracking with Mask Example](https://openprocessing.org/sketch/2220776 "https://openprocessing.org/sketch/2220776")
+- Skim the attached document (Form+Code Book, Repetetion pg. 42-65)
+- Choose an image that includes repetition in the artwork from the follwing [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d "https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d").
+- ❗Submit the openprocessing link.
+- ❗Submit the sketch source code as zip file as well.
+
+## week 8
+### 2025 - 2026
+#### Personal Portfolio Inspiration
 The only web design inspiration sites you need: 
 [Build, Share, and Explore Developer Portfolios](https://www.webportfolios.dev/) → Portfolio creation guides 
 [http://curated.design](https://t.co/ZWHuJfxuQf) → My personal fav
@@ -187,40 +234,24 @@ Would add [http://mobbin.com](https://t.co/KOkRsFCf9R) to this!
 Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14cadc105f5742b3f7533) to check.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
 
-### Hand pose Examples
+#### Hand pose Examples
 [p5.js Web Editor \| Hand Pose Thumbs Up or Down](https://editor.p5js.org/codingtrain/sketches/0_qPHtsF_)
 
-## Pose Net
+#### Pose Net
 [Object Detection and Speech Synthesis](https://editor.p5js.org/alptugan/sketches/U-jA-D_Pl)
 
-### Teachable Machine
+#### Teachable Machine
 
-
-**2024-2025**
-##### Please READ💢
-##### No Late Submissions❗❗❗If you don't understand ask me, or your friend, or to an AI chatbot.  
-- Use **Decomposition**, **Flow**, **Translation**, and **Algorithm Design** steps for your mask generation. I want to see how you implement your ideas. Upload text, diagram or any kind of material that you include your programming activity. Create a pdf for your design process as I show you in the presentation. You don't need to include material for the Algorithm Desin section since your codes on openProcessing is the last step actually. **(40 points)** [Tutorial](https://openprocessing.org/sketch/2217223 "https://openprocessing.org/sketch/2217223")
-- Write down the mask code. **(20 points)**
-- Apply ML5 library to enable head tracking on camera. **(20 points)** 
-    - Head Tracking Code: [ML5 Face Tracking Example](https://openprocessing.org/sketch/2213624 "https://openprocessing.org/sketch/2213624")
-    - Head Tracking With Mask Implementation Code: [Face Tracking with Mask Example](https://openprocessing.org/sketch/2220776 "https://openprocessing.org/sketch/2220776")
-- Skim the attached document (Form+Code Book, Repetetion pg. 42-65)
-- Choose an image that includes repetition in the artwork from the follwing [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d "https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d").
-- ❗Submit the openprocessing link.
-- ❗Submit the sketch source code as zip file as well.
-
-# week 8
+### 2024 - 2025
 - Finalize the code and submit the source code and openprocessing link.
-
 - Choose the most appropriate options for the artworks included in each survey. You can choose multiple choices.
-
-# week 9
+## week 9
 Holiday
 
-# week 10
-Holiday
+## week 10
 
-# week 11
+
+## week 11
 Project Proposal Submission
 
 - **Game Showcases**

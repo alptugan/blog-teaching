@@ -8,7 +8,6 @@ tags:
   - creativecoding
   - tutorial
   - ml5
-  - AI
 aliases: 
 draft: false
 ---
@@ -36,10 +35,14 @@ Open p5js project settings and create a folder first.
 
 After that, put the mask pictures in that folder.
 
-![[week07_2.jpeg|-center|400]]
+![[week07_2.jpeg|-left|250]]![[week07_3.jpeg|-right|250]]
 
 
-![[week07_3.jpeg|-center|400]]
+
+
+
+
+
 
 ## 3. Edit the Codebase
 Goto the [link](https://editor.p5js.org/codingtrain/sketches/zUKp9n4MW) and duplicate the code into your online account. You can use p5js or openProcessing editor. Do not forget add library paths to the `index.html` document.
