@@ -132,6 +132,13 @@ function gotResult(results) {
 ```
 
 
+Check another example trained with voices of people in the class time. Supported color tones are Kırmızı, Mavi, Mor, Pembe, Yeşil. Choose a color and say its name, check to see the app is working or not.
+[Link to P5JS Code - Section A](https://editor.p5js.org/alptugan/sketches/fBaGA-A22)
+
+Check the following code trained with daily objects in **Section B**. You can check the accuracy of the model by saying *computer, mirror, or chair*.
+[Link to P5JS Code - Section B](https://editor.p5js.org/alptugan/sketches/3SVTtayEe)
+
+
 ## References
 - [What is a Sound Spectrum?](https://newt.phys.unsw.edu.au/jw/sound.spectrum.html), 2025
 - [Audio Model - Teachable Machines](https://teachablemachine.withgoogle.com/train/audio)

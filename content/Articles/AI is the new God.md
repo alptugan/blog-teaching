@@ -50,3 +50,6 @@ The results of that method causes too many issues in the long run. For instance 
 ![[ai-is-the-new-god01.jpg]]
 
 The lack of thepretical knowledge causes such problems. actually one needs to use a backup system like Git, or any other solution can avoid such loss of time.
+
+
+## 

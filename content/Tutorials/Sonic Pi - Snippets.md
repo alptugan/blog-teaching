@@ -12,6 +12,32 @@ draft: false
 ---
 The following document demonstrates variety of Sonic Pi code snippets. 
 
+## Quick Start
+```ruby
+play :C4
+sleep 0.513
+
+play :D4
+sleep 0.51
+
+play :E4
+sleep 0.51
+
+play :F4
+sleep 1
+
+play :G4
+sleep 1
+
+play :A4
+sleep 1
+
+play :b4
+sleep 1
+
+play :c5
+sleep 1
+```
 ## Working with Sound Samples
 **Load and play your own sound samples - single shot**
 You can load any custom sound files from your computer and play them. To keep your code clean and legible, using variables is an efficient method. Define a variable for your sound sample as shown in the following example. The `drum_track` variable is defined and assigned to the absolute path location of the file on the hard disk. Then you can use the `sample` command to play your custom sound. Check the [[Absolute Path]] page to learn how to get absolute path of the files in your computer.
@@ -229,3 +255,27 @@ This code creates a granular synthesis engine that:
 4. Plays the grains in a continuous loop, creating a textured and evolving soundscape.
 
 The result is a rich, experimental sound that transforms the original samples into something entirely new.
+
+## Arrays
+* We can declare arrays in two ways, the first one uses brackets `[]` syntax
+```ruby
+# Array of notes assigned to the variable `seq`
+seq = [:c5, :d5, :e5, :f5, :g5, :a5, :b5]
+
+# Play 4 times a random note from the `seq`arrays. Silence 0.5 seconds
+4.times do
+  play seq.choose
+  sleep 0.5
+end
+```
+
+- We can declare arrays in two ways, the first one uses parenthesis `(ring, ...)` syntax
+```ruby
+dizi = (ring, :C, :D, :E, :F, :G, :A, :B, :C5,:D5, :G5)
+
+live_loop :myFirstLoop do
+  play dizi.tick # play notes in the dizi array in sequence
+  # play dizi.tick # play notes in the dizi array in random
+  sleep rrand(0, 1)
+end
+```

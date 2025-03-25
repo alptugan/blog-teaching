@@ -67,6 +67,9 @@ An example case that highlights the difference between the two listening modes c
 ## References
 1. Butler, S., & Nooter, S. (Eds.). (2019). _Sound and the ancient senses_. Routledge Taylor & Francis Group.
 2. [[ButlerNooter_2019]]
+3. Tugan, A. (2022). Presentation Notes, [link](https://docs.google.com/presentation/d/1RDtAOfwRW2GTDSjNONnl0-mi7Kvc3s2cSIDLR5R2qKc/edit#slide=id.g335ac15c3c_0_5)
+4. Tugan, A. (2023). Presentation Notes, [link](https://docs.google.com/presentation/d/1E_AoIZQr7tJHm7ZX5chEXOn8EqkyorwaSACLt7ZPqZs/edit#slide=id.g306ee9a3907_0_78)
+5. Tugan, A. (2024). Presentation Notes, [link](https://docs.google.com/presentation/d/1aexmjZDnZKskCp5iuU0_jwCgyyQMso4I1rAJVWULH1Y/edit#slide=id.ga3f7c6bd89_0_29)
 
 
 

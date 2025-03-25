@@ -1,7 +1,6 @@
 ---
 title: Quotes
-date: 2024-12-28
-modification date: 2025-03-06 19:31:26
+date: 2024-12-28T09:00:00
 description: 
 tags:
   - quotes
@@ -11,6 +10,8 @@ cssclasses:
   - wide-page
 ---
 A carefully curated collection of quotes can serve as a wellspring of motivation and creativity. Whether they originate from historical figures who have left indelible marks on the world or non-historical individuals whose words resonate with universal truths, these quotations provide invaluable insights that can spark new ideas and perspectives. A repository of quotations is more than a collection; it's a dynamic tool for personal and professional growth. By drawing from the wisdom of both historical and non-historical individuals, we enrich our own perspectives and continually find new sources of inspiration and motivation.
+
+- If you need it, somebody else need it. So do it open-source. (ME)
 
 > [!todo]- The following Github repo includes thousands of quotations with author information via node package,
 >  [link](https://github.com/dwyl/quotes)

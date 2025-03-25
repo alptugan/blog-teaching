@@ -4,6 +4,7 @@ draft: false
 tags:
   - docker
   - shell
+  - webdev
 date: 2025-03-19T12:00:00
 ---
 # Remote Open Source Alternatives
@@ -59,8 +60,10 @@ Guacamole
 - [VitePress](https://vitepress.dev/) Markdown static site generator. Light version of [VuePress](https://vuepress.vuejs.org/)
 - [Zola](https://www.getzola.org/documentation/getting-started/overview/) A fast static site generator in a single binary with everything built-in via Rust
 - [Eleventy](https://www.11ty.dev/docs/cms/) 
-- Jekyll
+- **Jekyll**
 	- [Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- **Portfolio Templates**
+	- [A sleek portfolio built with React and Tailwind CSS \| daily.dev](https://app.daily.dev/posts/a-sleek-portfolio-built-with-react-and-tailwind-css-eekyxpbb9)
 
 ## Icons, Assets & Colors
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
@@ -127,6 +130,11 @@ AdGuard Home
 [Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
 
 ## Speech Generation
+[Zonos](https://github.com/Zyphra/Zonos?tab=readme-ov-file) Playground [link](https://playground.zyphra.com/audio), 100 minutes free/month. It supports API calls.
+
+
+## Video Generation
+[Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://stable-virtual-camera.github.io/) Given any number of input views and their cameras, it generates novel views of a scene at any target camera of interest. (Installation required, academic paper)
 
 ## Personal Assistant
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
@@ -151,7 +159,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 [OpenWebUI](https://github.com/open-webui/open-webui) Similar to Anything LLM
 
-[Postiz](https://github.com/gitroomhq/postiz-app?tab=readme-ov-file) Social Media Scheduling
+[Postiz](https://github.com/gitroomhq/postiz-app?tab=readme-ov-file) Social Media Scheduling. Applies all major social platforms.
 
 ⭐️ [Open Hands AI](https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file) Code helper tool.
 
@@ -160,6 +168,8 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [ZoteroScholar](https://github.com/sanketsabharwal/ZoteroScholar)
 
 [Bolt AI](https://www.youtube.com/watch?v=bxhR9WntH5w) Free opensource code assistant. Seems pretty good.
+
+[Second-Me](https://github.com/mindverse/Second-Me) Train your AI self, amplify you, bridge the world
 
 ### Tutorials
 ⭐ [Fine Tuninning Models with pdf, TR](https://www.youtube.com/watch?v=nsl-1hb8Uxc) # Llama ile Kendi Yapay Zekanızı Ücretsiz Eğitin! (Fine Tuning Rehberi)
@@ -208,7 +218,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 ## Database & CMS
 [NocoDB](https://github.com/nocodb/nocodb) Create databases as if using spreadsheets.
-[Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples
+⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file
 [Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
 [Decap CMS \| Open-Source Content Management System](https://decapcms.org/)
@@ -304,6 +314,8 @@ Metadata Cleaner → Remove meta data from any file.
 [Tiiny.host](https://tiiny.host/pricing) Allows single domain for project.
 [Netfily](https://www.netlify.com/) Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.
 [Vercel](https://vercel.com/alptugan-protonmailcs-projects) Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. 
+[Coolify](https://github.com/coollabsio/coolify) An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+[taubyte/tau](https://github.com/taubyte/tau) Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 [Free DNS](https://freedns.afraid.org/domain/add.php)
 [DuckDNS](https://www.duckdns.org/)
 [freedomain](https://freedomain.one/)
@@ -326,6 +338,9 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 ---
 # Digital Signage 
 [TooLoop](https://github.com/Tooloop/Tooloop-OS) Tooloop OS is a platform for media artists to safely and easily develop and deploy multimedia installations. Tooloop OS is based on Ubuntu Server 24.04 LTS and the super lightweight window manager Openbox. Both are customized to fit the needs of live and public multimedia installations.
+
+# Scheduling
+[Cal.com](https://cal.com/pricing) Start scheduling for free, with no usage limits. For collaborative features, choose one of our premium plans that fits your company size.
 # My CasaOS Fundamentals
 [Portainer Dockers](https://portainer-templates.as93.net/) Ready to use docker images might be useful CasaOS
 Şu adamı izle güzel örnekleri var NTFY için;
@@ -356,6 +371,8 @@ done
 ```
 
 ## Nginx & Node
+[Full NGINX Tutorial - Demo Project with Node.js, Docker - YouTube](https://www.youtube.com/watch?v=q8OleYuqntY)
+
 install npm via apk. Login to nginx docker Terminal and type
 `apk update`
 `apk add npm`
