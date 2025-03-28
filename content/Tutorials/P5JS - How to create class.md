@@ -16,4 +16,5 @@ The following tutorial is related to the [[P5JS - Casual Game]] article. If you 
 
 <br>
 The following video shows how to instantiate the class and display relevant scene for the game. 
+
 ![[p5js_week4_2-game_order.mp4]]

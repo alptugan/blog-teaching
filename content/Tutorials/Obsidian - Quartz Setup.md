@@ -123,8 +123,10 @@ Open the Obsidian settings by clicking ⚙️ icon on bottom-left corner of the 
 Set the "Default location for the new attachments" to the folder that you created in the previous step. Then, an input fields appears. Select the "assets" folder inside the "content" folder. Whenever you drag-drop image from your computer to your page, the image will be uploaded to that folder. ![[Screenshot 2024-04-09 at 18.43.01.png]]
 ## 3. Upload the content to the Github
 1. Sign-in your Github Account.
-2. Create new repository to host the static web-site. Hit the green "New" button on the top-right of the page. ![[Screenshot 2024-04-09 at 16.56.47.png]]
-3. Type the name of your website. Mine is "blog-teaching." Hit "Create repository" button on the bottom-right. ![[Screenshot 2024-04-09 at 16.58.29.png]]
+2. Create new repository to host the static web-site. Hit the green "New" button on the top-right of the page. 
+   ![[Screenshot 2024-04-09 at 16.56.47.png]]
+3. Type the name of your website. Mine is "blog-teaching." Hit "Create repository" button on the bottom-right. 
+   ![[Screenshot 2024-04-09 at 16.58.29.png]]
 4. It will generate the repository page and list some options on how to upload your content to the page. Copy the link with `.git`extension. Mine is `https://github.com/alptugan/blog-teaching.git`
 5. Goto Terminal app;
 	```bash
@@ -192,7 +194,6 @@ Check the following link to link the existing Quartz 4 folder to the original Ob
 3. The original content folder now can be edited using your main vault.
 [reference](https://www.youtube.com/watch?v=dz3GOp4hN50)
 ### F.A.Q
-
 > [!ERROR]- The images or the pages are not displayed correctly
 > 1. Make sure you follow all the steps. 
 > 2. Sometimes it takes time for Github to compile and publish your web-site.

@@ -27,31 +27,29 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
   ],
   pageBody: Component.Content(),
-  afterBody: [],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
     Component.Explorer({title: "Content List",mapFn: (node) => {
-    // dont change name of root node
-    if (node.depth > 0) {
-      // set emoji for file/folder
-      if (node.file) {
-        //node.displayName = "📄 " + node.displayName
-      } else {
-        node.displayName = "📁 " + node.displayName
-      }
-
+      // dont change name of root node
       // Trim display name if it's longer than 26 characters
-      const maxLength = 26
+      const maxLength = 30
       if (node.displayName.length > maxLength) {
         node.displayName = node.displayName.substring(0, maxLength - 3) + "..."
-      }
       }
     },
     }),
   ],
+  middle: [],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -67,10 +65,18 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
     Component.Explorer({title: "Content List"}),
   ],
+  middle: [],
   right: [],
 }
 
