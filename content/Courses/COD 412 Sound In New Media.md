@@ -111,7 +111,8 @@ In class practice
 	- [Coding the Party : Algorave - YouTube](https://www.youtube.com/watch?v=BcbsDcZ9k-A)
 	- [Kindohm Live @ ICLC 2016, Hamilton, Ontario - YouTube](https://www.youtube.com/watch?v=smQOiFt8e4Q)
 	- [Joint Breakcore Live Coding \| Tidal Cycles - YouTube](https://www.youtube.com/watch?v=XYe8AKYPUYc)
-	
+### Week 7 -  Sound Ecology
+[Doğayı dinlemek: Ağaçların sesini duyabilir miyiz? I "Burada hayat var" - YouTube](https://www.youtube.com/watch?v=aRogAZbu8FU)
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.
@@ -193,3 +194,11 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 6. This assignment does not measure the musical quality or tonality. And this is not a programming class. Your primary focus should be on exploring the limits of sound through the use of modern technological tools. So do not stress out. Just try to make something sound good to you.
 
 
+
+## COD 412 Final Projects
+[2018-2019](https://drive.google.com/drive/folders/1w5mFUEx23DS97JllBQnnVVXIA3362YVV?usp=drive_link)
+[2019-2020](https://drive.google.com/drive/folders/1Nc2ymtgCL_4ufQ8OUdT15Up7EycBNPEV?usp=drive_link)
+[2020-2021](https://drive.google.com/drive/folders/1zjdlIRUP79FixrMFaIDs1HfYUreJ_BxK?usp=drive_link)
+[2021-2022](https://drive.google.com/drive/folders/1Wiv_g0T54_pGfJHsIg2P1vRvqsxTY1CU?usp=drive_link)
+[2022-2023](https://drive.google.com/drive/folders/1Wxy3tHIlDtv7EGd4I4wL_CEN7eU5Ash7?usp=drive_link)
+[2023-2024](https://drive.google.com/drive/folders/1iYfsouSey3cWZy5YP2urqAcN97HhNKsj?usp=drive_link)

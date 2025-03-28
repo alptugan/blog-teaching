@@ -7,7 +7,7 @@ tags:
   - backup
   - tutorial
   - clone
-aliases: 
+aliases:
 draft: false
 ---
 # Intro

@@ -33,13 +33,13 @@ Even though I've trained the model using just three samples—one for background
 ![[week8_sound_ml.mp4]]
 
 ### Source Code index.html
-```html
+```html fold title:index.html hl:8
 <html>
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Sound classification using SpeechCommands18w and p5.js</title>
+    <title>Sound classification using p5.js</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"></script>
     <script src="https://unpkg.com/ml5@1/dist/ml5.min.js"></script>
   </head>
@@ -51,7 +51,7 @@ Even though I've trained the model using just three samples—one for background
 ```
 
 ### Source Code sketch.js
-```js
+```js fold unwrap:false title:sketch.js 
 // A variable to initialize the Image Classifier
 let classifier;
 

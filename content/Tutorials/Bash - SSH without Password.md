@@ -7,7 +7,7 @@ tags:
   - tutorial
   - shell
   - script
-aliases: 
+aliases:
 draft: false
 ---
 ## 1. Check Available SSH Key

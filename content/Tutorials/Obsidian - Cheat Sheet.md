@@ -103,6 +103,10 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 
 [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
 
+### Dataview
+[Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
+[How to Build Dataview Powered Dashboards in Obsidian - YouTube](https://www.youtube.com/watch?v=p3jqxQLHqUY)
+
 ## 7. Columns
 ### When is the best to ski in Switzerland?
 > [!blank-container|float-right-small] 
@@ -143,3 +147,30 @@ Embed Content from different document into another document as excerpt.
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
 ```
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
+
+
+## Obsidianotion checklists:
+- [ ] normal
+- [/] / - incomplete
+- [x] x - done
+- [-] -  canceled
+- [s] s - forwarded
+- [<] < - scheduling
+
+**Extras checklists:**
+- [?] ? - question
+- [!] ! - exclamation
+- [*] * - star
+- ["] " - quote
+- [l] l - location
+- [b] b - bookmark
+- [i] i - information
+- [S] S - savings
+- [I] I - idea
+- [p] p - thumbs up
+- [c] c - thumbs down
+- [f] f - fire
+- [k] k - key
+- [w] w - win
+- [u] u - up
+- [d] d - down

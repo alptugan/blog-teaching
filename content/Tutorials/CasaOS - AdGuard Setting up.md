@@ -1,7 +1,6 @@
 ---
 title: CasaOS - AdGuard Setting up
 date: 2024-05-01T01:00:00
-modification date: Friday 24th May 2024 12:39:24
 description: 
 tags:
   - casaos
@@ -11,14 +10,12 @@ tags:
 aliases: 
 draft: false
 ---
-Open CasaOS app store.
-
-Install AdGuard Home.
-
-Open settings of the installed AdGuard app.<br>
+1. Open CasaOS app store.
+2. Install AdGuard Home.
+3. Open settings of the installed AdGuard app.
 ![[adguard_01.png]]
 
-Type the ports as follows<br>
+4. Type the ports as follows
 ![[adguard_02.png]]
 
 >[! Warning] Troubleshoot
