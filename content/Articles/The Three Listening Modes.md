@@ -4,7 +4,6 @@ date: 2025-03-05
 tags:
   - sound
   - sounddesign
-  - soundecology
   - cod412
 draft: false
 ---

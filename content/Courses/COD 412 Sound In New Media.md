@@ -6,7 +6,6 @@ description: Includes course related screening contents.
 tags:
   - soundart
   - soundsculpture
-  - soundecology
   - audiovisual
   - sounddesign
 aliases: 

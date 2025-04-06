@@ -391,3 +391,9 @@ Central to my practice is consideration of my audience, and I find no greater jo
 ---
 # 🎧 Music 
 [Music For Programming](https://musicforprogramming.net/) Set of curated playlists may help you to focus during creative coding assignments.
+
+# 🖌️ Design
+[Gutenberg — A Meaningful Web Typography Starter Kit](https://matejlatin.github.io/Gutenberg/)
+[UNCUT.wtf](https://uncut.wtf/) Free fonts, alternative to Google Fonts, DaFont, etc...
+[Free Faces](https://www.freefaces.gallery/) Similar to the UNCUT.wtf...
+[Fontshare: Quality Fonts. Free.](https://fontshare.com/) Better UX for font discovery. You can preview the text with selected font in real-time.

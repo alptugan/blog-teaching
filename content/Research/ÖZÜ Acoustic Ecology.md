@@ -1,10 +1,12 @@
 ---
-title: Untitled
-date: 2024-10-23
-modification date: Wednesday 23rd October 2024 13:04:00
+title: ÖZÜ Acoustic Ecology
+date: 2024-10-23T00:01:00
 description: 
 tags:
-  - soundecology
+  - sound
+  - soundscape
+  - ecology
+  - cod412
 aliases: 
 draft: true
 ---

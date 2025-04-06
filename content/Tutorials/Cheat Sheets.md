@@ -17,9 +17,12 @@ draft: false
 2. 🍺 [[#Brew]]
 3. 🐳 [[#Docker Basics]]
 4. 🎞️ [[#FFmpeg]]
-5. [[#Run docker container's command]]
-6. [[#Default Mac OS Paths]]
-7. [[#Troubleshooting]]
+5. `CSS` [Tailwind](https://tailwindcss.504b.cc/)
+6. `git` [GitHub](https://github.com/Ayushparikh-code/Web-dev-mini-projects) Clone Repo -> Add Branch -> Push -> Create Pull Request
+7. [[#Run docker container's command]]
+8. [[#Default Mac OS Paths]]
+9. [[#Troubleshooting]]
+
 
 ## Links to external resources
 - https://cheatsheets.zip/cpp

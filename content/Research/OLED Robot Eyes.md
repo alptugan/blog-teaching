@@ -1,7 +1,6 @@
 ---
 title: OLED Robot Eyes
 date: 2024-12-02
-modification date: Monday 2nd December 2024 23:11:56
 description: 
 tags:
   - Arduino

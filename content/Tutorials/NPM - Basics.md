@@ -7,6 +7,7 @@ tags:
   - npm
   - nodejs
   - script
+  - nvm
 aliases: 
 draft: false
 ---
@@ -14,7 +15,7 @@ draft: false
 > [!WARNING] DO NOT install nvm via another package manager like brew.
 
 ```bash
-# 1. Install NVM (https://github.com/nvm-sh/nvm)
+# 1. Install or update NVM (https://github.com/nvm-sh/nvm)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
 
 # 2. Install node
@@ -28,4 +29,19 @@ npm -g outdated
 
 # list oudated local packages
 npm outdated
+
+#--------------------------------------------
+# UPDATE GLOBAL PACKAGES
+#--------------------------------------------
+# Update NPM global
+npm install -g npm@latest
+
+# Update PNPM global
+npm install -g pnpm@latest  # or pnpm add -g pnpm@latest
+
+# Verify
+node -v
+npm -v
+pnpm -v
 ```
+
