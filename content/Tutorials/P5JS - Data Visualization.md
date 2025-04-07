@@ -36,6 +36,16 @@ Conversely, <font color="#0070c0">data visualizations</font> employ attributes s
 [[P5JS - Data Visualization#^Onduygu2024|Reference: Visualization of Türkiye's 2024 Local Elections]]
 
 ## Case Study
+1. Find or create a table of data using Microsoft Excel or Google Sheets. [Starwars Characters](https://docs.google.com/spreadsheets/d/1yhAPaLPPWtN-k0Y0Qshq8HJQ7HIAMPHd6KVIKKi7SNc/edit?gid=1033929183#gid=1033929183)
+2. Export the data as `.csv` file.
+3. Use one of the examples provided at [[#Sources & Tutorials]] section to start visualize the data you gathered.
+
+## Sources & Tutorials
+1. [p5 js Working with Basic Data + CSV Files - YouTube](https://www.youtube.com/watch?v=y_UQdH3Zt2s) The easiest way to start reading data from remote URL. 
+2. [Week 06: Data Visualization \| Creative Coding Spring 2025 Online](https://awcuny.github.io/creative_coding_sp25/week6) Check the **Helpful Resources** and  **Coding Examples** sections.
+3. [Data Visualization - YouTube](https://www.youtube.com/watch?v=qZ2toGfv7ZQ) A walk through on how to find free data sources such as governmental web sites, etc...
+4. [Habit Tracker Visualization by Pat Vitra](https://www.youtube.com/watch?v=mQ4Cst7o4Ek)
+
 
 ## Showcase From Students
 [Link to p5JS code](https://editor.p5js.org/alptugan/sketches/88TcKT0j5)
