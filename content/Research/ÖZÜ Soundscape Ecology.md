@@ -1,5 +1,5 @@
 ---
-title: ÖZÜ Acoustic Ecology
+title: ÖZÜ Soundscape Ecology
 date: 2024-10-23T00:01:00
 description: 
 tags:

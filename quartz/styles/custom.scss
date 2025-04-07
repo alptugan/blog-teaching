@@ -1,5 +1,5 @@
 @use "./base.scss";
-
+@import "./MCL Multi Column";
 
 /* width */
 ::-webkit-scrollbar {
@@ -46,37 +46,11 @@
   opacity: 1;
 }
 
-// put your custom CSS here!
-.image-captions-figure {
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 12px;
-}
-
-.image-captions-caption {
-    border-radius: 0px 0px 6px 6px;
-}
 
 img[alt*="center"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-img[alt*="right"] {
-    float: right;
-    clear: right;
-    margin-left: 1rem;
-    margin-bottom: 2px;
-    margin-top: 2px;
-}
-
-img[alt*="left"] {
-    float: left;
-    clear: left;
-    margin-right: 1rem;
-    margin-bottom: 2px;
-    margin-top: 2px;
 }
 
 [alt~="vid-20"] video {
@@ -90,9 +64,6 @@ img[alt*="left"] {
 [alt~="vid-40"] video {
     width: 40%;
 }
-
-
-
 
 
 /* CALLOUT */
@@ -117,6 +88,105 @@ img[alt*="left"] {
     border: 3px solid rgba(0, 0, 0, 0.5);
     border-radius: 5px;
     box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
+}
+
+
+/* === Blank Container "DIV"'s - can be used with Main Multi-Column layout above === */
+
+/* "blank-container" - no bg, no border, no title, no nothing, and remove the ligthen effect */
+blockquote[data-callout*="blank"].callout {
+	--callout-blend-mode: normal !important;
+  }
+  blockquote[data-callout*="blank"].callout > .callout-title {
+	display: none !important;
+  }
+  blockquote[data-callout*="blank"].callout > .callout-content {
+	display: contents !important;
+  }
+  blockquote[data-callout*="blank"].callout {
+	border: 0 !important;
+	padding-top: 0 !important;
+	padding-inline: 5px !important;
+	background: unset !important;
+	box-shadow: unset !important;
+  }
+
+  /* -- No Margin -- */
+  /* issues still persists
+		 - headers font size not same
+		 - "no-margin" not fully workable in editing view due to wide-page override for Minimal theme
+	  */
+  /*blockquote[data-callout-metadata*="no-margin"]:is(
+	  .cm-callout,
+	  .callout.callout,
+	  .callout.callout .callout-content
+	) {
+	margin: 0;
+	padding: 0;
+  }*/
+
+  /* -- No Margin for only child -- */
+  /*blockquote[data-callout*="blank"].callout .callout-content > p:only-child {
+	margin-block: 0;
+  }*/
+
+  /* -- Special Adjustment for Themes -- */
+
+  /* Mado. Remove  theme's pseudo left border */
+  /*blockquote[data-callout*="blank"] .callout-content::before {
+	display: none;
+  }
+*/
+
+div.callout-content p {
+	 font-size: small;
+	 padding-top: 0 !important;
+	 font-style: italic;
+	color: var(--gray);
+	line-height: 1rem !important;
+}
+
+div.callout-content .external {
+	opacity: 0.5;
+}
+
+div.callout-content img {
+	margin-bottom: 0 !important;
+}
+
+/* Float Center */
+[data-callout-metadata~="float-center"] {
+	width: 95%; /* Adjust width as needed */
+	margin: 0 auto 0 auto; /* Space around floated element */
+	clear: left; /* Prevent stacking with other floats */
+}
+
+/* Style the caption text */
+[data-callout-metadata~="float-center"] .callout-content p {
+	text-align: center;
+}
+
+
+/* Float the entire callout left */
+[data-callout-metadata~="float-left-small"] {
+	float: left;
+	width: 40%; /* Adjust width as needed */
+	margin: 0 1em 1em 0; /* Space around floated element */
+	clear: left; /* Prevent stacking with other floats */
+}
+
+/* Ensure image fills available width */
+[data-callout-metadata~="float-left-small"] img {
+	width: 100%;
+	height: auto;
+}
+
+/* Style the caption text */
+[data-callout-metadata~="float-left-small"] .callout-content p {
+	font-size: 0.9em;
+	line-height: 1.4;
+	opacity: 0.7;
+	margin-top: 0.5em;
 }
 
 
@@ -456,136 +526,3 @@ img[alt*="left"] {
 */
 
 
-
-
-/* @settings
-
-name: Modular CSS Layout - Gallery Cards
-id: modular-css-layout-gc
-settings:
-
-	-
-		id: gc-general-title
-		title: General Image Settings
-		type: heading
-		level: 2
-		collapsed: true
-	-
-        id: image-zoom
-        title: Enable Image Zoom via CSS
-        type: class-toggle
-	-
-		id: img-border-radius
-		title: Image Border Radius (any unit, no space)
-		type: variable-text
-		default: 15px
-
-
-    -
-        id: gc-callout-title
-        title: Image Gallery Settings
-		description: For image gallery using `gallery` callout-metadata and `image-gallery` YAML
-        type: heading
-        level: 2
-		collapsed: true
-	-
-		id: gallery-snw-display
-		title: Hide Strange New World Indicators in Image Gallery
-		type: variable-select
-		default: none
-		options:
-			-
-				label: Show
-				value: inline-block
-			-
-				label: Hide
-				value: none
-	-
-		id: callout-gallery-gap
-		title: Gallery Callout Gap (any unit, no space)
-		type: variable-text
-		default: 5px
-    -
-        id: img-max-height
-        title: Max Height for Images (any unit, no space)
-        type: variable-text
-        default: 300px
-	-
-		id: img-max-width
-		title: Max Width for Images (any unit, no space)
-		type: variable-text
-		default: 350px
-
-
-
-	-
-		id: gc-float-title
-	    title: Image Float / Aside
-	    type: heading
-	    level: 2
-		collapsed: true
-	-
-	    id: float-left-margin
-		title: Margin for Image Float Right (any unit, no space)
-		description: Enter in following order - "top right bottom left"
-	    type: variable-text
-	    default: 4px 12px 4px 0px
-	-
-	    id: float-right-margin
-		title: Margin for Image Float Right (any unit, no space)
-		description: Enter in following order - "top right bottom left"
-	    type: variable-text
-	    default: 4px 0px 4px 12px
-	-
-		id: float-snw-display
-		title: Hide SNW indicator in Image Float / Aside
-		type: variable-select
-		default: none
-		options:
-			-
-				label: Show
-				value: inline-block
-			-
-				label: Hide
-				value: none
-
-
-
-	-
-		id: gc-list-title
-	    title: Image in List Settings
-	    type: heading
-	    level: 2
-		collapsed: true
-	-
-        id: list-image-control-off
-        title: Disable Control for Image in List
-		description: Disabling will revert image dimension to Obsidian default behaviour
-        type: class-toggle
-	-
-	    id: img-max-height-list
-		title: Max Height for Images (any unit, no space)
-	    type: variable-text
-	    default: 270px
-	-
-		id: img-max-width-list
-		title: Max Width for Images (any unit, no space)
-		type: variable-text
-		default: 300px
-
-	-
-		id: gc-mermaid-title
-		title: Mermaid SVG Settings
-		type: heading
-		level: 2
-		collapsed: true
-	-
-        id: mermaid-scale-off
-        title: Disable scaling for Mermaid diagram
-		description: Disabling will revert Mermaid diagram dimension to Obsidian default behaviour
-        type: class-toggle
-	-
-        id: mermaid-zoom
-        title: Enable Image Zoom via CSS
-        type: class-toggle
-*/

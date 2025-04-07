@@ -49,6 +49,26 @@ cssclass: img-grid, img-captions
 CSS obsidian_style.css içinde
 JS code da DEVS kalsöründe
 ```
+
+### Centered-scaled image with caption
+```
+
+> [!blank-container|float-center] 
+> ![[p5js02.jpg]] 
+> [Ken Thompson](https://www.wikiwand.com/en/articles/Ken_Thompson "Ken Thompson") and [Dennis Ritchie](https://www.wikiwand.com/en/articles/Dennis_Ritchie "Dennis Ritchie"), key proponents of the Unix philosophy
+
+Ken Thompson, one of the founders of Unix, established its foundational philosophy on a minimalist and modular framework. Central to their software development ethos is the DOTADIW (Do One Thing And Do It Well) principle, which facilitates maintaining a compositional system as opposed to a monolithic one.
+```
+
+
+> [!multi-column|center]
+>> [!blank|center]
+>> ![[p5js02.jpg|450]] 
+>> *Ken Thompson and [Dennis Ritchie](https://www.wikiwand.com/en/articles/Dennis_Ritchie "Dennis Ritchie"), key proponents of the Unix philosophy*
+
+ Ken Thompson, one of the founders of Unix, established its foundational philosophy on a minimalist and modular  framework. Central to their software development ethos is the DOTADIW (Do One Thing And Do It Well) principle, which facilitates maintaining a compositional system as opposed to a monolithic one.
+
+
 ## Callout Opened & Collapsed
 ```markdown
 > [!NOTE] Notification about Conclusion
