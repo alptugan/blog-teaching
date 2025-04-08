@@ -12,28 +12,31 @@ aliases:
 draft: false
 ---
 ## Background
-Data visualization and infographics represent distinct concepts that should not be conflated.
+<font color="#0070c0">Data visualization</font> and <font color="#ffc000">infographics</font> represent distinct concepts that should not be conflated.
 
-Infographics serve as instruments for examining datasets or comprehending intricate information through bespoke visual components. The removal of these visual elements results in the loss of significant portions of information, if not all, unless supplemented by explanatory text (Önduygu, 2015). Information visualizations represent complex entities, ideas, or processes using visual structures, either directly or indirectly via diagrams and similar means.
+<font color="#ffc000">Infographics</font> serve as instruments for examining datasets or comprehending intricate information through bespoke visual components. The removal of these visual elements results in the loss of significant portions of information, if not all, unless supplemented by explanatory text (Önduygu, 2015). <font color="#ffc000">Infographics</font> represent complex entities, ideas, or processes using visual structures, either directly or indirectly via diagrams and similar means.
 
-![[info-vs-datavis.jpeg|-center|500]]
+> [!blank-container|float-center] 
+> ![[info-vs-datavis.jpeg]]
 
-Conversely, <font color="#0070c0">data visualizations</font> employ attributes such as size and position of abstract visual elements to depict datasets, facilitating intuitive comprehension of extensive data tables, identification of notable patterns, and the generation of novel insights. Color is often utilized for communicative purposes in information visualization, such as categorization through color-coding (Önduygu, 2015).
+Conversely, <font color="#0070c0">data visualizations</font> employ attributes such as size and position of abstract visual elements to depict datasets, facilitating intuitive comprehension of extensive data tables, identification of notable patterns, and the generation of novel insights. <span style="background:#ff4d4f">Color</span> is often utilized for communicative purposes in information visualization, such as categorization through color-coding (Önduygu, 2015).
 
-![[datavis-cem.jpeg|-center|500]]
-[[P5JS - Data Visualization#^Onduygu2011|Reference: Metallica On Stage]]
-
-
-![[datavis-history-of-philosophy.jpg|-center|500]]
-[[P5JS - Data Visualization#^Onduygu2018|Reference: History of Philosophy]]
+> [!blank-container|float-center] 
+>![[datavis-cem.jpeg]]
+>[[P5JS - Data Visualization#^Onduygu2011|Reference: Metallica On Stage]]
 
 
-![|-center|500](https://www.denizcemonduygu.com/wp-content/uploads/2019/02/my20082018inmusic.jpg)
-[[P5JS - Data Visualization#^Onduygu2019|Reference: Visualization of Music Listening Logs]]
+> [!blank-container|float-center] 
+> ![[datavis-history-of-philosophy.jpg]]
+> [[P5JS - Data Visualization#^Onduygu2018|Reference: History of Philosophy]]
 
+> [!blank-container|float-center] 
+> ![](https://www.denizcemonduygu.com/wp-content/uploads/2019/02/my20082018inmusic.jpg)
+> [[P5JS - Data Visualization#^Onduygu2019|Reference: Visualization of Music Listening Logs]]
 
-![|-center|500](https://www.denizcemonduygu.com/wp-content/uploads/2024/04/turkiye2024.jpg)
-[[P5JS - Data Visualization#^Onduygu2024|Reference: Visualization of Türkiye's 2024 Local Elections]]
+> [!blank-container|float-center] 
+> ![](https://www.denizcemonduygu.com/wp-content/uploads/2024/04/turkiye2024.jpg)
+> [[P5JS - Data Visualization#^Onduygu2024|Reference: Visualization of Türkiye's 2024 Local Elections]]
 
 ## Case Study
 1. Find or create a table of data using Microsoft Excel or Google Sheets. [Starwars Characters](https://docs.google.com/spreadsheets/d/1yhAPaLPPWtN-k0Y0Qshq8HJQ7HIAMPHd6KVIKKi7SNc/edit?gid=1033929183#gid=1033929183)
@@ -48,27 +51,27 @@ Conversely, <font color="#0070c0">data visualizations</font> employ attributes s
 
 
 ## Showcase From Students
-[Link to p5JS code](https://editor.p5js.org/alptugan/sketches/88TcKT0j5)
-![[datavis-fatma-imran.jpeg|-center|500]]
+> [!blank-container|float-center] 
+> ![[datavis-fatma-imran.jpeg]]
+> Fatma İmran, [Link to p5JS code](https://editor.p5js.org/alptugan/sketches/88TcKT0j5)
+
+> [!blank-container|float-center] 
+![[datavis-kubra-botanci-books-2.jpeg]]
+> [datavis casestudy Books by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/VBQghqFSH), Books
+
+> [!blank|float-center]
+> ![[datavis-tutku-calis-lifetime.jpeg]]
+> Life time expiration by Tutku Çalış, [datavis-lifetime-case-3 by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/jBOFIpNq1)
+
+> [!blank|float-center]
+> ![[datavis-darya-mahcup-mcdonals.jpeg]]
+> McDonals Data by Darya Mahçup, [datavis-mcdonals-case 4](https://editor.p5js.org/alptugan/sketches/fr76xS-9B)
 
 
-[datavis casestudy Books by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/VBQghqFSH)
-Books
-![[datavis-kubra-botanci-books-2.jpeg|-center|500]]
+> [!blank|float-center]
+> ![[cat-breeds.jpeg]]
+> Cat Breeds by Melis, [p5.js Web Editor \| datavis-melis-cat-creeds-case 5](https://editor.p5js.org/alptugan/sketches/d89_fe6ru)
 
-
-[datavis-lifetime-case-3 by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/jBOFIpNq1)
-Life time expiration
-![[datavis-tutku-calis-lifetime.jpeg|-center|500]]
-
-[p5.js Web Editor \| datavis-mcdonals-case 4](https://editor.p5js.org/alptugan/sketches/fr76xS-9B)
-McDonals Data
-![[datavis-darya-mahcup-mcdonals.jpeg|-center|500]]
-
-
-[p5.js Web Editor \| datavis-melis-cat-creeds-case 5](https://editor.p5js.org/alptugan/sketches/d89_fe6ru)
-Cat Breeds
-![[cat-breeds.jpeg|-center|500]]
 
 ## References
 Deniz Cem Önduygu, [Twitter](https://x.com/denizcemonduygu), [Webpage](https://www.denizcemonduygu.com/)
