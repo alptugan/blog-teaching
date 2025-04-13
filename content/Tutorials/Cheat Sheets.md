@@ -66,6 +66,15 @@ cat >> FILE_NAME
 caffeinate -dis
 ```
 
+
+### cp
+```bash
+# copy .obsidian folder content into the new_folder_name folder
+cp -R /Users/alptugan/Documents/Obsidian/.obsidian /Users/alptugan/Documents/DEVS/dotFiles/new_folder_name
+
+# copy .obsidian folder as it is into the destination
+cp -R /Users/alptugan/Documents/Obsidian/.obsidian /Users/alptugan/Documents/DEVS/dotFiles/
+```
 ### curl
 https://www.youtube.com/watch?v=BuEYquQweGo
 

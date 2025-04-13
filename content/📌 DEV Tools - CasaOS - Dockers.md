@@ -26,6 +26,13 @@ Guacamole
 
 ## SWC
 [source](https://swc.rs/) SWC is an extensible Rust-based platform for the next generation of fast developer tools. SWC is **20x faster than Babel** on a single thread and **70x faster** on four cores.
+
+## Puppeteer
+[Puppeteer: JavaScript API for Chrome and Firefox](https://github.com/puppeteer/puppeteer)  Puppeteer runs in the headless (no visible UI) by default
+
+[Browserless: The headless Chrome/Chromium driver on top of Puppeteer.](https://github.com/microlinkhq/browserless?tab=readme-ov-file)  The headless Chrome/Chromium driver on top of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
+
+
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
 [Pico](https://picocss.com/) ⭐️
@@ -35,6 +42,7 @@ Guacamole
 [cuicui](https://cuicui.day/) Copy/paste React component library.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
 ## JS Libraries
+[Anime.js](https://animejs.com/) JavaScript Animation Engine
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
 [Swiper Gallery](https://swiperjs.com/) Touch enabled slideshow

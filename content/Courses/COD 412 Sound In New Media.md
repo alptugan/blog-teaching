@@ -110,8 +110,49 @@ In class practice
 	- [Coding the Party : Algorave - YouTube](https://www.youtube.com/watch?v=BcbsDcZ9k-A)
 	- [Kindohm Live @ ICLC 2016, Hamilton, Ontario - YouTube](https://www.youtube.com/watch?v=smQOiFt8e4Q)
 	- [Joint Breakcore Live Coding \| Tidal Cycles - YouTube](https://www.youtube.com/watch?v=XYe8AKYPUYc)
-### Week 7 -  Sound Ecology
+### Week 7 -  Acoustic Ecology
 [Doğayı dinlemek: Ağaçların sesini duyabilir miyiz? I "Burada hayat var" - YouTube](https://www.youtube.com/watch?v=aRogAZbu8FU)
+### Week 8 - Holiday
+
+### Week 9 - Soundscape Ecology
+#### **Soundscape Ecology Project: Campus Soundscapes**  
+##### **Project Overview**  
+In this assignment, you will explore **soundscape ecology**, the study of how sounds shape our environment. You will record a **30-second (minimum) audio clip** from a location on campus, document its context, and analyze the soundscape using key acoustic ecology concepts.  
+##### **Assignment Requirements**  
+
+###### **1. Field Recording (30+ seconds)**  
+- Record a **minimum of 30 seconds** of uninterrupted sound on campus.  
+- Use a **smartphone** (voice memo app) or a **professional recorder** (Zoom, Tascam, etc.).  
+- Avoid excessive wind noise or handling sounds.  
+
+###### **2. Documentation (Submit with Recording)**  
+- **Date & time** of recording  
+- **Exact location** (GPS coordinates or descriptive landmark)  
+- **Photo of the recording spot** (showing the environment)  
+- **Short description** of the setting (e.g., "Near the shuttle area, midday with light foot/vehicle traffic")  
+
+###### **3. Soundscape Analysis**  
+Categorize the sounds in your recording using **R. Murray Schafer’s soundscape taxonomy**:  
+- **Biophonic** (biological sources: birds, insects, animals)  
+- **Geophonic** (natural non-living sources: wind, water, rain)  
+- **Anthropophonic** (human-made sounds: voices, machines, footsteps)  
+- **Soundmark** (unique sound that identifies a place, e.g., a campus bell)  
+- **Keynote Sound** (background sound that defines the space, e.g., distant traffic)  
+- **Sound Signal** (foreground sounds that demand attention, e.g., a shout, siren)  
+
+**Write a 250-500 word analysis** addressing:  
+- Which categories dominate your recording?  
+- How do these sounds shape the identity of the space?  
+- What does this soundscape reveal about human-nature interactions on campus?  
+
+---
+#### **Submission Format**  
+- **Audio file** (.mp3, .wav, or .aiff)  
+- **Documentation sheet** (PDF with photo, location, date/time, description)  
+- **Written analysis** (PDF or embedded in documentation)  
+
+
+
 ## Watch List
 [First Techno (Kraftwerk, 1970)](https://www.youtube.com/watch?v=hWUiLJnEYJI)
 This concert at the "carussel of the youth" from 1970 is the earliest existing concert video of these electronic pioneers. The band was just created this year and could be seen in the original setup.

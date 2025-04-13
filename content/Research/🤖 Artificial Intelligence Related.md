@@ -1,7 +1,6 @@
 ---
 title: Artificial Intelligence Related
 date: 2025-01-31
-modification date: Friday 31st January 2025 18:25:52
 description: 
 tags:
   - AI

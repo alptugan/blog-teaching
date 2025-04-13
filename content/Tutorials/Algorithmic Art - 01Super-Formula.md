@@ -187,3 +187,5 @@ _GENUARY 2025 –_. (n.d.). https://genuary.art/
 _HOW DID GENUARY? – GENUARY 2021_. (n.d.). https://genuary2021.github.io/story
 
 (_P5Js Web Site_, n.d.) - https://p5js.org/about/
+
+[Reading Math Papers - by Xor - GM Shaders](https://mini.gmshaders.com/p/readingmath?publication_id=1247585&post_id=159574255&isFreemail=true&r=fnqk4&triedRedirect=true)

@@ -249,7 +249,24 @@ Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14c
 Holiday
 
 ## week 10
+#### 2025-2026
+Load a CSV dataset and create a **static** data visualization that reveals interesting patterns, comparisons, or distributions. Your visualization should be visually engaging and thoughtfully designed. Do not forget to include a legend in your design.
 
+**Inspiration:** Look at [Information is Beautiful](https://informationisbeautiful.net/) for creative static visualizations!
+
+##### Suggested Datasets (or find your own):
+- [Weather Data](https://www.kaggle.com/datasets) (temperature, rainfall by city)
+- [Movie Ratings](https://www.kaggle.com/datasets) (scores, genres, budgets)
+- [Sports Stats](https://www.kaggle.com/datasets) (player performance over time)
+- [Social Data](https://www.kaggle.com/datasets) (population, income, education)
+    
+##### Submission Guidelines:
+- Submit p5JS link
+- Submit source code as a zip file.
+
+##### Moodboard & Final Project Proposal Submission Guideline:
+- Submit your mood board as a separate JPG file.
+- If you have already had a specific idea about the final project, you must prepare a document, diagram, illustration, or anything that visualizes your project to help us understand the details.
 
 ## week 11
 Project Proposal Submission

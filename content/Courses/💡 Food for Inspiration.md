@@ -113,10 +113,11 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ### p5JS Libraries
 - P5js OSC library to communicate with Processing, [p5js_osc](https://github.com/golanlevin/p5js_osc_2024)
 - Single line fonts to achieve plotter typography, [p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources?tab=readme-ov-file)
-- [p5.scaler](https://github.com/Morfologia-digital/p5.scaler) Scales the p5JS canvas proportionally to fit inside browser window size.
-- [p5.animS](https://wixette.github.io/p5.animS/#examples) p5.animS is a library that animates [p5.js](https://p5js.org/) shapes by rendering their drawing processes. It can be useful for teaching trigonometry...
+- ↕️ [p5.scaler](https://github.com/Morfologia-digital/p5.scaler) Scales the p5JS canvas proportionally to fit inside browser window size.
+- 🤹 [p5.animS](https://wixette.github.io/p5.animS/#examples) p5.animS is a library that animates [p5.js](https://p5js.org/) shapes by rendering their drawing processes. It can be useful for teaching trigonometry...
 - 🎥 [p5.capture](https://github.com/tapioca24/p5.capture) Frame by frame p5JS sketch recorder in video, GIF, or sequence of images format.
-- 🖼️ [p5.Snap](https://zachkrall.github.io/p5snap/) A command line tool for creating snapshots of p5 sketches. 
+- 🎥 [p5-video-exporter](https://github.com/kylemcdonald/p5-video-exporter) A tool to export p5.js sketches as videos using Puppeteer and ffmpeg.
+- 🖼️ [p5.Snap](https://zachkrall.github.io/p5snap/) A command line tool for creating snapshots, screenshot of p5 sketches. 
 - 🖼️ ⭐️ [p5.FIP](https://prontopablo.github.io/p5.FIP/)  p5.FIP is a library that allows you to add image processing/post-processing effects to your p5.js sketch. In 5 lines of code you can add effects like bloom, glitching, cartoon shading and many more.
 - 🖼️  [Diorama 3D](https://dev.codemotionkids.com/libraries/diorama/docs/) Uses Three.js as a wrapper for p5js in 3D space. Check also the documentation [link](https://dev.codemotionkids.com/libraries/diorama/docs/global.html). It supports post fx, but not all of the post fx options present in the library. [p5js examples](https://editor.p5js.org/MassimoAvvisati/collections/2laScvB97) collection is available as well.
 - 🔁 [p5.createLoop](https://www.npmjs.com/package/p5.createloop) Create animation loops with noise and GIF exports in one line of code.
@@ -124,10 +125,10 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - 🕹️ [p5.joystick.js](https://github.com/Vamoss/p5.joystick) The **p5.joystick** library aims to facilitate integration with physical Joysticks.It also has an easy calibration system, allowing you to configure different types of joysticks with the standard button format.
 - 🎹 [webmidi](https://github.com/djipco/webmidi) Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.).
 - 👯 [p5.party](https://github.com/jbakse/p5.party) p5.party is a library for easily creating online multi-user sketches with p5.js. With p5.party you can quickly prototype ideas for multiplayer games, real-time multi-user apps, and multi-computer art projects.
-- [p5.riso](https://github.com/antiboredom/p5.riso) A p5js library for risograph printing by Sam Lavigne and Tega Brain.
-- [p5.gif](https://github.com/antiboredom/p5.gif.js/tree/master) p5.gif.js is a library that let's you play animated gifs in p5.js sketches. You load a gif by calling `loadGif('something.gif')` and then can display it using p5's built in `image()` function. 
+- 🖨️ [p5.riso](https://github.com/antiboredom/p5.riso) A p5js library for risograph printing by Sam Lavigne and Tega Brain.
+- 👾 [p5.gif](https://github.com/antiboredom/p5.gif.js/tree/master) p5.gif.js is a library that let's you play animated gifs in p5.js sketches. You load a gif by calling `loadGif('something.gif')` and then can display it using p5's built in `image()` function. 
 - 🗣️ [p5.Speech](https://idmnyu.github.io/p5.js-speech/) Speech synthesis and recognition for p5.js
-- [p5.mapper](https://github.com/jdeboi/p5.mapper/) library for projection mapping with p5.js.
+- 📽️ [p5.mapper](https://github.com/jdeboi/p5.mapper/) library for projection mapping with p5.js.
 
 ### Other JS Libraries
 - Face-Api is built upon TensorflowJs to accurately detect face and expression, [face-api](https://github.com/justadudewhohacks/face-api.js)
