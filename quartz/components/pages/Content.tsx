@@ -10,7 +10,7 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
     const match = wikilinkRegex.exec(banner);
     if (match) {
       const filename = match[1] as string;
-      let imagePath = "/assets/covers/" + filename;
+      let imagePath = "../assets/covers/" + filename;
       bannerElement = <img src={imagePath} alt="Banner" style={{ width: "100%" }} className="cover-image" />;
     }
   }
