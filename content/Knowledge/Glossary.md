@@ -1,5 +1,5 @@
 ---
-banner: "[[Glossary-cover.jpg]]"
+banner: "[[blog-teaching/content/assets/covers/Glossary-cover.jpg]]"
 title: Glossary
 date: 2025-03-11T15:43:00
 description: 
