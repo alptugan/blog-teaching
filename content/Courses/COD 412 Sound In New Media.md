@@ -151,6 +151,14 @@ Categorize the sounds in your recording using **R. Murray Schafer’s soundscape
 - **Documentation sheet** (PDF with photo, location, date/time, description)  
 - **Written analysis** (PDF or embedded in documentation)  
 
+### Week 10 - Final Project Notes
+**İris Yılmazer:** Rhino - Audiovisual
+**Bera Doğan:** Wearables
+**Zeynep Özer:** Acoustic/Soundscape Ecology based musical composition.
+**Okan Bilici:** Live-coding Performance - Live Guitar 
+**Esra Yücetürk:** TD - Pointcloud - Mekan Müziği - Sonic Pi
+**Asya Korkmaz:** 
+
 
 
 ## Watch List

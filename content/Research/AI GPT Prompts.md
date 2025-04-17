@@ -21,6 +21,17 @@ In the final step, instruct the GPT to polish the response one more time.
 > Now take your previous answer to Level 3. Give me the most comprehensive answer.
 
 
+## Gemini + Notebook LM
+Reference [video](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
+**Visualize the document**
+- Goto Gemini (model 2.5 Pro experimental)
+- Upload the document
+- Can you summarize this [type, e.g. patent] document about [context, e.g. AI Overviews Generation] and visualize the key process with details using a dark color scheme design?
+
+**Add interactivity to Visualization**
+- Goto Gemini (model Deep Research)
+- Upload the document
+- Can you turn this [type, e.g. patent] document into interactive infographics - visual data stories with hover-reveal details and embedded statistics?
 ## Prompt templates for specific purposes
 - [Top 10 ChatGPT prompts to learn anything 10 times faster](https://dly.to/Fk67ZyoPoJR)
 

@@ -18,8 +18,8 @@ draft: false
 3. 🐳 [[#Docker Basics]]
 4. 🎞️ [[#FFmpeg]]
 5. `CSS` [Tailwind](https://tailwindcss.504b.cc/)
-6. `git` [GitHub](https://github.com/Ayushparikh-code/Web-dev-mini-projects) Clone Repo -> Add Branch -> Push -> Create Pull Request
-7. [[#Run docker container's command]]
+6. `git` [GitHub](https://github.com/Ayushparikh-code/Web-dev-mini-projects) Clone Repo -> Add Branch -> Push -> Create Pull Request, Another [GitHub](https://www.freecodecamp.org/news/git-cheat-sheet/) cheat sheet.
+7. [[#Raspberry Pi Related]]
 8. [[#Default Mac OS Paths]]
 9. [[#Troubleshooting]]
 
@@ -362,6 +362,13 @@ watch 'command_1 | command_2 | command_3'
 watch -n 1 nvidia-smi
 ```
 
+## Raspberry Pi Related
+```bash
+# Autostart application on desktop startup for Raspberry Pi 
+/etc/xdg/autostart/
+sudo nano starter.desktop
+```
+
 ## Docker Basics
 ```shell
 # List docker images
@@ -381,16 +388,19 @@ sudo systemctl restart docker
 ```
 
 [Documentation on basic usage](https://dev.to/meghasharmaaaa/dockerfile-explain-jd4) Blog-post on DEV site.
-#### Docker Locations File Paths
+### Docker Locations File Paths
 /etc/docker/daemon.json
 /var/lib/docker/containers → include casaos failed folders as well
 /var/lib/casaos/www → webpage location
 /var/lib/casaos/apps → docker-compose.yml
 
-```bash
-# Autostart application on desktop startup for Raspberry Pi 
-/etc/xdg/autostart/
-sudo nano starter.desktop
+### Run docker container's command
+```shell
+# Go to .ssh/ folder 
+# edit the config file as follows
+Host ssh-filika.damp-server.org
+#  ProxyCommand /usr/local/etc/cloudflared access ssh --hostname %h
+ProxyCommand docker exec -i cloudflared cloudflared access ssh --hostname %h
 ```
 
 #### NVIDIA Encoding/Decoding codecs → [link](https://developer.nvidia.com/video-encode-and-decode-gpu-support-matrix-new)
@@ -437,14 +447,6 @@ I generated these keys on my local machine
 .ssh/id_rsa  → the private key
 .ssh/id_rsa.pub  → public key
 https://www.youtube.com/watch?v=_FXyQso1H50 (guacamole)
-### Run docker container's command
-```shell
-# Go to .ssh/ folder 
-# edit the config file as follows
-Host ssh-filika.damp-server.org
-#  ProxyCommand /usr/local/etc/cloudflared access ssh --hostname %h
-ProxyCommand docker exec -i cloudflared cloudflared access ssh --hostname %h
-```
 
 ## Uninstall package on Debian
 ```

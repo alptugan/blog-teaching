@@ -1,5 +1,5 @@
 ---
-banner: Assets/covers/cover_coding.png
+banner: "[[cover_coding.png]]"
 title: COD 207 Creative Coding Selected Assignments
 date: 2024-10-10
 modification date: 2025-03-07T19:50:00
@@ -502,7 +502,7 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Aysu Bayramova](https://openprocessing.org/sketch/2117941)
 
 ---
-[Darya_Mahcup-MCD - OpenProcessing](https://openprocessing.org/sketch/1873962
+[Darya_Mahcup-MCD - OpenProcessing](https://openprocessing.org/sketch/1873962)
 [Izel_Ergul-data - OpenProcessing](https://openprocessing.org/sketch/1873964)
 [Tutku_Calis-Lifetime Exp. Data - OpenProcessing](https://openprocessing.org/sketch/1873965)
 
@@ -544,25 +544,32 @@ Face tracking
 [https://openprocessing.org/sketch/2182897](https://openprocessing.org/sketch/2182897)
 [https://openprocessing.org/sketch/2182726](https://openprocessing.org/sketch/2182726)
 
+### Week07 AB (Cod 208) - 
+### Week 09 AB (Cod 208) - Data Visualization
+[Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/W42CMimb-) - Inflation Rates
+[Bahar Kızılkaya](https://editor.p5js.org/bahar.kizilkaya/sketches/XRimJQLkI) - Weather
+[Ecem Filik](https://openprocessing.org/sketch/2612671) - Music Genres
+[Maye Caferzade](https://editor.p5js.org/mayecaferzade/sketches/xelhrqmTF) - Taylor Swift Songs ⭐
+[Ilgın Onur](https://editor.p5js.org/ilginonur/full/Ron5szdW5)
+[İris](https://editor.p5js.org/iriseryilmaz/sketches/Iz11YUWv2) - Women Femicide ⭐
+[Cansu Özbek](https://openprocessing.org/sketch/2615241)
+[İdil Akan](https://editor.p5js.org/idil.akan/sketches/phWcCNEg9) ⭐
+[Lal Kara](https://editor.p5js.org/lallkara/sketches/ZdcEgV__9) 
+[Lana Jamal](https://editor.p5js.org/lana.jamal/sketches/M7MtfHlSR)
+[Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/T8sZYnX74) ⭐
 
 ## Survey Links
-[ALAP 01](https://forms.gle/zuEhVVwCtE1dU6gw8)
-[ALAP 02](https://forms.gle/LrbNpVxTSz81f3VG9)
-[ALAP 03](https://forms.gle/puDAriKcbet3idYQ9)
-[ALAP 04](https://forms.gle/qDF7nCJFJK4Ue1Kp9)
-[ALAP 05](https://forms.gle/W3ir9nTK5Ke8rd878)
-[ALAP 06](https://forms.gle/JQRTRFQjb2UekBev5)
-[ALAP 07](https://forms.gle/wRPdML8pCxLv1azi7)
-[ALAP 08](https://forms.gle/L2zXqaVoPBVKnh1e6)
-[ALAP 09](https://forms.gle/DFCUUo7NsBsSLjZv6)
-[ALAP 10](https://forms.gle/1etSjiQST6FGVM217)
-[ALAP 11](https://forms.gle/1m6gaEj3cPqdXUfK8)
-[ALAP 12](https://forms.gle/RgfNauJyPe5sKewM7)
-
----
-
-
-
-
-
-
+There are 12 different artworks chosen from the ALAP database. Each survey includes a different algorithmic artwork. In a nutshell, you are expected to Each question has 18 different categories a
+>[!TIP]- Click to reveal links to survey questions
+> [ALAP 01](https://forms.gle/zuEhVVwCtE1dU6gw8)
+> [ALAP 02](https://forms.gle/LrbNpVxTSz81f3VG9)
+> [ALAP 03](https://forms.gle/puDAriKcbet3idYQ9)
+> [ALAP 04](https://forms.gle/qDF7nCJFJK4Ue1Kp9)
+> [ALAP 05](https://forms.gle/W3ir9nTK5Ke8rd878)
+> [ALAP 06](https://forms.gle/JQRTRFQjb2UekBev5)
+> [ALAP 07](https://forms.gle/wRPdML8pCxLv1azi7)
+> [ALAP 08](https://forms.gle/L2zXqaVoPBVKnh1e6)
+> [ALAP 09](https://forms.gle/DFCUUo7NsBsSLjZv6)
+> [ALAP 10](https://forms.gle/1etSjiQST6FGVM217)
+> [ALAP 11](https://forms.gle/1m6gaEj3cPqdXUfK8)
+> [ALAP 12](https://forms.gle/RgfNauJyPe5sKewM7)
