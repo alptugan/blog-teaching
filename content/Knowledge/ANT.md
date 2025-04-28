@@ -9,6 +9,13 @@ tags:
 aliases: 
 draft: false
 ---
+## What is ANT?
+Actor-Network Theory is a theoretical and methodological approach proposes that everything in the social and natural worlds are in reciprocal relationship with each other. There are several networks of human and non-human actors. Each actor may have its own network of actors. 
+
+Actors in the network have specific roles with different interests. The main difference of ANT approach is; it takes for granted non-living actors in the network as social. This notion extends the meaning of social in another perspective that can be considered as logical in terms of the interlink between humans and technological tools today.
+
+---
+
 Actor–network theory (ANT) is rooted in science and technology studies. As a **method** for in-depth research it has now been used in other areas of science as well. ANT focuses on the connections that are being made and remade between human and non-human entities that are part of the issue at stake.
 
 >==Thus inherent to ANT is a move away from the idea that technology impacts on humans as an external force, to the view that technology emerged from social interests (e.g. economic, professional) and that it thus has the potential to shape social interactions== 

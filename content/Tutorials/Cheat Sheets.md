@@ -626,14 +626,31 @@ If you have a `~/bin` directory, just put it there and it will work for your u
 > [!NOTE]- Custom Services created via Automator App
 > /Users/alptugan/Library/Services/Convert PNG Sequence to Video.workflow
 
-System Frameworks `/System/Library/Frameworks/`
+System Frameworks
+`/System/Library/Frameworks/`
+
 M2 Pro - Frameworks `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks`
-SuperCollider → Extensions `/Users/username/Library/Application Support/SuperCollider/Extensions`
-Autorun Items → RunAtLoad to false `/Library/LaunchAgents`, `/Library/LaunchDaemons/`, `/Library/PrivilegedHelperTools/`
-$PATH variable `/private/etc/paths.d`
-M2 Pro zbash location `sudo nano ~/.zshrc then type source ~/.zshrc`
-Brew `/opt/homebrew/bin`
-Android SDK `/Users/username/Library/Android/sdk`
+
+SuperCollider → Extensions 
+`/Users/username/Library/Application Support/SuperCollider/Extensions`
+
+Auto run Items → RunAtLoad to false 
+`/Library/LaunchAgents`
+`/Library/LaunchDaemons/`
+`/Library/PrivilegedHelperTools/`
+
+$PATH variable
+`/private/etc/paths.d`
+
+M2 Pro zbash location 
+`sudo nano ~/.zshrc then type source ~/.zshrc`
+
+Brew 
+`/opt/homebrew/bin`
+
+Android SDK
+`/Users/username/Library/Android/sdk`
+
 Disable Gate Keeper app on mac. Settings→Security & Privacy 
 ```shell
 # Disable: 

@@ -13,10 +13,12 @@ draft: false
 ## 1. Introduction
 The following post summarizes the available hand-picked community plug-ins on Obsidian note taking app. The following plug-ins are considered as publishing one's markdown notes as a [digital garden](https://maggieappleton.com/garden-history). A digital garden is, in the most basic sense, a website where one publishes articles, texts, or daily notes. In short, it is the evolved version of 90s blogs such as blogspot by Google. 
 
-So why such a new term emerged? As a response, language constantly adapts to our changing environment—we enrich it when existing words can't fully express what we see or when we want to shape the future in a certain way. Choosing names carries both artistic and political significance.
+So why such a new term emerged? As a response, language constantly adapts to our changing environment—we enrich it when existing words can't fully express what we see or when we want to shape the future in a certain way. Choosing names carries both artistic and political significance. 
 
 > [!quote] The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another. 
 > *Caufield ([[Obsidian - Publishing Content#^caulfield|ref]])*
+
+Rather than 90s timeline based linear content generation, digital garden depends on context based and constantly evolving approach. Suppose that it is a garden in real-life. You put the seed in the soil, the seed becomes a flower when you periodically feed the soil with relevant ingredients.
 
 If you are looking for synching notes on your different devices via Obsidian, you can refer to [[Obsidian - Self-hosted LiveSync Setup on Docker | Self-hosted Livesync]] post.
 
@@ -64,4 +66,5 @@ The following plugins are reviewed as a solution for quick and temporary content
 - [The Navigation Problem in the World-Wide-Web \| SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-55991-4_31)
 - [The Garden and the Stream: A Technopastoral – Hapgood](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)^caulfield
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [How to set up your own digital garden - Ness Labs](https://nesslabs.com/digital-garden-set-up)
 

@@ -1,7 +1,6 @@
 ---
 title: Slidev - Setup and Run
 date: 2025-02-17T02:00:00
-modification date: Monday 17th February 2025 16:23:04
 description: 
 tags:
   - presentation

@@ -56,6 +56,7 @@ Guacamole
 [W-GL](https://github.com/anvaka/w-gl/tree/master) It was mostly inspired by [WebGL Insights](http://www.webglinsights.com/) book, and ~~is not really meant to be a reusable library~~ I use it for most of my 2D and 3D webgl rendering. I should probably document this more.
 [City Maps](https://github.com/anvaka/city-script?tab=readme-ov-file)  #creativecoding 
 [Skia Canvas](https://github.com/samizdatco/skia-canvas?tab=readme-ov-file) Something like a framework built upon node. Capable of creating native windows. As I understand, it aims to easing the process of graphical assets via node... But it can be used as creative coding framework.
+[Sourdough Toast](https://sourdough-toast.vercel.app/example) A plain JS toast notification for webpages inspired from [Sonner](https://sonner.emilkowal.ski/) which is built upon React.
 
 ## Markdown
 - [Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.

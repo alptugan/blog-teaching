@@ -119,9 +119,13 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 > In order to make it work over WAN, it may require to edit the ini file
 
 ### AI
-[Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
+- [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
 
-[Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
+- [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
+
+- obsidian://show-plugin?id=media-companion - Gallery viewer, it can help me to compare images, it supports search images based on color
+
+- [obsidian-companion: Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.](https://github.com/rizerphe/obsidian-companion)
 
 ### Dataview
 [Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)

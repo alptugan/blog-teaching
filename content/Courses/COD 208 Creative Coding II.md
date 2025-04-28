@@ -307,6 +307,21 @@ Check the following page ([[REST API#Free Restful API list|List of Free Rest API
 # Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
+  
+
+GRADING Policy
+
+As it is declared in the course syllabus, your final project has 30% weight on your final grade. You will be graded according to the following criteria;
+
+| Description                         | Points      |
+| ----------------------------------- | ----------- |
+| Detailed Comments in the Code       | 20 PTS      |
+| Use of Variables                    | 20 PTS      |
+| Aesthetics, Design Balance, Context | 20 PTS      |
+| Project Document                    | 20 PTS      |
+| Presentation                        | 20 PTS      |
+| **TOTAL**                           | **100 PTS** |
+
 🧠 You are free to propose any project idea as long as it includes programming. 
 
 If you need a topic or theme, you can utilize one of the following concepts;
