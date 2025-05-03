@@ -367,7 +367,10 @@ Central to my practice is consideration of my audience, and I find no greater jo
 [Bounce2](https://github.com/thomasfredericks/Bounce2) Library to handle push button debouncing issues on Arduino
 
 [WiFiEspAT](https://github.com/JAndrassy/WiFiEspAT) This library creates standard Arduino WiFi networking API over ESP8266 or ESP32 AT commands.
+
 [Pyespargos](https://github.com/ESPARGOS/pyespargos) The python library for working with the ESPARGOS WiFi channel sounder.
+
+[RTC](https://github.com/cvmanjoo/RTC)  A Simple Library for Arduino I2C RTCs.
 
 [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) Serial Studio is a multi-platform, versatile data visualization tool designed for embedded engineers, students, hackers, and teachers. It allows users to visualize, analyze, and represent data from their projects and devices without needing custom, project-specific visualization software.
 
@@ -375,19 +378,12 @@ Central to my practice is consideration of my audience, and I find no greater jo
 
 ## Tutorials
 - Hardware, software and internal debounce techniques on an Arduino or a Raspberry Pi, [forum post](https://www.gammon.com.au/forum/?id=11955)
-- Touch Designer beginner tutorials, [youtube](https://www.youtube.com/playlist?list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
-- Touch Designer, point cloud, web cam, [youtube](https://www.youtube.com/watch?v=NnrWjQ_zO-s)
+- Navigate to [[TD - Research]] for TouchDesigner tutorials.
 
 ## Open Source Projects
 [Cine Pi](https://github.com/schoolpost/CinePI) OpenSource Cinema Camera using Raspberry Pi.
 
 [RPI Timelapse Controller](https://github.com/Daandelange/rpi-timelapse-controller) Bash script for capturing time lapses using gphoto2, lsusb and wiringPi to control a light trough GPIO.
-
-## Inspiration
-[Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
-[Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing
-[Imogen Heap](https://www.youtube.com/watch?v=6btFObRRD9k) Wearable music technologies
-[MEMO, Web Cam Piano](https://vimeo.com/13938077) 
 
 ---
 # 🎧 Music 
@@ -398,3 +394,9 @@ Central to my practice is consideration of my audience, and I find no greater jo
 [UNCUT.wtf](https://uncut.wtf/) Free fonts, alternative to Google Fonts, DaFont, etc...
 [Free Faces](https://www.freefaces.gallery/) Similar to the UNCUT.wtf...
 [Fontshare: Quality Fonts. Free.](https://fontshare.com/) Better UX for font discovery. You can preview the text with selected font in real-time.
+
+# ✳️ Inspiration
+[Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
+[Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing
+[Imogen Heap](https://www.youtube.com/watch?v=6btFObRRD9k) Wearable music technologies
+[MEMO, Web Cam Piano](https://vimeo.com/13938077) 

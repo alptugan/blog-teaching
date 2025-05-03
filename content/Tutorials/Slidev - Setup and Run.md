@@ -4,6 +4,7 @@ date: 2025-02-17T02:00:00
 description: 
 tags:
   - presentation
+  - slidev
 aliases: 
 draft: false
 ---
@@ -36,9 +37,12 @@ pnpm create slidev
 # Run the installation again
 pnpm install
 
+```
+
+## Developing The Presentation
+```shell
 # Compile slidev
 pnpm run dev
-
 ```
 
 ## Publishing 

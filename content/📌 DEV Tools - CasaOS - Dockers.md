@@ -220,7 +220,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Mintlfy](https://github.com/mintlify/writer) Generate documentation by selecting code snippets.
 [Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
 [Plausible](https://github.com/plausible/analytics) Open-source analytics tool for web applications.
-[Dub](https://dub.co/) An open source link shortener.
+[Dub](https://dub.co/), [Link Shortener free](https://shorten.ly/) An open source link shortener.
 ## Documentation
 [Docz](https://www.docz.site/docs/getting-started)
 [docsify](https://docsify.js.org/#/) Generates documentation page via readme 

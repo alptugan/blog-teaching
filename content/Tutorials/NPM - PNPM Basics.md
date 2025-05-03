@@ -45,3 +45,15 @@ npm -v
 pnpm -v
 ```
 
+
+## PNPM Commands
+```shell
+# dlx is pnpm's equivalent of `npx` in npm
+# It allows you to run a package's CLI tool without installing it globally or adding it to your project's dependencies. It temporarily downloads and executes the specified CLI command
+pnpm dlx tailwindcss init
+```
+
+### Tailwind install
+```shell
+pnpm add -g tailwindcss
+```

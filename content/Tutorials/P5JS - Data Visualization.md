@@ -38,7 +38,50 @@ Conversely, <font color="#0070c0">data visualizations</font> employ attributes s
 > ![](https://www.denizcemonduygu.com/wp-content/uploads/2024/04/turkiye2024.jpg)
 > [[P5JS - Data Visualization#^Onduygu2024|Reference: Visualization of Türkiye's 2024 Local Elections]]
 
+## Sources & Tutorials
+1. [p5 js Working with Basic Data + CSV Files - YouTube](https://www.youtube.com/watch?v=y_UQdH3Zt2s) The easiest way to start reading data from remote URL. 
+2. [Week 06: Data Visualization \| Creative Coding Spring 2025 Online](https://awcuny.github.io/creative_coding_sp25/week6) Check the **Helpful Resources** and  **Coding Examples** sections.
+3. [Data Visualization - YouTube](https://www.youtube.com/watch?v=qZ2toGfv7ZQ) A walk through on how to find free data sources such as governmental web sites, etc...
+4. [Habit Tracker Visualization by Pat Vitra](https://www.youtube.com/watch?v=mQ4Cst7o4Ek)
+5. [loadTable Documentation on P5JS Website](https://p5js.org/reference/p5/loadTable/)
+6. [The Data Garden Collective](https://www.data-garden.co/#spotlight) 
+
+
+## Showcase From Students
+Check the following works as well to exemplify the types of projects related to individual stories about data. You'll find projects inspired by personal experiences, global data sets, and everything in between. Some visualize daily habits, others bring music to life through code, as our students learn to translate complex information into beautiful graphics.
+
+> [!blank-container|float-center] 
+> ![[data-stroytelling.png]]
+> Participants' data visualizations, [The Data Garden Collective](https://www.data-garden.co/gallery)
+
+
+> [!blank-container|float-center] 
+> ![[datavis-fatma-imran.jpeg]]
+> Fatma İmran, [Link to p5JS code](https://editor.p5js.org/alptugan/sketches/88TcKT0j5)
+
+> [!blank-container|float-center] 
+![[datavis-kubra-botanci-books-2.jpeg]]
+> [datavis casestudy Books by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/VBQghqFSH), Books
+
+> [!blank|float-center]
+> ![[datavis-tutku-calis-lifetime.jpeg]]
+> Life time expiration by Tutku Çalış, [datavis-lifetime-case-3 by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/jBOFIpNq1)
+
+> [!blank|float-center]
+> ![[datavis-darya-mahcup-mcdonals.jpeg]]
+> McDonals Data by Darya Mahçup, [datavis-mcdonals-case 4](https://editor.p5js.org/alptugan/sketches/fr76xS-9B)
+
+
+> [!blank|float-center]
+> ![[cat-breeds.jpeg]]
+> Cat Breeds by Melis, [p5.js Web Editor \| datavis-melis-cat-creeds-case 5](https://editor.p5js.org/alptugan/sketches/d89_fe6ru)
+
+
 ## Case Study
+### Data Story-Telling
+[The Data Garden Collective](https://www.data-garden.co/#spotlight) specifically focused on visualizing any kind of data depending on personal interests. More information about the syllabus of the The Data Garden can be accessed via the [link](https://data-garden.notion.site/e0b62f695c5944cabd9ffd858f697405?v=a66b85d94e4e495e97526f23c6eafccf)
+
+### Processing the Collected Data
 1. Find or create a table of data using Microsoft Excel or Google Sheets. [Starwars Characters - starwars_characters.csv](https://docs.google.com/spreadsheets/d/1yhAPaLPPWtN-k0Y0Qshq8HJQ7HIAMPHd6KVIKKi7SNc/edit?gid=1033929183#gid=1033929183)
 2. Export the data as `.csv` file.
 3. Use one of the examples provided at [[#Sources & Tutorials]] section to start visualize the data you gathered.
@@ -92,37 +135,6 @@ function draw() {
 
 ```
 
-## Sources & Tutorials
-1. [p5 js Working with Basic Data + CSV Files - YouTube](https://www.youtube.com/watch?v=y_UQdH3Zt2s) The easiest way to start reading data from remote URL. 
-2. [Week 06: Data Visualization \| Creative Coding Spring 2025 Online](https://awcuny.github.io/creative_coding_sp25/week6) Check the **Helpful Resources** and  **Coding Examples** sections.
-3. [Data Visualization - YouTube](https://www.youtube.com/watch?v=qZ2toGfv7ZQ) A walk through on how to find free data sources such as governmental web sites, etc...
-4. [Habit Tracker Visualization by Pat Vitra](https://www.youtube.com/watch?v=mQ4Cst7o4Ek)
-5. [loadTable Documentation on P5JS Website](https://p5js.org/reference/p5/loadTable/)
-
-
-## Showcase From Students
-> [!blank-container|float-center] 
-> ![[datavis-fatma-imran.jpeg]]
-> Fatma İmran, [Link to p5JS code](https://editor.p5js.org/alptugan/sketches/88TcKT0j5)
-
-> [!blank-container|float-center] 
-![[datavis-kubra-botanci-books-2.jpeg]]
-> [datavis casestudy Books by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/VBQghqFSH), Books
-
-> [!blank|float-center]
-> ![[datavis-tutku-calis-lifetime.jpeg]]
-> Life time expiration by Tutku Çalış, [datavis-lifetime-case-3 by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/jBOFIpNq1)
-
-> [!blank|float-center]
-> ![[datavis-darya-mahcup-mcdonals.jpeg]]
-> McDonals Data by Darya Mahçup, [datavis-mcdonals-case 4](https://editor.p5js.org/alptugan/sketches/fr76xS-9B)
-
-
-> [!blank|float-center]
-> ![[cat-breeds.jpeg]]
-> Cat Breeds by Melis, [p5.js Web Editor \| datavis-melis-cat-creeds-case 5](https://editor.p5js.org/alptugan/sketches/d89_fe6ru)
-
-
 ## References
 Deniz Cem Önduygu, [Twitter](https://x.com/denizcemonduygu), [Webpage](https://www.denizcemonduygu.com/)
 
@@ -135,4 +147,6 @@ xÖnduygu, D. C. (2018). [History of Philosophy Updated - Deniz Cem Önduygu](ht
 Önduygu, D. C. (2019). [My 2008–2018 in Music - Deniz Cem Önduygu](https://www.denizcemonduygu.com/2019/02/my-2008-2018-in-music/)^Onduygu2019
 
 Önduygu, D. C. (2024). [2024 Yerel Seçimi: Nasıl Görselleştirmeli? - Deniz Cem Önduygu](https://www.denizcemonduygu.com/2024/04/2024-yerel-secimi-nasil-gorsellestirmeli/)^Onduygu2024
+
+Joanne Amarisa and Data Garden Project, “Module 1 Intro to Creative Coding with p5js”, (Google Slides), September 30, 2023.
 

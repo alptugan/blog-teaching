@@ -24,4 +24,7 @@ draft: true
 - [ ] #task #icns-creator/debug Error.log tutma işini düşünelim.
 - [ ] #task #icns-creator Optional: A workaround for testing, and permissions. Test the app on a fresh Mac.
 - [ ] #icns-creator Optional: Distrubute image conversion process into different CPU threads. It is a possible fix to avoid locking main thread during the icns creation process.
+- [ ] #task #icns-creator add background color fill as an additional option for the upcoming releases. Issue [11](https://github.com/alptugan/icns-creator/issues/11)
+- [ ] #task #icns-creator open folder path after the generation completed.
+- [ ] #task #icns-creator About penceresi açıldığında 2024 yazıyor.
 - [x] Save file as dialog update.
