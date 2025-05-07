@@ -1,5 +1,5 @@
 ---
-title: 📌 DEV Tools - CasaOS - Dockers
+title: 📌 DEV Tools
 draft: true
 tags:
   - docker
@@ -7,6 +7,8 @@ tags:
   - webdev
 date: 2025-03-19T12:00:00
 ---
+# Tutorials & Certificate Programs
+[X link](https://x.com/swapnakpanda/status/1900190925835690357) Variety of courses available from top rank universities.
 # Remote Open Source Alternatives
 https://www.youtube.com/watch?v=DZ0Ocwga43w
 [Mesh Central](https://meshcentral.com/downloads.html) vs. RustDesk

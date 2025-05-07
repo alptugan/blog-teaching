@@ -31,9 +31,30 @@ The following post includes online development tools for productivity frequently
 [LiveGap](https://charts.livegap.com/) Online Chart & Graph Maker. Provides creating and exporting animated videos of the graphs.
 
 ## Design
+⭐️ [Discover Best Web Design Tools in The Internet](https://bestwebdesigntools.com/)
+
 [Colour Contrast Checker](https://colourcontrast.cc/?background=1e1e1e&foreground=facd17) Check the contrast between different color combinations against WCAG standards.
 
 [Mixkit](https://mixkit.co/) Awesome free assets for your next video project.
+
+[Items.Design](https://items.design/category/free) Quality Design Assets For Free including only images and app icon like files.
+
+[Lummi — Free AI Stock Images, Illustrations & 3D](https://www.lummi.ai/)
+
+[Grainient](https://grainient.supply/freebies) Gradient backgrounds.
+
+framer.com - website builder
+
+[Supahero](https://www.supahero.io/) Website hero section library.
+
+[Shots](https://shots.so/) Create Amazing Mockups. Apple focused mockups like, desktop, iPhone and browser.
+
+[Mockuply](https://mockuply.pro/) Paid mockups. Can be used as inspiration.
+
+[ContentCore](https://contentcore.xyz/) 3D mockups, free tier.
+
+[UNCUT.wtf](https://uncut.wtf/) Free stylish modern fonts.
+
 
 ## File Sharing
 [Send large files up to 5GB for free](https://transfer.pcloud.com/) A file sharing system alternative to wetransfer.

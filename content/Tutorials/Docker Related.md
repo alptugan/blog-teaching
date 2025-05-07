@@ -10,7 +10,10 @@ draft: false
 ---
 
 # Docker Compose
-## Self-hosted Photo Management
+## Dashboard Apps
+[Glanceapp](https://github.com/glanceapp/docker-compose-template/blob/main/root/docker-compose.yml)
+
+## Photo Management
 [Ente](https://github.com/ente-io/ente/blob/main/server/compose.yaml) 
 [Memories](https://github.com/pulsejet/memories) Nextcloud based app
 [Nextcloud Photos](https://github.com/nextcloud/photos/)  Nextcloud

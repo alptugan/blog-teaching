@@ -12,11 +12,15 @@ draft: false
 ---
 This tutorial presents how to add custom commands based on shell scripts to the Mac OS Finder context menu. The example script creates an `.mp4` video from provided sequence of images. Image names must be formatted as `0000000.png`, `0000001.png`, `0000002.png`, so on.
 
-1. Open Automator -> Create "New Document" -> Select "Quick Action"
-2. Configure workflow settings:
+1. **Open Automator -> Create "New Document" -> Select "Quick Action"**
+![[macos_context-menu02.png]]
+
+2. **Configure workflow settings:**
     - Workflow receives: "folders"
     - in: "Finder"
-3. Add these actions in sequence:
+![[macos_context-menu03.png]]
+![[macos_context-menu01.png]]
+3. **Add these actions in sequence:**
     - First, add "Shell Script"
 ```bash
 #!/bin/bash

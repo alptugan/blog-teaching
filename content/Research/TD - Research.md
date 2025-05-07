@@ -13,3 +13,4 @@ draft: true
 - [Absolute Beginner TouchDesigner \| From Zero to Hero with Examples and Assignments - YouTube](https://www.youtube.com/watch?v=qbupHTeJCeU)
 - Touch Designer beginner tutorials, [youtube](https://www.youtube.com/playlist?list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
 - Touch Designer, point cloud, web cam, [youtube](https://www.youtube.com/watch?v=NnrWjQ_zO-s)
+- 3D Model load, display and animate using Shader Helper Tool, [yTube](https://www.youtube.com/watch?v=7ko8zgE5q3U)

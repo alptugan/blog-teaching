@@ -52,4 +52,6 @@ The results of that method causes too many issues in the long run. For instance 
 The lack of thepretical knowledge causes such problems. actually one needs to use a backup system like Git, or any other solution can avoid such loss of time.
 
 
-## 
+## Vibe Coding
+AI and LLMs are different topics. The terms sometimes are used instead of each other reciprocally by many people. LLMs are subset of AI generally. AI is a huge field of topic that covers many other technologies different than Large Language Models.
+[Thoughts on Vibe Coding - DEV Community](https://dev.to/wsvincent/thoughts-on-vibe-coding-2pn5)

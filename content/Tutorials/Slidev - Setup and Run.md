@@ -59,6 +59,11 @@ pnpm run build --base /Slidev_Presentations/week03_cod_208/dist/
 # before uploading to Github, open .gitignore file and remove <dist> folder line.
 ```
 
+## Exporting
+```shell
+# Export as pdf - if there are missing contents
+slidev export --wait 1000
+```
 
 ## Themes 
 - Academic Style Theme with tons of features [Neversink](https://github.com/gureckis/slidev-theme-neversink)

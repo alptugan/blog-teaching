@@ -22,66 +22,11 @@ Choose the `vanilla` template (not React/Vue/etc.) since you're using plain HTML
 
 ---
 
-### ✅ Step 2: Install Tailwind
+### ✅ Step 2: Install Packages
 
 ```bash
 pnpm add tailwindcss @tailwindcss/vite
 
-```
-
-This creates:
-
-- `tailwind.config.js`
-    
-- `postcss.config.js`
-    
-
----
-
-### ✅ Step 3: Configure Tailwind
-
-Update `tailwind.config.js`:
-
-```js
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: ["./index.html", "./src/**/*.{js,ts}"],
-  darkMode: 'class',
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-```
-
----
-
-### ✅ Step 4: Add Tailwind directives
-
-Create a CSS file at `src/style.css`:
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
----
-
-### ✅ Step 5: Use your HTML as `index.html`
-
-Copy your current HTML into `index.html`, but replace the external Tailwind and Lucide scripts with the Vite approach.
-
-#### Replace:
-
-```html
-<script src="https://cdn.tailwindcss.com"></script>
-```
-
-With:
-
-```html
-<link rel="stylesheet" href="/src/style.css" />
 ```
 
 #### And include Lucide locally via npm:
@@ -135,3 +80,7 @@ Would you like me to give you a complete working `vite` project template in a ZI
 
 ## Backend
 [[REST API#Json-server]] can be used as quick database to handle information.
+
+
+## Deploying
+[Web Developer Checklist - Chrome Web Store](https://chromewebstore.google.com/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
