@@ -285,7 +285,6 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 [Abeerah Maline](https://openprocessing.org/sketch/2482311) , [ver 2](https://openprocessing.org/sketch/2482307)- Matching game
 [Asya Bal](https://openprocessing.org/sketch/2495763) - Music visualizer
 [Ayşenur Karakuş](https://openprocessing.org/sketch/2495120) - VJ tool
-[Azra Sadıkoğlu](https://openprocessing.org/sketch/2490356) - Rescue the bird game
 [Bahar Kızılkaya](https://openprocessing.org/sketch/2487246) - Branding, generative logo
 [Boray Ünlü](https://openprocessing.org/sketch/2490460), [ver2](https://openprocessing.org/sketch/2490460) - Generative Art
 [Duru Özcan](https://openprocessing.org/sketch/2486379) - Kind of game
@@ -299,7 +298,7 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 [Lal Kara](https://openprocessing.org/sketch/2470955) - Memory Game ⭐️
 [Lana Jamal](https://lana-el-jamal.github.io/RYTHM-GO/lana%203/) - Dance Game, ML ⭐️
 [Maye Caferzade](https://openprocessing.org/sketch/2480773) - Application about world countries. ⭐️
-[Naz İpek](https://openprocessing.org/sketch/2495895) - Space game ⭐️
+[Naz İpek](https://openprocessing.org/sketch/2495895) - Space game 
 [Talin Akarvardar](https://openprocessing.org/sketch/2495682) - Puzzle Game ⭐️
 [Zeynep Cebe](https://openprocessing.org/sketch/2495406) - Educational app teaching musical notes ⭐️
 [Zeynep Erol](https://openprocessing.org/sketch/2495751) - Game, collect fallen items. 
@@ -343,10 +342,10 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Noura Mehrez](https://openprocessing.org/sketch/2270345) Audiovisual app
 ### GAMES
 #### A
-[Esra Yücetürk](https://openprocessing.org/sketch/2204372) Run Monkey 
-[Meryem Karataş](https://openprocessing.org/sketch/2277981) Flappy Power Puff Girls
-[Ali Uzun](https://openprocessing.org/sketch/2197157) Wizard Defence
-[Assyah Ibrahem](https://openprocessing.org/sketch/2197696) Face Tracking Game
+[Esra Yücetürk](https://openprocessing.org/sketch/2204372) Run Monkey (Use keyboard arrows to move the character, collect fallen items)
+[Meryem Karataş](https://openprocessing.org/sketch/2277981) Flappy Power Puff Girls (Buggy Game)
+[Ali Uzun](https://openprocessing.org/sketch/2197157) Wizard Defence (Use keyboard for navigation, mouse left click for throw spell)
+[Assyah Ibrahem](https://openprocessing.org/sketch/2197696) Collect food, escape from fire to make the flower fly.
 [Faruk Sarı](https://openprocessing.org/sketch/2197701) Face Tracking Game
 [Gökalp Taşer](https://openprocessing.org/sketch/2203827) Car Racing
 [Can Canal](https://openprocessing.org/sketch/2204598) Face Tracking
@@ -557,6 +556,7 @@ Face tracking
 [Lal Kara](https://editor.p5js.org/lallkara/sketches/ZdcEgV__9) 
 [Lana Jamal](https://editor.p5js.org/lana.jamal/sketches/M7MtfHlSR)
 [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/T8sZYnX74) ⭐
+
 
 ## Survey Links
 There are 12 different artworks chosen from the ALAP database. Each survey includes a different algorithmic artwork. In a nutshell, you are expected to Each question has 18 different categories a

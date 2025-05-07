@@ -45,7 +45,6 @@ COD 207 Creative Coding I is designed for students with little to no prior exper
 
 ## Useful Links
 Decontextualize [blog](https://creative-coding.decontextualize.com/) includes several programming concepts from beginner to intermediate levels for novices.
-
 ### P5js Creative Coding Tool
 Bunun içeriğini Sonar'da yaptığımız sunumdan da al, [link drive](https://docs.google.com/presentation/d/1gFGHMWA8iEvojg7WGUgsmYHxLUGJnG6hyD_Bo4jn7UE/edit)
 #### Transformation
