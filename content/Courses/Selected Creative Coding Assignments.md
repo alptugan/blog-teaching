@@ -1,5 +1,4 @@
 ---
-banner: "[[selected-assignments.jpg]]"
 title: Selected Creative Coding Assignments
 date: 2024-10-10
 modification date: 2025-05-08T19:50:00
