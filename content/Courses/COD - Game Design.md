@@ -9,11 +9,9 @@ tags:
 aliases: 
 draft: false
 banner: "[[cover-game-design.png]]"
-banner-x: 51
-banner-y: 55
 ---
 ## Top 10 Most Popular Game Engines
-A game engine is tool equipped with various functionalities to make easy game development process. Since there are many different programming languages, game engines can be also tailored to specific programming language. For example Unreal Engine provides libraries for C++ and Unity provides C# programming language. 
+A game engine is tool equipped with various functionalities to make easy game development process. Since there are many different programming languages, game engines can be also tailored to specific programming language. For example Unreal Engine provides libraries for C++ and Unity provides C# programming language.
 
 Sometimes game engines provide their own unique programming language built on a different low level programming language to utilize its performance and to increase development speed and stability for the programmer.
 
@@ -42,7 +40,7 @@ Yet another video serie showcasing the creation of a scrolling type platformer g
 <iframe src="https://www.youtube.com/embed/AddMK8S9m6g?list=PLhIbBGhnxj5JBi7bCbLMwGvUmGmkRURcG" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
 ## Unity
-Unity tutorials for educators to start with.
+Unity tutorials for educators to start with beginner level.
 [Lesson 1.1 - Start your 3D Engines - Unity Learn](https://learn.unity.com/tutorial/lesson-1-1-start-your-3d-engines?projectId=5caccdfbedbc2a3cef0efe63&tab=educator&uv=6)
 
 ## Unreal Engine
