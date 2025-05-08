@@ -7,7 +7,7 @@ tags:
   - gameEngine
   - COD
 aliases: 
-draft: true
+draft: false
 banner: "[[cover-game-design.png]]"
 banner-x: 51
 banner-y: 55
