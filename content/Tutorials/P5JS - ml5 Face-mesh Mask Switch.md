@@ -58,7 +58,6 @@ The else condition below, tells the app that there is no face detected. So, we c
 ![[week07_9.jpeg]]
 
 You can review the complete code below;
-
 ```js
 // Face Mesh Texture Mapping
 // https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh

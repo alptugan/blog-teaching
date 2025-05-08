@@ -1,5 +1,5 @@
 ---
-title: Creative Coding - Games
+title: Selected Game Projects
 date: 2025-05-07 11:41:02
 description: 
 tags:
