@@ -148,10 +148,9 @@ ultra wide-angle, wide-angle, aerial view, massive scale, street level view, lan
 Surrealism, trending on artstation, matte, elegant, illustration, digital paint, epic composition, beautiful, the most beautiful image ever seen,
 
 **Related to: _colours_**
-
 Triadic colour scheme, washed colour
 
-# Text to Text ([You.com](http://You.com))
+Text to Text ([You.com](http://You.com))
 
 ## **Simulate an expert**
 
@@ -166,7 +165,7 @@ Triadic colour scheme, washed colour
 ![unnamed (2).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7fbd69c5-d914-4975-955e-2d30f4e02c48/unnamed_(2).jpg)
 
 ## **Flip the script or learn about the opposite side of an argument**
-
+[GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course)
 ![unnamed (3).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0703530b-811c-42f6-a770-a23aeab7ff4a/unnamed_(3).jpg)
 
 ## ChatGPT
@@ -190,6 +189,9 @@ using the concepts written previously, rewrite this article with a high degree o
 
 Rewrite this article changing 50% of nouns and verbs for similar ones and rewrite verb usages to add natural sounding variations in complexity but retain the same tense and overall meaning
 
+## chatGPT image gen
+[animated sprite sheet](https://www.instagram.com/p/DJovVWOiqj-/?img_index=3&igsh=MW50M2RsNm14NDZpbA==)
+
 ## ChatGPT Academic Prompts
 
 [https://twitter.com/MushtaqBilalPhD/status/1642404540413620224](https://twitter.com/MushtaqBilalPhD/status/1642404540413620224)
@@ -211,6 +213,7 @@ Rewrite this article changing 50% of nouns and verbs for similar ones and rewrit
 # Tutorials
 
 - Make your own AI assistant → [https://www.freecodecamp.org/news/vector-embeddings-course/](https://www.freecodecamp.org/news/vector-embeddings-course/)
+- Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks → [llm-course](https://github.com/mlabonne/llm-course)
 - How to use LoRA → [https://softwarekeep.com/help-center/how-to-use-stable-diffusion-lora-models](https://softwarekeep.com/help-center/how-to-use-stable-diffusion-lora-models)
 
 # Courses

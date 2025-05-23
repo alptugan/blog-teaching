@@ -19,6 +19,10 @@ draft: false
 3. **Payment Processing**: Online stores often use APIs to integrate third-party payment services like PayPal. When you choose to pay with PayPal, the store's website sends an API request to PayPal to process the payment[^3].
 
 
+**CSR (Client-side Rendering)**: CSR is the process by which the client, in our case the browser, creates the views as it is instructed by JavaScript. Nowadays, we usually think about frameworks like React, Vue, Angular, Svelte, Solid, etc. when it comes to CSR.
+
+**SSR (Server-side Rendering)**: Server-side rendering is when the view (HTML) is created by the server and then sent to the client (browser). That HTML page may sometimes use some client-side JavaScript for things like form validation, animations, reactivity, and occasionally adding an element to the UI, but generally most of the HTML is already there and was provided by the server. Things like Spring JSP, Node + EJS, .NET Razor, and PHP are probably some frameworks that come to mind.
+
 **HMR (*Hot Module Replacement*):** During the webdev process, it allows developer to instantly update the content of the web page without losing time to recompile or deploying.
 
 **IC (*Integrated Circuit*):** An IC also known as a **microchip** or simply **chip**, is a set of [electronic circuits](https://www.wikiwand.com/en/articles/Electronic_circuits "Electronic circuits"), consisting of various [electronic components](https://www.wikiwand.com/en/articles/Electronic_components "Electronic components") (such as [transistors](https://www.wikiwand.com/en/articles/Transistor "Transistor"), [resistors](https://www.wikiwand.com/en/articles/Resistor "Resistor"), and [capacitors](https://www.wikiwand.com/en/articles/Capacitor "Capacitor")) and their interconnections ([ref](https://www.wikiwand.com/en/articles/Integrated_circuit)). 
@@ -37,6 +41,8 @@ draft: false
 **PaaS (*Platform as a Service*):** Open source distributed Platform as a Service. PaaS is a cloud computing model that provides a complete environment for developing, running, and managing applications without the complexity of building and maintaining the underlying infrastructure[^4]. It allows developers to focus on writing code while the PaaS provider manages the hardware, software, and other resources needed for application development and deployment.
 
 **PDE (*Processing Development Environment*):** PDE is used to represent text files that written in Processing programming language.
+
+**PWA (Progressive Web Application):** A progressive web app, is a type of web app that can be installed on a device as a standalone application. PWAs are installed using the offline cache of the device's web browser.
 
 **SaaS (*Software as a Service*):** SaaS is a cloud computing model where users access software applications over the internet, typically through a web browser, without needing to install or maintain the software on their own devices. This model allows for subscription-based payment and provides benefits like automatic updates and scalability.
 

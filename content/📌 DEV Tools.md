@@ -9,19 +9,9 @@ date: 2025-03-19T12:00:00
 ---
 # Tutorials & Certificate Programs
 [X link](https://x.com/swapnakpanda/status/1900190925835690357) Variety of courses available from top rank universities.
-# Remote Open Source Alternatives
-https://www.youtube.com/watch?v=DZ0Ocwga43w
-[Mesh Central](https://meshcentral.com/downloads.html) vs. RustDesk
-Tailscale
-Headscale
-Guacamole
+[Leanpub \| Bookstore](https://leanpub.com/bookstore?type=course) Programming related books and courses.
+[Foundations \| The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do and the foundations you'll need for later courses.
 
-# AI Data Analysis tools
-[Microsoft Lida](https://microsoft.github.io/lida/)
-
-# Design
-[Open Foundry](https://open-foundry.com/fonts) Fonts
-[FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 # Node Packages
 ## PM2 
 [source](https://pm2.keymetrics.io/docs/usage/monitoring/) It helps stay up your node service whenever there occurs a problem.
@@ -40,9 +30,14 @@ Guacamole
 [Pico](https://picocss.com/) ⭐️
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
 [Bootstrap](https://getbootstrap.com/)
-[Universe.io](https://uiverse.io/cards?page=5)
+[Uiverse.io](https://uiverse.io/cards?page=5) The Largest Library of Open-Source UI elements
 [cuicui](https://cuicui.day/) Copy/paste React component library.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
+[Headless UI](https://headlessui.com/) Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+
+
+React
 ## JS Libraries
 [Anime.js](https://animejs.com/) JavaScript Animation Engine
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
@@ -127,6 +122,68 @@ AdGuard Home
 [ddev](https://github.com/ddev/ddev?tab=readme-ov-file) → PHP, NodeJs
 [Yunohost](https://yunohost.org/en/install/hardware:vps_debian) Türk çocuğun tutorialları var
 
+## Automation
+[ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
+[Dagu](https://dagu.readthedocs.io/) Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.
+[Healthchekcs](https://healthchecks.io/)
+[Huginn](https://github.com/huginn/huginn)Allows you to build agents that monitor and act on your behalf.
+[Leon](https://getleon.ai/) Open-source personal assistant who can live on your server. AI
+[Matchering](https://github.com/sergree/matchering) A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel).
+[MeTube](https://github.com/alexta69/metube) Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
+[nefarious](https://github.com/lardbit/nefarious) Web application that automates downloading Movies and TV Shows.
+[OliveTin](https://github.com/OliveTin/OliveTin)OliveTin is a web interface for running Linux shell commands. (Web arayüzünden komutlar çalıştırma ve kompleks komutlar için düğmeler yapma. Filika da işe yarar.)
+
+## Bookmarks
+[linkding](https://github.com/sissbruecker/linkding)
+[linkwarden](https://linkwarden.app/)
+[readeck](https://readeck.org/en/) Kampsamlı bir bookmarking, not alma falan var.
+[slash](https://github.com/boojack/slash) Chrome extension'ı da var.
+
+## Communication
+[Apprise](https://github.com/caronc/apprise) Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc.
+[hyphanet](https://hyphanet.org/)Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums.
+
+## Remote Open Source Alternatives
+https://www.youtube.com/watch?v=DZ0Ocwga43w
+[Mesh Central](https://meshcentral.com/downloads.html) vs. RustDesk
+Tailscale
+Headscale
+Guacamole
+
+## File Managers
+[FileGator](https://filegator.io/) Nice interface. Better than fileBrowser
+[Directorylister](https://www.directorylister.com/) Olny View mode. Available for download
+[Filestash](https://www.filestash.app/)
+[Gossa](https://github.com/pldubouilh/gossa)Very fast, simple, file server
+
+## Genealogy
+[grampsweb](https://www.grampsweb.org/) Soyağacı vs...
+
+## Miscellaneous
+[asciinema](https://github.com/asciinema/asciinema-server) Record Terminal command screen
+
+## Password Managers
+[KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
+[Bitwarden](https://github.com/bitwarden)
+[Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+## Personal Dashboard
+[linkstack](https://linkstack.org/) Linktree alternative
+
+## Uncategorized Apps
+llamafile → local image analysis, GPT
+rofi-tdk
+Freetar → akor tab
+dead-man-message → öldükten sonra sevdiğin kişilere hesap bilgilerini göster
+Explainshell → Explains Shell commands.
+Gigabrain → Summarize Reddit posts AI
+whiz → AI assisted Terminal
+[Store.app](https://store.app/) → Web app store.
+wavacity → online Audacity
+workout.lol → Health care with daily objects at home to work out specific parts of your body.
+Metadata Cleaner → Remove meta data from any file.
+[Open source Apps](https://openalternative.co/categories)Alternatives to paid applications. 
+
+
 # Ethical Hacking
 ⭐️ [Genymobile/scrcpy: ](https://github.com/Genymobile/scrcpy) Display and control your Android device. This application mirrors Android devices (video and audio) connected via USB or [TCP/IP](https://github.com/Genymobile/scrcpy/blob/master/doc/connection.md#tcpip-wireless) and allows control using the computer's keyboard and mouse. It does not require _root_ access or an app installed on the device. It works on _Linux_, _Windows_, and _macOS_.
 # AI Related
@@ -136,6 +193,8 @@ AdGuard Home
 [Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
 [pinokio AI](https://pinokio.computer/) AI operating system to install variety of AI tech easily. It automates the github installation process.
 
+## AI Data Analysis tools
+[Microsoft Lida](https://microsoft.github.io/lida/)
 ## Apps
 ### Image Generation
 [Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
@@ -147,9 +206,13 @@ AdGuard Home
 ## Video Generation
 [Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://stable-virtual-camera.github.io/) Given any number of input views and their cameras, it generates novel views of a scene at any target camera of interest. (Installation required, academic paper)
 
+[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo?tab=readme-ov-file) Generate short videos with one click using AI LLM.
+
 ## Personal Assistant
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
 > [!NOTE] Bunu kendi küçük robotuma entegre etmeye çalşabilirim.
+
+[Superwhisper](https://superwhisper.com/) Voice to text app.
 
 [Sesame](https://www.sesame.com/) Very humanistic conversational AI model.
 [Mintlify](https://mintlify.com/) Documentation tool including AI assistant as Mem0 app above.
@@ -182,6 +245,10 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 [Second-Me](https://github.com/mindverse/Second-Me) Train your AI self, amplify you, bridge the world
 
+[ 🤯 Lobe Chat](https://github.com/lobehub/lobe-chat)  an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+
+[UI-TARS-desktop: ](https://github.com/bytedance/UI-TARS-desktop) A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+
 ### Tutorials
 ⭐ [Fine Tuninning Models with pdf, TR](https://www.youtube.com/watch?v=nsl-1hb8Uxc) # Llama ile Kendi Yapay Zekanızı Ücretsiz Eğitin! (Fine Tuning Rehberi)
 
@@ -195,34 +262,14 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 [The Complete Mathematics of Neural Networks and Deep Learning](https://www.youtube.com/watch?v=Ixl3nykKG9M) A complete guide to the mathematics behind neural networks and back propagation.
 [Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) Harvard University lectures.
-# Automation
-[ChangeDetection](https://github.com/dgtlmoon/changedetection.io) Track website textual content changes...
-[Dagu](https://dagu.readthedocs.io/) Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format.
-[Healthchekcs](https://healthchecks.io/)
-[Huginn](https://github.com/huginn/huginn)Allows you to build agents that monitor and act on your behalf.
-[Leon](https://getleon.ai/) Open-source personal assistant who can live on your server. AI
-[Matchering](https://github.com/sergree/matchering) A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel).
-[MeTube](https://github.com/alexta69/metube) Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
-[YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.
-[nefarious](https://github.com/lardbit/nefarious) Web application that automates downloading Movies and TV Shows.
-[OliveTin](https://github.com/OliveTin/OliveTin)OliveTin is a web interface for running Linux shell commands. (Web arayüzünden komutlar çalıştırma ve kompleks komutlar için düğmeler yapma. Filika da işe yarar.)
 
-# Bookmarks
-[linkding](https://github.com/sissbruecker/linkding)
-[linkwarden](https://linkwarden.app/)
-[readeck](https://readeck.org/en/) Kampsamlı bir bookmarking, not alma falan var.
-[slash](https://github.com/boojack/slash) Chrome extension'ı da var.
-
-# Communication
-[Apprise](https://github.com/caronc/apprise) Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc.
-[hyphanet](https://hyphanet.org/)Anonymously share files, browse and publish _freesites_ (web sites accessible only through Hyphanet) and chat on forums.
 # DEV Tools
 [DevToys](https://devtoys.app/) Set of utility applications that can be helpful for developers. It includes conversion tools, text operations, base64 converters, etc... for Windows OS.
 [ScreenshotToCode](https://screenshottocode.com/) Transform screenshots to html using AI.
 [Mintlfy](https://github.com/mintlify/writer) Generate documentation by selecting code snippets.
 [Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
 [Plausible](https://github.com/plausible/analytics) Open-source analytics tool for web applications.
-[Dub](https://dub.co/), [Link Shortener free](https://shorten.ly/) An open source link shortener.
+[Dub](https://dub.co/) Link shortener, self-host
 ## Documentation
 [Docz](https://www.docz.site/docs/getting-started)
 [docsify](https://docsify.js.org/#/) Generates documentation page via readme 
@@ -233,40 +280,9 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
 [Decap CMS \| Open-Source Content Management System](https://decapcms.org/)
-# File Managers
-[FileGator](https://filegator.io/) Nice interface. Better than fileBrowser
-[Directorylister](https://www.directorylister.com/) Olny View mode. Available for download
-[Filestash](https://www.filestash.app/)
-[Gossa](https://github.com/pldubouilh/gossa)Very fast, simple, file server
-
-# Genealogy
-[grampsweb](https://www.grampsweb.org/) Soyağacı vs...
-
-
-# Miscellaneous
-[asciinema](https://github.com/asciinema/asciinema-server) Record Terminal command screen
 
 # Online Dev Tools
-[JSON Editor - Validator](https://jsoneditoronline.org/)
-[JsonCrack](https://github.com/AykutSarac/jsoncrack.com) JSON visualizer
-[RegEx Test](https://regex101.com/)
-[DownGit](https://downgit.github.io/#/home) Copy the link of a GitHub folder inside a specific repo and download the specific folder. It helps you to avoid downloading entire project folder.
-[photogradient](https://photogradient.com/) Create gradients online
-[FFmpeg Online](https://ffmpeg-online.top/)
-## UI / CSS
-[FlexboxLabs](https://flexboxlabs.netlify.app/) it’s a visual tool that helps you create layouts using CSS Flexbox.
-[UIVerse](https://uiverse.io/elements?page=1) Open-Source UI elements made with CSS or Tailwind.
-[daisyUI — Tailwind CSS Components](https://daisyui.com/)  Components compatible with Tailwind.
-[Mockup](https://shots.so/) take image, choose bg for social media, or devices...
-[Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
-https://stunningui.design/
-
-## CSS Layout
-[CSS Layout Generator](https://layout.bradwoods.io/) 
-https://www.tailframes.com/
-
 ## Animation CSS 
-[Pure CSS Curves](https://cubic-bezier.com/#.17,.67,.83,.67), [AnimatiCSS](https://xsgames.co/animatiss/), [Animista](https://animista.net/play/text/pop-up/text-pop-up-top) CSS animation only. Can be used for css animations. No need to install & download anything. It generates required css codes.
 [Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
 [Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
 [Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
@@ -287,37 +303,6 @@ https://www.tailframes.com/
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 [CSS Layout Generator](https://layout.bradwoods.io/)
 [CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
-
-## Fonts
-[Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
-
-## Misc
-[Git Diagram](https://gitdiagram.com/) Scans the provided Github repository and generates block diagram. 
-[Fake Data](https://fakerjs.dev/) Modern version of Lorem Ipsum generator.
-[Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
-# Password Managers
-[KeePassX](https://github.com/keepassxreboot) Mac OS X app, docker support on CasaOS → Linuxserver.io
-[Bitwarden](https://github.com/bitwarden)
-[Vaultwarden](https://github.com/dani-garcia/vaultwarden)
-# Personal Dashboard
-[linkstack](https://linkstack.org/) Linktree alternative
-
-# Synching Alternatives
-[RClone](https://rclone.org/)
-
-# Uncategorized Apps
-llamafile → local image analysis, GPT
-rofi-tdk
-Freetar → akor tab
-dead-man-message → öldükten sonra sevdiğin kişilere hesap bilgilerini göster
-Explainshell → Explains Shell commands.
-Gigabrain → Summarize Reddit posts AI
-whiz → AI assisted Terminal
-[Store.app](https://store.app/) → Web app store.
-wavacity → online Audacity
-workout.lol → Health care with daily objects at home to work out specific parts of your body.
-Metadata Cleaner → Remove meta data from any file.
-[Open source Apps](https://openalternative.co/categories)Alternatives to paid applications. 
 
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
@@ -349,6 +334,10 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 ---
 # Digital Signage 
 [TooLoop](https://github.com/Tooloop/Tooloop-OS) Tooloop OS is a platform for media artists to safely and easily develop and deploy multimedia installations. Tooloop OS is based on Ubuntu Server 24.04 LTS and the super lightweight window manager Openbox. Both are customized to fit the needs of live and public multimedia installations.
+
+# Hardware
+[Webcamize](https://github.com/cowtoolz/webcamize?tab=readme-ov-file) Use almost any camera as a webcam—DSLRs, mirrorless, camcorders, and even point-and-shoots
+
 
 # Scheduling
 [Cal.com](https://cal.com/pricing) Start scheduling for free, with no usage limits. For collaborative features, choose one of our premium plans that fits your company size.

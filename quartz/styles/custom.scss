@@ -1,5 +1,15 @@
 @use "./base.scss";
 
+.folder-title, li a {
+
+	font-weight: 400!important;
+}
+
+
+li {
+	line-height: 1.6rem!important;
+}
+
 .cover-image {
   width: 100%;
   height: 280px;

@@ -32,6 +32,7 @@ draft: true
 - [ ] Also Check [JS App Deployment](https://www.notion.so/JS-App-Deployment-80162b86a4de43e7b50f04e18fc23a64?pvs=21)
 - [ ] 🤜how to use Notion as database [https://hrishikeshpathak.com/tips/read-notion-database-api/](https://hrishikeshpathak.com/tips/read-notion-database-api/)
 - [ ] Autheticate User [https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/](https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/)
+- [ ] Next.js handles app routing, dynamic page content, and server-side features seem promising. 
 
 
 ## JS Routing

@@ -28,6 +28,9 @@ In terms of interface [flowershow](https://flowershow.app/) seems a better alter
 ## 3. Hugo
 This tutorial covers how to build basic Hugo static site and publish specific pages in your current Obsidian Vault.
 
+<iframe title="Getting Started With Hugo | FREE COURSE" src="https://www.youtube.com/embed/hjD9jTi_DQ4?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+
 Quartz is a great tool for showing your digital garden of thoughts and your mind. But sometimes, I need to instantly share something from my private vault to the audience or colleagues online. Plus, it is a practice for me to dive into Hugo framework. Since Quartz 4 is built upon Hugo, it would be good to have some more technical knowledge about what is going on behind the scenes. 
 
 The main take aways are as follows;

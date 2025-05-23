@@ -10,7 +10,7 @@ tags:
 aliases: 
 draft: false
 ---
-1. Create a free [Vercel](vercel.com) hobbiest account.
+1. Create a free [Vercel](https://vercel.com/alptugan-protonmailcs-projects) free hobby account.
 2. Add `vercel.json` file to the root of your project and fill with the following. Replace `index.js` with your server file name;
 ```json
 {

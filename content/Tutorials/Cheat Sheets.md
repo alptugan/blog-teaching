@@ -162,11 +162,14 @@ ls | grep "input"
 
 ```
 
-### head / tail
+### head
 ```bash
 # View the first line of the file
 head -n 1 FILE_NAME
+```
 
+### tail
+```shell
 # View the last line of the file
 tail -n 1 FILE_NAME
 ```
@@ -553,6 +556,14 @@ pandoc "$INPUT_FILE" -o "$OUTPUT_FILE" --resource-path="$RESOURCE_PATH" && echo 
 echo "Done! Output saved as '$OUTPUT_FILE'."
 
 ```
+
+### PDF to .docx
+```shell
+# The following script throws error
+pandoc input.pdf -o output.docx
+```
+
+
 ## FFmpeg
 ### Video Conversion
 ```shell

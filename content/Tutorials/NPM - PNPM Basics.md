@@ -53,6 +53,12 @@ pnpm -v
 pnpm dlx tailwindcss init
 ```
 
+### Remove node_modules
+Remove `node_modules` directory and `package-lock.json` files to avoid conflicts.
+```shell
+rm -rf node_modules package-lock.json
+```
+
 ### Tailwind install
 ```shell
 pnpm add -g tailwindcss

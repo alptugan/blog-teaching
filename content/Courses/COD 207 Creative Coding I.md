@@ -21,10 +21,11 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 
 ### Course Content:
 #### Week 1: Introduction to Programming Fundamentals
-*   Overview of programming languages (Python, JavaScript, etc.)
-*   Basic syntax and data types
-*   Control structures (if-else statements, loops, conditional statements)
-*   Functions and modules
+* Overview of programming languages (Python, JavaScript, etc.)
+* Basic syntax and data types
+* Control structures (if-else statements, loops, conditional statements)
+* Functions and modules
+* How to name variables, functions and file names? (ref: [[Naming Conventions]]) 
 
 #### Week 2-3: Algorithmic Art Practices
 *   Introduction to algorithmic art tools (Processing, OpenFrameworks, etc.)

@@ -44,3 +44,12 @@ Analoji: Antepli ustanın sushi yapması. Fine Tuning ile bir kere uzun eğitim 
 | Bilgi Güncelleme | Uzun Eğitim              | Çok hızlı güncelleme     |
 | Kaynak Kullanımı | İlk Eğitim Yüksek Kaynak | Sürekli Yüksek Kaynak    |
 | Esneklik         | Yeni bilgi eklemek zoe   | Yeni bilgi eklemek kolay |
+
+## Cline Coding Agent
+The following prompt is embedded in `bolt.ai` code helper. It might be useful while planing a new project from scratch.
+
+>For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+>
+>By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+>
+>Use icons from lucide-react for logos.
