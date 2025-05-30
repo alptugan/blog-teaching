@@ -199,6 +199,8 @@ Metadata Cleaner → Remove meta data from any file.
 ### Image Generation
 [Flux Labs](https://github.com/black-forest-labs/flux) Opensource Midjourney alternative.
 
+[Recraft.ai](https://www.recraft.ai/project/700cd58c-5a8a-4cfe-a459-73189e43a9dc) Product mockups. Define the mockup and cover it with an image.
+
 ## Speech Generation
 [Zonos](https://github.com/Zyphra/Zonos?tab=readme-ov-file) Playground [link](https://playground.zyphra.com/audio), 100 minutes free/month. It supports API calls.
 

@@ -8,6 +8,10 @@ tags:
 aliases: 
 draft: true
 ---
+## Background
+[Not all Artificial Intelligence is Generative AI (yet) \| by Rubén Rodriguez Cardos \| SDG Group \| Medium](https://medium.com/sdg-group/not-all-artificial-intelligence-is-generative-ai-yet-b22e1ea2ab3c)
+
+
 ## How LLM Work?
 - How AI models work. Talks about embeddings, and sentence generation. He claims that the more data means more accuracy. But this causes an endless loop. The more data requires more processing power. The ultimate level is considered reaching AGI (Artificial General Intelligence) [AI Has a Fatal Flaw—And Nobody Can Fix It ](https://www.youtube.com/watch?v=_IOh0S_L3C4)
 - What is intelligence then?
@@ -96,3 +100,14 @@ In the end, the humanity needs technology, but at the same time we need resource
 
 For a more sustainable solution, rule-makers and governments should take responsibility about the companies constantly racing to earn money within each day. 
 
+## Makine ve Zeka ve Etik
+If a machine is expected to be infallible, it cannot also be intelligent. -- Alan Turing
+
+Bir makinenin yanılma olasılığı varsa, aynı zamanda zeki olması beklenemez. Aynı durum insan için de geçeli değil midir? Bu durumda insan da zeki bir varlık olmamış olmuyor mu?
+
+Aradaki temel fark belki de insanı değerlendirebileceğimiz geçmişe dönük eylemleri belirleyici olabilmektedir. Batan bir şirketi kurtaran bir CEO'nun verdiği kararlar onun zeki olduğu anlamına mı gelir?
+
+Bir makinenin ahlakı sınırları olabilir mi? Ya da etik kaygıları? Bu sınırları aşması durumunda onu durduracak kanuni yaptırımlar olabilir mi? Yoktur. Dolayısıyla makinenin aksi yönde kararlar vermesinin önüne ne geçebilir? Ya da bir makineyi olası bütün ahlaki sınırları aşmaması yönünde eğitmek mümkün olabilir mi? Kısa cevap hayır. Çünkü, bunu yapabilmenin mümkün olması demek deterministik bir evrende yaşadığımız anlamına gelmez mi? Bütün olması olası durumları hesaplayabildiğimiz anlamı ortaya çıkıyor. 
+
+AI herhangi bir devletin kanunlarına tabi değildir. 
+AI herhangi bir toplumun kültürel olgularına tabi değildir. 

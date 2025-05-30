@@ -29,6 +29,8 @@ draft: false
 
 **MCU (*Microcontroller Unit*):** An MCU is an intelligent semiconductor IC that consists of a processor unit, memory modules, communication interfaces and peripherals. The MCU is used across a broad range of applications, including washing machines, robots, drones, radio and game controllers.
 
+**MCP (*Model Context Protocol*):** Model Context Protocol, is an open standard designed to help artificial intelligence (AI) systems, particularly large language models (LLMs), connect with various external tools and data sources. It simplifies the integration process, allowing AI to access real-time information and perform actions based on that context.
+
 **NLP (*Natural Language Processing*):** NLP is a field of computer science and artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language. It involves tasks like speech recognition, text classification, and language translation, using techniques from linguistics and machine learning.
 
 **NPU (*Neural Processing Unit*):** An NPU is a specialized microprocessor designed specifically to accelerate artificial intelligence (AI) and machine learning tasks, especially those involving neural networks. Unlike general-purpose CPUs or GPUs, NPUs are optimized for efficiently handling operations such as matrix multiplications, convolutions, and activation functions that are common in deep learning and neural network computations
@@ -47,6 +49,8 @@ draft: false
 **SaaS (*Software as a Service*):** SaaS is a cloud computing model where users access software applications over the internet, typically through a web browser, without needing to install or maintain the software on their own devices. This model allows for subscription-based payment and provides benefits like automatic updates and scalability.
 
 **SDK (*Source Development Kit*):** Essentially, this constitutes a suite of programmatic instruments that enables users to engage with an extant product in order to develop tailored functionalities. For instance, a software developer might utilize the iOS SDK to design bespoke applications specifically for the iPhone.  ^0bb03d
+
+**SOP (*Standard Operating Procedure*):** 
 
 **VPS (*Virtual Private Server*):** A small e-commerce website uses a VPS to host its store. It benefits from cost savings but may see slower performance if other VPS users on the same server experience traffic spikes. VPS is like renting an apartment in a building: you have your own space, but share the building’s resources.
 

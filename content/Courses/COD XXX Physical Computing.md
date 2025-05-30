@@ -9,7 +9,7 @@ draft: true
 cssclasses:
   - wide-page
 share_link: https://share.note.sx/c0tj8t1n#mySVNFIrLOrwbPWXmdIlGrgrMyUoEbyuw+B8pe01ax4
-share_updated: 2025-05-07T12:19:24+03:00
+share_updated: 2025-05-30T21:52:30+03:00
 ---
 ## Course Objective
 The educational objective of this course is to introduce students with little or no technical background to the foundational principles of physical computing through hands-on, project-based learning. By combining basic electronics, programming, and interaction design, the course empowers students to creatively explore and prototype interactive objects and environments.

@@ -197,3 +197,6 @@ List of symbols and ASCII ornaments, [link](https://www.madeintext.com/flower-sy
 
 ## Reaper
 <font color="#646a73">⌘ + ⇧ + Drag </font>- Docker içinde pencereleri yan yana dizmek için kullanılır. Pencerenin alt tarafının hi-light olması gerekir. Kanal üzerindeyken de ses bloğunu duplicate ediyor.
+
+## Terminal
+<font color="gray">⌃ + r </font>- Shows previous commands list
