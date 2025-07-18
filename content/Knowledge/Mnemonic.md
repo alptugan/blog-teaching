@@ -9,7 +9,6 @@ banner: "[[blog-teaching/content/assets/covers/mnemonic-cover.png]]"
 banner-x: 50
 banner-y: 19
 ---
-
 ## Background
 Research indicates that
 - We remember 20% of what we hear;

@@ -35,9 +35,6 @@ date: 2025-03-19T12:00:00
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
 [Headless UI](https://headlessui.com/) Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
-
-
-React
 ## JS Libraries
 [Anime.js](https://animejs.com/) JavaScript Animation Engine
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
@@ -70,11 +67,6 @@ React
 	- [Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
 - **Portfolio Templates**
 	- [A sleek portfolio built with React and Tailwind CSS \| daily.dev](https://app.daily.dev/posts/a-sleek-portfolio-built-with-react-and-tailwind-css-eekyxpbb9)
-
-## Icons, Assets & Colors
-- [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
-- [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
-- [Free SVG Illustrations](https://undraw.co/illustrations/3)
 
 
 ## Chat Bots for customers

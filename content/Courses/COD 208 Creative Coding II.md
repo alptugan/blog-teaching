@@ -124,10 +124,10 @@ For more information about the game format, visit the [link](https://alptugan.gi
 4. ❗Submit the openprocessing link.
 5. ❗Submit the sketch source code as zip file as well.
 
-## week 5
-> [!TIP] This form, which will be available starting **Monday, March 3**, consists of **two open-ended questions** where students can share what they find positive about the courses and the areas they believe could be improved for a better learning experience. The form will remain accessible via SIS **throughout the upcoming week**.
-
+## week 5 - Marker-based AR
 #### 2025-2026
+Review the last year student works from the following [link1](https://drive.google.com/drive/folders/1edO4_MdxBJG1ZL_TSAljGU7GBJtT5Ljt?usp=sharing) and [link2](https://drive.google.com/drive/folders/1ndAaIwq1CQCZ2IgkZDWIXEeU6Jo0Pxcy?usp=sharing).
+
 PLEASE READ CAREFULLY!
 **You have 3 options. Choose one below.**
 1. **Art:** Create an interactive AR sketch where the fiducial marker displays a unique piece of digital art or animation.
@@ -173,8 +173,9 @@ Options 2: Create three different masks in Photoshop or Illustrator. Upload the 
 - Upload the image you choose. 
 - References : [Computational Mask Repo](https://www.pinterest.com/alptugan/02-computational-masks-repo/more_ideas/?request_params=%7B%221%22:%2039,%20%227%22:%20%221100798308726688953%22,%20%228%22:%20%22575686833557453072%22,%20%2232%22:%2020,%20%2237%22:%20%22Ideas%20for%20your%20board%22%7D&full_feed_title=Ideas%20for%20your%20board&view_parameter_type=3173&pins_display=3&ideas_referrer=25), [Generative Masks](https://generativemasks.io/), [Ref3](https://www.britannica.com/art/mask-face-covering/The-functions-and-forms-of-masks)
 
-## week 7
+## week 7 - ML
 #### 2025-2026
+Review the selected [student works](https://drive.google.com/drive/folders/1XI32tritP87MVNYYPZYmQwG1VafL1Ih9?usp=sharing) from previous year.
 You may choose one of the following:
 
 **Option 1: Interactive Art Installation**

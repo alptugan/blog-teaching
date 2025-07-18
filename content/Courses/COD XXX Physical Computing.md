@@ -129,13 +129,32 @@ Weekly assignments will primarily involve hands-on exercises and small creative 
 
 
 ## Resources and links 
+### Arduino-based Circuits
 [Micro:bit Educational Foundation \| micro:bit](https://microbit.org/)
 
 [List from ITP](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/)
 
 [Learn how to use Tinkercad - Tinkercad](https://www.tinkercad.com/learn/circuits?collectionId=OMOZACHJ9IR8LRE) (Virtual Arduino Test Env, tutorials on several topics. Better than wokvi)
 
-[Learn how to use reed switch](https://www.learningaboutelectronics.com/Articles/Reed-switch-circuit.php)
 
-## TIPS AND TRICKS
-[Soldering](https://youtube.com/shorts/nKf7dJBVb00?si=GVACWaVfOfzERuDC)
+### Raw Circuits 
+[Reed Switch](https://www.learningaboutelectronics.com/Articles/Reed-switch-circuit.php) Turn on and off the lights with magnets.
+
+[Led Light Dimmer](http://www.learningaboutelectronics.com/Articles/Light-dimmer-circuit.php) Dimmer for led lights via 2N7000 N-Channel MOSFET.
+
+[Capacitor](http://www.learningaboutelectronics.com/Articles/How-to-use-a-charged-capacitor-to-light-an-led) Add fade out effect to leds.
+
+[IC 555 Timer](http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php) How to Build an LED Flasher Circuit with a 555 Timer Chip
+
+[Advanced Electronics](https://www.learningaboutelectronics.com/Projects/) 
+
+## TIPS and Tutorials
+- How to use breadboard - [video](https://youtu.be/05ZrbtwUzMk?si=Sljdc1YBZe3vQlO_), [video](https://youtu.be/6WReFkfrUIk?si=mn1pl5NZcuWYgZSL)
+- How to use multi-meter - [video](https://youtu.be/ts0EVc9vXcs?si=FsQgF1r7SP30Yc3Z)
+- How to use soldering iron - [video](https://youtube.com/shorts/nKf7dJBVb00?si=GVACWaVfOfzERuDC)
+- How to use servo motors - [[Driving Motors#Servo Motors]]
+- How to read capacitor values - [Read a Capacitor](https://www.wikihow.com/Read-a-Capacitor)
+- How to measure distance of objects via TOF200C - [article](https://www.makerguides.com/vl53l0x-distance-sensor-with-arduino/)
+- Voltage Divider, Decrease DC Voltage from 5V to 3V - [video](https://www.youtube.com/watch?v=q5H0Lncie0M)
+- ⭐ How to use sensors, motors, and passive circuit elements via Arduino - [blog](https://deepbluembedded.com/arduino-button-debouncing/)
+- Arduino-based projects - [blog](http://www.learningaboutelectronics.com/Arduino/)

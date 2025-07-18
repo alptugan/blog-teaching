@@ -6,6 +6,7 @@ description:
 tags:
   - Arduino
   - RTC
+  - LedMatrix
 aliases: 
 draft: true
 ---
@@ -19,6 +20,7 @@ draft: true
 	- [ ] install the lib, [github](https://github.com/MajicDesigns/MD_UISwitch)
 	- [ ] Test example first, [example](https://github.com/MajicDesigns/MD_UISwitch/blob/main/examples/MD_UISwitch_Example/MD_UISwitch_Example.ino)
 - [ ] Ön panel pirinç deneme baskısı [cadcut](https://cadcut.co/materyaller/pirin)
+- [ ] Automatic time-adjustment, [tutorial](https://projecthub.arduino.cc/hibit/keeping-time-with-ds1302-real-time-clock-on-arduino-07d30b)
 ## Current Configuration (Arduino Nano, RTC 1307, Push Button)
 ![[wordclock-v2.png|Wokwi Diagram, logged in with protonmail account, [link](https://wokwi.com/projects/417064040238274561)]]
 [Link to Wokwi diagram](https://wokwi.com/projects/417064040238274561)
@@ -99,11 +101,10 @@ Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x
 
 ## References
 1. DIY Word Clock on single MAX7219 driven 8x8 Matrix, [video](https://www.youtube.com/watch?v=fKetfeaBWGE), [article](https://www.hackster.io/mircemk/diy-word-clock-on-single-max7219-driven-8x8-matrix-8379ed)
-2. Max72xxPanel: Arduino interface for Adafruit-GFX to control a set of 8x8 LEDs with a MAX7219 or MAX722, [GitHub](https://github.com/markruys/arduino-Max72xxPanel)
-3. RGB Matrix Word Clock, [instructables article](https://www.instructables.com/Arduino-RGB-Matrix-Word-Clock/)
-4. MAX7219 LED Matrix Module Micro Word Clock, [article](https://arduinoplusplus.wordpress.com/2016/04/28/max7219-led-matrix-module-mini-word-clock/)
-5. DIY Wordclock, example projects, and sources, fonts, etc...  [article](https://www.jeremyblum.com/2016/02/03/wordclock/)
-6. Wordclock with Green Matrix Effect, [article](https://tinkerman.cat/post/wordclock/) 
+2. RGB Matrix Word Clock, [instructables article](https://www.instructables.com/Arduino-RGB-Matrix-Word-Clock/)
+3. MAX7219 LED Matrix Module Micro Word Clock, [article](https://arduinoplusplus.wordpress.com/2016/04/28/max7219-led-matrix-module-mini-word-clock/)
+4. DIY Wordclock, example projects, and sources, fonts, etc...  [article](https://www.jeremyblum.com/2016/02/03/wordclock/)
+5. Wordclock with Green Matrix Effect, [article](https://tinkerman.cat/post/wordclock/) 
 7. Wordclock 16x16 leds, [github](https://github.com/wouterdevinck/wordclock) 
 8. Circuit Designers Free, [cirkitdesigner](cirkitdesigner.com) (not registered), [Wokwi](https://wokwi.com) (protonmail)
 9. FastLED library for addressable leds and matrix, [github](https://github.com/FastLED/FastLED), [video](https://www.youtube.com/watch?v=D_QBlFIQk-o&t=4s), [article](https://www.instructables.com/Make-Your-Own-10x10-LED-Matrix/)

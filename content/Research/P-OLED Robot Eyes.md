@@ -34,6 +34,7 @@ backup (backups scripts and friend folder to `/Users/alptugan/Documents/DEVS/fri
 - [ ] Edit eyes array to make it more retro look…
 - [ ] Blinking message
 - [ ] hostaname display on yellow area
+- [ ] Check this lib, [github](https://github.com/lexus2k/ssd1306)
 
   
 

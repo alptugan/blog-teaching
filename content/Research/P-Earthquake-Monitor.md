@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Earthquake-Monitor
 date: 2025-05-01 05:58:04
 description: 
 tags: 

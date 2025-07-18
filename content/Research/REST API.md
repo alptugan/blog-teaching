@@ -58,3 +58,7 @@ Other notable mentions include; OpenSky Network, The Movie DB API, Open Food Fac
 6. [🚀 10 Free APIs Every Developer Should Experiment With! 🔧 - DEV Community](https://dev.to/dct_technologyprivatelimited/10-free-apis-every-developer-should-experiment-with-47d8)
 7. [Turns websites into data — Microlink](https://microlink.io/) A web scraper, screen shot web pages, pdf generator, fav icon capture. It provides API calls as well as node.js
 8. [AFAD](https://deprem.afad.gov.tr/event-service) Türkiye Earthquake API
+
+
+## CSV Data
+Open data portals around the world powered by CKAN, [Showcase](https://ckan.org/showcase)

@@ -1,7 +1,6 @@
 ---
 title: COD 323 Sound Design
 date: 2024-09-11
-modification date: Wednesday 11th September 2024 13:42:10
 description: Includes course materials covering my sound design classes.
 tags:
   - sound
@@ -21,6 +20,14 @@ draft: false
 
 ---
 ## Sound Sample Library
+Before diving into searching sound samples in an endless ocean of web, review the terminology that might be helpful for you to find relevant sound effect.
+
+> [!TIP] List of Onomatopoeias
+> Words that imitate, resemble, or suggest the source of the sound that they describe. For more information, see the linked articles. 
+> - [List of onomatopoeias - Wikipedia](https://en.wikipedia.org/wiki/List_of_onomatopoeias)
+> 
+> - [106 Ways To Describe Sounds - A Resource For Writers - Writers Write](https://www.writerswrite.co.za/106-ways-to-describe-sounds/)
+
 [BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/) The BBC Sound Effects Archive is available for personal, educational or research purposes. There are over 33,000 clips from across the world from the past 100 years.
 
 [Sound Bible](https://soundbible.com/) SoundBible.com offers free sound clips for download in either wav or mp3 format.
@@ -38,6 +45,12 @@ draft: false
 [Pixabay](https://pixabay.com/sound-effects/) 90,000+ Royalty Free Sound Effects for Download.
 
 ---
+## Recommended Readings
+- [Musical Instrument Classification](https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)
+- [Saccular acoustic sensitivity - Wikipedia](https://en.wikipedia.org/wiki/Saccular_acoustic_sensitivity)
+- [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
+
+
 ## Tutorials
 [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
 
@@ -92,6 +105,10 @@ It's not about the gear, it's about the ear.
 
 ✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
 
+
+### week 02
+COD 323’te giriş projesi olarak sesi tanımaları için 9V pil ve hoparlör kullanarak basit synthler yapmaları için ödev verebilirim. 
+[Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
 
 ### week 05
 Automation Curves

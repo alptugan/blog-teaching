@@ -1,6 +1,6 @@
 ---
 title: CheatSheet Obsidian
-date: 2024-11-27T00:01:00
+date: 2024-11-27
 description: Cheat Sheet for Obsidian App
 tags:
   - markdown
@@ -49,26 +49,6 @@ cssclass: img-grid, img-captions
 CSS obsidian_style.css içinde
 JS code da DEVS kalsöründe
 ```
-
-### Centered-scaled image with caption
-```
-
-> [!blank-container|float-center] 
-> ![[p5js02.jpg]] 
-> [Ken Thompson](https://www.wikiwand.com/en/articles/Ken_Thompson "Ken Thompson") and [Dennis Ritchie](https://www.wikiwand.com/en/articles/Dennis_Ritchie "Dennis Ritchie"), key proponents of the Unix philosophy
-
-Ken Thompson, one of the founders of Unix, established its foundational philosophy on a minimalist and modular framework. Central to their software development ethos is the DOTADIW (Do One Thing And Do It Well) principle, which facilitates maintaining a compositional system as opposed to a monolithic one.
-```
-
-
-> [!multi-column|center]
->> [!blank|center]
->> ![[p5js02.jpg|450]] 
->> *Ken Thompson and [Dennis Ritchie](https://www.wikiwand.com/en/articles/Dennis_Ritchie "Dennis Ritchie"), key proponents of the Unix philosophy*
-
- Ken Thompson, one of the founders of Unix, established its foundational philosophy on a minimalist and modular  framework. Central to their software development ethos is the DOTADIW (Do One Thing And Do It Well) principle, which facilitates maintaining a compositional system as opposed to a monolithic one.
-
-
 ## Callout Opened & Collapsed
 ```markdown
 > [!NOTE] Notification about Conclusion
@@ -103,15 +83,14 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 - Syntax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
 - [Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Wikipedia%20like%20infobox.md) Several css snippets for UI improvement.
 - [raisabelatrix’s gists · GitHub](https://gist.github.com/raisabelatrix)
-- [GitHub - vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) Backup tool for obsidian
-- [Private Obsidian AI: Add DeepSeek to your Obsidian with Ollama and CoPilot](https://www.youtube.com/watch?v=tC9wegnRyZk)
 
 ### Obsidian sync across devices
 The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.
 
 Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132eeUU)
 
-> [!Tip]- Obsidian live-sync (Detailed instructions on [[Obsidian - Self-hosted LiveSync Setup on Docker]] page)
+
+> [!Tip] Obsidian live-sync
 > [Obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/quick_setup.md#1-using-setup-uris) Github repo
 > ```shell
 > # The following script creates required ini file for the CouchDB 
@@ -119,19 +98,6 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 > ```
 > [short video](https://www.youtube.com/watch?v=r4NKCDirm64)
 > In order to make it work over WAN, it may require to edit the ini file
-
-### AI
-- [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama) allows to send instruction to Ollama using Obsidian. You can set your own prompts customized for specific tasks.
-
-- [Local GPT](https://github.com/pfrankov/obsidian-local-gpt) is similar to [Obsidian Ollama](https://github.com/hinterdupfinger/obsidian-ollama), plus you can use any OpenAI compatible server other than Ollama.
-
-- obsidian://show-plugin?id=media-companion - Gallery viewer, it can help me to compare images, it supports search images based on color
-
-- [obsidian-companion: Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.](https://github.com/rizerphe/obsidian-companion)
-
-### Dataview
-[Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
-[How to Build Dataview Powered Dashboards in Obsidian - YouTube](https://www.youtube.com/watch?v=p3jqxQLHqUY)
 
 ## 7. Columns
 ### When is the best to ski in Switzerland?
@@ -173,44 +139,3 @@ Embed Content from different document into another document as excerpt.
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
 ```
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
-
-## Tables
-```markdown
-
-
-|                                                                              |                                                                              |                                                                              |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|                           Tutorial 1 (Tiled Lines)                           |                          Tutorial 2 (Joy Division)                           |                         Tutorial 3 (Cubic Disarray)                          |
-| [<img src="assets/t1.png" width="330" Height="330">](tutorial_1/src/main.rs) | [<img src="assets/t2.png" width="330" Height="330">](tutorial_2/src/main.rs) | [<img src="assets/t3.png" width="330" Height="330">](tutorial_3/src/main.rs) |
-|                         Tutorial 4 (Triangular Mesh)                         |                          Tutorial 5 (Un Deux Trois)                          |                         Tutorial 6 (Circle Packing)                          |
-| [<img src="assets/t4.png" width="330" Height="330">](tutorial_4/src/main.rs) | [<img src="assets/t5.png" width="330" Height="330">](tutorial_5/src/main.rs) | [<img src="assets/t6.png" width="330" Height="330">](tutorial_6/src/main.rs) |
-|                        Tutorial 7 (Hypnotic Squares)                         |                          Tutorial 8 (Piet Mondrian)                          |                          Tutorial 9 (Hours of Dark)                          |
-| [<img src="assets/t7.png" width="330" Height="330">](tutorial_7/src/main.rs) | [<img src="assets/t8.png" width="330" Height="330">](tutorial_8/src/main.rs) | [<img src="assets/t9.png" width="330" Height="330">](tutorial_9/src/main.rs) |
-
-```
-
-## Obsidianotion checklists:
-- [ ] normal
-- [/] / - incomplete
-- [x] x - done
-- [-] -  canceled
-- [s] s - forwarded
-- [<] < - scheduling
-
-**Extras checklists:**
-- [?] ? - question
-- [!] ! - exclamation
-- [*] * - star
-- ["] " - quote
-- [l] l - location
-- [b] b - bookmark
-- [i] i - information
-- [S] S - savings
-- [I] I - idea
-- [p] p - thumbs up
-- [c] c - thumbs down
-- [f] f - fire
-- [k] k - key
-- [w] w - win
-- [u] u - up
-- [d] d - down

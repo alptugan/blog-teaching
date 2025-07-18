@@ -199,6 +199,8 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 <iframe src="https://www.youtube.com/embed/lxDn7uf_9DU?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
 ### Sound Art
+[Scott Tooby - Sonic Mirror Instruments](http://scott-tooby.com/sonic-mirror-instruments.html)
+
 #sound #soundsculpture
 <iframe title="Peter Vogel Soundwall performance" src="https://www.youtube.com/embed/NIixUuoDrHw?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 <iframe title="RHYTMIC SOUNDS - PETER VOGEL" src="https://www.youtube.com/embed/JisYOweWHLw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
@@ -215,10 +217,17 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 <iframe title="Motors, Magnets and Motion: Electronic Music Instruments from the Physical World | Loop" src="https://www.youtube.com/embed/hJHwhb99Bzo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 <iframe title="DIY Spring Box / Noise Box: My first creation for sound design in horror movies 👻" src="https://www.youtube.com/embed/Laau6Aui4dU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 <iframe title="Koka's Drone Box Ensemble" src="https://www.youtube.com/embed/lSpl4DVFsQU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
-<iframe title="Making of DIY Piezo Noise Box / Ambient Box / Spring Box" src="https://www.youtube.com/embed/4Wrsr1qnN9Q?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
-<iframe title="Making a Piezo Pickup Instrument" src="https://www.youtube.com/embed/EzSu5zOX_Qg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
+
+#### Contact Microphones
 #sound #piezo #fabric
 <iframe title="TUTORIAL - HOW TO WIRE A PIEZO MIC // MAGIC GLOVES AND CODING PROGRESS // CHAINES" src="https://www.youtube.com/embed/zI7EEvV4Lp8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
+
+<iframe title="They Say Cheap Mics Can’t Compete – This Proves Them Wrong!" src="https://www.youtube.com/embed/hy_RZyg469g?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+<iframe title="Making of DIY Piezo Noise Box / Ambient Box / Spring Box" src="https://www.youtube.com/embed/4Wrsr1qnN9Q?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
+
+<iframe title="Making a Piezo Pickup Instrument" src="https://www.youtube.com/embed/EzSu5zOX_Qg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
+
 
 #### DIY - Plate Reverb 
 <iframe title="DIY &quot;IKEA Hack&quot; Plate Reverb Part 2 (Sounds amazing now!)" src="https://www.youtube.com/embed/5OcRMA2FNUE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
@@ -261,6 +270,17 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 6. This assignment does not measure the musical quality or tonality. And this is not a programming class. Your primary focus should be on exploring the limits of sound through the use of modern technological tools. So do not stress out. Just try to make something sound good to you.
 
 
+
+
+## Recommended Readings & Projects
+- (Book) Musical Inventions: DIY Instruments to Toot, Tap, Crank, Strum, Pluck, and Switch On (Make) by Kathy Ceceri
+- (Book) [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
+- [Pringle Can MIDI Drums, Instructables](https://www.instructables.com/Pringle-Can-MIDI-Drums/)
+- [Light Saber Hum, Instructables](https://www.instructables.com/Light-Saber-Hum/)
+- [Building a Simple Electronic Piano Using Tinkercad Circuits, Instructables](https://www.instructables.com/Building-a-Simple-Electronic-Piano-Using-Tinkercad/)
+- [Simple Electronic Piano, Instructables](https://www.instructables.com/Simple-Electronic-Piano/)
+- ⭐ [Sound Badge With Touch Sensor, Instructables](https://www.instructables.com/Sound-Badge-With-Touch-Sensor/)
+- [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 ## COD 412 Final Projects Collection
 [2018-2019](https://drive.google.com/drive/folders/1w5mFUEx23DS97JllBQnnVVXIA3362YVV?usp=drive_link)

@@ -82,6 +82,11 @@ framer.com - website builder
 
 [Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
 
+### Icons
+- [Over 5000+ free icns icons](https://macosicons.com/#/) Could be useful for [[P-iCNS Creator]] app. 
+- [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
+- [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
+- [Free SVG Illustrations](https://undraw.co/illustrations/3)
 ### Fonts
 [Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
 [UNCUT.wtf](https://uncut.wtf/) Free stylish modern fonts.
@@ -106,11 +111,11 @@ framer.com - website builder
 
 [A Soft Murmur](https://asoftmurmur.com/) Online geophonic soundscape generator according to specific audio tracks.
 
+[Online Tone Generator](https://onlinetonegenerator.com/) Free, Simple and Easy to Use. There are variety of signal generators including, sine, sawtooth, square and triangle.
+
 ## Image
 [Lorem Picsum](https://picsum.photos/) The Lorem Ipsum for photos.
 [Pexels](https://www.pexels.com/discover/) The best free stock photos, royalty free images & videos shared by creators.
-
-
 
 ## Video 
 [YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.

@@ -1,7 +1,6 @@
 ---
 title: COD 207 Creative Coding I
 date: 2025-02-08
-modification date: Saturday 8th February 2025 19:59:17
 description: 
 tags:
   - Teaching
@@ -25,7 +24,8 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 * Basic syntax and data types
 * Control structures (if-else statements, loops, conditional statements)
 * Functions and modules
-* How to name variables, functions and file names? (ref: [[Naming Conventions]]) 
+* How to name variables, functions and file names? (ref: [[Naming Conventions]])
+* Check tutorials CodeGuppy -> [Coding for middle school and high school students \| Free coding platform](https://codeguppy.com/index.html)
 
 #### Week 2-3: Algorithmic Art Practices
 *   Introduction to algorithmic art tools (Processing, OpenFrameworks, etc.)
@@ -44,8 +44,13 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 ### Target Audience:
 COD 207 Creative Coding I is designed for students with little to no prior experience in programming. This course provides an ideal introduction to the world of creative coding, making it accessible to individuals from diverse backgrounds and disciplines.
 
+
 ## Useful Links
+### Articles & Tutorials
 Decontextualize [blog](https://creative-coding.decontextualize.com/) includes several programming concepts from beginner to intermediate levels for novices.
+
+List of colors and their meaning, [article](https://www.writerswrite.co.za/204-words-that-describe-colours/)
+
 ### P5js Creative Coding Tool
 Bunun içeriğini Sonar'da yaptığımız sunumdan da al, [link drive](https://docs.google.com/presentation/d/1gFGHMWA8iEvojg7WGUgsmYHxLUGJnG6hyD_Bo4jn7UE/edit)
 #### Transformation
