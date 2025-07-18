@@ -22,6 +22,7 @@ draft: false
 
 ![[cable-connectors.jpeg]]
 <center><font size="2" color="#ccc">Cables and Connectors (Winter, n.d.)</font></center>
+
 ## Sources
 - [Connecting An External Microphone For iPhone Video Recording – DIY Video Studio](https://www.diyvideostudio.com/connecting-external-microphone-for-iphone-video-recording/)
 - [Title Unavailable \| Site Unreachable](https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/)
