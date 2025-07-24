@@ -9,7 +9,7 @@ tags:
   - cod412
 aliases: 
 draft: false
-banner: "![[blog-teaching/content/assets/covers/signal-levels.jpeg]]"
+banner: "![[signal-levels.jpeg]]"
 ---
 ## Introduction
 In pro audio, you’ll generally be dealing with four primary types of audio signals, each possessing distinct characteristics and requiring specific handling techniques for optimal performance and signal integrity. These categories – <font color="#ffc000">analog, digital, balanced,</font> and <font color="#ffc000">unbalanced</font> – represent fundamental distinctions that dictate how audio is captured, transmitted, processed, and ultimately, reproduced. Let’s examine each in detail.

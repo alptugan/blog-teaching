@@ -16,7 +16,8 @@ draft: false
 
 ```bash
 # 1. Install or update NVM (https://github.com/nvm-sh/nvm)
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+# curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 
 # 2. Install node
 nvm install node
@@ -34,7 +35,9 @@ npm outdated
 # UPDATE GLOBAL PACKAGES
 #--------------------------------------------
 # Update NPM global
-npm install -g npm@latest
+npm install -g npm@latest 
+# or
+nvm install-latest-npm
 
 # Update PNPM global
 npm install -g pnpm@latest  # or pnpm add -g pnpm@latest
