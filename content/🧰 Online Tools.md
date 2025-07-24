@@ -10,6 +10,18 @@ draft: false
 ---
 The following post includes online development tools for productivity frequently. You may want to check [[REST API]] page further online tools providing API to retrieve specific data.
 
+
+## Broken White Tones
+🌕 Off White [#FAF9F6](https://www.instagram.com/explore/tags/faf9f6/)  
+  
+❄️ Snow [#FFFAFA](https://www.instagram.com/explore/tags/fffafa/)  
+  
+🟡 Ivory [#FFFFF0](https://www.instagram.com/explore/tags/fffff0/)  
+  
+🧊 Alice Blue [#F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
+  
+👻 Ghost White [#F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
+
 ## Productivity & Devs
 [Crontab.guru - The cron schedule expression generator](https://crontab.guru/#*/60_10-22/3_*_*_*) helps me to validate `crontab` scheduling format.
 
@@ -90,15 +102,19 @@ framer.com - website builder
 ### Fonts
 [Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
 [UNCUT.wtf](https://uncut.wtf/) Free stylish modern fonts.
+[Fontshare: Quality Fonts. Free.](https://fontshare.com/)
 [Open Foundry](https://open-foundry.com/fonts) Fonts
 [FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 
 [Huge List of Unicode Character Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
 ### Apps
 [Photopea](https://www.photopea.com/) Online Photo Editor similar to Photoshop.
+[Typeface Animator](https://www.typefaceanimator.com/home) Typographic animation tools. Paid service. Inspirational for open-source development.
 
 ### 3D 
 [Tinkercad](https://www.tinkercad.com/login?next=/things/bV6nCrkgWzI/edit) Online editor for 3D printing.
+
+[TopoExport](https://app.topoexport.com/) TopoExport is a simple, fast, and accurate web application for downloading maps with 2D contour lines and 3D topography using reliable open-source datasets. This application addresses a specific need for architects, landscapers, urban planners, geographers, consulting firms, and local authorities to obtain supporting maps for architectural projects and spatial analysis of the territory.
 
 ## File Sharing
 [Send large files up to 5GB for free](https://transfer.pcloud.com/) A file sharing system alternative to wetransfer.
@@ -120,7 +136,10 @@ framer.com - website builder
 ## Video 
 [YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.
 
-[FFmpeg Online](https://ffmpeg-online.top/) Free Online Video Processing Tool with AI
+[FFmpeg Online](https://ffmpeg-online.top/) Free Online Video Processing Tool with AI.
+
+[Social Hook Video](https://transitionalhooks.com/) Social media transitional video footage.
+
 
 ## Misc
 [Türkiye'nin Antik Kentleri](https://ancientcitiesturkey.com/hakkinda) Showing locations of antique cities in Türkiye.
@@ -131,7 +150,24 @@ framer.com - website builder
 
 [Wiby](https://wiby.me/) Search Engine for the Classic Web. Check "Surprise me" hyperlink to view interesting web sites.
 
-[ roadmap.sh](https://roadmap.sh/) roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+[roadmap.sh](https://roadmap.sh/) roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+
+[Notable people](https://tjukanovt.github.io/notable-people) Map of most notable persons in the world. Data acquired from Wikidata.
+
+[Plane Crash Info](https://planecrashinfo.com/) List of data related to plane crashes.
+
+[Staggering Beauty](http://www.staggeringbeauty.com/) Shake the mouse pointer to produce glitchy, flashing visual effects and sound. #cod207 #cod208 #creativecoding 
+
+[White Enamel](http://whiteenamel.com/about/index.htm) White Enamel was originally established in 2000 as a Flash enabled "Online Experiment," created as an online interactive experience in navigating the grounds and interior of an abandoned asylum called "Glenfield Psychiatric Hospital" where visitors - using their computers with mouse and keyboard - could explore and navigate the institution ward by ward, room by room, corridor by corridor, stairwell by stairwell and more throughout the massive psychiatric complex.
+
+[google search bar](google.com) Variety of creative web apps living in google search bar.
+![[emoji-kitchen.jpeg|200]]
+
+![[solar-eclipse.jpeg|200]]
+
+![[askew.jpeg|200]]
+
+[Free Visa Alerts \| Real-Time Updates \| VisasBot.com](https://visasbot.com)
 
 ## Writing & Reading
 [TinyWow](https://tinywow.com/) Free AI Writing, PDF, Image, and other Online Tools.
@@ -141,3 +177,7 @@ framer.com - website builder
 [Online PDF Converter](https://online2pdf.com/) Fast, easy to use & free!
 
 [Fake Data](https://fakerjs.dev/) Modern version of Lorem Ipsum generator.
+
+
+## Zanaat & Usta
+[Akyürek Home Design (@akyurekhomedesign) • Instagram photos and videos](https://www.instagram.com/akyurekhomedesign?igsh=MXdpZ3NkeDdodzMzdA%3D%3D)

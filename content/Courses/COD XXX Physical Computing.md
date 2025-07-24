@@ -22,25 +22,32 @@ The curriculum emphasizes the vast creative potential of these technologies with
 The focus on students with "no or beginner-level" experience is paramount to the course design. The syllabus and all instructional materials will explicitly address this, aiming to create a welcoming and supportive learning environment that demystifies technology and encourages exploration.
 
 ## Learning Objectives
+
+1. Design and produce significant creative coding project.
+2. Design a custom hardware/sensor/interface system.
+3. Design a custom software system.
+4. Develop creative utilization/repurposing of multimedia content.
+5. Implement an original and complex multi-disciplinary design.
+6. 
 Upon successful completion of this course, students will be able to:
 
-1. **Explain** core concepts of physical computing and **identify** its applications within communication design and new media.
+6. **Explain** core concepts of physical computing and **identify** its applications within communication design and new media.
     
-2. **Set up and operate** Arduino and Raspberry Pi platforms, including installing required software and executing basic interactive projects.
+7. **Set up and operate** Arduino and Raspberry Pi platforms, including installing required software and executing basic interactive projects.
     
-3. **Design and build** simple electronic circuits using components such as resistors, LEDs, and switches.
+8. **Design and build** simple electronic circuits using components such as resistors, LEDs, and switches.
     
-4. **Integrate** various input devices (e.g., sensors, buttons, potentiometers) with microcontrollers to collect and interpret physical data.
+9. **Integrate** various input devices (e.g., sensors, buttons, potentiometers) with microcontrollers to collect and interpret physical data.
     
-5. **Control** output devices (e.g., LEDs, motors, servos, speakers) to create interactive feedback in physical systems.
+10. **Control** output devices (e.g., LEDs, motors, servos, speakers) to create interactive feedback in physical systems.
     
-6. **Develop** basic programming skills including the use of variables, data types, control structures, and functions relevant to physical computing.
+11. **Develop** basic programming skills including the use of variables, data types, control structures, and functions relevant to physical computing.
     
-7. **Prototype** interactive systems using breadboards and iterative design techniques.
+12. **Prototype** interactive systems using breadboards and iterative design techniques.
     
-8. **Apply** fundamental interaction design principles to develop intuitive and engaging physical computing experiences.
+13. **Apply** fundamental interaction design principles to develop intuitive and engaging physical computing experiences.
     
-9. **Document and present** project development and outcomes effectively, demonstrating technical understanding and design process.
+14. **Document and present** project development and outcomes effectively, demonstrating technical understanding and design process.
 
 ## Hardware Requirements
 Students enrolled in this course will be required to have access to either an Arduino microcontroller board (such as the widely used Arduino Uno) or a Raspberry Pi single-board computer (Model 4 or a comparable equivalent is recommended for optimal performance).1 Alongside the chosen platform, students are strongly encouraged to acquire a basic electronics starter kit. This kit should contain essential components necessary for completing the weekly exercises and initial assignments. A recommended list of components for the starter kit includes:
