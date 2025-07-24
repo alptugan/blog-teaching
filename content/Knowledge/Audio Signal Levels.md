@@ -51,10 +51,9 @@ Unbalanced audio, conversely, transmits a single audio signal, typically using a
 *   **Susceptibility:** Because there’s no reference signal to cancel out noise, unbalanced cables are more susceptible to RFI and ground loops.  The longer the cable, the greater the potential for noise to be introduced.
 *   **Applications:** Unbalanced audio is frequently used for shorter cable runs, such as connecting a microphone to a small mixer or a line-level source to a consumer-grade amplifier.
 
-
-
 Understanding these four categories of audio signals – analog, digital, balanced, and unbalanced – is fundamental to effective audio design, troubleshooting, and signal management in professional audio environments.  Each type presents unique challenges and requires specific techniques to ensure optimal performance and signal quality.
 
+## Sound Source Signal Levels
 Audio signals produce varying voltage levels, categorized into four distinct types (Figure 1): 
 1. Mic Level
 2. Instrument Level
@@ -65,17 +64,16 @@ Audio signals produce varying voltage levels, categorized into four distinct typ
 <div style="width:90%;margin:auto"><font size="2" color="#ccc"><center>Figure 1. A Complete Sound System Showcasing Different Devices (Mathias, 2020)</center></font></div>
 
 
-## 1. Microphone Level
+### 1. Microphone Level
 Microphones pick up sound by changing air pressure into electrical signals, but these signals are really quiet. That’s why we use a microphone preamp. The preamp makes the signal stronger so we can actually hear it. It takes the weak signal from the microphone and boosts it to a level that’s ready to be used.
 
-
-## 2. Instrument Level
+### 2. Instrument Level
 When you play an electric guitar, the vibrations of the strings turn into a tiny electrical signal, just like a microphone (Figure 2). Different than microphone, electric guitar uses a pickup to convert analog signal to electrical signal. This signal is usually very weak. A preamp then strengthens this signal so it’s strong enough to work with other equipment.
 
 ![[instrument-level.jpeg|center|500]]
 <div style="width:90%;margin:auto"><font size="2" color="#ccc"><center>Figure 2. The Image Shows Instrument Level Range (Mixed Signals, 2023)</center></font></div>
 
-## 3. Line Level
+### 3. Line Level
 Upon reaching line level, the signal is configured to effectively utilize professional audio systems, including mixing consoles, external effects processors, and amplifiers. 
 
 Signal levels are typically referenced to two distinct standards: +4 dBu for professional applications and -10 dBV for consumer devices.
@@ -83,12 +81,12 @@ Signal levels are typically referenced to two distinct standards: +4 dBu for pro
 > [!Note]
 > Refer to the following [video](https://www.youtube.com/watch?v=F4r3WI-JXlc) to get more information about <font color="#ffc000">dB</font> values.
 
-### 3.1. Professional Level Line Level
+#### 3.1. Professional Level Line Level
 Most professional mixing consoles, signal processors and amplifiers operate on `+4 dBu` level.
-### 3.2. Consumer Level Line Level
+#### 3.2. Consumer Level Line Level
 Blue-ray players, CD players, most home stereo systems operate on `-10dBV` level.
 
-## 4. Speaker Level
+### 4. Speaker Level
 A line-level signal is sufficient for device communication; however, it lacks the power necessary to drive a speaker. Consequently, a power amplifier is required to elevate the signal’s amplitude, generating a speaker-level output suitable for audio devices.
 
 Variations in audio signal types result in corresponding differences in voltage levels, as depicted in Figure 3.
