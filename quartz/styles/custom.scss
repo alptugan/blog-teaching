@@ -16,7 +16,7 @@ li {
   object-fit: cover;
   object-position: center center;
 }
-@import "./MCL Multi Column";
+@use "./MCL Multi Column";
 
 /* width */
 ::-webkit-scrollbar {
