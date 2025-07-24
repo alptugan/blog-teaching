@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./MCL Multi Column.css" as MCL;
 
 .folder-title, li a {
 
@@ -16,7 +17,6 @@ li {
   object-fit: cover;
   object-position: center center;
 }
-@use "./MCL Multi Column";
 
 /* width */
 ::-webkit-scrollbar {
