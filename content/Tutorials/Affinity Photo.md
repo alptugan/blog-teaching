@@ -33,3 +33,11 @@ To create text boxes in Affinity Photo left-click and hold mouse, then select th
 - Hit `CMD + C`
 - Select destination layer.
 - Hit `CMD + Ctrl + V`
+
+## Duplicating Objects
+The following [YouTube](https://www.youtube.com/watch?v=fCI3hSIWQwE) video showcases how to create grids using key combinations.
+- Select an object
+- Hold down `Option` key 
+- If you click `RIGHT ARROW` key the object is duplicated to the right.
+- If you click `LEFT ARROW` key the object is duplicated to the left.
+- If you hold down `RIGHT ARROW` key the distance between the original shape and duplicated shape increases or decreases. The same practice is relevant for each direction.

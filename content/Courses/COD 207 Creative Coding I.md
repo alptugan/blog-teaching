@@ -10,6 +10,25 @@ draft: false
 ---
 >Some of the contents in [[Selected Creative Coding Assignments]] will move here in order to keep everything organized.
 
+
+> [!NOTE] Check the following content for case studies!
+> [Labs \| Art and Interaction Computing](https://comp.anu.edu.au/courses/comp1720/labs/)
+
+
+> [!NOTE] How should you include the Creative Coding into your CV 
+> When designing your portfolio include the programming skill as creative coding (Javascript, p5.js).
+> Other than the above, follow the instructions below;
+> - ps5js ❌
+> - p5js ❌
+> - coding ❌
+> - programming ❌
+> - openProcessing ❌
+> - Creative Coding (Javascript) ✅
+> - Creative Coding (Javascript, p5.js) ✅
+> - Programming (Javascript, p5.js framework) ✅
+> 
+
+
 ## Introduction
 COD 207 Creative Coding I is a foundational course designed to introduce students to the essential principles of programming within the realm of creative coding. Through hands-on experiences with algorithmic art practices, students will gain a comprehensive understanding of the fundamental concepts that underlie this innovative field.
 

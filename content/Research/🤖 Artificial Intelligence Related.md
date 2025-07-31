@@ -225,3 +225,5 @@ Rewrite this article changing 50% of nouns and verbs for similar ones and rewrit
 [https://www.instagram.com/p/C45zxYMtNIO/?igsh=MTZmZmFlaHFnYmxjbQ==](https://www.instagram.com/p/C45zxYMtNIO/?igsh=MTZmZmFlaHFnYmxjbQ==)
 
 
+# Agents
+[GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file)

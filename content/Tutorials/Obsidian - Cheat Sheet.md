@@ -29,6 +29,13 @@ draft: false
 [Example Code](file:///Users/alptugan/Zotero/storage/ELS8XFWB)
 ```
 
+### 3.2. Blank Space Folder Paths
+When there are blank spaces in the folder path, use `%20` for each blank space input.
+```markdown
+[path](file:///Users/alptugan/Documents/Teaching/official%20papers/COURSE%20CDF/COD%20417%20-%20Game%20Design)
+```
+
+
 ## 4. Image Grid
 ```yml
 ---

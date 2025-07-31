@@ -9,45 +9,55 @@ draft: true
 cssclasses:
   - wide-page
 share_link: https://share.note.sx/c0tj8t1n#mySVNFIrLOrwbPWXmdIlGrgrMyUoEbyuw+B8pe01ax4
-share_updated: 2025-05-30T21:52:30+03:00
+share_updated: 2025-07-28T14:06:41+03:00
 ---
+![[cover-Physical-compution.jpg]]
 ## Course Objective
+### EN
 The educational objective of this course is to introduce students with little or no technical background to the foundational principles of physical computing through hands-on, project-based learning. By combining basic electronics, programming, and interaction design, the course empowers students to creatively explore and prototype interactive objects and environments.
 
+### TR
+Bu dersin eğitim amacı, teknik bilgisi az olan veya hiç olmayan öğrencilere uygulamalı ve proje tabanlı öğrenme yoluyla fiziksel bilişimin temel prensiplerini tanıtmaktır. Ders; temel elektronik ekipmanları , programlamayı ve etkileşim tasarımını birleştirerek, öğrencileri etkileşimli nesneleri ve ortamları yaratıcı bir şekilde keşfetmeye ve prototiplemeye teşvik eder.
 ## Course Description
-This course provides an engaging introduction to the dynamic field of physical computing, specifically tailored for Communication Design students who may have limited or no prior experience with programming and electronics. Physical computing explores the exciting intersection between the digital realm and the tangible world, enabling the creation of interactive objects and environments through the use of computer hardware and software. This course will utilize popular microcontroller platforms such as Arduino and single-board computers like Raspberry Pi to facilitate hands-on, project-based learning.
+> [!NOTE]- Not used
+> This course provides an engaging introduction to the dynamic field of physical computing, specifically tailored for Communication Design students who may have limited or no prior experience with programming and electronics. Physical computing explores the exciting intersection between the digital realm and the tangible world, enabling the creation of interactive objects and environments through the use of computer hardware and software. This course will utilize popular microcontroller platforms such as Arduino and single-board computers like Raspberry Pi to facilitate hands-on, project-based learning.
+>
+>The curriculum emphasizes the vast creative potential of these technologies within the disciplines of new media and interactive design. Students will progressively learn the fundamental concepts underpinning electronics, programming, and interaction design. This knowledge will empower them to prototype and develop innovative projects that are capable of sensing, responding to, and actively interacting with their surrounding environment. The course structure will follow a gradual progression, starting with basic principles and systematically advancing towards more intricate applications. This step-by-step approach is designed to build a strong foundation of understanding and skill, ultimately fostering a "design-through-making" ethos where experimentation and tangible creation are central to the learning process.
+>
+>The focus on students with "no or beginner-level" experience is paramount to the course design. The syllabus and all instructional materials will explicitly address this, aiming to create a welcoming and supportive learning environment that demystifies technology and encourages exploration.
+### EN
+This course offers an engaging introduction to physical computing, specifically designed for Communication Design students with limited or no prior experience in programming and electronics. Physical computing explores the intersection of the digital and tangible worlds, enabling the creation of interactive objects and environments using computer hardware and software. Utilizing tools like Arduino and Raspberry Pi, the curriculum emphasizes the creative potential of these technologies within new media and interactive design. Students will progressively learn fundamental concepts in electronics, programming, and interaction design, empowering them to prototype innovative projects that sense, respond to, and interact with their environment. The course gradually advances from basic principles to intricate applications, fostering a "design-through-making" ethos where experimentation and tangible creation are central. The course design prioritizes a welcoming and supportive learning environment, demystifying technology for beginners.
 
-The curriculum emphasizes the vast creative potential of these technologies within the disciplines of new media and interactive design. Students will progressively learn the fundamental concepts underpinning electronics, programming, and interaction design. This knowledge will empower them to prototype and develop innovative projects that are capable of sensing, responding to, and actively interacting with their surrounding environment. The course structure will follow a gradual progression, starting with basic principles and systematically advancing towards more intricate applications. This step-by-step approach is designed to build a strong foundation of understanding and skill, ultimately fostering a "design-through-making" ethos where experimentation and tangible creation are central to the learning process.
-
-The focus on students with "no or beginner-level" experience is paramount to the course design. The syllabus and all instructional materials will explicitly address this, aiming to create a welcoming and supportive learning environment that demystifies technology and encourages exploration.
+### TR
+Bu ders, fiziksel bilişim pratiklerine giriş niteliğinde olup, özellikle programlama ve elektronik konusunda sınırlı veya hiç deneyimi olmayan İletişim Tasarımı öğrencileri için tasarlanmıştır. Fiziksel bilişim, sayısal ve sayısal olmayan ortamların ilişkisi bağlamında, bilgisayar donanımı ve yazılımını kullanarak etkileşimli nesneler ve ortamlar oluşturulmasını sağlar. Arduino ve Raspberry Pi gibi araçların kullanıldığı ders, bu teknolojilerin yeni medya ve interaktif tasarım alanındaki yaratıcı potansiyelini öğrencilere sunar. Öğrenciler elektronik, programlama ve etkileşim tasarımındaki temel kavramları aşamalı olarak öğrenecek, bu da onlara çevrelerini algılayan, yanıt veren ve etkileşimde bulunan yenilikçi projeler prototipleme yeteneği kazandıracaktır. Ders, temel prensiplerden karmaşık uygulamalara doğru kademeli olarak ilerleyerek, deneysel yaklaşımın öğrenme sürecinin merkezinde olduğu bir "yaparak tasarım" anlayışı çerçevesinde işlenecektir. Ders içeriği, elektronik konusunda bilgisi olmayanlar için teknolojiyi anlaşılır kılarak, destekleyici bir öğrenme ortamına öncelik vermektedir.
 
 ## Learning Objectives
+> [!NOTE]- Not Used
+> 
+>1. Design and produce significant creative coding project.
+>2. Design a custom hardware/sensor/interface system.
+>3. Design a custom software system.
+>4. Develop creative utilization/repurposing of multimedia content.
+>5. Implement an original and complex multi-disciplinary design.
+>
+>Upon successful completion of this course, students will be able to:
+>
+>6. **Explain** core concepts of physical computing and **identify** its applications within communication design and new media.
+>7. **Set up and operate** Arduino and Raspberry Pi platforms, including installing required software and executing basic interactive projects.
+>8. **Design and build** simple electronic circuits using components such as resistors, LEDs, and switches.
+>9. **Integrate** various input devices (e.g., sensors, buttons, potentiometers) with microcontrollers to collect and interpret physical data.
+>10. **Control** output devices (e.g., LEDs, motors, servos, speakers) to create interactive feedback in physical systems.
+>11. **Develop** basic programming skills including the use of variables, data types, control structures, and functions relevant to physical computing.
+>12. **Prototype** interactive systems using breadboards and iterative design techniques.
+>13. **Apply** fundamental interaction design principles to develop intuitive and engaging physical computing experiences.
+>14. **Document and present** project development and outcomes effectively, demonstrating technical understanding and design process.
 
-1. Design and produce significant creative coding project.
-2. Design a custom hardware/sensor/interface system.
-3. Design a custom software system.
-4. Develop creative utilization/repurposing of multimedia content.
-5. Implement an original and complex multi-disciplinary design.
-6. 
-Upon successful completion of this course, students will be able to:
-
-6. **Explain** core concepts of physical computing and **identify** its applications within communication design and new media.
-    
-7. **Set up and operate** Arduino and Raspberry Pi platforms, including installing required software and executing basic interactive projects.
-    
-8. **Design and build** simple electronic circuits using components such as resistors, LEDs, and switches.
-    
-9. **Integrate** various input devices (e.g., sensors, buttons, potentiometers) with microcontrollers to collect and interpret physical data.
-    
-10. **Control** output devices (e.g., LEDs, motors, servos, speakers) to create interactive feedback in physical systems.
-    
-11. **Develop** basic programming skills including the use of variables, data types, control structures, and functions relevant to physical computing.
-    
-12. **Prototype** interactive systems using breadboards and iterative design techniques.
-    
-13. **Apply** fundamental interaction design principles to develop intuitive and engaging physical computing experiences.
-    
-14. **Document and present** project development and outcomes effectively, demonstrating technical understanding and design process.
+1. Dirençler, LED'ler ve anahtarlar gibi bileşenleri kullanarak basit elektronik devreler tasarlamak ve çalıştırmak.
+2. Çeşitli girdi aygıtlarını (örn. sensörler, butonlar, potansiyometreler) mikro-denetleyicilerle entegre ederek fiziksel verileri toplamak ve yorumlamak.
+3. Çeşitli çıktı aygıtlarını (örn. LED'ler, motorlar, ekranlar, hoparlörler) kontrol ederek fiziksel sistemlerde etkileşimli geri bildirimler oluşturmak.
+4. Fiziksel bilişimle ilgili değişkenler, veri tipleri, kontrol yapıları ve fonksiyonların kullanımı dahil olmak üzere temel programlama becerilerini geliştirmek.
+5. Devre tahtaları (breadboard) ve iteratif tasarım tekniklerini kullanarak etkileşimli sistemlerin prototiplerini oluşturmak.
+6. Sezgisel ve ilgi çekici fiziksel bilişim deneyimleri geliştirmek için temel etkileşim tasarımı prensiplerini uygulamak.
 
 ## Hardware Requirements
 Students enrolled in this course will be required to have access to either an Arduino microcontroller board (such as the widely used Arduino Uno) or a Raspberry Pi single-board computer (Model 4 or a comparable equivalent is recommended for optimal performance).1 Alongside the chosen platform, students are strongly encouraged to acquire a basic electronics starter kit. This kit should contain essential components necessary for completing the weekly exercises and initial assignments. A recommended list of components for the starter kit includes:
