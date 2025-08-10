@@ -10,7 +10,7 @@ aliases:
 draft: true
 ---
 ![[prompt_engineering.jpg |  | 300]]
-## ChatGPT 4o
+## Improve the Answer 
 In order to improve the answer. Ask your question first.
 > Summarize the findings from attached document
 
@@ -20,6 +20,8 @@ Then, sen another message to improve the quality of AI response.
 In the final step, instruct the GPT to polish the response one more time.
 > Now take your previous answer to Level 3. Give me the most comprehensive answer.
 
+## Create Documentation from Uploaded Code
+Create a markdown document detailing this code and how to use it.
 
 ## Gemini + Notebook LM
 Reference [video](https://www.youtube.com/watch?v=hqBkKMT1IPQ)

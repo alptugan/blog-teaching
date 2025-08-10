@@ -270,6 +270,14 @@ scp -r /Users/username/Documents/Obsidian/ sshUsername@192.168.1.247:/DATA/AppDa
 # The ****SED (Stream Editor)**** command in Unix/Linux is a powerful utility used to process and manipulate text in files. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more, without the need to open the file in an editor.
 ```
 
+
+### ssh
+Connect to the cloud machine via SSH using private key file.
+```bash
+ssh -i /Users/alptugan/Documents/DEVS/dotFiles/ssh-key-2025-08-06.key ubuntu@public-ip-add
+```
+
+
 ### systemctl
 ```bash
 # Grep anything that has prefix `teamwiever`

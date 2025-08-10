@@ -13,6 +13,7 @@ draft: false
 
 > [!NOTE] Check the following content for case studies!
 > [Labs \| Art and Interaction Computing](https://comp.anu.edu.au/courses/comp1720/labs/)
+> [Creative Coding Projects](https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b)
 
 
 > [!NOTE] How should you include the Creative Coding into your CV 

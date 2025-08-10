@@ -52,12 +52,13 @@ Other notable mentions include; OpenSky Network, The Movie DB API, Open Food Fac
 
 1. [100 List of Restful APIs](https://dev.to/hanzla-baig/100-free-apis-for-developers-in-2024-1jfi)
 2. [Public APIs — A directory of free and public apis](https://publicapis.io/)
-3. [Get Weather Information](https://editor.p5js.org/jackbdu/sketches/DwblU8agP)
-4. [NY Times Content](https://editor.p5js.org/jackbdu/sketches/XLWlj2qZw)
-5. ⭐ [List of Public APIs](https://github.com/public-apis/public-apis) Huge list of API 
-6. [🚀 10 Free APIs Every Developer Should Experiment With! 🔧 - DEV Community](https://dev.to/dct_technologyprivatelimited/10-free-apis-every-developer-should-experiment-with-47d8)
-7. [Turns websites into data — Microlink](https://microlink.io/) A web scraper, screen shot web pages, pdf generator, fav icon capture. It provides API calls as well as node.js
-8. [AFAD](https://deprem.afad.gov.tr/event-service) Türkiye Earthquake API
+3. [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
+4. [Get Weather Information](https://editor.p5js.org/jackbdu/sketches/DwblU8agP)
+5. [NY Times Content](https://editor.p5js.org/jackbdu/sketches/XLWlj2qZw)
+6. ⭐ [List of Public APIs](https://github.com/public-apis/public-apis) Huge list of API 
+7. [🚀 10 Free APIs Every Developer Should Experiment With! 🔧 - DEV Community](https://dev.to/dct_technologyprivatelimited/10-free-apis-every-developer-should-experiment-with-47d8)
+8. [Turns websites into data — Microlink](https://microlink.io/) A web scraper, screen shot web pages, pdf generator, fav icon capture. It provides API calls as well as node.js
+9. [AFAD](https://deprem.afad.gov.tr/event-service) Türkiye Earthquake API
 
 
 ## CSV Data

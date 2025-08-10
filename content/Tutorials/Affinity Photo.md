@@ -34,8 +34,12 @@ To create text boxes in Affinity Photo left-click and hold mouse, then select th
 - Select destination layer.
 - Hit `CMD + Ctrl + V`
 
+
+## Creating Grid Templates
+Watch the following [YouTube](https://www.youtube.com/watch?v=gUzkRue28VI) video to learn the basics of utilizing grids in your design.
+
 ## Duplicating Objects
-The following [YouTube](https://www.youtube.com/watch?v=fCI3hSIWQwE) video showcases how to create grids using key combinations.
+The following [YouTube](https://www.youtube.com/watch?v=fCI3hSIWQwE) video showcases how to create grids using key combinations. 
 - Select an object
 - Hold down `Option` key 
 - If you click `RIGHT ARROW` key the object is duplicated to the right.

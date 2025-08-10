@@ -12,9 +12,16 @@ share_link: https://share.note.sx/c0tj8t1n#mySVNFIrLOrwbPWXmdIlGrgrMyUoEbyuw+B8p
 share_updated: 2025-07-28T14:06:41+03:00
 ---
 ![[cover-Physical-compution.jpg]]
+## Name Suggestions
+- Experimental Interfaces / Deneysel Arayüzler 
+- 
+
 ## Course Objective
 ### EN
 The educational objective of this course is to introduce students with little or no technical background to the foundational principles of physical computing through hands-on, project-based learning. By combining basic electronics, programming, and interaction design, the course empowers students to creatively explore and prototype interactive objects and environments.
+
+#### Alternative
+Class explores issues surrounding embodied approaches to interface design. Articulates methodology for generating new forms of human/computer interface; includes workshops, discussions, student presentations, critiques and group brainstorming sessions. Content related to biomimetics; haptic body knowledge; multi-modal sensing; physical computing; physical | digital relationships; networked relations; the potentials of virtual space and different qualities of space, both visual and sonic. Database potentials discussed and explored in service of developing new approaches to interface. Instructor consent required.
 
 ### TR
 Bu dersin eğitim amacı, teknik bilgisi az olan veya hiç olmayan öğrencilere uygulamalı ve proje tabanlı öğrenme yoluyla fiziksel bilişimin temel prensiplerini tanıtmaktır. Ders; temel elektronik ekipmanları , programlamayı ve etkileşim tasarımını birleştirerek, öğrencileri etkileşimli nesneleri ve ortamları yaratıcı bir şekilde keşfetmeye ve prototiplemeye teşvik eder.

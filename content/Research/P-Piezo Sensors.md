@@ -99,6 +99,12 @@ The second version of the casing includes additional brackets to attach the sens
 
 
 As shown in the Figure XX, the case for the piezo and preamp circuit was covered with sticky conductive aluminum tape to avoid external magnetic field causing the background hum noise.
+
+#### Casing V3
+Third version of the case has ticker case. Placing the magnet into the case can be problematic. The  solder points on the piezo are protruding. It causes an empty space under the magnet. The bottom closed part of the case plus the extra space between the piezo cause the magnet to reduce its magnetic power. It also makes the build process harder to fit materials inside the case within the preamp circuit. To overcome magnetic power-loss and easing the assembly process, nineteen 2x4 (radius x height) cylindrical holes around the piezo under the case and attach magnets inside those holes (Figure XXX).
+
+![[piezo-preamp-casev3.jpg|center|500]]
+
 ### Version 03
 ![[2n5457.jpg|center]]
 

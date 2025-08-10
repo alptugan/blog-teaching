@@ -10,17 +10,14 @@ draft: false
 ---
 The following post includes online development tools for productivity frequently. You may want to check [[REST API]] page further online tools providing API to retrieve specific data.
 
-
 ## Broken White Tones
 🌕 Off White [#FAF9F6](https://www.instagram.com/explore/tags/faf9f6/)  
-  
 ❄️ Snow [#FFFAFA](https://www.instagram.com/explore/tags/fffafa/)  
-  
 🟡 Ivory [#FFFFF0](https://www.instagram.com/explore/tags/fffff0/)  
-  
 🧊 Alice Blue [#F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
-  
 👻 Ghost White [#F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
+
+[Beautiful themes for shadcn/ui — tweakcn \| Theme Editor & Generator](https://tweakcn.com/)
 
 ## Productivity & Devs
 [Crontab.guru - The cron schedule expression generator](https://crontab.guru/#*/60_10-22/3_*_*_*) helps me to validate `crontab` scheduling format.
@@ -69,6 +66,10 @@ The following post includes online development tools for productivity frequently
 ## Design
 ⭐️ [Discover Best Web Design Tools in The Internet](https://bestwebdesigntools.com/)
 
+⭐ [FossFLOW](https://stan-smith.github.io/FossFLOW/) Isometric Mindmap Tool
+
+[Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
+
 [Colour Contrast Checker](https://colourcontrast.cc/?background=1e1e1e&foreground=facd17) Check the contrast between different color combinations against WCAG standards.
 
 [Mixkit](https://mixkit.co/) Awesome free assets for your next video project.
@@ -78,21 +79,19 @@ The following post includes online development tools for productivity frequently
 [Lummi — Free AI Stock Images, Illustrations & 3D](https://www.lummi.ai/)
 
 [Grainient](https://grainient.supply/freebies) Gradient backgrounds.
+[photogradient](https://photogradient.com/) Create gradients online
 
 framer.com - website builder
 
 [Supahero](https://www.supahero.io/) Website hero section library.
 
-[Shots](https://shots.so/) Create Amazing Mockups. Apple focused mockups like, desktop, iPhone and browser.
 
+### Mockups
 [Mockuply](https://mockuply.pro/) Paid mockups. Can be used as inspiration.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
 [Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
 [ContentCore](https://contentcore.xyz/) 3D mockups, free tier.
-
-[photogradient](https://photogradient.com/) Create gradients online
-
-[Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
+[Shots](https://shots.so/) Create Amazing Mockups. Apple focused mockups like, desktop, iPhone and browser.
 
 ### Icons
 - [Over 5000+ free icns icons](https://macosicons.com/#/) Could be useful for [[P-iCNS Creator]] app. 
