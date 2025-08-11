@@ -270,6 +270,10 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 ## Database & CMS
 [NocoDB](https://github.com/nocodb/nocodb) Create databases as if using spreadsheets.
+[MongoDB](https://www.mongodb.com/pricing), free service, [tutorial](https://www.youtube.com/watch?v=ZeUX5aV-2Yk)
+[db4free](https://db4free.net/), MySQL free db
+[FreeSQLdatabase](https://www.freesqldatabase.com/),MySQL free db
+[Oracle Cloud MySQL Db](https://cloud.oracle.com/limits?region=eu-frankfurt-1), tutorial on how to create one [link](https://www.youtube.com/watch?v=CNVldnsrWgI)
 ⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file
 [Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)

@@ -84,6 +84,7 @@ In the end, using GitHub you can also host your portfolio page, or any other web
 You can set a custom domain for your app or portfolio page. To do that you need to order a custom domain name from a domain provider like [GoDaddy](https://www.godaddy.com/tr-tr), [NameCheap](https://www.namecheap.com/), [Hostinger](https://www.hostinger.com/domain-name-search), [Registerer](https://www.register.com/), etc... It costs 15-20 $ for a yearly subscription plan. Each provider charges with different amount of money.
 
 After you register your domain name you can set a custom domain instead of `github.io/projectName`, you can use something like `simpleAR.com`. The following tutorial shows how you can host your custom web application or portfolio page using a custom domain registered on *NameCheap* domain provider.
+
 <iframe title="How to Host a Website on GitHub Pages Free (Custom Domain Setup Included)" src="https://www.youtube.com/embed/e5AwNU3Y2es?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
 ## References

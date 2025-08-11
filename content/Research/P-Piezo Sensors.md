@@ -76,8 +76,9 @@ The problems with using the piezo disk as a microphone as follows;
 Because of its high Voltage output with low current, traditional audio devices cannot handle those Voltage spikes and generates clippings. When one gains the recorded/monitored signal, this time noisy signals are increased. 
 
 ### Version 01 
-Piezo is directly connected to a shielded mono audio cable. A powerful magnet placed on top of the piezo and covered with hot general purpose silicon to isolate the sensor from external contacts. 
+Piezo is directly connected to a shielded mono audio cable. A powerful magnet placed on top of the piezo and covered with hot general purpose silicon to isolate the sensor from external contacts. This version is prone to environmental noises causing by the electromagnetic fields such as electricity cables connected to power sources around the recording spot.
 
+![[contact_mic_v1.jpg|-center|500]]
 
 ### Version 02
 **Circuit diagram:** [piezo contact microphone preamp for plug-in-power – Richard Mudhar](https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-plug-in-power/) (Figure I)
@@ -101,9 +102,14 @@ The second version of the casing includes additional brackets to attach the sens
 As shown in the Figure XX, the case for the piezo and preamp circuit was covered with sticky conductive aluminum tape to avoid external magnetic field causing the background hum noise.
 
 #### Casing V3
-Third version of the case has ticker case. Placing the magnet into the case can be problematic. The  solder points on the piezo are protruding. It causes an empty space under the magnet. The bottom closed part of the case plus the extra space between the piezo cause the magnet to reduce its magnetic power. It also makes the build process harder to fit materials inside the case within the preamp circuit. To overcome magnetic power-loss and easing the assembly process, nineteen 2x4 (radius x height) cylindrical holes around the piezo under the case and attach magnets inside those holes (Figure XXX).
+Third version of the case has ticker case. Placing the magnet into the case can be problematic. The  solder points on the piezo are protruding. It causes an empty space under the magnet. The bottom closed part of the case plus the extra space between the piezo cause the magnet to reduce its magnetic power. It also makes the build process harder to fit materials inside the case within the preamp circuit. To overcome magnetic power-loss and easing the assembly process, nineteen 2x4 mm (radius x height) cylindrical holes around the piezo under the case and attach magnets inside those holes (Figure XXX).
 
 ![[piezo-preamp-casev3.jpg|center|500]]
+
+After the case 3D printing is done, since the hole radius are too tiny, a drill is used to larger the holes to fit magnets inside them. Also the inside of the box is sealed with aluminium foil tape to isolate magnetic field-based electric signal. 
+
+
+The assembly process is straight forward according for the housing for the piezo. A small PCB used to hold the circuit components of the preamp. The components soldered onto the PCB according to the diagram (Figure XXX).  
 
 ### Version 03
 ![[2n5457.jpg|center]]
