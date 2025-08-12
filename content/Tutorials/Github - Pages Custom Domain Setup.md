@@ -53,4 +53,5 @@ After adding the apex domain, you can also add subdomains via `CNAME` records.
 - Create a file called `CNAME` and type the subdomain address.
   ![[github-custom-domain06.jpeg|-center|500]]
 - Save the file and push to GitHub repository.
-- Next
+- Goto the domain provider control panel and add `CNAME` record for the chosen subdomain as is [[#2. DNS Zone Editor]] step.
+  ![[github-custom-domain07.jpeg|-center|500]]
