@@ -36,14 +36,14 @@ sh /Users/alptugan/Documents/DEVS/scripts/update_blog
 
 ### TL;DR Cheat Sheet
 ```bash
-# upload to Github
-npx quartz sync
-
 # update Quartz -> https://quartz.jzhao.xyz/upgrading
 npx quartz update
 
-# test
+# preview
 npx quartz build --serve
+
+# upload to Github
+npx quartz sync
 
 # Updating content via terminal 
 sh /Users/alptugan/Documents/DEVS/scripts/update_blog
