@@ -7,6 +7,10 @@ tags:
 aliases: 
 draft: false
 ---
+## Mobilya
+[Storish Mobilya \| Evim İçin Alışveriş](https://www.storish.com/)
+
+
 List of monitor displays that I'm thinking about to as an extended display for my Macbook Pro M2 laptop. 
 
 

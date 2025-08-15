@@ -7,7 +7,7 @@ tags:
   - productivity
   - swiftui
 aliases: 
-draft: false
+draft: true
 ---
 - [ ] Add scheduler for specific time amount. If 4 hours of inactivity shutdown mac.
 - [x] [https://www.bresink.com/osx/301031383/screenshots.html](https://www.bresink.com/osx/301031383/screenshots.html) (UI for one-time events)

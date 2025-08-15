@@ -18,6 +18,13 @@ I am using the big-AGI couple of times. Somehow it doesn’t fit my needs in ter
 
 ⭐️[Open Web UI](https://github.com/open-webui/open-webui) Tested on damp server. It cannot use GPU or my hardware is not good enough to run the models.
 
+⭐️ [How to Build a Local AI Agent With n8n](https://www.youtube.com/watch?v=qqjzohCle48)
+- PostgresSQL extension VS Code a kuruldu
+- PostgresSQL Database server'a kuruldu
+
+
+https://www.perplexity.ai/?q=Summarize the following text in short, use third person voice;{selection}
+
 [https://gpt4all.io/index.html](https://gpt4all.io/index.html)
 
 [https://github.com/go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)
@@ -45,6 +52,7 @@ Use llava model to analyze image, and generate textual content. Example usage [h
 ## Tutorials
 ### Video & Written
 [Ollama Course – Build AI Apps Locally](https://www.youtube.com/watch?v=GWB9ApTPTv4) This comprehensive course provides instruction on configuring and utilizing Ollama to develop sophisticated artificial intelligence applications within a localized environment. The hands-on curriculum encompasses topics such as model retrieval and customization, REST API integration, Python programming, and practical project implementation, including examples like a Grocery List Organizer, RAG System, and an AI Recruiter Agency. This course is particularly suited for developers and individuals with a keen interest in artificial intelligence who wish to translate their concepts into tangible realities utilizing local large language models.
+
 
 ### Code Snippets to Use REST API
 ```bash

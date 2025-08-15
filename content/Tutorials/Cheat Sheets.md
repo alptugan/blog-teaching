@@ -222,6 +222,12 @@ ps -ef | grep "irlz*"
 ```
 
 
+### pyenv
+```shell
+# Stop Python virtual env
+pyenv shell system
+```
+
 ### rm
 ```shell
 # Delete the folder_name directory and file_name document

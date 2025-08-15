@@ -48,7 +48,7 @@ Wait...
 Check the domain next day.
 
 ## 5. Subdomain Entry
-After adding the apex domain, you can also add subdomains via `CNAME` records. 
+After adding the apex domain, you can also add subdomains via `CNAME` records. You need to verify the subdomain on GitHub as defined above in **step 1** and **step 2**.
 - Goto GitHub repository on your local device.
 - Create a file called `CNAME` and type the subdomain address.
   ![[github-custom-domain06.jpeg|-center|500]]
