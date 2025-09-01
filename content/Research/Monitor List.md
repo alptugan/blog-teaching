@@ -1,11 +1,11 @@
 ---
 title: Monitor List
 date: 2025-05-01 12:33:47
-description: 
+description:
 tags:
   - hardware
-aliases: 
-draft: false
+aliases:
+draft: true
 ---
 
 List of monitor displays that I'm thinking about to as an extended display for my Macbook Pro M2 laptop. 

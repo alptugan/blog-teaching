@@ -78,3 +78,15 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 - Change this [image] to a marble material
 - Change this skin to a chrome material
 - Comic strip style
+
+<div class="three-columns" style="--column-count: 3;">
+<div>
+<img src="google-banana-01.jpg">
+</div>
+<div>
+<img src="google-banana-02.jpg">
+</div>
+<div>
+<img src="google-banana-03.jpg">
+</div>
+</div>
