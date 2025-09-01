@@ -14,7 +14,6 @@ share_updated: 2025-07-28T14:06:41+03:00
 ![[cover-Physical-compution.jpg]]
 ## Name Suggestions
 - Experimental Interfaces / Deneysel Arayüzler 
-- 
 
 ## Course Objective
 ### EN
@@ -153,13 +152,14 @@ Weekly assignments will primarily involve hands-on exercises and small creative 
 
 
 ## Resources and links 
+### Basic Electronic Projects
+- [Mechanical Cabaret](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:mechanical-cabaret:start) The Mechanical Cabaret workshop introduces electromechanics through building a miniature theater-style installation. Participants create moving, spinning, and jumping elements using a motor and simple mechanics. They can personalize their cabarets and are encouraged to experiment and troubleshoot independently, with support available from the facilitator.
 ### Arduino-based Circuits
 [Micro:bit Educational Foundation \| micro:bit](https://microbit.org/)
 
 [List from ITP](https://itp.nyu.edu/physcomp/resources/parts-and-tools-guide/)
 
 [Learn how to use Tinkercad - Tinkercad](https://www.tinkercad.com/learn/circuits?collectionId=OMOZACHJ9IR8LRE) (Virtual Arduino Test Env, tutorials on several topics. Better than wokvi)
-
 
 ### Raw Circuits 
 [Reed Switch](https://www.learningaboutelectronics.com/Articles/Reed-switch-circuit.php) Turn on and off the lights with magnets.

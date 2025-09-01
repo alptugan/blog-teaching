@@ -5,7 +5,8 @@ description: Ozyegin University Creative Coding Class Student Final Project Inst
 tags:
   - teaching
   - cod208
-aliases: 
+  - AI
+aliases:
 draft: false
 ---
 ## Notes
@@ -24,6 +25,7 @@ draft: false
 [Golan Levin Example Codes](https://github.com/golanlevin/exercises/tree/main/16_machine_learning)
 
 ### AI & ML
+- **2026-Content Update**, [What is Augmented Reality](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:augmentedreality:start)
 - [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
 - [ml5.js Website](https://ml5js.org/)
 
@@ -246,8 +248,8 @@ Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14c
 ### 2024 - 2025
 - Finalize the code and submit the source code and openprocessing link.
 - Choose the most appropriate options for the artworks included in each survey. You can choose multiple choices.
-## week 9
-Holiday
+## week 9 - COMFYUI integration 
+[GitHub - gohai/p5.comfyui-helper: A library for p5.js which adds support for interacting with ComfyUI](https://github.com/gohai/p5.comfyui-helper?tab=readme-ov-file)
 
 ## week 10
 #### 2025-2026
@@ -284,7 +286,7 @@ Project Proposal Submission
 Check the following page ([[REST API#Free Restful API list|List of Free Rest APIs]]) to access more API-related content resources in the free version.
 
 # Machine Learning 
-[Daniel Schiffman](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main)
+Reference: [Daniel Schiffman](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main)
 ### 1: [Introduction](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/01-introduction) (9/5)
 ### 2: [Transfer Learning](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/02-transfer-learning) (9/12)
 ### 3: [Pre-trained models 1: Body](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/blob/main/03-body-models) (9/19)
@@ -308,9 +310,8 @@ Check the following page ([[REST API#Free Restful API list|List of Free Rest API
 # Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
-  
 
-GRADING Policy
+## Final Project Grading Policy
 
 As it is declared in the course syllabus, your final project has 30% weight on your final grade. You will be graded according to the following criteria;
 

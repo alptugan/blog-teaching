@@ -16,6 +16,9 @@ date: 2025-03-19T12:00:00
 ## PM2 
 [source](https://pm2.keymetrics.io/docs/usage/monitoring/) It helps stay up your node service whenever there occurs a problem.
 
+## AMPM
+[AMPM](https://github.com/gallagher-tech/ampm/tree/qa?tab=readme-ov-file) → App Manager for long period of time installations.
+
 ## SWC
 [source](https://swc.rs/) SWC is an extensible Rust-based platform for the next generation of fast developer tools. SWC is **20x faster than Babel** on a single thread and **70x faster** on four cores.
 
@@ -24,6 +27,8 @@ date: 2025-03-19T12:00:00
 
 [Browserless: The headless Chrome/Chromium driver on top of Puppeteer.](https://github.com/microlinkhq/browserless?tab=readme-ov-file)  The headless Chrome/Chromium driver on top of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 
+## ImageJS
+[ImageJS](https://docs.image-js.org/docs/getting-started) ImageJS is a versatile and powerful TypeScript library for image processing and analysis, offering comprehensive tools and algorithms for manipulating, enhancing, and understanding images both in Node.js and popular browsers.
 
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
@@ -65,6 +70,11 @@ date: 2025-03-19T12:00:00
 - [Eleventy](https://www.11ty.dev/docs/cms/) 
 - **Jekyll**
 	- [Alfolio](https://github.com/alshedivat/al-folio?tab=readme-ov-file), A beautiful, simple, clean, and responsive Jekyll theme for academics.
+	- [rampatra/photography](https://github.com/rampatra/photography) A free online portfolio website to showcase your photos.
+	- [Console theme](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/), [Hacked Jekyll](https://jamstackthemes.dev/theme/jekyll-hacked/)
+	- [jekflix-template](https://jekyll-themes.com/thiagorossener/jekflix-template) Netflix inspired. Suitable for portfolio
+	- [Moving](https://huangyz.name/moving/?ref=jekyll-themes.com) Clean text based blog template
+	- [jekyll-gitbook \| Jekyll Themes](https://jekyll-themes.com/sighingnow/jekyll-gitbook) Documentation Gitbook style
 - **Portfolio Templates**
 	- [A sleek portfolio built with React and Tailwind CSS \| daily.dev](https://app.daily.dev/posts/a-sleek-portfolio-built-with-react-and-tailwind-css-eekyxpbb9)
 
@@ -264,6 +274,10 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
 [Plausible](https://github.com/plausible/analytics) Open-source analytics tool for web applications.
 [Dub](https://dub.co/) Link shortener, self-host
+
+## App Bundling
+[create-dmg](https://github.com/sindresorhus/create-dmg)  Create a good-looking DMG for your macOS app in seconds.
+
 ## Documentation
 [Docz](https://www.docz.site/docs/getting-started)
 [docsify](https://docsify.js.org/#/) Generates documentation page via readme 

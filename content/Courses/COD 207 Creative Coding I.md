@@ -46,6 +46,7 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 * Functions and modules
 * How to name variables, functions and file names? (ref: [[Naming Conventions]])
 * Check tutorials CodeGuppy -> [Coding for middle school and high school students \| Free coding platform](https://codeguppy.com/index.html)
+* Inspiration, [link](https://github.com/ITPNYU/ICM-2022-Code/wiki/Inspiration) derived from Daniel Schiffman's GitHub repo.
 
 #### Week 2-3: Algorithmic Art Practices
 *   Introduction to algorithmic art tools (Processing, OpenFrameworks, etc.)

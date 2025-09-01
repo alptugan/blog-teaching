@@ -16,3 +16,9 @@ draft: true
 - 3D Model load, display and animate using Shader Helper Tool, [yTube](https://www.youtube.com/watch?v=7ko8zgE5q3U)
 - Golan Levin's lecture [notes](https://github.com/golanlevin/60-120/tree/main/2025/lectures/touchdesigner)
 - https://generativemedia.club/blog/5-youtube-channels-to-learn-touchdesigner-1-edition/
+
+### Stream Diffusion
+- [Real-time diffusion in TouchDesigner - StreamdiffusionTD Setup + Install + Settings - YouTube](https://www.youtube.com/watch?v=X4rlC6y1ahw)
+- Using with iPad as source image, [iPad drawing into StreamDiffusion - Touchdesigner Tutorial - YouTube](https://www.youtube.com/watch?v=sNKisEli3o0)
+- Magic Mirror, [TouchDesigner & StreamDiffusion: Your First Project - TouchDesigner Tutorial 207 - YouTube](https://www.youtube.com/watch?v=LCar8AIcRto)
+- [How to install StreamDiffusionTD to M1 mac. Realtime Stable Diffusion](https://www.youtube.com/watch?v=eQ4e_l5OFzo)

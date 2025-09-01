@@ -114,6 +114,82 @@ The assembly process is straight forward according for the housing for the piezo
 ### Version 03
 ![[2n5457.jpg|center]]
 
+
+## Stereo Wiring Tips
+Here’s a clear breakdown of your current wiring, potential noise issues, and alternative solutions:
+
+### 1. Your Current Wiring (Dual-Mono TRS)
+**Cable:** Mono (TS)  
+**Jack:** Stereo (TRS)  
+**Connections:**  
+- **Tip (L)** → Signal (hot)  
+- **Ring (R)** → Signal (hot) *(duplicated)*  
+- **Sleeve** → Ground  
+
+**Diagram:**  
+```
+Guitar/Piezo Preamp       Guitar Amp (Mono Input)
+   [TS Mono Cable]           [TRS Stereo Jack]
+   Signal (Hot) ────────────► Tip (L)  
+                              Ring (R) ◄─┐
+   Ground (Shield) ─────────► Sleeve     │
+                              (Signal duplicated to Ring)
+```
+**Issue:** Redundant Ring connection acts as an extra antenna for noise.
+
+---
+
+### 2. Better Alternative (Standard TS Mono)
+**Simpler, lower-noise solution:**  
+- Use a **standard TS mono jack** instead of TRS.  
+- No Ring connection = no parallel capacitance or noise coupling.  
+
+**Wiring:**  
+- **Tip** → Signal (hot)  
+- **Sleeve** → Ground  
+
+**Diagram:**  
+```
+Guitar/Piezo Preamp       Guitar Amp (Mono Input)
+   [TS Mono Cable]           [TS Mono Jack]
+   Signal (Hot) ────────────► Tip  
+   Ground (Shield) ─────────► Sleeve
+```
+**Advantages:**  
+- Eliminates redundant signal path.  
+- Better noise rejection (full shielding around single conductor).  
+
+---
+
+### 3. If You *Must* Use a TRS Jack (Piezo Preamp Requirement)
+Some piezo preamps expect a TRS jack (even for mono signals) to detect connections. In this case:  
+- **Wire Ring to Ground** (not Signal) to avoid noise.  
+
+**Wiring:**  
+- **Tip** → Signal (hot)  
+- **Ring** → *Unconnected* or **shorted to Sleeve** (ground)  
+- **Sleeve** → Ground  
+
+**Diagram:**  
+```
+Guitar/Piezo Preamp       Guitar Amp (Mono Input)
+   [TS Mono Cable]           [TRS Stereo Jack]
+   Signal (Hot) ────────────► Tip  
+                              Ring ────┐
+   Ground (Shield) ─────────► Sleeve ◄─┘
+```
+**Why?**  
+- Prevents Ring from acting as an antenna.  
+- Still compatible with TRS inputs (some devices check Ring for plug detection).  
+
+---
+
+### **Key Takeaways**  
+1. **Best for noise rejection:** Use a **TS mono jack** (skip Ring entirely).  
+2. **If TRS is mandatory:** Short **Ring to Ground** (not Signal).  
+3. **Avoid:** Connecting Signal to both Tip *and* Ring (creates noise risk).  
+
+
 ## Reducing the Piezo Output Voltage via Capacitors
 **Circuit Diagram:** Very low capacitors can be used to reduce the output Voltage level. The circuit diagram is derived from the [video](https://www.youtube.com/watch?v=k-MGJkXUQqs). A detailed article can be found in the following link with how to make calculations, [How To Reduce The Gain Of A DIY Contact Mic](https://metalmarshmallow.com/blog_post.php?id=17)
 

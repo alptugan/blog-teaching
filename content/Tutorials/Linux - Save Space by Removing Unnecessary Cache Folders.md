@@ -1,9 +1,11 @@
 ---
 title: Linux - Save Space by Removing Unnecessary Cache Folders
 date: 2024-04-27T01:01:00
-description: 
-tags: 
-aliases: 
+description:
+tags:
+  - linux
+  - ubuntu
+aliases:
 draft: false
 ---
 

@@ -175,6 +175,17 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 - [Eyebeam](https://eyebeam.org/) The organization was among the first to support artists working with technology. Over the past 20 years, it has supported more than 500 artists through its flagship fellowship and engaged hundreds more in exhibitions and events. Building on its adventurous legacy, the organization focuses on empowering artists addressing injustice and inequity through technology. Its new platform, Eyebeam.org, and collaborations with physical venues enhance the presentation and impact of the artists’ work.
 
 ---
+
+## Research
+[Design Thinking](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:designing_the_digital), How to manage ideation and prototyping session? 
+- User research
+- Defining the problem/opportunity
+- Ideating a solution
+- Prototyping the solution using Marvel
+- Testing the solution with other participants to validate if it solves the problem
+
+---
+
 ## 📺 Video Archive
 [What is Digital Art?](https://www.youtube.com/watch?v=2RWop0Gln24&t=106s)
 

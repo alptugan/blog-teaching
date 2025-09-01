@@ -2,12 +2,13 @@
 title: P5JS - How to create class
 date: 2025-02-25T01:00:00
 modification date: Tuesday 25th February 2025 08:56:25
-description: 
+description:
 tags:
   - tutorial
   - cod208
   - game
-aliases: 
+  - p5js
+aliases:
 draft: false
 ---
 The following tutorial is related to the [[P5JS - Casual Game]] article. If you have issues on how to convert your existing sketch to a class watch the following videos.

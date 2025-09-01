@@ -51,6 +51,8 @@ The following post includes online development tools for productivity frequently
 ### Web Development
 [10015 Tools](https://10015.io/) All Online Tools in One Box 
 
+[Hoppscotch](https://hoppscotch.io/)  Open source API development ecosystem
+
 ## Algorithms & Graphics Programming
 [Graphtoy](https://graphtoy.com/) Visualize signed distance functions.
 
@@ -128,6 +130,8 @@ framer.com - website builder
 
 [Online Tone Generator](https://onlinetonegenerator.com/) Free, Simple and Easy to Use. There are variety of signal generators including, sine, sawtooth, square and triangle.
 
+[Export Spotify playlist to CSV or Text ](https://www.chosic.com/spotify-playlist-exporter/) Export your Spotify playlist in `.txt` or `.csv` format
+
 ## Image
 [Lorem Picsum](https://picsum.photos/) The Lorem Ipsum for photos.
 [Pexels](https://www.pexels.com/discover/) The best free stock photos, royalty free images & videos shared by creators.
@@ -167,6 +171,8 @@ framer.com - website builder
 ![[askew.jpeg|200]]
 
 [Free Visa Alerts \| Real-Time Updates \| VisasBot.com](https://visasbot.com)
+
+[Playback.fm](https://playback.fm/) Shows what happened on your birthday.
 
 ## Writing & Reading
 [TinyWow](https://tinywow.com/) Free AI Writing, PDF, Image, and other Online Tools.

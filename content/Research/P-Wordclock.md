@@ -1,13 +1,12 @@
 ---
 title: Wordclock
 date: 2024-12-02
-modification date: 2025-03-10T00:17:00
-description: 
+description:
 tags:
   - Arduino
   - RTC
   - LedMatrix
-aliases: 
+aliases:
 draft: true
 ---
 ## Todos
@@ -21,6 +20,11 @@ draft: true
 	- [ ] Test example first, [example](https://github.com/MajicDesigns/MD_UISwitch/blob/main/examples/MD_UISwitch_Example/MD_UISwitch_Example.ino)
 - [ ] Ön panel pirinç deneme baskısı [cadcut](https://cadcut.co/materyaller/pirin)
 - [ ] Automatic time-adjustment, [tutorial](https://projecthub.arduino.cc/hibit/keeping-time-with-ds1302-real-time-clock-on-arduino-07d30b)
+
+
+## Case Study
+- [Build Your Own Dasai Mochi Robot – Cute, Smart, and DIY-Friendly](https://www.youtube.com/watch?v=HIvB4Zc_rUo) Copper wire built aesthetically satisfying. 
+
 ## Current Configuration (Arduino Nano, RTC 1307, Push Button)
 ![[wordclock-v2.png|Wokwi Diagram, logged in with protonmail account, [link](https://wokwi.com/projects/417064040238274561)]]
 [Link to Wokwi diagram](https://wokwi.com/projects/417064040238274561)

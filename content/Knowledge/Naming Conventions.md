@@ -1,11 +1,13 @@
 ---
 title: Naming Conventions
 date: 2025-05-20 12:58:58
-description: 
+description:
 tags:
   - programming
   - creativecoding
-aliases: 
+  - cod207
+  - cod208
+aliases:
 draft: false
 ---
 There are four naming conventions in programming. We will focus on two following fundamental ones while using Javascript.

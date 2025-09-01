@@ -10,6 +10,18 @@ aliases:
 draft: true
 ---
 ![[prompt_engineering.jpg |  | 300]]
+## 1. Yazdığım Yazıyı Kusursuz Hale Gelene Kadar Gelistir
+**Prompt:**
+Size üzerinde çalıştığım kaba bir fikir veya çıktı vereceğim. Senin görevin, bir uzman editör ve mükemmeliyetçi gibi davranmak. Gerektiğinde bana sorular sorarak ve geri bildirim döngüleriyle bunu adim adim geliştir, ta ki dünya çapında mükemmel bir versiyona ulaşana kadar. Üzerinde çalıştığım şey şu: [taslaginizi, fikrinizi veya metninizi buraya ekleyin]
+
+## 2. Çok Disiplinli Cevap Ver
+**Prompt:**
+Bir psikolog, iş stratejisti, verimlilik koçu ve kreatif direktör karışımı gibi davran. Sana herhangi bir zorluk veya fikir sunduğumda, birden fazla disiplinden beslenen, dengeli ve dünya standartlarında bir çözümle yanıt ver.
+
+## 5. Bir Dahi Gibi Ogren
+**Prompt:**
+[Buraya konuyu ekle] öğrenmek istiyorum. Ama sıradan bir rehber istemiyorum. Bana, elit öğrenciler için özel bir eğitmen gibi hissedeceğim, 30 günlük ultra-verimli ve geri bildirim odaklı bir öğrenme planı oluşturmanı istiyorum. Bu planı, öğrenme tarzım, zamanım ve yaşadığım zorluklara göre sürekli geliştir ve bana mükemmel sekilde uyacak hale getir.
+
 ## Improve the Answer 
 In order to improve the answer. Ask your question first.
 > Summarize the findings from attached document
@@ -55,3 +67,14 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 >By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
 >
 >Use icons from lucide-react for logos.
+
+
+## Nano Banana 
+### Retouch old photos
+- (Fix scratched images) Restore this damaged vintage family photo
+- (Colorize b&w photos) Color in the image and make it look modern
+
+### Material 
+- Change this [image] to a marble material
+- Change this skin to a chrome material
+- Comic strip style

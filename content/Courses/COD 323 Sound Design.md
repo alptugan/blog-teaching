@@ -4,7 +4,9 @@ date: 2024-09-11
 description: Includes course materials covering my sound design classes.
 tags:
   - sound
-aliases: 
+  - sounddesign
+  - soundscape
+aliases:
 draft: false
 ---
 ## AI Tools
@@ -14,7 +16,7 @@ draft: false
 
 [Compressor, Saturator, Distortion, Reverb](https://klanghelm.com/contents/main) Set of free effect plugins.
 
-[Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
+[Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Review the [video](https://www.youtube.com/watch?v=oLvAbLEremk) to get more information. (Tip. FFT size parameter sets the clearance of the recorded track. Play with this to change the timbre of the sound. Higher values are close to original sound)
 
 [Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
 

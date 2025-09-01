@@ -281,6 +281,7 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 - [Simple Electronic Piano, Instructables](https://www.instructables.com/Simple-Electronic-Piano/)
 - ⭐ [Sound Badge With Touch Sensor, Instructables](https://www.instructables.com/Sound-Badge-With-Touch-Sensor/)
 - [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
+- ⭐ [Developing the DIY Soundscape Box Try It](https://wiki.slq.qld.gov.au/doku.php?id=workshops:prototypes:diy_soundscape_box) Includes box design ready for laser cutting. 
 
 ## COD 412 Final Projects Collection
 [2018-2019](https://drive.google.com/drive/folders/1w5mFUEx23DS97JllBQnnVVXIA3362YVV?usp=drive_link)

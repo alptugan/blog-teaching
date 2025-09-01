@@ -2,9 +2,10 @@
 title: Untitled
 date: 2024-07-02T01:00:00
 modification date: Tuesday 2nd July 2024 15:01:52
-description: 
-tags: 
-aliases: 
+description:
+tags:
+  - webdev
+aliases:
 draft: true
 ---
 ## Todo

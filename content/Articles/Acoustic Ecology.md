@@ -10,6 +10,7 @@ aliases:
 draft: true
 ---
 ![[acoustic-ecology.jpg]]
+
 Acoustic Ecology (a.k.a Ecoacoustics) is the study of the relationship between living organisms and their environment through sound. It focuses on the ecological and cultural significance of sound, including the effects of human-made sounds on natural soundscapes and the role of sound in shaping natural and urban environments. Acoustic ecologists work to understand, preserve, and enhance the sounds of natural habitats and to minimize the negative impacts of human-made noise on wildlife and people.
 
 R. Murray Schafer is a Canadian composer, musician, and writer (18 July 1933 - 14 August 2021). He states the philosophy behind ecoacoustics as; individuals should treat the acoustic environment as a musical composition and be aware of its composition (Schafer 1977a, 205). Schafer points out that visual expressions dominates society in the 21st century that corrupts the children’s listening ability. The problematic part of this convention affects directly the nature in a bad way also. So he proposes to include courses to curriculum to improve listening skills of upcoming generations.
@@ -34,8 +35,10 @@ Proper identification and understanding of these categories serve as a basis for
 The contrast between pre-industrial and post-industrial acoustic environments is well expressed in Schafer’s use of the terms “hi-fi (high fidelity) to characterise the former and “lo-fi" (low fidelity) to describe the latter. [Page 1](zotero://open-pdf/library/items/H9A2QZXS?page=1&annotation=DEZ8HVF6)
 
 >According to Schafer there are two main categories for sounds namely “hi-fi” (high fidelity) and “lo-fi” (low fidelity) that constitute soundscapes to represent the difference between pre-industrial and post-industrial acoustic environments. A hi-fi soundscape environment, sounds overlap less frequently and constitutes more space acoustically. Natural sounds such as wind, animals, and insects are all in harmony within a cyclic behavior (Figure 1). 
-![[Cycles-of-the-natural-sound-scape-of-the-west-coast-of-British-Columbia-by-relative.jpg]]
-→ Figure 1. The cycles of the natural soundscape of the west coast of British Columbia showing the relative level of sounds (from Truax 1984: 142)
+
+![[Cycles-of-the-natural-sound-scape-of-the-west-coast-of-British-Columbia-by-relative.jpg|-center]]
+<div style="width:90%;margin:auto"><font size="2" color="#ccc"><center>Figure 1. The cycles of the natural soundscape of the west coast of British Columbia showing the relative level of sounds (from Truax 1984: 142)
+</center></font></div>
 
 >According to Krause (1993, 158), the spreading urban areas could "block" or "mask" spectral niches, which could lead to species extinctions.
 

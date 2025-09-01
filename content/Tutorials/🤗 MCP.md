@@ -1,9 +1,11 @@
 ---
 title: MCP
 date: 2025-05-27 09:29:02
-description: 
-tags: 
-aliases: 
+description:
+tags:
+  - AI
+  - MCP
+aliases:
 draft: true
 ---
 The following post includes information from Huggingface's [MCP Course](https://huggingface.co/mcp-course) notes.
@@ -12,6 +14,7 @@ The following courses are not mandatory to complete. But it is a good practice t
 
 1. LLM Course (access on [HF](https://huggingface.co/learn/llm-course/chapter1/1))
 2. AI Agents Course (access on [HF](https://huggingface.co/learn/agents-course/unit0/introduction))
+3. All Course in one page (access on [HF](https://huggingface.co/learn))
 ## Session 1
 ### 0. Welcome
 [Hello World Video](https://www.youtube.com/watch?v=p4q6LI-2yZ8) Session video
