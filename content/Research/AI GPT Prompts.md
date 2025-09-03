@@ -90,3 +90,9 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 <img src="google-banana-03.jpg">
 </div>
 </div>
+
+### Maintain Character Consistency
+- Maintain exact character appearance, including facial features, hairstyle, clothing, and all physical characteristics consistent throughout the image
+
+### Blend Images
+- Seamlessly blend multiple visual elements into a natural, cohesive composition with smooth transitions

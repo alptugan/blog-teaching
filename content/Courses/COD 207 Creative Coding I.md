@@ -40,6 +40,7 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 
 ### Course Content:
 #### Week 1: Introduction to Programming Fundamentals
+- Why do I need to learn programming? Interview with [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4)
 * Overview of programming languages (Python, JavaScript, etc.)
 * Basic syntax and data types
 * Control structures (if-else statements, loops, conditional statements)

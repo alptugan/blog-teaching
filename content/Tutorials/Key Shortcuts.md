@@ -1,11 +1,10 @@
 ---
 title: Key Shortcuts
 date: 2024-10-19T00:04:00
-modification date: 2025-03-07T14:26:00
 description: List of keyboard shortcut
 tags:
   - shortcut
-aliases: 
+aliases:
 draft: false
 ---
 ## Apps
@@ -196,7 +195,14 @@ List of symbols and ASCII ornaments, [link](https://www.madeintext.com/flower-sy
 <span style="color:gray">⌥ + ⇧ + Drag</span> Move up or down todo items.
 
 ## Reaper
-<font color="#646a73">⌘ + ⇧ + Drag </font>- Docker içinde pencereleri yan yana dizmek için kullanılır. Pencerenin alt tarafının hi-light olması gerekir. Kanal üzerindeyken de ses bloğunu duplicate ediyor.
+
+| Key Combination                            | Description                                                                                                                                              |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <font color="#646a73">⌘ + ⇧ + Drag </font> | Used to stack windows side by side in Docker. The bottom of the window should be hi-light. It also duplicates the audio block when it is on the channel. |
+| <font color="#646a73">w</font>             | Goto beginning of the project.                                                                                                                           |
+| <font color="#646a73">␣</font>             | Pause/Resume playing. Continues from where you left the horizontal time scrubber.                                                                        |
+| <font color="#646a73">⌃ + ␣ </font>        | Pause the media.                                                                                                                                         |
+
 
 ## Terminal
 <font color="gray">⌃ + r </font>- Shows previous commands list

@@ -35,15 +35,7 @@ When there are blank spaces in the folder path, use `%20` for each blank space i
 [path](file:///Users/alptugan/Documents/Teaching/official%20papers/COURSE%20CDF/COD%20417%20-%20Game%20Design)
 ```
 
-
-## 4. Image Grid
-```yml
----
-cssclass: img-grid, img-captions
----
-```
-
-## 5. Add Caption to images (Need to install Plug-in)
+## 4. Add Caption to images (Need to install Plug-in)
 ```markdown
 ![This is the caption](image.png)
 ```
@@ -104,7 +96,7 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 }
 ```
 
-## 6. PLUG-INS
+## 5. PLUG-INS
 ### Obsidian Bridge
 - [obsidian-zotero-integration/Templating.md at main · mgmeyers/obsidian-zotero-integration (github.com)](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/Templating.md)
 - Syntax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
@@ -140,7 +132,7 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 [Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
 [How to Build Dataview Powered Dashboards in Obsidian - YouTube](https://www.youtube.com/watch?v=p3jqxQLHqUY)
 
-## 7. Columns
+## 6. Columns
 ### When is the best to ski in Switzerland?
 > [!blank-container|float-right-small] 
 > ![[image-PeelFriedrichsen_2018-2-x33-y499.png]]
@@ -195,29 +187,3 @@ Embed Content from different document into another document as excerpt.
 | [<img src="assets/t7.png" width="330" Height="330">](tutorial_7/src/main.rs) | [<img src="assets/t8.png" width="330" Height="330">](tutorial_8/src/main.rs) | [<img src="assets/t9.png" width="330" Height="330">](tutorial_9/src/main.rs) |
 
 ```
-
-## Obsidianotion checklists:
-- [ ] normal
-- [/] / - incomplete
-- [x] x - done
-- [-] -  canceled
-- [s] s - forwarded
-- [<] < - scheduling
-
-**Extras checklists:**
-- [?] ? - question
-- [!] ! - exclamation
-- [*] * - star
-- ["] " - quote
-- [l] l - location
-- [b] b - bookmark
-- [i] i - information
-- [S] S - savings
-- [I] I - idea
-- [p] p - thumbs up
-- [c] c - thumbs down
-- [f] f - fire
-- [k] k - key
-- [w] w - win
-- [u] u - up
-- [d] d - down
