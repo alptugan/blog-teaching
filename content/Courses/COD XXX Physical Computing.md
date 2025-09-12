@@ -176,6 +176,10 @@ Weekly assignments will primarily involve hands-on exercises and small creative 
 - How to use breadboard - [video](https://youtu.be/05ZrbtwUzMk?si=Sljdc1YBZe3vQlO_), [video](https://youtu.be/6WReFkfrUIk?si=mn1pl5NZcuWYgZSL)
 - How to use multi-meter - [video](https://youtu.be/ts0EVc9vXcs?si=FsQgF1r7SP30Yc3Z)
 - How to use soldering iron - [video](https://youtube.com/shorts/nKf7dJBVb00?si=GVACWaVfOfzERuDC)
+- How to solder and flux - [video](https://www.youtube.com/watch?v=jz67KgHzXVw)
+	- Leaded Solder - 360 C
+	- Lead Free Solder - 300-330 C
+	- Apply flux before solder
 - How to use servo motors - [[Driving Motors#Servo Motors]]
 - How to read capacitor values - [Read a Capacitor](https://www.wikihow.com/Read-a-Capacitor)
 - How to measure distance of objects via TOF200C - [article](https://www.makerguides.com/vl53l0x-distance-sensor-with-arduino/)

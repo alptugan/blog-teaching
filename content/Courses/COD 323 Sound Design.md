@@ -20,6 +20,9 @@ draft: false
 
 [Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
 
+## Apps
+https://www.roomeqwizard.com/
+
 ---
 ## Sound Sample Library
 Before diving into searching sound samples in an endless ocean of web, review the terminology that might be helpful for you to find relevant sound effect.
@@ -54,33 +57,25 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 
 ## Tutorials
-[Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
+- [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
+- [Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
 
-[Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
 ### Davinci Resolve
-[DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
-
-[Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c), [Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k), [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
-
-[Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY), [Loudness, Peak Loudness](https://www.youtube.com/watch?v=nZJkcca7vJ4)
-
-[Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
-
-[Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
-
-[Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing (Layered video editing, cross-fade), Bounce the audio to a different track ⭐️
-
-[Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
+- [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
+- [Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c), [Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k), [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
+- [Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY), [Loudness, Peak Loudness](https://www.youtube.com/watch?v=nZJkcca7vJ4)
+- [Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
+- [Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
+- [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing (Layered video editing, cross-fade), Bounce the audio to a different track ⭐️
+- [Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
 
 ### EQ
-[Davinci Resolve Fairlight EQ (Equalizer)](https://www.youtube.com/watch?v=Z89JAFkihrw) Tutorial on voice over editing
-
-[Davinci Resolve Muffle Sound](https://www.youtube.com/watch?v=3UoS_j_chNg) How to make sound as if it is coming from far away.
+- [Davinci Resolve Fairlight EQ (Equalizer)](https://www.youtube.com/watch?v=Z89JAFkihrw) Tutorial on voice over editing
+- [Davinci Resolve Muffle Sound](https://www.youtube.com/watch?v=3UoS_j_chNg) How to make sound as if it is coming from far away.
 
 ### Reverb
-[Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
-
-For key shortcuts refer to [[Key Shortcuts#Davinci Resolve Fairlight |Shortcuts]] page.
+- [Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
+- 
 
 ---
 ## AI Assisted Audio Technologies
@@ -92,9 +87,8 @@ It's not about the gear, it's about the ear.
 
 ---
 ## Open Calls
-[Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
-
-[Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
+- [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
+- [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
 
 ---
 ## Assignments Pool
@@ -116,7 +110,7 @@ COD 323’te giriş projesi olarak sesi tanımaları için 9V pil ve hoparlör k
 Automation Curves
 Loudness
 Voice Over 
-![[voice_over.mp4|vid-20]]
+
 #### Assignment
 1. Select a video scene of at least 30 seconds to record a voice over track. The video can be a movie clip, documentary, or any other clip of your choice.  
   

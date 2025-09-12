@@ -10,6 +10,16 @@ aliases:
 draft: true
 ---
 ![[prompt_engineering.jpg |  | 300]]
+
+https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
+
+## Improve & Expand
+**template:**
+Rewrite the following text to improve clarity and make it more comprehensive about the [context]. It will be in the [title/topic] of an article for an [press type]. Keep the in-text citations in your answer. You can add more academic references if it is required to improve the academic quality of the text for a book chapter. Here is the text;
+
+**prompt:**
+Rewrite the following text to improve clarity and make it more comprehensive about the importance of programming knowledge for students in the period of emerging AI technologies day by day so fast. It will be in the introduction section of an article for an academic book chapter. Keep the in-text citations in your answer. You can add more academic references if it is required to improve the academic quality of the text for a book chapter. Here is the text;
+
 ## 1. Yazdığım Yazıyı Kusursuz Hale Gelene Kadar Gelistir
 **Prompt:**
 Size üzerinde çalıştığım kaba bir fikir veya çıktı vereceğim. Senin görevin, bir uzman editör ve mükemmeliyetçi gibi davranmak. Gerektiğinde bana sorular sorarak ve geri bildirim döngüleriyle bunu adim adim geliştir, ta ki dünya çapında mükemmel bir versiyona ulaşana kadar. Üzerinde çalıştığım şey şu: [taslaginizi, fikrinizi veya metninizi buraya ekleyin]
@@ -70,6 +80,9 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 
 
 ## Nano Banana 
+[Official Prompting Guide](https://ai.google.dev/gemini-api/docs/image-generation#image-editing-prompts)
+
+🌟 Prompt templates, [github.com](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
 ### Retouch old photos
 - (Fix scratched images) Restore this damaged vintage family photo
 - (Colorize b&w photos) Color in the image and make it look modern

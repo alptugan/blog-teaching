@@ -1,9 +1,13 @@
 ---
 title: P-Piezo Sensors
 date: 2025-06-08 05:16:51
-description: 
-tags: 
-aliases: 
+description:
+tags:
+  - sound
+  - soundscape
+  - sounddesign
+  - ecology
+aliases:
 draft: true
 cssclasses:
   - wide-page
@@ -39,7 +43,7 @@ cssclasses:
 > 
 > **Piezo contact microphone preamp for plug-in-power**
 > ⭐ [circuit diagram](https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-plug-in-power/)
-> ⭐ [circuit diagram 2](https://www.chair.audio/diy-piezo-preamp/)
+> ⭐ [circuit diagram 2](https://www.chair.audio/diy-piezo-preamp/) **2N5457** Transistor
 
 > [!NOTE] Piezo Preamp V - Makezine (9V, MPF102)
 > [Collin's Lab: DIY Contact Mic - Make:](https://makezine.com/article/craft/music/collins-lab-diy-contact-mic/)
@@ -59,6 +63,8 @@ cssclasses:
 
 - Connect multiple piezos in Parallel not in series. Because Serial connection increases impedance. In parallel connection, each positive and negative goes to connection tips separately.
 
+- Balanced Piezo Connection, [video](https://www.youtube.com/watch?v=JrN4HSJadNM)
+![[piezo balanced connection.jpg|-center|100]]
 ## Case Studies
 [Hear hidden sounds with a DIY microphone - CNET](https://www.cnet.com/tech/home-entertainment/hear-hidden-sounds-with-a-diy-microphone/)
 
@@ -94,23 +100,59 @@ This version uses plug-in power of a sound recording device or any computer's mi
 #### Casing V1
 
 #### Casing V2
+A PCB plate fit into the case in 4x8 mm make the assembling process much easier. After the first version, larger case work better to secure and fit the components inside the case.
+
+![[piezo-preamp-casev2-3.jpg|-center|500]]
+
 The second version of the casing includes additional brackets to attach the sensor on non-metal surfaces curved structures like a branch of a tree. 
 
 ![[piezo-preamp-casev2.jpg|center|500]]
 
 
-As shown in the Figure XX, the case for the piezo and preamp circuit was covered with sticky conductive aluminum tape to avoid external magnetic field causing the background hum noise.
+As shown in the Figure XX, the case for the piezo and preamp circuit was covered with sticky conductive aluminum tape to avoid external magnetic field (electronic interference) causing the background hum noise.
 
-#### Casing V3
+![[piezo-preamp-casev2-2.jpg|-center|500]]
+
+#### Casing V3.0
 Third version of the case has ticker case. Placing the magnet into the case can be problematic. The  solder points on the piezo are protruding. It causes an empty space under the magnet. The bottom closed part of the case plus the extra space between the piezo cause the magnet to reduce its magnetic power. It also makes the build process harder to fit materials inside the case within the preamp circuit. To overcome magnetic power-loss and easing the assembly process, nineteen 2x4 mm (radius x height) cylindrical holes around the piezo under the case and attach magnets inside those holes (Figure XXX).
 
 ![[piezo-preamp-casev3.jpg|center|500]]
 
 After the case 3D printing is done, since the hole radius are too tiny, a drill is used to larger the holes to fit magnets inside them. Also the inside of the box is sealed with aluminium foil tape to isolate magnetic field-based electric signal. 
 
+![[piezov3-0-3dprint01.jpg|-center|500]]
 
-The assembly process is straight forward according for the housing for the piezo. A small PCB used to hold the circuit components of the preamp. The components soldered onto the PCB according to the diagram (Figure XXX).  
+To isolate the electromagnetic interference and avoid noise aluminum foil tape is covered inside the case and cap. 
 
+![[piezo-preamp-casev3-01.jpg|-center|500]]
+
+The assembly process is straight forward according for the housing for the piezo. A small PCB used to hold the circuit components of the preamp. The components soldered onto the PCB according to the diagram (Figure XXX). In this version, components are still same, but the JFET transistor is bended onto the PCB to provide more space inside the case. 
+
+![[piezo-v3-1-02.jpeg|-center|500]]
+
+
+#### Casing V3.1
+Since the magnets are not enough to grab the metal surfaces, 2x4 mm holes are enlarged to 4x6 mm holes to improve the magnetic traits of the contact microphone.
+
+![[piezo-preamp-casev3-1-3d-tech.jpg|-center|500]]
+
+A minor improvement on is made on casing brackets on both sides of the cap. Their vertical position moves 2 mm above the contact surface to keep the contact area clean. Sometimes these brackets prevents the microphone full contact on the rough surfaces.
+
+Added metric three screw holes to the cap in order to keep the cap closed strictly. Older versions cause problems. One has to hot glue the cap to avoid fall off issues. The vertical notch on the housing and the cap help one to align holes. 
+
+![[piezo-v3-1.jpg|-center|500]]
+
+The circuit design is same with since the first version. A two-pin screw terminal is used to make easier maintenance in case of cable issues. The inner side of the case covered with aluminum tape as well. After that piezo disc's bottom surface is covered with double-sided tape To keep the piezo disc stable in its place. This tape is very thin which is used by picture frame makers. 
+
+![[piezo-preamp-casev3-1-3d-02.jpg|-center|500]]
+
+I created a 2mm mold cylindrical to avoid short circuit between the piezo and bottom side of the preamp PCB. Another mold is created using hot glue and mask tape to keep the piezo with full contact at the bottom. Masking tape make the hot glue easily peeled of from the mold. The method is straight forward. I cover the area with masking tape carefully. Then I apply hot glue on covered area. After waiting the hot glue is cured, I removed the masking tape and peel of the masking tape from the silicon mold. The image below showcases the procedure followed on how to create mold.
+
+![[piezo-preamp-casev3-1-3.jpg|-center|500]]
+
+Finally, I attached the magnets to the bottom of the case. 4x6 mm magnets significantly improve the surface stability on flat surfaces. The image b
+
+![[piezo-preamp-casev3-1-4.jpg|-center|500]]
 ### Version 03
 ![[2n5457.jpg|center]]
 

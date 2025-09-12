@@ -127,6 +127,7 @@ For more information about the game format, visit the [link](https://alptugan.gi
 5. ❗Submit the sketch source code as zip file as well.
 
 ## week 5 - Marker-based AR
+Other than p5JS addon. there is a more advanced web-based AR library built with JS [MindAR \| mind-ar-js](https://hiukim.github.io/mind-ar-js-doc/)
 #### 2025-2026
 Review the last year student works from the following [link1](https://drive.google.com/drive/folders/1edO4_MdxBJG1ZL_TSAljGU7GBJtT5Ljt?usp=sharing) and [link2](https://drive.google.com/drive/folders/1ndAaIwq1CQCZ2IgkZDWIXEeU6Jo0Pxcy?usp=sharing).
 

@@ -12,3 +12,7 @@ No MCU Synth
 
 
 Piezo + Arduino synth using `tone` function
+
+
+## Tape-loop
+[CS8N60F](https://www.stereojak.com/urun/sony-fh-b50cd-fhb50cd-kristal-kafa-1-sinif-made-in-japan-sankyo-japan-product)

@@ -1,15 +1,13 @@
 ---
 title: Three Listening Modes of Michel Chion
 date: 2025-03-03
-modification date: Monday 3rd March 2025 17:20:53
-description: 
+description:
 tags:
   - cod412
   - sound
   - soundart
-  - soundecology
   - sounddesign
-aliases: 
+aliases:
 draft: true
 ---
 

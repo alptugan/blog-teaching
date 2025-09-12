@@ -17,7 +17,7 @@ The following post includes online development tools for productivity frequently
 🧊 Alice Blue [#F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
 👻 Ghost White [#F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
 
-[Beautiful themes for shadcn/ui — tweakcn \| Theme Editor & Generator](https://tweakcn.com/)
+⭐ Customizing UI components on the fly [Beautiful themes for shadcn/ui — tweakcn \| Theme Editor & Generator](https://tweakcn.com/) There is also ShadcnUI component customization. Refer to the [tutorial](https://www.youtube.com/watch?v=jHzdo1Bm9Lk)
 
 ## Productivity & Devs
 [Crontab.guru - The cron schedule expression generator](https://crontab.guru/#*/60_10-22/3_*_*_*) helps me to validate `crontab` scheduling format.
@@ -89,8 +89,9 @@ framer.com - website builder
 
 [Supahero](https://www.supahero.io/) Website hero section library.
 
-
-### Mockups
+### Illustration 
+Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
+###  Mockups
 [Mockuply](https://mockuply.pro/) Paid mockups. Can be used as inspiration.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
 [Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
@@ -188,3 +189,7 @@ framer.com - website builder
 
 ## Zanaat & Usta
 [Akyürek Home Design (@akyurekhomedesign) • Instagram photos and videos](https://www.instagram.com/akyurekhomedesign?igsh=MXdpZ3NkeDdodzMzdA%3D%3D)
+
+[Gear Generator](https://geargenerator.com) Generate gears and export them as vectors. 
+
+[Motiongen](https://motiongen.io/cite) generates mechanical and Kinematics structures.
