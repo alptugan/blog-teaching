@@ -25,5 +25,6 @@ draft: false
 
 ## Sources
 - [Connecting An External Microphone For iPhone Video Recording – DIY Video Studio](https://www.diyvideostudio.com/connecting-external-microphone-for-iphone-video-recording/)
-- [Title Unavailable \| Site Unreachable](https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/)
+- [Cable Chick](https://www.cablechick.com.au/blog/understanding-trrs-and-audio-jacks/)
 - Winter, S. (n.d.). _Cables and Connectors Guide_, [Zotero link](zotero://open-pdf/library/items/C4GH3E52)
+- [The Ultimate Guide to Audio Cables and Connectors - YouTube](https://www.youtube.com/watch?v=l6vrcz2xoqQ)

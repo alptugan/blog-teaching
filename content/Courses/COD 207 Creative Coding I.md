@@ -49,6 +49,29 @@ Refer to the following link. Create a request. I will provide you the details. [
 * Inspiration, [link](https://github.com/ITPNYU/ICM-2022-Code/wiki/Inspiration) derived from Daniel Schiffman's GitHub repo.
 * Pre-survey [ALAP](https://forms.gle/VAw2hz8SYyfEAnNn9)
 
+#### Things to Discuss
+This discussion session aims to present basics of Computational Thinking principles. The practices are chosen in order to align with the undergraduate student major. Since design students are visual learners, the tenets of CT are contextualized to provide visual aids and analogies depending on student's known practices.
+
+**1. Abstraction**
+Abstraction is crucial in order to reveal the core of the problem. The abstraction process eliminates the unnecessary data and help the designer to focus on the major task to solve the problem. 
+
+<div class="two-columns" style="--column-count: 2;">
+<div>
+<img src="absraction.jpg">
+</div>
+<div>
+<img src="abstraction2.jpg">
+</div>
+</div>
+
+**Procedural Flow**
+This step is crucial for determining the clean and precise instructions to solve a problem. 
+Suppose that you instruct your intern about how to use Adobe Photoshop. 
+
+Write down step-by-step instructions precisely for the following tasks;
+- How to create a 800 x 800 px sized, 72 DPI resolution canvas using Photoshop on Mac or Windows operating system.
+- How 
+
 #### Week 2: Algorithmic Art Database
 * ALAP website introduction. Familiarize yourself.
 * Cheat Sheet
@@ -213,4 +236,75 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 [THE EXPERIMENT IS DEMOCRACY. FASCISM IS THE CONTROL.](https://www.yhchang.com/THE_EXPERIMENT_IS_DEMOCRACY_FASCISM_IS_THE_CONTROL.html) Kinetic typography by [YOUNG-HAE CHANG](https://www.yhchang.com/).
 
+[Schultzschultz - Design studio from Frankfurt](https://schultzschultz.com/) Touchography, early [prototype](https://www.youtube.com/watch?v=y5kxgww-0Zs), instagram [post](https://media-host.alptugan.workers.dev/Creative-Coding/typography.mp4), [post2](https://www.pinterest.com/pin/1125968718551318/)
 
+
+### OpenCv
+[Augmented Hand Series - Interactive Art by Golan Levin and Collaborators](http://www.flong.com/archive/projects/augmented-hand-series/index.html) (2014), The “Augmented Hand Series” by Golan Levin, Chris Sugrue, and Kyle McDonald is a real-time interactive software system that transforms visitors’ hands. Users insert their hand into a box, and a screen displays a ‘reimagined’ version, such as one with an extra finger or autonomously moving fingers, creating playful, dreamlike, or uncanny effects. Critically, these are “hand-aware” visualizations that operate within the logical structure of the hand, fundamentally altering its deep appearance rather than just applying superficial changes.
+
+[Face Substitution](https://vimeo.com/29348533) (2012)
+
+[The Coded Gaze: Unmasking Algorithmic Bias - YouTube](https://www.youtube.com/watch?v=162VzSzzoPs&t=1s) (2017)
+
+[Investigations ← Forensic Architecture](https://forensic-architecture.org/investigation/triple-chaser/) (2019)
+
+
+### Hypertext / early net.art
+- Some inspiration on [Rhizome](http://rhizome.org/artbase/collections/2/) and [Dia](http://www.diaart.org/artist_web_projects).
+- [MTAA Simple Net Art Diagram](http://www.mteww.com/images/netartdiagram.gif) - [context](http://www.mtaa.net/mtaaRR/off-line_art/snad.html) "Art made online exists solely if realized by both author and viewer, since an experience of the work is possible only once, or if, it is accessed. Until then, its location remains undefined and unmapped, without any physical manifestation." (Tribe/Jana, 2006)
+- [Mouchette](http://www.mouchette.org/)
+- Olia Lialina, [My Boyfriend Came Back From The War](http://www.teleportacia.org/war/)
+- Olia Lialina, [Summer](http://jonaslund.biz/olia/summer/)
+- [http://wwwwwwwww.jodi.org](http://wwwwwwwww.jodi.org)
+- Young-Hae Chang Heavy Industries, [BUST DOWN THE DOOR AGAIN!](http://yhchang.com/GATES_OF_HELL.html)
+- Zoe Quinn, [Depression Quest](http://www.depressionquest.com) (fyi some background on [#gamergate](http://deadspin.com/the-future-of-the-culture-wars-is-here-and-its-gamerga-1646145844), which this game was the initial flashpoint for)
+- [Cameron's World](http://www.cameronsworld.net/)
+- [Tinderbox Stretchtext Writing System](http://www.natematias.com/stretchtext/).
+
+
+### More recent net art
+- Eva + Franco Mattes - [http://0100101110101101.org/](http://0100101110101101.org/)
+- [Image Atlas](http://www.imageatlas.org/) by Aaron Swartz and Taryn Simon
+- [I'm Google](http://dinakelberman.tumblr.com/) by Dina Kelberman
+- [We see in every direction](http://ineverydirection.net/) by Jonas Lund
+- [Clement Valla](http://clementvalla.com/)
+- [Harm Van Den Dorpel](http://harmvandendorpel.com/#websites), in particular [Ethereal Self](http://etherealself.com/)
+- [Directions to Last Visitor](http://directionstolastvisitor.com/), Charles Broskowski
+- [David Horvitz](http://davidhorvitz.com/)
+- [Ann Hirsch](http://therealannhirsch.com/)
+- [Claudia Maté](http://claudiamate.com/)
+- [Bunny Rogers](http://meryn.ru/)
+- [Beck Interactive 360 music show](https://github.com/ITPNYU/ICM-2022-Code/wiki/www.hello-again.com/beck360/main/beck360.html)
+- [3d Particles forming shapes](http://codepen.io/gadgetgnome/pen/jbPxwQ)
+- [The Library of Babel](https://libraryofbabel.info/)
+- [The Library of Babel, image version](https://babelia.libraryofbabel.info/)
+- [Anna Anthropy](https://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution), maker of autobiographical game [Dys4ia](https://w.itch.io/dys4ia) and writer of [Rise of the Videogame Zinesters](https://www.amazon.com/Rise-Videogame-Zinesters-Drop-outs-Housewives/dp/1609803728)
+- [10 Examples of High-End Artwork Recreated With Code](https://speckyboy.com/high-end-artwork-code/)
+
+### GIFs, animations, glitch, video
+- [Rollin Leonard](http://rollinleonard.com/)
+- [Lorna Mills](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump/)
+- [Jeremiah Johnson](http://www.datacorruption.org/)
+- Rafaël Rozendaal [http://www.newrafael.com/websites](http://www.newrafael.com/websites)
+- [Petra Cortright](http://www.petracortright.com/)
+- [Renaissance - 2006 animated film](https://www.youtube.com/watch?v=oh7s32XRScQ)
+- [Animations for ITV2 British TV Channel](http://www.fubiz.net/en/2015/08/27/colorful-animations-for-itv2-tv-channel/)
+- [Lines Horizontal / Norman McLaren](https://www.youtube.com/watch?v=qJwfeG3Mntk)
+- [A Game with Stones / Jan Svankmajer](https://vimeo.com/99961406)
+- [Image Atlas](http://www.imageatlas.org/)
+- [Islands of Glass / Rob Clouth](https://vimeo.com/119439725)
+
+### Early artists working with computers
+- [VICE: The Computer-Generated Acid Trips of the '60s and '70s](http://motherboard.vice.com/blog/the-early-years-of-computer-generated-acid-trips)
+- [Mutations](https://www.youtube.com/watch?v=nKGrz4AMbqk), Lillian Schwartz (1973)
+- [Catalog](https://www.youtube.com/watch?v=TbV7loKp69s&feature=relmfu), John Whitney (1961)
+- [Permutations](https://www.youtube.com/watch?v=BzB31mD4NmA), John Whitney (1966)
+- [Stan Vanderbeek](https://www.youtube.com/watch?v=VTrKWJe6CS4) (1972)
+
+### Other
+- [Telescope Dome Control](http://astro.neutral.org/arduino/how-to-write-arduino-telescope-goto-mount-controller.shtml) - Arduino Motor Control, Computation of Astral Coordinates
+- [This app knows how you feel — from the look on your face](https://youtu.be/o3VwYIazybI)
+- [social turkers: crowdsourced dating](http://socialturkers.com/), Lauren Lee McCarthy
+
+### History
+- [genesis of the term "Computational Media" by Michael Mills](https://www.imillsie.com/nyu-itp)

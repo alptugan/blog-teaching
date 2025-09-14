@@ -1,13 +1,12 @@
 ---
 title: Davinci Resolve - Foley Sampler
 date: 2024-10-07T05:00:00
-modification date: Monday 7th October 2024 17:03:25
 description: How to use Foley Sampler Plugin on Davinci Resolve Fairlight
 tags:
   - DavinciResolve
   - foley
   - sound
-aliases: 
+aliases:
 draft: false
 ---
 The following tutorial shows how to use Foley Sampler effect on Davinci Resolve. If you don't know how to create a new project and Audio Track read [[Davinci Resolve - Create Fairlight Project|How to create new project on Davinci Resolve Fairlight]] tutorial.

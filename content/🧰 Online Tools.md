@@ -146,6 +146,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 [Social Hook Video](https://transitionalhooks.com/) Social media transitional video footage.
 
+[Filmot](https://filmot.com/) → Search in Youtube captions and subtitles
 
 ## Misc
 [Türkiye'nin Antik Kentleri](https://ancientcitiesturkey.com/hakkinda) Showing locations of antique cities in Türkiye.

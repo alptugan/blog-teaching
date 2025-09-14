@@ -77,7 +77,10 @@ date: 2025-03-19T12:00:00
 	- [jekyll-gitbook \| Jekyll Themes](https://jekyll-themes.com/sighingnow/jekyll-gitbook) Documentation Gitbook style
 - **Portfolio Templates**
 	- [A sleek portfolio built with React and Tailwind CSS \| daily.dev](https://app.daily.dev/posts/a-sleek-portfolio-built-with-react-and-tailwind-css-eekyxpbb9)
-
+- [Decap CMS - Open-Source Content Management System](https://decapcms.org/docs/examples/)
+	- Netfly Clean Blog Template: [wutali/nextjs-netlify-blog-template](https://github.com/wutali/nextjs-netlify-blog-template)
+	- [infallible-varahamihira-058515.netlify.app](https://infallible-varahamihira-058515.netlify.app/)
+	- [GitHub - ositaka/nextjs-blog-tailwind-starter: 🚀 Next.js 14 Blog Starter with Tailwind CSS, Contentlayer, & Decap CMS](https://github.com/ositaka/nextjs-blog-tailwind-starter?tab=readme-ov-file)
 
 ## Chat Bots for customers
 [Chatwoot](https://www.chatwoot.com/help-center)
@@ -134,6 +137,10 @@ AdGuard Home
 [MeTube](https://github.com/alexta69/metube) Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
 [nefarious](https://github.com/lardbit/nefarious) Web application that automates downloading Movies and TV Shows.
 [OliveTin](https://github.com/OliveTin/OliveTin)OliveTin is a web interface for running Linux shell commands. (Web arayüzünden komutlar çalıştırma ve kompleks komutlar için düğmeler yapma. Filika da işe yarar.)
+
+### Cronjobs
+[cronmaster](https://github.com/fccview/cronmaster/tree/main) Cron management made easy
+[Dagu](https://dagu.cloud/#quick-start) Provides webUI to execute and schedule cronjobs.
 
 ## Bookmarks
 [linkding](https://github.com/sissbruecker/linkding)
@@ -203,14 +210,17 @@ Metadata Cleaner → Remove meta data from any file.
 
 [Recraft.ai](https://www.recraft.ai/project/700cd58c-5a8a-4cfe-a459-73189e43a9dc) Product mockups. Define the mockup and cover it with an image.
 
-## Speech Generation
-[Zonos](https://github.com/Zyphra/Zonos?tab=readme-ov-file) Playground [link](https://playground.zyphra.com/audio), 100 minutes free/month. It supports API calls.
+### Speech Generation
+- [Zonos](https://github.com/Zyphra/Zonos?tab=readme-ov-file) Playground [link](https://playground.zyphra.com/audio), 100 minutes free/month. It supports API calls.
+- Text-to-speech → https://speechma.com/
 
 
-## Video Generation
-[Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://stable-virtual-camera.github.io/) Given any number of input views and their cameras, it generates novel views of a scene at any target camera of interest. (Installation required, academic paper)
+### Video Generation
+- [Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://stable-virtual-camera.github.io/) Given any number of input views and their cameras, it generates novel views of a scene at any target camera of interest. (Installation required, academic paper)
 
-[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo?tab=readme-ov-file) Generate short videos with one click using AI LLM.
+- Kamera gördüğünü tanımlıyor. Lokal çalışıyor [GitHub - ngxson/smolvlm-realtime-webcam: Real-time webcam demo with SmolVLM and llama.cpp server](https://github.com/ngxson/smolvlm-realtime-webcam?tab=readme-ov-file)
+
+- [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo?tab=readme-ov-file) Generate short videos with one click using AI LLM.
 
 ## Personal Assistant
 [mem0](https://github.com/mem0ai/mem0)Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.

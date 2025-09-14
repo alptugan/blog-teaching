@@ -271,11 +271,8 @@ scp -r /Users/username/Documents/Obsidian/ sshUsername@192.168.1.247:/DATA/AppDa
 
 
 ### sed
+SED (<font color="#ffc000">S</font>tream <font color="#ffc000">ed</font>itor) Edit file content without the need to open the file in an editor. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more.
 [Reference]( https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
-```
-# The ****SED (Stream Editor)**** command in Unix/Linux is a powerful utility used to process and manipulate text in files. It can perform a variety of operations such as searching, find-and-replace, insertion, deletion, and more, without the need to open the file in an editor.
-```
-
 
 ### ssh
 Connect to the cloud machine via SSH using private key file.
@@ -468,6 +465,12 @@ https://www.youtube.com/watch?v=_FXyQso1H50 (guacamole)
 ## Uninstall package on Debian
 ```
 sudo apt autoremove --purge Stremio
+```
+
+### Remove & scrape 
+```shell
+# it will remove anything related to webmin
+sudo apt remove --purge webmin*
 ```
 
 ## Brew 

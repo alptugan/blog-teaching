@@ -9,9 +9,34 @@ aliases:
 draft: false
 ---
 
-# Docker Compose
+## Portainer Install
+### 1. Update & Upgrade OS
+```shell
+sudo apt update
+sudo apt upgrade -y
+```
+
+### 2. Install Docker 
+```shell
+curl - sSL https://get.docker.com | sh
+sudo usermod -aG docker $USER
+docker run hello-world
+```
+
+### 3. Install Portainer
+```shell
+docker pull portainer/portainer-ce:latest
+
+docker volume create portainer_data
+
+docker run -d -p 8000:8000 -p 9443:9443 --name=kovahpi --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+
+``` 
+
+
 ## Dashboard Apps
 [Glanceapp](https://github.com/glanceapp/docker-compose-template/blob/main/root/docker-compose.yml)
+
 
 ## Photo Management
 [Ente](https://github.com/ente-io/ente/blob/main/server/compose.yaml) 

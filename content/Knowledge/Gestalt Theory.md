@@ -6,7 +6,7 @@ tags:
 aliases: 
 draft: false
 ---
-Gestalt theory of visual perception, which is a psychological theory that describes how people organize visual elements into meaningful wholes. The Gestalt theory was developed by German psychologists in the early 20th century.
+Gestalt theory of visual perception, which is a psychological theory that describes how people organize visual elements into meaningful wholes. The Gestalt theory was developed by German psychologists in the early 20th century...
 
 The core idea of Gestalt theory is that our perception of visual stimuli is not just a sum of individual elements, but rather a organized whole that emerges from the relationships between those elements. Here are some key principles and examples:
 

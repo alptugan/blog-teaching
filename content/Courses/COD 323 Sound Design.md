@@ -59,8 +59,19 @@ Before diving into searching sound samples in an endless ocean of web, review th
 ## Tutorials
 - [Sound Synthesis with Vital](https://www.youtube.com/watch?v=cPxE9-Dr3EI)
 - [Foley Technique - Game Sound Design](https://www.youtube.com/watch?v=Kux_LvRl57U)
+- [Audio University - YouTube](https://www.youtube.com/@AudioUniversity/videos) General must have knowledge about audio related equipments.
 
 ### Davinci Resolve
+- [[Davinci Resolve - Create Fairlight Project]]
+- [[Davinci Resolve - EQ Effects]]
+- [[Davinci Resolve - Sound Library]]
+- [[Davinci Resolve - Foley Sampler]]
+- [[Davinci Resolve - Generate Signal]]
+- [[Davinci Resolve - Video Track Layer]]
+- [[Davinci Resolve - Cross-fade Effect]]
+- [[Davinci Resolve - Automation Curves]]
+- [[Davinci Resolve - Audio Track Layers]]
+- [[Davinci Resolve - Layered Audio Editing]]
 - [DaVinci Resolve Database Creation](https://www.youtube.com/watch?v=djb1IiQosmA)
 - [Davinci Resolve Volume Automation Interactive](https://www.youtube.com/watch?v=QL2ajX4Pj3c), [Davinci Resolve Automation](https://www.youtube.com/watch?v=WVzSJ5Y5Y-k), [Davinci Resolve Plugin Automation](https://www.youtube.com/watch?v=Ps2Ci9ClJpQ)
 - [Davinci Resolve Loudness Adjustment](https://www.youtube.com/watch?v=2pg8Q9FulSY), [Loudness, Peak Loudness](https://www.youtube.com/watch?v=nZJkcca7vJ4)
@@ -75,7 +86,7 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 ### Reverb
 - [Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
-- 
+
 
 ---
 ## AI Assisted Audio Technologies
@@ -105,6 +116,11 @@ It's not about the gear, it's about the ear.
 ### week 02
 COD 323’te giriş projesi olarak sesi tanımaları için 9V pil ve hoparlör kullanarak basit synthler yapmaları için ödev verebilirim. 
 [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
+
+
+### week 03
+
+### week 04
 
 ### week 05
 Automation Curves
@@ -138,3 +154,17 @@ Reverb, End scene
 Why sound design matters, [scene 1](https://www.youtube.com/watch?v=UU3WMfQOjes), [scene 2](https://www.youtube.com/watch?v=L27a851-RxY)
 Hatefull eight scene, [sound source](https://freesound.org/people/D4XX/sounds/564626/)
 [Naruto Sasuke fight scene](https://www.youtube.com/watch?v=hBV5aQ5i7rk)
+
+### week 08
+
+### week 09
+
+### week 10
+
+### week 11
+
+### week 12
+
+### week 13
+
+### week 14
