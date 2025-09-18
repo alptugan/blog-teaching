@@ -251,6 +251,8 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 
 ⭐️ [Open Hands AI](https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file) Code helper tool.
 
+⭐️ [The ONLY guide you'll need for GitHub Spec Kit](https://www.youtube.com/watch?v=a9eR1xsfvHg) New approach for creating vibe coding assistants. 
+
 [kotaemon](https://github.com/Cinnamon/kotaemon) An open-source RAG-based tool for chatting with your documents.
 
 [ZoteroScholar](https://github.com/sanketsabharwal/ZoteroScholar)

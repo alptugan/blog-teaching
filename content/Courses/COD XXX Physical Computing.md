@@ -172,6 +172,9 @@ Weekly assignments will primarily involve hands-on exercises and small creative 
 
 [Advanced Electronics](https://www.learningaboutelectronics.com/Projects/) 
 
+### Online Apps
+Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|article]]'s `Electronics, Robotics & Prototype` section.
+
 ## TIPS and Tutorials
 - How to use breadboard - [video](https://youtu.be/05ZrbtwUzMk?si=Sljdc1YBZe3vQlO_), [video](https://youtu.be/6WReFkfrUIk?si=mn1pl5NZcuWYgZSL)
 - How to use multi-meter - [video](https://youtu.be/ts0EVc9vXcs?si=FsQgF1r7SP30Yc3Z)

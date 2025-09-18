@@ -60,6 +60,12 @@ The lack of thepretical knowledge causes such problems. actually one needs to us
 AI and LLMs are different topics. The terms sometimes are used instead of each other reciprocally by many people. LLMs are subset of AI generally. AI is a huge field of topic that covers many other technologies different than Large Language Models.
 [Thoughts on Vibe Coding - DEV Community](https://dev.to/wsvincent/thoughts-on-vibe-coding-2pn5)
 
+**Vibes of Vibe Coding**
+One of the earliest programming languages, Machine Language, is a [[Programming| low level]] programming language which is represented in binary format by using `1` and `0` in a specific order. For a human actor it is a hard task to build a computer program. Because it is a different kind of abstraction level by ordering several ones and zeros. It is obvious that such approach is a hard to grasp. 
+
+Within time and widespreading technology high-level programming languages appear and create a bridge between human and the machine. The human has started to express itself within its own spoken language to the machine. Although high-level languages are close to human spoken language, one must follow the syntactical rules of a specific programming language. Machines can now translate human-based commands to its own machine language. 
+
+Evet, bugün Assembly bilmeye gerek yok çoğu koşulda. Fakat, yazılım geliştirmek için temel bilgi ve teorileri bilmek gerekli. Ötesi dene/yanıl metodu olur. Bu da bizim kavrama/sentezleme becerimizi düşürür ve bilmekten ziyade inanç tabanlı yaklaşımlara sürükler.
 
 ## What's the environmental impact of AI?
 src: [A Personalized Ecology of AI](https://mail.cyberneticforests.com/a-personalized-ecology-of-ai/)

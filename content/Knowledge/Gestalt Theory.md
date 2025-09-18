@@ -57,9 +57,7 @@ So, Gestaltist order is not a separate theory, but rather a specific application
 In the context of Duval's theory of semiotic representations, the phrase "Gestaltist order" is used to describe a specific register of representations that is organized according to the principles of Gestalt theory. This register is used to solve problems in elementary geometry, and it involves the manipulation of visual representations of shapes and figures in a way that respects the principles of Gestalt theory.
 
 ---
-
-Here are some academic references that support the explanation of Gestaltist theory:
-
+## Reference Research
 1. **Proximity**:
 	* Wertheimer, M. (1923). Untersuchungen zur Lehre von der Gestalt. II. Psychologische Forschung, 4(1), 301-350. (Original work in German)
 	* Koffka, K. (1935). Principles of Gestalt Psychology. New York: Harcourt, Brace and Company. (English translation)
@@ -78,5 +76,3 @@ Here are some academic references that support the explanation of Gestaltist the
 6. **Common Fate**:
 	* Heider, F., & Simmel, M. (1944). An Experimental Study of Apparent Behavior. American Journal of Psychology, 57(2), 243-259.
 	* Johansson, G. (1950). Configurations in Event Perception. Uppsala: Almqvist & Wiksell.
-
-These references are a mix of original works by the founders of Gestalt theory (Wertheimer, Koffka, Köhler) and later researchers who built upon their ideas. They provide a solid foundation for understanding the principles of Gestalt theory and its applications in various fields.

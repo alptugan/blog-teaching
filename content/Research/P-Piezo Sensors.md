@@ -61,7 +61,7 @@ cssclasses:
 
 - Preparing Piezo mic, noise isolation, [video](https://www.youtube.com/watch?v=wdMh7KX2gTA)
 
-- Connect multiple piezos in Parallel not in series. Because Serial connection increases impedance. In parallel connection, each positive and negative goes to connection tips separately.
+- Connect multiple piezos in Parallel not in series. Because Serial connection increases impedance. In parallel connection, each positive and negative goes to connection tips separately. [video](https://www.youtube.com/watch?v=JrN4HSJadNM)
 
 - Balanced Piezo Connection, [video](https://www.youtube.com/watch?v=JrN4HSJadNM)
 ![[piezo balanced connection.jpg|-center|100]]
@@ -224,9 +224,8 @@ Guitar/Piezo Preamp       Guitar Amp (Mono Input)
 - Prevents Ring from acting as an antenna.  
 - Still compatible with TRS inputs (some devices check Ring for plug detection).  
 
----
 
-### **Key Takeaways**  
+### Key Takeaways
 1. **Best for noise rejection:** Use a **TS mono jack** (skip Ring entirely).  
 2. **If TRS is mandatory:** Short **Ring to Ground** (not Signal).  
 3. **Avoid:** Connecting Signal to both Tip *and* Ring (creates noise risk).  
@@ -237,6 +236,13 @@ Guitar/Piezo Preamp       Guitar Amp (Mono Input)
 
 ![[piezo-v3-voltagelowering.png|center|400]]
 
+## Market
+- [Bnineteenteam Akustik Gitar Ukulele Keman Için Mini Piezo Kontak Mikrofon Alıcısı, Ayarlanabilir Ses Seviyesi, Profesyonel Ses Üretimi : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/Akustik-Mikrofon-Ayarlanabilir-Seviyesi-Profesyonel/dp/B0CVLK918R/ref=sr_1_111?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.JS0-SvFfGaPrjpHV5LMBWrg_fxPiy8TXV9hlxgGkHGRv5A9yDuYSMQ0QmnqfPYX7rdsaq9rys4SpvQ1Dlpw29cUA9qOG6tj9AbGbOnr0y_n7mJBzXnGnAAnb6Pe5uXuEUklMKiW02RqZnQSSthRyjIoRrsRjDWe1MqMvBjYfkl3WGOY8hscDhI_y32uZS5gZYJiY8PNPR8_WO6lXklM9voraU4GWNmqhPMqs3jO8eQCAK0NCB-zNItMRmKqZYcg8pNUaUtheq2EVART29EBZMnVJMXdbUIi7xIiWxD22UbI.qkasf9xviZjEIGhn9E3W8vntDQYw8aqOIia7qBttLDs&dib_tag=se&keywords=kontak+mikrofonu&qid=1757861754&sprefix=kontak+mikrofon%2Caps%2C123&sr=8-111&xpid=SgfxOlTXu_jPy)
+- [Akustik Gitar Pikap, Keman Pikap Evrensel Ahşap Gitar Kontak Mikrofon Pikap Gitar Ukulele Keman Mandolin Için Bas Manyetikler : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/Akustik-Evrensel-Mikrofon-Mandolin-Manyetikler/dp/B0DFVPHKHX/ref=sr_1_40?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.2qmMvz5LWx0IfVOLiLbiOJcjwfhiZX7AMnPVhSVXEkFnWualPxq2vp3dSRbxjNLXt25xLWpUPVy4hY-H3-CgMF3GYXTzLAy_kif_jvJBSimFHsmrkkH-YjIzb9YInsbxXUTRy4MM3Nhj_-uqtHQNo4vJ-YD5yvHr1tKjcO9zU1IIx01Uw3w8y-2TC6bZntySKqqWoZuBkrb3sv1oaQ8DGcBIW2UCqJFp9otvyDgxL7pZnZyxTc54CgbyRCqoB5eNM0xI8GMkY2N4TWdDLVSXsx4gEXqELfI9DHHCXSLJkxI.IAaajE0MKdKJ5a2cedsw_P4saiwdxL1pBONF0XxA3Tk&dib_tag=se&keywords=kontak+mikrofonu&qid=1757861642&sprefix=kontak+mikrofon%2Caps%2C123&sr=8-40)
+- [Evrensel Klip Kontak Mikrofon Müzik Aletleri için Taşınabilir Ses Verici Korna Keman Gitar Ukulele ABS Metal Tuner : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/Evrensel-Mikrofon-Aletleri-Ta%C5%9F%C4%B1nabilir-Ukulele/dp/B0DDJS6YDF/ref=sr_1_37?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.2qmMvz5LWx0IfVOLiLbiOJcjwfhiZX7AMnPVhSVXEkFnWualPxq2vp3dSRbxjNLXt25xLWpUPVy4hY-H3-CgMF3GYXTzLAy_kif_jvJBSimFHsmrkkH-YjIzb9YInsbxXUTRy4MM3Nhj_-uqtHQNo4vJ-YD5yvHr1tKjcO9zU1IIx01Uw3w8y-2TC6bZntySKqqWoZuBkrb3sv1oaQ8DGcBIW2UCqJFp9otvyDgxL7pZnZyxTc54CgbyRCqoB5eNM0xI8GMkY2N4TWdDLVSXsx4gEXqELfI9DHHCXSLJkxI.IAaajE0MKdKJ5a2cedsw_P4saiwdxL1pBONF0XxA3Tk&dib_tag=se&keywords=kontak+mikrofonu&qid=1757861642&sprefix=kontak+mikrofon%2Caps%2C123&sr=8-37)
+- [Gitar Pikap AD 35 Mini Ses Pikap Piezo Kontakları Gitar Mandolin Banjo Çello Için Ses Kontrolü Mikrofon Dönüştürücü : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/Kontaklar%C4%B1-Mandolin-Kontrol%C3%BC-Mikrofon-D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCc%C3%BC/dp/B0DZTYLH7C/ref=sr_1_20?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.2qmMvz5LWx0IfVOLiLbiOJcjwfhiZX7AMnPVhSVXEkFnWualPxq2vp3dSRbxjNLXt25xLWpUPVy4hY-H3-CgMF3GYXTzLAy_kif_jvJBSimFHsmrkkH-YjIzb9YInsbxXUTRy4MM3Nhj_-uqtHQNo4vJ-YD5yvHr1tKjcO9zU1IIx01Uw3w8y-2TC6bZntySKqqWoZuBkrb3sv1oaQ8DGcBIW2UCqJFp9otvyDgxL7pZnZyxTc54CgbyRCqoB5eNM0xI8GMkY2N4TWdDLVSXsx4gEXqELfI9DHHCXSLJkxI.IAaajE0MKdKJ5a2cedsw_P4saiwdxL1pBONF0XxA3Tk&dib_tag=se&keywords=kontak+mikrofonu&qid=1757861642&sprefix=kontak+mikrofon%2Caps%2C123&sr=8-20)
+- [Okeeyseda 2 Adet Piezo İletişim Mikrofon Pickup Gitar Keman Banjo Mandolin Ukulele : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/Okeeyseda-%C4%B0leti%C5%9Fim-Mikrofon-Mandolin-Ukulele/dp/B0DT7HY3RT/ref=sr_1_7?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.2qmMvz5LWx0IfVOLiLbiOJcjwfhiZX7AMnPVhSVXEkFnWualPxq2vp3dSRbxjNLXt25xLWpUPVy4hY-H3-CgMF3GYXTzLAy_kif_jvJBSimFHsmrkkH-YjIzb9YInsbxXUTRy4MM3Nhj_-uqtHQNo4vJ-YD5yvHr1tKjcO9zU1IIx01Uw3w8y-2TC6bZntySKqqWoZuBkrb3sv1oaQ8DGcBIW2UCqJFp9otvyDgxL7pZnZyxTc54CgbyRCqoB5eNM0xI8GMkY2N4TWdDLVSXsx4gEXqELfI9DHHCXSLJkxI.IAaajE0MKdKJ5a2cedsw_P4saiwdxL1pBONF0XxA3Tk&dib_tag=se&keywords=kontak+mikrofonu&qid=1757861642&sprefix=kontak+mikrofon%2Caps%2C123&sr=8-7)
+- [Korg - CM-300-BK Klip Tipi Tuner için Geliştirilmiş Tasarım Kontak Mikrofonu - Siyah : Amazon.com.tr: Müzik Enstrümanları ve DJ](https://www.amazon.com.tr/KORG-CM-300-BK-Geli%C5%9Ftirilmi%C5%9F-Tasar%C4%B1m-Mikrofonu/dp/B07DZRDCMB/ref=sr_1_5?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=72111D1E29HA&dib=eyJ2IjoiMSJ9.2qmMvz5LWx0IfVOLiLbiOJcjwfhiZX7AMnPVhSVXEkFnWualPxq2vp3dSRbxjNLXt25xLWpUPVy4hY-H3-CgMF3GYXTzLAy_kif_jvJBSimFHsmrkkH-YjIzb9YInsbxXUTRy4MM3Nhj_-uqtHQNo4vJ-YD5yvHr1tKjcO9zU1IIx01Uw3w8y-2TC6bZntySKqqWoZuBkrb3sv1oaQ8DGcBIW2UCqJFp9otvyDgxL7pZnZyxTc54CgbyRCqoB5eNM0xI8GMkY2N4TWdDLVSXsx4gEXqELfI9DHHCXSLJkxI.IAaajE0MKdKJ5a2cedsw_P4saiwdxL1pBONF0XxA3Tk&dib_tag=se&keywords=kontak%2Bmikrofonu&qid=1757861642&sprefix=kontak%2Bmikrofon%2Caps%2C123&sr=8-5&th=1)
 ## Sources
 - Marshmallow, [3d Printed DIY Contact Mic - YouTube](https://www.youtube.com/watch?v=wdMh7KX2gTA), [piezo amp](https://metalmarshmallow.com/product.php?product_id=29)
 - [Soldering Piezo Microphone - Instructables](https://www.instructables.com/Homemade-Piezo-Microphone/)

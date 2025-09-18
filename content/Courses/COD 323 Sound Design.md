@@ -11,6 +11,7 @@ draft: false
 ---
 ## AI Tools
 [Minimax](https://www.minimax.io/audio/voice-isolator) Provides free noise reduction for voice over recordings. Voice cloning.
+
 ## Synth & VSTi
 [Vital Synth](https://vital.audio/) Sound synthesizer.
 
@@ -23,7 +24,6 @@ draft: false
 ## Apps
 https://www.roomeqwizard.com/
 
----
 ## Sound Sample Library
 Before diving into searching sound samples in an endless ocean of web, review the terminology that might be helpful for you to find relevant sound effect.
 
@@ -49,7 +49,11 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Pixabay](https://pixabay.com/sound-effects/) 90,000+ Royalty Free Sound Effects for Download.
 
----
+
+## Inspiration
+- [Chiara Luzzana — Sound Designer](https://www.chiaraluzzana.com/)
+- 
+
 ## Recommended Readings
 - [Musical Instrument Classification](https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)
 - [Saccular acoustic sensitivity - Wikipedia](https://en.wikipedia.org/wiki/Saccular_acoustic_sensitivity)
@@ -100,6 +104,7 @@ It's not about the gear, it's about the ear.
 ## Open Calls
 - [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
 - [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
+- [MUSE Creative Awards - International Advertising Awards](https://museaward.com/) Paid
 
 ---
 ## Assignments Pool

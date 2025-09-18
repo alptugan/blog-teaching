@@ -100,7 +100,7 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 ![[p5js-transformations.jpeg]]
 
 
-## Artists & Designers
+## Inspiration & Showcases
 ### Pre-computer Era
 [Hilma af Klint - Wikipedia](https://en.wikipedia.org/wiki/Hilma_af_Klint)
 
@@ -249,6 +249,9 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 [Investigations ← Forensic Architecture](https://forensic-architecture.org/investigation/triple-chaser/) (2019)
 
 
+### AI
+[DREAM RECORDER — MODEM](https://modemworks.com/projects/dreamrecorder/) Dream Recorder is an open-source venture by Modem. Developed in close collaboration with Mark Hinch (software & hardware), Ben Levinas and Joe Tsao (industrial design), and Alexis Jamet (illustrations). [source: dream-recorder](https://github.com/modem-works/dream-recorder?tab=readme-ov-file)
+
 ### Hypertext / early net.art
 - Some inspiration on [Rhizome](http://rhizome.org/artbase/collections/2/) and [Dia](http://www.diaart.org/artist_web_projects).
 - [MTAA Simple Net Art Diagram](http://www.mteww.com/images/netartdiagram.gif) - [context](http://www.mtaa.net/mtaaRR/off-line_art/snad.html) "Art made online exists solely if realized by both author and viewer, since an experience of the work is possible only once, or if, it is accessed. Until then, its location remains undefined and unmapped, without any physical manifestation." (Tribe/Jana, 2006)
@@ -308,3 +311,8 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 ### History
 - [genesis of the term "Computational Media" by Michael Mills](https://www.imillsie.com/nyu-itp)
+
+
+## Company & Studio
+- [MODEM](https://modemworks.com/)
+- 

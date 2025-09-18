@@ -167,7 +167,7 @@ An **N-channel logic-level MOSFET** such as the **FQP30N06L** or **IRLZ44N** is 
 
   
 
-<div style="text-align: center">⁂</div>
+<div style="text-align: center">- - - ⁂ - - -</div>
 
   
 
@@ -209,8 +209,6 @@ An **N-channel logic-level MOSFET** such as the **FQP30N06L** or **IRLZ44N** is 
 
 [^2_10]: https://electronics.stackexchange.com/questions/260786/driving-electromagnets-from-arduino-using-mosfets
 
-  
-  
 
 ---
 

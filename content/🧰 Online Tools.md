@@ -188,9 +188,9 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [Fake Data](https://fakerjs.dev/) Modern version of Lorem Ipsum generator.
 
 
-## Zanaat & Usta
-[Akyürek Home Design (@akyurekhomedesign) • Instagram photos and videos](https://www.instagram.com/akyurekhomedesign?igsh=MXdpZ3NkeDdodzMzdA%3D%3D)
-
+## Electronics, Robotics & Prototype
 [Gear Generator](https://geargenerator.com) Generate gears and export them as vectors. 
 
 [Motiongen](https://motiongen.io/cite) generates mechanical and Kinematics structures.
+
+[Circuit Simulator Applet](https://falstad.com/circuit/index.html) Interactive app that allows you to test your circuits before production. It has tutorials on basic electronic circuits to learn more about electronics.
