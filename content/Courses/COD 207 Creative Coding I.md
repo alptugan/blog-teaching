@@ -15,21 +15,6 @@ draft: false
 > [Labs \| Art and Interaction Computing](https://comp.anu.edu.au/courses/comp1720/labs/)
 > [Creative Coding Projects](https://available-anaconda-10d.notion.site/That-Creative-Code-Page-c5550ef2f7574126bdc77b09ed76651b)
 
-
-> [!NOTE] How should you include the Creative Coding into your CV 
-> When designing your portfolio include the programming skill as creative coding (Javascript, p5.js).
-> Other than the above, follow the instructions below;
-> - ps5js ❌
-> - p5js ❌
-> - coding ❌
-> - programming ❌
-> - openProcessing ❌
-> - Creative Coding (Javascript) ✅
-> - Creative Coding (Javascript, p5.js) ✅
-> - Programming (Javascript, p5.js framework) ✅
-> 
-
-
 ## Introduction
 COD 207 Creative Coding I is a foundational course designed to introduce students to the essential principles of programming within the realm of creative coding. Through hands-on experiences with algorithmic art practices, students will gain a comprehensive understanding of the fundamental concepts that underlie this innovative field.
 
@@ -41,12 +26,14 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 ### Office Hours
 Refer to the following link. Create a request. I will provide you the details. [Booking link](https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hEN-lfFsa5o9XwUvrUk23hiPMr-xNrDdbliDjhx13GPrkvr6JGqyO6MKZsHTud2Nwt9RnS2h)
 
+### Links
+[COD 207 Creative Coding I (2023-2024)](https://alptugan.github.io/Slidev_Presentations/cod207-2024-2025.html)
+
 ### Course Content:
 #### Week 1: Introduction to Creative Coding
 - Why do I need to learn programming? Interview with [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4)
 * Overview of programming languages (Python, JavaScript, etc.)
 * What is Creative Coding? Present artists...
-* Inspiration, [link](https://github.com/ITPNYU/ICM-2022-Code/wiki/Inspiration) derived from Daniel Schiffman's GitHub repo.
 * Pre-survey [ALAP](https://forms.gle/VAw2hz8SYyfEAnNn9)
 
 #### Things to Discuss

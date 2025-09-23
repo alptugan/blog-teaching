@@ -24,8 +24,6 @@ pnpm create slidev
 ```
 
 
-> [!WARNING] The latest slidev version *51.1.1* have some bugs. It does not display components `<Toc />`, `<Youtube />`, `magic-move`, etc... Downgrade slidev to fix this issue.
-
 ### Downgrade Slidev
 ```bash
 # Goto Root folder where you want to create a new slidev presentation
@@ -54,7 +52,7 @@ pnpm add -D playwright-chromium
 pnpm approve-builds
 
 # test again
-pnpm run build --base /Slidev_Presentations/week03_cod_208/dist/
+pnpm run build --base /Slidev_Presentations/2025-2026/week01_cod_207/dist --wait-until none
 
 # before uploading to Github, open .gitignore file and remove <dist> folder line.
 ```
