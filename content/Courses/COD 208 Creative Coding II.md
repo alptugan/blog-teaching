@@ -152,7 +152,7 @@ You can use a single or multiple markers if you want. Refer to the example [sket
 - Upload your whole sketch folder.
 - Submit the link of your game.
 
-## week 6
+## week 6 - ML with Teachable Machine
 #### 2025-2026
 Watch the following videos in order.
 1. [Introduction to Machine Learning](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction)
@@ -252,7 +252,8 @@ Some other list of inspirational [projects](https://urlist.xyz/u/itaydr/l/67d14c
 ## week 9 - COMFYUI integration 
 [GitHub - gohai/p5.comfyui-helper: A library for p5.js which adds support for interacting with ComfyUI](https://github.com/gohai/p5.comfyui-helper?tab=readme-ov-file)
 
-## week 10
+## week 10 - Data Vis - REST API
+New example on fetching image via rest API [[REST API#DOG API]]
 #### 2025-2026
 Load a CSV dataset and create a **static** data visualization that reveals interesting patterns, comparisons, or distributions. Your visualization should be visually engaging and thoughtfully designed. Do not forget to include a legend in your design.
 
@@ -268,7 +269,7 @@ Load a CSV dataset and create a **static** data visualization that reveals inter
 - Submit p5JS link
 - Submit source code as a zip file.
 
-##### Moodboard & Final Project Proposal Submission Guideline:
+##### Mood board & Final Project Proposal Submission Guideline:
 - Submit your mood board as a separate JPG file.
 - If you have already had a specific idea about the final project, you must prepare a document, diagram, illustration, or anything that visualizes your project to help us understand the details.
 

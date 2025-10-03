@@ -28,6 +28,8 @@ The primary motivation for this endeavor is personal. I frequently encounter the
 - ⌛ LocalSend: https://localsend.org/?ref=plaenco
 - ⌛ Hidden Bar: https://apps.apple.com/us/app/hidden-...
 - ⌛ Al Dante (Battery Management)
-
 ### Home Server 
 - ✅ 15.05.2025 - [Glance](https://github.com/glanceapp/glance/tree/main) dashboard manager. 
+	- Server stats not working
+	- Hard configuration
+	- Looks better than Homepage App

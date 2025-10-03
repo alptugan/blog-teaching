@@ -1,9 +1,11 @@
 ---
 title: Absolute Path
 date: 2025-03-19 03:45:37
-description: 
-tags: 
-aliases: 
+description:
+tags:
+  - computational_thinking
+  - programming
+aliases:
 draft: false
 ---
 An **absolute path** is a complete path to a file or directory in a computer's file system, starting from the root directory. It includes all the directories and subdirectories leading to the file, ensuring that the file can be located regardless of the current working directory. This contrasts with a **relative path**, which is defined relative to the current directory.

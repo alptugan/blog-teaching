@@ -1,10 +1,9 @@
 ---
 title: Untitled
 date: 2024-08-03
-modification date: Saturday 3rd August 2024 14:55:19
-description: 
-tags: 
-aliases: 
+description:
+tags:
+aliases:
 draft: true
 ---
 

@@ -5,6 +5,7 @@ description:
 tags:
   - livecoding
   - audiovisual
+  - tutorial
 aliases:
 draft: false
 ---

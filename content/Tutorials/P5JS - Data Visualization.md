@@ -45,6 +45,7 @@ Conversely, <font color="#0070c0">data visualizations</font> employ attributes s
 4. [Habit Tracker Visualization by Pat Vitra](https://www.youtube.com/watch?v=mQ4Cst7o4Ek)
 5. [loadTable Documentation on P5JS Website](https://p5js.org/reference/p5/loadTable/)
 6. [The Data Garden Collective](https://www.data-garden.co/#spotlight) 
+7. [ctd-creative-coding/classes/class-06.md at master · cacheflowe/ctd-creative-coding · GitHub](https://github.com/cacheflowe/ctd-creative-coding/blob/master/classes/class-06.md)
 
 
 ## Showcase From Students

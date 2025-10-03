@@ -19,6 +19,9 @@ The term was popularized especially with Karpathy's use of AI tools to prototype
 Thus, Andrej Karpathy is credited as the originator of the term "vibe coding."
 
 
+## The Problems of Vibe Coding
+- **Reinventing The Tire:** Systems generates the code from the beginning. If we define a good software, we can say that depends on how functionally easy to update the system with new features. On vibe coding systems, the agents always rewrites the code independent from the requirement. For instance; if you want to add a new condition in order to route the input request, the agent does not edit the specified part of the code. Rather, the agent rewrites the code from beginning, even there is no change on other parts of the code.
+
 ## References
 1. [https://en.wikipedia.org/wiki/Vibe_coding](https://en.wikipedia.org/wiki/Vibe_coding)
 2. [https://cloud.google.com/discover/what-is-vibe-coding](https://cloud.google.com/discover/what-is-vibe-coding)

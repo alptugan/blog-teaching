@@ -47,6 +47,28 @@ The following post includes online development tools for productivity frequently
 
 [CSS Layout Generator](https://layout.bradwoods.io/) 
 
+#### Animation CSS 
+[Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
+[Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
+[Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
+[Text Animations](https://angrytools.com/css/animation/), [Moving Letters](https://tobiasahlin.com/moving-letters/)
+[CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
+[Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
+[Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
+[CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
+[Thumbnail hover animations](https://imagehover.io/)
+[Neomorphism](https://neumorphism.io/#e0e0e0)
+[Glass Morphisim](https://hype4.academy/tools/glassmorphism-generator)
+[Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
+[Clipping Masks](https://bennettfeely.com/clippy/)
+[CSS Filters](https://www.cssfilters.co/)
+[Convert to Base64 Images](https://www.base64-image.de/)
+[CSS Color Palettes](https://colorhunt.co/)
+[Color Related Tools](https://colordesigner.io/tools)
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+[CSS Layout Generator](https://layout.bradwoods.io/)
+[CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
+
 
 ### Web Development
 [10015 Tools](https://10015.io/) All Online Tools in One Box 
@@ -113,6 +135,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [Huge List of Unicode Character Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
 ### Apps
 [Photopea](https://www.photopea.com/) Online Photo Editor similar to Photoshop.
+[Graphite](https://graphite.rs/) Free online vector editor & procedural design tool. Similar to Photopea
 [Typeface Animator](https://www.typefaceanimator.com/home) Typographic animation tools. Paid service. Inspirational for open-source development.
 
 ### 3D 

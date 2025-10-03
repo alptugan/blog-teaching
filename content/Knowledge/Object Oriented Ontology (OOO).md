@@ -1,9 +1,13 @@
 ---
-{}
+title: Object Oriented Ontology (OOO)
+date: 2025-09-28 11:55:29
+description:
+tags:
+  - philosophy
+aliases:
+draft: false
 ---
-
 ## Object Oriented Ontology
-### AI Generated
 Object-Oriented Ontology (OOO) and Actor-Network Theory (ANT) are two philosophical frameworks that share some similarities but also have notable differences.
 
 First, let's define each framework. OOO is a metaphysical theory that posits that objects exist independently of human perception and that they have their own properties and relations. It emphasizes the agency of non-human objects and aims to develop a non-anthropocentric ontology. ANT, on the other hand, is a sociological theory that focuses on the agency of both human and non-human actors in the construction of networks. It views networks as the basic unit of analysis and emphasizes the importance of tracing the connections between actors and the role of material objects in shaping social interactions.
@@ -136,3 +140,9 @@ It also emphasizes the concept of *withdrawal*, in which objects have a hidden e
 Object-oriented ontology has been criticized for its rejection of traditional forms of knowledge, such as science and mathematics.
 
 It has also been criticized for its lack of engagement with social and political issues.
+
+## Adventure Time
+![[ooo-adventure-time.jpg|-center|500]]
+
+It is just a cartoon but it is analogically related to OOO's philosophy. The universe of Adventure Time does not showcase only humanistic entities. There are non-human entities like BMO. It has its own existenti
+al crisis and other feelings independent from its species. 

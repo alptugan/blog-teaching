@@ -60,8 +60,17 @@ Write down step-by-step instructions precisely for the following tasks;
 - How 
 
 #### Week 2: Algorithmic Art Database
+> [!NOTE] When the speech is corrupted so is the mind.
+> - Keep mails short and readable
+> - Don't expect answer on weekends and after 5 pm
+
 * ALAP website introduction. Familiarize yourself.
 * Cheat Sheet
+* Artist of the week [Memo Akten - Showcase](https://www.youtube.com/watch?v=KZXiV2zePV4&t=8s)
+* Inspiration 
+	* [12oclocks/clocks/clock-01.js at main · CodingTrain/12oclocks · GitHub](https://github.com/CodingTrain/12oclocks/blob/main/clocks/clock-01.js)
+	* [GitHub - JSLegendDev/Pokemon-p5js: Pokemon game made with JavaScript + p5.js library](https://github.com/JSLegendDev/Pokemon-p5js/tree/master)
+	* [GitHub - forhadsidhu/Yoga-pose-detection: Yoga-pose detection using PoseNet,p5js with sound effects](https://github.com/forhadsidhu/Yoga-pose-detection)
 
 #### Week 4-5: Creative Coding Principles
 *   Understanding the role of randomness and chance in creative coding
@@ -237,7 +246,9 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 
 ### AI
-[DREAM RECORDER — MODEM](https://modemworks.com/projects/dreamrecorder/) Dream Recorder is an open-source venture by Modem. Developed in close collaboration with Mark Hinch (software & hardware), Ben Levinas and Joe Tsao (industrial design), and Alexis Jamet (illustrations). [source: dream-recorder](https://github.com/modem-works/dream-recorder?tab=readme-ov-file)
+- [DREAM RECORDER — MODEM](https://modemworks.com/projects/dreamrecorder/) Dream Recorder is an open-source venture by Modem. Developed in close collaboration with Mark Hinch (software & hardware), Ben Levinas and Joe Tsao (industrial design), and Alexis Jamet (illustrations). [source: dream-recorder](https://github.com/modem-works/dream-recorder?tab=readme-ov-file)
+- [Memo Akten – Artist working with code, data and AI](https://www.memo.tv/)
+
 
 ### Hypertext / early net.art
 - Some inspiration on [Rhizome](http://rhizome.org/artbase/collections/2/) and [Dia](http://www.diaart.org/artist_web_projects).
@@ -284,13 +295,6 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 - [Image Atlas](http://www.imageatlas.org/)
 - [Islands of Glass / Rob Clouth](https://vimeo.com/119439725)
 
-### Early artists working with computers
-- [VICE: The Computer-Generated Acid Trips of the '60s and '70s](http://motherboard.vice.com/blog/the-early-years-of-computer-generated-acid-trips)
-- [Mutations](https://www.youtube.com/watch?v=nKGrz4AMbqk), Lillian Schwartz (1973)
-- [Catalog](https://www.youtube.com/watch?v=TbV7loKp69s&feature=relmfu), John Whitney (1961)
-- [Permutations](https://www.youtube.com/watch?v=BzB31mD4NmA), John Whitney (1966)
-- [Stan Vanderbeek](https://www.youtube.com/watch?v=VTrKWJe6CS4) (1972)
-
 ### Other
 - [Telescope Dome Control](http://astro.neutral.org/arduino/how-to-write-arduino-telescope-goto-mount-controller.shtml) - Arduino Motor Control, Computation of Astral Coordinates
 - [This app knows how you feel — from the look on your face](https://youtu.be/o3VwYIazybI)
@@ -302,4 +306,13 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 ## Company & Studio
 - [MODEM](https://modemworks.com/)
-- 
+- Filika
+- Nerdworking
+- [DECOL - New Media Studio](https://www.decol.tv/)
+- [İBB Kültür AŞ Dijital Deneyim Merkezi](https://www.dijitaldeneyimmerkezi.com/)
+- [TEMAS TEKNOLOJİ](https://www.temasteknoloji.com.tr/interaktif-uygulamalar/)
+- [KarıncaEvent](https://www.karincaevent.com/dijital-aktivitelerimiz)
+- [VOYA \| Digital Product Design Studio / Dijital Deneyim Stüdyosu](https://voya.digital/en/)
+- [DEM - Dijital Deneyim Tasarımı ve Kültürel Hikaye Anlatımı](https://www.demmuseums.com/tr/Projeler)
+- [Omotun \| Dijital Tasarım Stüdyosu](https://omotun.com/)
+- [ILLUSIONIST- Digital Arts Studio](https://www.illusionist.com.tr/)

@@ -51,6 +51,9 @@ pnpm run build --base /Slidev_Presentations/week03_cod_208/dist/
 pnpm add -D playwright-chromium
 pnpm approve-builds
 
+# install Logos `<logos-[name] />`
+pnpm add @iconify-json/logos
+
 # test again
 pnpm run build --base /Slidev_Presentations/2025-2026/week01_cod_207/dist --wait-until none
 

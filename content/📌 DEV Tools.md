@@ -1,6 +1,6 @@
 ---
 title: 📌 DEV Tools
-draft: true
+draft: false
 tags:
   - docker
   - shell
@@ -29,6 +29,14 @@ date: 2025-03-19T12:00:00
 
 ## ImageJS
 [ImageJS](https://docs.image-js.org/docs/getting-started) ImageJS is a versatile and powerful TypeScript library for image processing and analysis, offering comprehensive tools and algorithms for manipulating, enhancing, and understanding images both in Node.js and popular browsers.
+
+
+## Yjs
+[Yjs](https://yjs.dev/) A CRDT framework with a powerful abstraction of shared data. Yjs is network agnostic (p2p!), supports many existing rich text editors, offline editing, version snapshots, undo/redo and shared cursors. It scales well with an unlimited number of users and is well suited for even large documents. ( #p5js  editor için kullanılabilir)
+
+
+## CodeMirror
+[CodeMirror](https://codemirror.net/) is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
 
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
@@ -85,7 +93,7 @@ date: 2025-03-19T12:00:00
 ## Chat Bots for customers
 [Chatwoot](https://www.chatwoot.com/help-center)
 
-# HOME SERVER
+# Docker Related
 ## Operating Systems
 https://www.youtube.com/watch?v=n3T2J0WQH10
 [Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3. The best part is it supports custom docker installs → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
@@ -179,18 +187,20 @@ Guacamole
 [linkstack](https://linkstack.org/) Linktree alternative
 
 ## Uncategorized Apps
-llamafile → local image analysis, GPT
-rofi-tdk
-Freetar → akor tab
-dead-man-message → öldükten sonra sevdiğin kişilere hesap bilgilerini göster
-Explainshell → Explains Shell commands.
-Gigabrain → Summarize Reddit posts AI
-whiz → AI assisted Terminal
-[Store.app](https://store.app/) → Web app store.
-wavacity → online Audacity
-workout.lol → Health care with daily objects at home to work out specific parts of your body.
-Metadata Cleaner → Remove meta data from any file.
-[Open source Apps](https://openalternative.co/categories)Alternatives to paid applications. 
+- llamafile → local image analysis, GPT
+- rofi-tdk
+- Freetar → akor tab
+- dead-man-message → öldükten sonra sevdiğin kişilere hesap bilgilerini göster
+- Explainshell → Explains Shell commands.
+- Gigabrain → Summarize Reddit posts AI
+- whiz → AI assisted Terminal
+- [Store.app](https://store.app/) → Web app store.
+- wavacity → online Audacity
+- workout.lol → Health care with daily objects at home to work out specific parts of your body.
+- Metadata Cleaner → Remove meta data from any file.
+- [Open source Apps](https://openalternative.co/categories)Alternatives to paid applications. 
+
+- [GhostBin](https://github.com/0x30c4/GhostBin) GhostBin is a lightweight, high-performance pastebin built with Go and Redis. Designed with simplicity and speed in mind, GhostBin offers a fast and efficient platform for sharing text snippets effortlessly.
 
 
 # Ethical Hacking
@@ -305,29 +315,6 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
 [Decap CMS \| Open-Source Content Management System](https://decapcms.org/)
 
-# Online Dev Tools
-## Animation CSS 
-[Hamburger](https://jonsuh.com/hamburgers/) Menu css. Can be used for my website. When works opened, menu circle goes top right. Menu icon turns into cross sign if user want to return back to the content
-[Loader](https://whirl.netlify.app/) animations, [Loader 2](https://epic-spinners.epicmax.co/)
-[Loader Animation](https://ianlunn.github.io/Hover/), [Loader Animation](https://uiball.com/ldrs/)
-[Text Animations](https://angrytools.com/css/animation/), [Moving Letters](https://tobiasahlin.com/moving-letters/)
-[CSS patterns for background](https://heropatterns.com/), [Create Your Own Patterns](http://www.patternify.com/)
-[Backrougnd Gradient animation](https://sarcadass.github.io/granim.js/) Elidor işinde kullandığım
-[Several Animated bg animations](https://animatedbackgrounds.me/), [animated BG patterns](https://www.magicpattern.design/tools/css-backgrounds)
-[CSS Gradient](https://cssgradient.io/), [Sample Gradients](https://www.grabient.com/)
-[Thumbnail hover animations](https://imagehover.io/)
-[Neomorphism](https://neumorphism.io/#e0e0e0)
-[Glass Morphisim](https://hype4.academy/tools/glassmorphism-generator)
-[Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
-[Clipping Masks](https://bennettfeely.com/clippy/)
-[CSS Filters](https://www.cssfilters.co/)
-[Convert to Base64 Images](https://www.base64-image.de/)
-[CSS Color Palettes](https://colorhunt.co/)
-[Color Related Tools](https://colordesigner.io/tools)
-[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
-[CSS Layout Generator](https://layout.bradwoods.io/)
-[CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
-
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
 [JS.org](https://js.org/?) Sub Domain name for github pages
@@ -365,171 +352,3 @@ https://www.youtube.com/watch?v=T8LllCqCRG0&list=PLjLkaXQ35320c0N3ADd_ZAaJeWOnXx
 
 # Scheduling
 [Cal.com](https://cal.com/pricing) Start scheduling for free, with no usage limits. For collaborative features, choose one of our premium plans that fits your company size.
-# My CasaOS Fundamentals
-[Portainer Dockers](https://portainer-templates.as93.net/) Ready to use docker images might be useful CasaOS
-Şu adamı izle güzel örnekleri var NTFY için;
-https://www.youtube.com/watch?v=poDIT2ruQ9M
-``` bash
-#!/bin/bash
-
-# Replace with your Telegram bot token
-TELEGRAM_BOT_TOKEN="YOUR_BOT_TOKEN"
-
-# Replace with your Telegram chat ID
-TELEGRAM_CHAT_ID="YOUR_CHAT_ID"
-
-# Function to send a message to Telegram
-send_telegram_message() {
-    local message="$1"
-    curl -s -X POST \
-         -H 'Content-Type: application/json' \
-         -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$message\"}" \
-         https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage > /dev/null
-}
-
-# Monitor Docker events and send a message on container stop/failure
-docker events --filter 'event=stop' --filter 'event=die' | while read -r event; do
-    container_name=$(echo "$event" | jq -r '.Actor.Attributes.name')
-    send_telegram_message "Docker container '$container_name' is down!"
-done
-```
-
-## Nginx & Node
-[Full NGINX Tutorial - Demo Project with Node.js, Docker - YouTube](https://www.youtube.com/watch?v=q8OleYuqntY)
-
-install npm via apk. Login to nginx docker Terminal and type
-`apk update`
-`apk add npm`
-
-goto node-server folder and run
-`node index.js`
-
-Changing the ownership
-`chown -R 1000:1000 config/`
-
-default.conf file
-```nginx
-server {
-    listen *:80;
-    # listen *:443 ssl;
-    # listen 80;
-    server_name _;
-
-    location / {
-        root /config/www;
-        index index.html index.htm;
-    }
-
-    location /node-server/ {
-        proxy_pass http://localhost:3000;  # Forward requests to Node.js server
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection 'upgrade';
-        proxy_set_header Host $host;
-        proxy_cache_bypass $http_upgrade;
-    }
-}
-```
-## Healthchecks
-![[healthchecks.png]]
-```shell
-# To send pings and control them add cronjob use sudo
-crontab -e
-```
-
-Paste the following content;
-```shell
-@reboot sudo sh -c 'sleep 240 && curl -m 10 --retry 20 http://192.168.1.247:8000/ping/8fedd5ad-218>
-
-0 */3 * * * python3 /home/alptugan/check.py
-
-49 3 * * * curl -m 10 --retry 5 http://192.168.1.247:8000/ping/8fedd5ad-2185-4477-bcdd-0a3116b3150>
-
-```
-
-```shell
-# ping manually from Telegram
-curl -m 10 --retry 5 http://filika-healthchecks.damp-server.org/ping/55e701f3-3968-4958-947a-850da1a9a0d0
-```
-
-
-> [!NOTE] Re-assign a Telegram Bot
-> 1. Connect Cloudflare to the self-hosted ip
-> 2. Enter the domain name as it is into the docker variable https://filika-healthchecks.damp-server.org
-> 3. Goto CasaOS docker Settings → open Terminal
-> 4. `cd app/healthchecks`
-> 5. Run `./manage.py settelegramwebhook`
-> 6. Notification will appear on Telegram App
-## NextCloud
-→ /etc/apache2/sites-enabled is editted with the following lines;
-```c
-ServerName filika_cloud.damp-server.org
-<IfModule mod_headers.c>
-    Header always set Strict-Transport-Security "max-age=15552000; includeSubDomains"
-</IfModule>
-```
-
-→ /var/www/html
-.htaccess files
-```c
-php_value upload_max_filesize 16G
-php_value post_max_size 16G
-php_value max_input_time 3600
-php_value max_execution_time 3600
-php_value memory_limit 1024M
-```
-
-→ nextcloud admin web ui; goto Basic Settings; Background jobs
-First ping the address https://filika_cloud.damp-server.org/cron.php
-If it works
-Then add the ping link to a cronjob that runs every 5 mins
-```bash
-*/5 * * * * curl https://filika_cloud.damp-server.org/cron.php
-
-```
-
-## NFTY.sh
-Open casaOS Appstore 
-Search for "nfty" 
-Use big-bear- distro...
-Install the app
-Configure Cloudflare Tunnel
-Set NFTY_BASE_URL to your Cloudflare domain
-Create attachments dir inside casaOS
-``` bash
-# Send Attachment from local dir
-# Ref: [https://filika-ntfy.damp-server.org/docs/publish/#attachments]
-curl -T /Users/alptugan/Desktop/ozyegin-univ-map-2022.png -H "Filename: ozu.png" https://server_name/test
-```
-![[nfty_docker_settings_01.png|Keep other settings same, add ENV vars to point server]]
-
-## MariaDB and PhpMyAdmin Installation
-- Install dockers on CASAOS
-- `sudo chown -R filika:filika mariadb`
-- `sudo chown -R filika:filika phpmyadmin`
-
-## Stable-Diffusion
-https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting
-[GTX 1660 Super config](https://www.andreszsogon.com/fix-stable-diffusion-automatic1111-webui-on-geforce-gtx-16xx/()
-### CLI Settings
-- By default: `--medvram` is given, which allow you to use this model on a 6GB GPU, you can also use `--lowvram` for lower end GPUs. Remove these arguments if you are using a (relatively) high end GPU, like 40XX series cards, as these arguments will slow you down.
-
-### Docker Containers
-[Official 1](https://github.com/AbdBarho/stable-diffusion-webui-docker?tab=readme-ov-file)
-
-- To add custom commands you need to include default COMMAND_LINE_ARGS and add additional parameters to the end in the `webui-user.sh`
-
-### Current Config
-https://github.com/universonic/docker-stable-diffusion-webui
-
-
-## ⛔️ Cronicle
-configs → /opt/cronicle/conf/config.json
-
-## Cronjobs
-```shell
-#!/bin/sh
-# Backup homepage...
-cp -r /DATA/AppData/big-bear-homepage /mnt/SAMSUNG_500GB_HDD/DOCKER_COMPOSE_FILES/
-
-```

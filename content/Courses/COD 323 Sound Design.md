@@ -24,6 +24,14 @@ draft: false
 
 [Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
 
+[XXIIVV — pilot](https://wiki.xxiivv.com/site/pilot.html) Pilot features **16 voices, and 8 audio effects**, each operatable with their own set of commands, and their own FFT visualiser. The complete operation guide can be seen [here](https://github.com/Hundredrabbits/Pilot). Works via OSC on port `49161`. Use openFrameworks/examples UDP sender to test commands. 
+
+https://u-he.com/products/tyrelln6/
+
+https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2
+
+https://plugins4free.com/plugin/2848/
+
 ## Apps
 https://www.roomeqwizard.com/
 
