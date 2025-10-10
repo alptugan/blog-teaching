@@ -10,7 +10,7 @@ tags:
 draft: false
 banner: "[[mnemonic-cover.png]]"
 ---
-Computational thinking has become a buzzword in recent years, thanks to the rise of the tech industry and the increasing integration of computer science into the school curriculum (Tendre & Danning, 2016). But what exactly is computational thinking? According to researcher Jeannette Wing, it is "==a fundamental skill that requires thinking at a variety of abstraction levels==" (Wing, 2008). In other words, it's a way of thinking that is applicable to any problem, whether you're trying to figure out the best way to get from point A to point B, or you're designing a computer program to do the same..
+Computational thinking has become a buzzword in recent years, thanks to the rise of the tech industry and the increasing integration of computer science into the school curriculum (Tendre & Danning, 2016). But what exactly is computational thinking? According to researcher Jeannette Wing, it is "==a fundamental skill that requires thinking at a variety of abstraction levels==" (Wing, 2008). In other words, it's a way of thinking that is applicable to any problem, whether you're trying to figure out the best way to get from point A to point B, or you're designing a computer program to do the same...
 
 
 The relationship between programming and computational thinking is that the latter is essential for the former. Computer programming can be thought of as a way to test hypotheses and solve problems related to computational devices (Romero et. al, 2017). It is a crucial step in developing empathy with computational devices. In order to be a good programmer, one must have a strong foundation in computational thinking.
