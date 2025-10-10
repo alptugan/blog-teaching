@@ -72,6 +72,10 @@ Write down step-by-step instructions precisely for the following tasks;
 	* [GitHub - JSLegendDev/Pokemon-p5js: Pokemon game made with JavaScript + p5.js library](https://github.com/JSLegendDev/Pokemon-p5js/tree/master)
 	* [GitHub - forhadsidhu/Yoga-pose-detection: Yoga-pose detection using PoseNet,p5js with sound effects](https://github.com/forhadsidhu/Yoga-pose-detection)
 
+
+#### Week 3: 
+- Artist of the week [Char Stiles](https://youtu.be/ja3U7hK2bOk?si=-bL_iYhgaKlKTwsj&t=465) Keynote speech on Creative Coding Fest.
+- 
 #### Week 4-5: Creative Coding Principles
 *   Understanding the role of randomness and chance in creative coding
 *   Applying generative principles to create dynamic visuals

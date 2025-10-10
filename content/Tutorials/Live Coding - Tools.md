@@ -25,7 +25,7 @@ It fetches samples from freesound.org based on given words or generates Text-to-
 
 [Strudel](https://strudel.cc/) Built upon TidalCycles live-coding tool. Works on browser. You can built from the source code and run on your local device. Follow [[Live Coding - Strudel Setup|the steps]] in order to run on your own computer.
 
-
+[Strudel Flow](https://xyflow.com/strudel-flow) Node-based version of Strudel
 
 ## Other Resources
 [GitHub - pjagielski/awesome-live-coding-music: A curated list of awesome Live Coding Music frameworks, libraries and software.](https://github.com/pjagielski/awesome-live-coding-music)

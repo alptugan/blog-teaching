@@ -94,6 +94,8 @@ date: 2025-03-19T12:00:00
 [Chatwoot](https://www.chatwoot.com/help-center)
 
 # Docker Related
+### File Sharing
+[Sharry](https://github.com/eikek/sharry) File sharing system on docker
 ## Operating Systems
 https://www.youtube.com/watch?v=n3T2J0WQH10
 [Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3. The best part is it supports custom docker installs → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)

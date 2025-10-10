@@ -15,25 +15,28 @@ draft: false
 ## AI Tools
 [Minimax](https://www.minimax.io/audio/voice-isolator) Provides free noise reduction for voice over recordings. Voice cloning.
 
-## Synth & VSTi
-[Vital Synth](https://vital.audio/) Sound synthesizer.
+## VST & Virtual Instruments
+[List of Free VST](https://www.ufukonen.com/tr/ucretsiz-pluginler.html) Huge list of free VST tools suggested by [Ufuk Önen](https://www.ufukonen.com/tr/). 
 
 [Compressor, Saturator, Distortion, Reverb](https://klanghelm.com/contents/main) Set of free effect plugins.
+
+[Tape Cassette 2](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2)  is an audio plugin that emulates the warmth and character of old tape cassettes, featuring an updated interface and improved algorithms for saturation, wow & flutter, and tape noise. It includes a new Type 1 Cassette Impulse Response, VU meters, and selectable oversampling. The plugin adds vintage warmth and texture to tracks or channels and can also be used creatively for experimental sound design.
 
 [Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Review the [video](https://www.youtube.com/watch?v=oLvAbLEremk) to get more information. (Tip. FFT size parameter sets the clearance of the recorded track. Play with this to change the timbre of the sound. Higher values are close to original sound)
 
 [Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
 
+[Vital Synth](https://vital.audio/) Sound synthesizer.
+
+[TyrellN6](https://u-he.com/products/tyrelln6/) is a compact freeware software synth by u-he and Amazona, based on a canceled hardware concept. It features a streamlined, easy-to-use interface for fast workflow.
+
+[Keyzone Classic](https://plugins4free.com/plugin/2848/)  is a sample based piano. 
+
+### Network Protocol VSTi
 [XXIIVV — pilot](https://wiki.xxiivv.com/site/pilot.html) Pilot features **16 voices, and 8 audio effects**, each operatable with their own set of commands, and their own FFT visualiser. The complete operation guide can be seen [here](https://github.com/Hundredrabbits/Pilot). Works via OSC on port `49161`. Use openFrameworks/examples UDP sender to test commands. 
 
-https://u-he.com/products/tyrelln6/
-
-https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2
-
-https://plugins4free.com/plugin/2848/
-
-## Apps
-https://www.roomeqwizard.com/
+## Professional Tools
+[Room EQ Wizard (REW) Room Acoustics Software](https://www.roomeqwizard.com/)  REW is free software for measuring and optimizing room acoustics, loudspeakers, and audio devices. It provides tools for testing audio signals, measuring sound parameters, creating various analysis plots, and adjusting equalizer settings to improve sound quality.
 
 ## Sound Sample Library
 Before diving into searching sound samples in an endless ocean of web, review the terminology that might be helpful for you to find relevant sound effect.
@@ -54,7 +57,7 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Open Game Art](https://opengameart.org/) Free to use digital game assets including sound and music.
 
-[Youtube Sound Library](https://studio.youtube.com/channel/UCGKZ_YsviZR-_c739XdSApA/music) You can access royalty free sound effects and music library of Youtube.
+[Youtube Sound Library](https://www.youtube.com/audiolibrary) (You need to be signed in on your Youtube account) You can access royalty free sound effects and music library of Youtube. If you cannot access, navigate to [this page](https://support.google.com/youtube/answer/3376882?hl=en).
 
 [Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
 
@@ -63,7 +66,6 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 ## Inspiration
 - [Chiara Luzzana — Sound Designer](https://www.chiaraluzzana.com/)
-- 
 
 ## Recommended Readings
 - [Musical Instrument Classification](https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)
@@ -116,71 +118,3 @@ It's not about the gear, it's about the ear.
 - [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
 - [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
 - [MUSE Creative Awards - International Advertising Awards](https://museaward.com/) Paid
-
----
-## Assignments Pool
-### week 01
-💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
-
-📖 **Reading**: cod323_week1_Elements_of_Sound-Beauchamp
-
-📺 Watch: [What is Sound?](https://www.youtube.com/watch?v=8uUpTVZsP20), [The Art of Sound Design](https://www.youtube.com/watch?v=BU9nj2-6ZnA), [The Magic of Sound Design](https://www.youtube.com/watch?v=UO3N_PRIgX0)
-
-✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
-
-
-### week 02
-COD 323’te giriş projesi olarak sesi tanımaları için 9V pil ve hoparlör kullanarak basit synthler yapmaları için ödev verebilirim. 
-[Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
-
-
-### week 03
-
-### week 04
-
-### week 05
-Automation Curves
-Loudness
-Voice Over 
-
-#### Assignment
-1. Select a video scene of at least 30 seconds to record a voice over track. The video can be a movie clip, documentary, or any other clip of your choice.  
-  
-2. Create a sound design for the scene effects and soundscape.  
-  
-3. Then record your voice over track. You can record anyone including yourself. Avoid reverb or background noise during your recording.  
-  
-4. Add your voice-over track to your project and adjust background music and effects using automation curves as I showed you in class.
-
-Before importing your voiceover recording into Davinci Resolve, you can apply the following AI noise reduction tools.
-
-[Adobe Voice Enhancer](https://podcast.adobe.com/enhance) or [Audiophonic](https://auphonic.com)
-
-
-### week 06
-Field Recording and Acoustic Ecology
-EQ
-Limiter
-
-### week 07
-Elements of Sound Design
-Effects
-EQ, Far/near sound with 
-Reverb, End scene
-Why sound design matters, [scene 1](https://www.youtube.com/watch?v=UU3WMfQOjes), [scene 2](https://www.youtube.com/watch?v=L27a851-RxY)
-Hatefull eight scene, [sound source](https://freesound.org/people/D4XX/sounds/564626/)
-[Naruto Sasuke fight scene](https://www.youtube.com/watch?v=hBV5aQ5i7rk)
-
-### week 08
-
-### week 09
-
-### week 10
-
-### week 11
-
-### week 12
-
-### week 13
-
-### week 14

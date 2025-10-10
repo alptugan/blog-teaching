@@ -10,21 +10,7 @@ draft: false
 ---
 ## Setup & Install	
 Official [Slidev](https://sli.dev/guide/) suggests to use `pnpm` instead of `npm` for optimum performance and less headache during the updates.
-
-### Latest Version: 51.1.2
-```bash
-# If you haven't installed pnpm
-npm i -g pnpm
-
-# Goto Root folder where you want to create a new slidev presentation
-pnpm create slidev
-
-# Select pnpm as package manager
-# Slidev should start automatically
-```
-
-
-### Downgrade Slidev
+### Slidev Project
 ```bash
 # Goto Root folder where you want to create a new slidev presentation
 pnpm create slidev
@@ -55,7 +41,7 @@ pnpm approve-builds
 pnpm add @iconify-json/logos
 
 # test again
-pnpm run build --base /Slidev_Presentations/2025-2026/week01_cod_207/dist --wait-until none
+pnpm run build --base /Slidev_Presentations/2025-2026/week03_cod_207-Computational_Thinking/dist --wait-until none
 
 # before uploading to Github, open .gitignore file and remove <dist> folder line.
 ```

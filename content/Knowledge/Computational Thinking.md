@@ -1,15 +1,17 @@
 ---
+title: Computational Thinking
+date: 2025-10-10 12:40:19
+description:
+aliases:
 tags:
   - computational_thinking
+  - cod207
+  - cod208
+draft: false
+banner: blog-teaching/content/assets/covers/mnemonic-cover.png
 ---
- 
- [All: computational thinking in art and design education : Search (ozyegin.edu.tr)](https://dl-acm-org.offcampus.ozyegin.edu.tr/action/doSearch?AllField=computational+thinking+in+art+and+design+education)
-
-[computational thinking - Google Akademik](https://scholar.google.com/scholar?hl=tr&as_sdt=0%2C5&q=computational+thinking&btnG=)
-
-
-
 Computational thinking has become a buzzword in recent years, thanks to the rise of the tech industry and the increasing integration of computer science into the school curriculum (Tendre & Danning, 2016). But what exactly is computational thinking? According to researcher Jeannette Wing, it is "==a fundamental skill that requires thinking at a variety of abstraction levels==" (Wing, 2008). In other words, it's a way of thinking that is applicable to any problem, whether you're trying to figure out the best way to get from point A to point B, or you're designing a computer program to do the same.
+
 
 The relationship between programming and computational thinking is that the latter is essential for the former. Computer programming can be thought of as a way to test hypotheses and solve problems related to computational devices (Romero et. al, 2017). It is a crucial step in developing empathy with computational devices. In order to be a good programmer, one must have a strong foundation in computational thinking.
 
@@ -31,3 +33,7 @@ Another benefit of computational thinking is that it can help people to automate
 Computational thinking is also a valuable skill for people who want to pursue careers in computer science or other related fields. By understanding how to solve problems using computers, they will be better prepared for these types of careers.
 
 There are many other benefits of computational thinking, but these are some of the most important ones. It is clear that this skill is becoming increasingly important in our modern world and that everyone can benefit from learning how to do it.
+
+
+## More information
+[computational thinking - Google Akademik](https://scholar.google.com/scholar?hl=tr&as_sdt=0%2C5&q=computational+thinking&btnG=)

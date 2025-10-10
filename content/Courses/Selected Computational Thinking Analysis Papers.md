@@ -9,7 +9,9 @@ tags:
 aliases: 
 draft: false
 ---
-Click on links to review files.
+Click on links to review examples of Computation Thinking analysis from past students. You can read more about [[Computational Thinking]]
+
+
 [[CT01.docx]]
 
 [[CT02.docx]]

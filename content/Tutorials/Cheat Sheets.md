@@ -587,6 +587,10 @@ pandoc input.pdf -o output.docx
 # Covert image sequence to high-quality mp4 video
 ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
 
+# REDUCE File Size
+# Play around crf -> increase the value to reduce file size
+ffmpeg -i 'input.mp4' -vcodec libx264 -crf 30 'output.mp4'
+
 # %07d -> filename includes 7 digits...
 # -preset veryslow -> takes more time but better quality
 # -crf 18 -> This value determines the quality of images 18 to 25 safe. Lower the better

@@ -198,6 +198,14 @@ Joint live coding performance as Sync Union (Laila Kamil & Niklas Kleemann) usin
 #livecoding #tutorial #sound 
 <iframe src="https://www.youtube.com/embed/lxDn7uf_9DU?list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
+Strudel tutorial
+<iframe title="WORKSHOP // Coding Music With Strudel // Dan Gorelick and Viola He" src="https://www.youtube.com/embed/oqyAJ4WeKoU?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+Live coding performance with vocals
+<iframe title="Cycles - DJ_Dave + Switch Angel (Live)" src="https://www.youtube.com/embed/Mbeku_nj0Nk?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+
+
 ### Sound Art
 [Scott Tooby - Sonic Mirror Instruments](http://scott-tooby.com/sonic-mirror-instruments.html)
 

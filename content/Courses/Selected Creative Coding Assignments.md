@@ -1,7 +1,6 @@
 ---
 title: Selected Creative Coding Assignments
 date: 2024-10-10
-modification date: 2025-05-08T19:50:00
 description: Includes selected student assignments
 tags:
   - p5js
@@ -9,9 +8,42 @@ tags:
   - creativecoding
   - cod207
   - cod208
-aliases: 
+aliases:
 draft: false
 ---
+## COD 207 (2025-2026 Fall)
+### B
+[Ada Tıngaz](https://editor.p5js.org/ada.tingaz/sketches/I2N_Nwb6W)
+[Aslı Özcan](https://editor.p5js.org/asli.ozcan/sketches/ufM-LQ5Bj)
+[Baran Bülbül](https://editor.p5js.org/Barannn/sketches/Pg8FhUxqo)
+[Berke Çiçek](https://editor.p5js.org/Barannn/sketches/Pg8FhUxqo) 🔍
+[Buse Özdemir](https://editor.p5js.org/buse.ozdemir.33629/sketches/QETp7SwF8) 🔍
+[Ceran Erdi](https://editor.p5js.org/ceran/sketches/QYY3TZuHI)
+[Deniz Mutlu](https://editor.p5js.org/denizmutlu/sketches/NBXsFJiWo) 🔍
+[Ece Matlı](https://editor.p5js.org/ecematli/sketches/tGdd9MIjX)
+[Eda Erginoğlu](https://editor.p5js.org/eda.erginoglu/sketches/mVAlnLvO9) 🔍
+[Farida Hamed](https://editor.p5js.org/faridahamed/full/ktnaeAcUi)
+[Ilgınsu Gündüzalp](https://editor.p5js.org/ilginsugunduzalp/sketches/r5TvD1qGX)
+[Iman Nawaz](https://editor.p5js.org/iman.nawaz/sketches/l4BQ3QhMe)
+[Munazza Shirin](https://editor.p5js.org/munazza.shirin/sketches/y-8_bApaH)
+[Nehir Gelişin](https://editor.p5js.org/nehir.gelisin/sketches/0YVxsr7Nd), [composition](https://editor.p5js.org/nehir.gelisin/sketches/up-mE5cH9)
+[Umut Gelir](https://editor.p5js.org/tumurileg/sketches/yPM3SvNLr)
+
+### A
+[Azra Akoğlu](https://editor.p5js.org/azra.akoglu/sketches/alZHFy1wQ)
+[Baran Ay](https://editor.p5js.org/baranay/sketches/THn3NDgr7) 
+[Bersu Güzey](https://editor.p5js.org/bersuguzey/sketches/Ifo7i0nfD)
+[Bilal Mushtaque](https://editor.p5js.org/bilal.mushtaque/sketches/jDgan7Pm7)
+[Cemre Toraman](https://editor.p5js.org/cemre.toraman/sketches/h5jcr5gUb)
+[Ece Usta](https://editor.p5js.org/ece.usta/sketches/TkzWzJ_EO)
+[Mert Cambol](https://editor.p5js.org/mertcambol/sketches/d7Ya8w1g8)
+[Nur Akçay](https://editor.p5js.org/meleknurakcay/sketches/z6m53tSqA)
+[Nurdan Çelik](https://editor.p5js.org/nurdancelik90/sketches/hxnUkIrZV)
+[Rüya Mihadavi](https://editor.p5js.org/ruyaghenamihdavi/sketches/BXyp9OwD1)
+
+
+[p5.js Web Editor \| Week.02-dogaozbeklik-A](https://editor.p5js.org/doga.ozbeklik/sketches/2JAvTqkjN)
+
 ## COD 208 (2025-2026 Spring)
 ### Basic Platform Game
 #### A
