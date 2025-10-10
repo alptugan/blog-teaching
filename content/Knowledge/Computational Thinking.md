@@ -8,7 +8,7 @@ tags:
   - cod207
   - cod208
 draft: false
-banner: "[[mnemonic-cover.png]]"
+banner:
 ---
 Computational thinking has become a buzzword in recent years, thanks to the rise of the tech industry and the increasing integration of computer science into the school curriculum (Tendre & Danning, 2016). But what exactly is computational thinking? According to researcher Jeannette Wing, it is "==a fundamental skill that requires thinking at a variety of abstraction levels==" (Wing, 2008). In other words, it's a way of thinking that is applicable to any problem, whether you're trying to figure out the best way to get from point A to point B, or you're designing a computer program to do the same.
 
