@@ -166,6 +166,19 @@ This text is going to be formatted in 3 columns. If the `--column-count` paramet
 ```
 
 
+## 7. Advanced URI Plug-in
+To use it on Leader Key app, follow the instructions below;
+```shell
+# Insert image resize command
+obsidian://adv-uri?vault=Obsidian&commandid=custom-commands%3Acustom-cmd-insert-image-resize-center
+
+# Sync teaching-blog
+obsidian://adv-uri?vault=Obsidian&commandid=obsidian-shellcommands%3Ashell-command-yg4ogqaqea
+
+```
+
+
+
 ## Wikilinks
 Embed Content from different document into another document as excerpt.
 ```markdown
