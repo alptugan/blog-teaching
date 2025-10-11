@@ -1,10 +1,9 @@
 ---
-title: Untitled
+title: Customizable Macropad
 date: 2024-07-26
-modification date: Friday 26th July 2024 14:57:37
-description: 
-tags: 
-aliases: 
+description:
+tags:
+aliases:
 draft: true
 ---
 # Software

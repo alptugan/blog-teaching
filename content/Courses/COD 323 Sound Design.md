@@ -9,9 +9,6 @@ tags:
 aliases:
 draft: false
 ---
-
-
-
 ## AI Tools
 [Minimax](https://www.minimax.io/audio/voice-isolator) Provides free noise reduction for voice over recordings. Voice cloning.
 
@@ -115,6 +112,15 @@ It's not about the gear, it's about the ear.
 
 ---
 ## Open Calls
+Do your own research frequently on search engines like google and social media apps like Instagram to attend open calls related to the sound. Do not limit yourself with following calls. Use the keywords such as `open call, artist residance, sound, soundscape, award, experimental music, music concrete, sound design, sound art...`
+
+- [Sound and Music](https://soundandmusic.org/opportunities/) Opportunities hub for open calls
 - [Sound of The Year](https://www.soundoftheyearawards.com/) Annually organized sound design contest based on several soundscape related compositions.
-- [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues.
+- [OPEN CALL - E X P E R I M A N C E](https://www.experimance.de/2026-2/open-call-2/) deadline: November 9
+- [Electronic Music Midwest Festival](https://www.emmfestival.org/submit.php) Registration fee 75 $ deadline: 2025-11-14
+- [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues. 
 - [MUSE Creative Awards - International Advertising Awards](https://museaward.com/) Paid
+- [Sound Score](https://soundscore.org/about/)
+
+Free online support from professionals: [Composers' Helpline - Sound Scotland](https://sound-scotland.co.uk/event/composers-helpline)
+
