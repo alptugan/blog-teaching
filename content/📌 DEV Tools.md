@@ -154,7 +154,7 @@ AdGuard Home
 
 ## Bookmarks
 [linkding](https://github.com/sissbruecker/linkding)
-[linkwarden](https://linkwarden.app/)
+[linkwarden](https://linkwarden.app/) 
 [readeck](https://readeck.org/en/) Kampsamlı bir bookmarking, not alma falan var.
 [slash](https://github.com/boojack/slash) Chrome extension'ı da var.
 

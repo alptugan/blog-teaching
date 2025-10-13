@@ -8,6 +8,12 @@ tags:
 aliases: 
 draft: false
 ---
+## Update Existing Project
+1. Copy files from the old project except the node folder.
+2. Replace package.json with the new one
+3. `pnpm install`
+4. Follow instruction if there are any of them.
+5. `pnpm dev`
 ## Setup & Install	
 Official [Slidev](https://sli.dev/guide/) suggests to use `pnpm` instead of `npm` for optimum performance and less headache during the updates.
 ### Slidev Project

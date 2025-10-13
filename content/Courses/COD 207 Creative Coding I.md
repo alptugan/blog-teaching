@@ -27,7 +27,9 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 Refer to the following link. Create a request. I will provide you the details. [Booking link](https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hEN-lfFsa5o9XwUvrUk23hiPMr-xNrDdbliDjhx13GPrkvr6JGqyO6MKZsHTud2Nwt9RnS2h)
 
 ### Links
-[COD 207 Creative Coding I (2023-2024)](https://alptugan.github.io/Slidev_Presentations/cod207-2024-2025.html)
+[COD 207 2025-2026 Presentations](https://alptugan.github.io/Slidev_Presentations/cod207-2024-2025.html)
+
+[Selected Student Works Show](https://cod207.damp-server.org/)
 
 ### Course Content:
 #### Week 1: Introduction to Creative Coding
@@ -73,13 +75,15 @@ Write down step-by-step instructions precisely for the following tasks;
 	* [GitHub - forhadsidhu/Yoga-pose-detection: Yoga-pose detection using PoseNet,p5js with sound effects](https://github.com/forhadsidhu/Yoga-pose-detection)
 
 
-#### Week 3: 
+#### Week 3: Computational Thinking
 - Artist of the week [Char Stiles](https://youtu.be/ja3U7hK2bOk?si=-bL_iYhgaKlKTwsj&t=465) Keynote speech on Creative Coding Fest.
-- 
-#### Week 4-5: Creative Coding Principles
-*   Understanding the role of randomness and chance in creative coding
-*   Applying generative principles to create dynamic visuals
-*   Introduction to machine learning and neural networks in creative coding
+
+#### Week 4:
+- Inspiration of the week - [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4)
+- Artist of the week - 
+*  Understanding the role of randomness and chance in creative coding
+*  Applying generative principles to create dynamic visuals
+*  Introduction to machine learning and neural networks in creative coding
 
 ### Course Assessment:
 *   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.

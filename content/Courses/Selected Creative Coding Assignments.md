@@ -16,7 +16,6 @@ draft: false
 [Ada Tıngaz](https://editor.p5js.org/ada.tingaz/sketches/I2N_Nwb6W)
 [Aslı Özcan](https://editor.p5js.org/asli.ozcan/sketches/ufM-LQ5Bj)
 [Baran Bülbül](https://editor.p5js.org/Barannn/sketches/Pg8FhUxqo)
-[Berke Çiçek](https://editor.p5js.org/Barannn/sketches/Pg8FhUxqo) 🔍
 [Buse Özdemir](https://editor.p5js.org/buse.ozdemir.33629/sketches/QETp7SwF8) 🔍
 [Ceran Erdi](https://editor.p5js.org/ceran/sketches/QYY3TZuHI)
 [Deniz Mutlu](https://editor.p5js.org/denizmutlu/sketches/NBXsFJiWo) 🔍

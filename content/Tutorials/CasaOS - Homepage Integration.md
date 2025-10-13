@@ -1,14 +1,13 @@
 ---
 title: CasaOS - Homepage Integration
 date: 2024-07-04T01:00:00
-modification date: Thursday 4th July 2024 14:53:23
 description: Access CasaOS docker containers on Homepage dashboard.
 tags:
   - tutorial
   - casaos
   - docker
   - homepagedev
-aliases: 
+aliases:
 draft: false
 ---
 ## 1. Edit the `daemon.json` File

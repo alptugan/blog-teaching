@@ -1,13 +1,13 @@
 ---
-title: MACOS - Run Command on Context Menu
+title: MacOS - Run Command on Context Menu
 date: 2025-02-23
-modification date: 2025-03-07T12:46:00
-description: 
+description:
 tags:
   - tutorial
   - contextMenu
   - MacOS
-aliases: 
+  - app
+aliases:
 draft: false
 ---
 This tutorial presents how to add custom commands based on shell scripts to the Mac OS Finder context menu. The example script creates an `.mp4` video from provided sequence of images. Image names must be formatted as `0000000.png`, `0000001.png`, `0000002.png`, so on.

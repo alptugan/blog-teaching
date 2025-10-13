@@ -152,7 +152,7 @@ x-casaos:
   main: trusting_kilby
   port_map: "3133"
   scheme: http
-  store_app_id: trusting_kilby
+  store_app_id: trusting_kilby # Choose a unique name
   tagline:
     en_us: This is a compose app converted from a legacy app (CasaOS v0.4.3 or
       earlier)
