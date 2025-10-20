@@ -376,6 +376,16 @@ watch 'command_1 | command_2 | command_3'
 watch -n 1 nvidia-smi
 ```
 
+
+### Kill active port on Mac
+```shell
+# See what’s on port 3000:
+lsof -nP -iTCP:3000 -sTCP:LISTEN
+
+# Stop the relevant port
+kill <PID>
+```
+
 ## Raspberry Pi Related
 ```bash
 # Autostart application on desktop startup for Raspberry Pi 

@@ -33,6 +33,10 @@ This section includes selected articles from sound literature and research to pr
 >    
 >    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 
+
+## Apps & Tools
+- [img-encode](https://github.com/alexadam/img-encode) Convert images into sound spectrograms.
+
 ## Weekly Resources
 ### Week 1 
 Example projects:<br>[Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.

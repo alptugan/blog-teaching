@@ -94,13 +94,16 @@ Before diving into searching sound samples in an endless ocean of web, review th
 - [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing (Layered video editing, cross-fade), Bounce the audio to a different track ⭐️
 - [Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
 
-### EQ
+#### EQ
 - [Davinci Resolve Fairlight EQ (Equalizer)](https://www.youtube.com/watch?v=Z89JAFkihrw) Tutorial on voice over editing
 - [Davinci Resolve Muffle Sound](https://www.youtube.com/watch?v=3UoS_j_chNg) How to make sound as if it is coming from far away.
 
-### Reverb
+#### Reverb
 - [Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
 
+
+#### Noise Reduction
+- [How To Remove Audio Background Noise In Davinci Resolve 19 (2 methods)](https://www.youtube.com/watch?v=Zl3nr7ylUeo) 
 
 ---
 ## AI Assisted Audio Technologies

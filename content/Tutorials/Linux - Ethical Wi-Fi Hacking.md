@@ -124,12 +124,18 @@ sudo aircrack-ng -a2 -b E0:B6:68:A1:EB:AC -w /usr/share/wordlists/rockyou.txt ha
 ```
 
 
+## Tools
+⭐️ [Genymobile/scrcpy: ](https://github.com/Genymobile/scrcpy) Display and control your Android device. This application mirrors Android devices (video and audio) connected via USB or [TCP/IP](https://github.com/Genymobile/scrcpy/blob/master/doc/connection.md#tcpip-wireless) and allows control using the computer's keyboard and mouse. It does not require _root_ access or an app installed on the device. It works on _Linux_, _Windows_, and _macOS_.
+
 ## Resources
 - Wordlist repo → [Probable-Wordlists/Real-Passwords/WPA-Length at master · berzerk0/Probable-Wordlists · GitHub](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length)
 - TR list → [GitHub - kaganoglu/turkce-pass-wordlist](https://github.com/kaganoglu/turkce-pass-wordlist)
 - ⌛ wpa2-wordlists → [Kenny](https://github.com/kennyn510/wpa2-wordlists)
-	- 0-9.txt  ✅
-	- A.txt, I.txt, B.txt, C.txt, D.txt
+	- rockyou
+		- 0-9.txt 
+		- A.txt, B.txt, C.txt, D, E, F, G, H, I, J
+	- Bigone2016
+		- A, 
 - Not tested → [GitHub - rwx-777/WPA2-FritzBox-Pswd-Wordlist-Generator: This Script will produce all of the WPA2 Passwords used by various Router companies aswell as Fritzbox. All of these Passwords will be 16 Numbers in length. So it could get a bit large.](https://github.com/rwx-777/WPA2-FritzBox-Pswd-Wordlist-Generator)
 - Not tested → [GitHub - noder-ss/my-wordlists: Wordlists](https://github.com/noder-ss/my-wordlists)
 - Not tested → [GitHub - kakulanex/wifi-wordlist: Wifi wordlist for cracking WPA, WPA2, WPS](https://github.com/kakulanex/wifi-wordlist)

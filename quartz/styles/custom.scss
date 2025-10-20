@@ -43,25 +43,6 @@ li {
     background: #747474;
   }
 
-// put your custom CSS here!
-/* Apply reduced opacity to all components except content */
-.breadcrumbs, .tag-list,
-.explorer, .graph, .toc, .backlinks  {
-  opacity: 0.3;
-  transition: opacity 0.2s ease-out;
-}
-
-/* Return to full opacity on hover */
-.breadcrumbs:hover, .article-title:hover, .content-meta:hover, .tag-list:hover,
-.page-title:hover, .search:hover, .darkmode:hover, .explorer:hover,
-.graph:hover, .toc:hover, .backlinks:hover, footer:hover {
-  opacity: 1;
-}
-
-/* Keep content at full opacity */
-.content {
-  opacity: 1;
-}
 
 
 img[alt*="center"] {
@@ -81,6 +62,20 @@ img[alt*="center"] {
 [alt~="vid-40"] video {
     width: 40%;
 }
+
+.two-columns {
+    column-count: var(--column-count, 2);
+}
+
+.three-columns {
+    column-count: var(--column-count, 3);
+}
+
+.four-columns {
+    column-count: var(--column-count, 4);
+}
+
+
 
 
 /* CALLOUT */

@@ -38,15 +38,28 @@ date: 2025-03-19T12:00:00
 ## CodeMirror
 [CodeMirror](https://codemirror.net/) is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
 
+
+## StaticMaps
+[StaticMaps](https://www.npmjs.com/package/staticmaps) A Node.js library for creating map images with markers, polylines, polygons and text. ( #soundscape işleri için kullanılabilir. Gökçeada işine entegre edebiliriz.)
+
+
+## Lightbox & Gallery
+[Perfundo](https://www.npmjs.com/package/perfundo) - old but still works (CSS only)
+[simplelightbox](https://github.com/andreknieriem/simplelightbox) - Touch-friendly image lightbox for mobile and desktop
+[Glightbox](https://biati-digital.github.io/glightbox/) - Responsive, supports multiple media types (11KB)
+
 # Front-end UI Frameworks
 [Mantine](https://mantine.dev/)
 [Pico](https://picocss.com/) ⭐️
 [Daisy UI](https://daisyui.com/components/) ⭐️⭐️ (Ready-made UI elements)
+[Headless UI](https://headlessui.com/)  ⭐  Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 [Bootstrap](https://getbootstrap.com/)
+[shadcn/ui](https://ui.shadcn.com/)
+
+### Components
 [Uiverse.io](https://uiverse.io/cards?page=5) The Largest Library of Open-Source UI elements
 [cuicui](https://cuicui.day/) Copy/paste React component library.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
-[Headless UI](https://headlessui.com/) Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 
 ## JS Libraries
 [Anime.js](https://animejs.com/) JavaScript Animation Engine
@@ -64,6 +77,11 @@ date: 2025-03-19T12:00:00
 [City Maps](https://github.com/anvaka/city-script?tab=readme-ov-file)  #creativecoding 
 [Skia Canvas](https://github.com/samizdatco/skia-canvas?tab=readme-ov-file) Something like a framework built upon node. Capable of creating native windows. As I understand, it aims to easing the process of graphical assets via node... But it can be used as creative coding framework.
 [Sourdough Toast](https://sourdough-toast.vercel.app/example) A plain JS toast notification for webpages inspired from [Sonner](https://sonner.emilkowal.ski/) which is built upon React.
+
+### Sound
+- [yzdbg/spectrogram-threejs](https://github.com/yzdbg/spectrogram-threejs) A realtime 3d spectrogram visualization of the user's microphone audio. Made with threeJs using shaders.
+- [GitHub - toakleaf/spectrogramJS: HTML5 Canvas and Web Audio API based spectrograph app. Live demo @ https://spectrogramjs.netlify.com](https://github.com/toakleaf/spectrogramJS?tab=readme-ov-file)
+- [GitHub - InfiniteX95/inspekt-web: Web audio spectrogram visualizer](https://github.com/InfiniteX95/inspekt-web?tab=readme-ov-file)
 
 ## Markdown
 - [Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.
@@ -204,9 +222,6 @@ Guacamole
 
 - [GhostBin](https://github.com/0x30c4/GhostBin) GhostBin is a lightweight, high-performance pastebin built with Go and Redis. Designed with simplicity and speed in mind, GhostBin offers a fast and efficient platform for sharing text snippets effortlessly.
 
-
-# Ethical Hacking
-⭐️ [Genymobile/scrcpy: ](https://github.com/Genymobile/scrcpy) Display and control your Android device. This application mirrors Android devices (video and audio) connected via USB or [TCP/IP](https://github.com/Genymobile/scrcpy/blob/master/doc/connection.md#tcpip-wireless) and allows control using the computer's keyboard and mouse. It does not require _root_ access or an app installed on the device. It works on _Linux_, _Windows_, and _macOS_.
 # AI Related
 ⭐️ [Video](https://www.youtube.com/watch?v=8dXGk3RTTKs) It seems very useful for creating tutorials for students in video format step by step guides. Train a model with your face and generate images. Youtube video cover generator. Napkin seems great for generating diagrams and illustrations for papers and presentations. 
 [OpenUI](https://github.com/wandb/openui?tab=readme-ov-file) Front-end UI for customized GPT systems. 

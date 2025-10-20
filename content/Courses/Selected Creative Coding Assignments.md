@@ -12,7 +12,8 @@ aliases:
 draft: false
 ---
 ## COD 207 (2025-2026 Fall)
-### B
+### Week 2
+#### B
 [Ada Tıngaz](https://editor.p5js.org/ada.tingaz/sketches/I2N_Nwb6W)
 [Aslı Özcan](https://editor.p5js.org/asli.ozcan/sketches/ufM-LQ5Bj)
 [Baran Bülbül](https://editor.p5js.org/Barannn/sketches/Pg8FhUxqo)
@@ -28,7 +29,7 @@ draft: false
 [Nehir Gelişin](https://editor.p5js.org/nehir.gelisin/sketches/0YVxsr7Nd), [composition](https://editor.p5js.org/nehir.gelisin/sketches/up-mE5cH9)
 [Umut Gelir](https://editor.p5js.org/tumurileg/sketches/yPM3SvNLr)
 
-### A
+#### A
 [Azra Akoğlu](https://editor.p5js.org/azra.akoglu/sketches/alZHFy1wQ)
 [Baran Ay](https://editor.p5js.org/baranay/sketches/THn3NDgr7) 
 [Bersu Güzey](https://editor.p5js.org/bersuguzey/sketches/Ifo7i0nfD)
@@ -38,10 +39,47 @@ draft: false
 [Mert Cambol](https://editor.p5js.org/mertcambol/sketches/d7Ya8w1g8)
 [Nur Akçay](https://editor.p5js.org/meleknurakcay/sketches/z6m53tSqA)
 [Nurdan Çelik](https://editor.p5js.org/nurdancelik90/sketches/hxnUkIrZV)
-[Rüya Mihadavi](https://editor.p5js.org/ruyaghenamihdavi/sketches/BXyp9OwD1)
 
 
 [p5.js Web Editor \| Week.02-dogaozbeklik-A](https://editor.p5js.org/doga.ozbeklik/sketches/2JAvTqkjN)
+
+
+### Week 3
+#### A
+[Alperen Karaman](https://editor.p5js.org/alperek/sketches/WiYMlzmuZ) CT
+[Cemre Toraman](https://editor.p5js.org/cemre.toraman/sketches/_lMO3Hek7) CT
+[Doğa Özbeklik](https://editor.p5js.org/doga.ozbeklik/sketches/qzDPAB6sw)
+[İpek Öğetürk](https://editor.p5js.org/ipekogeturk/sketches/fiW_tDEQu), [Nur Akçay](https://editor.p5js.org/meleknurakcay/sketches/FvsSFZLDq)
+[Kağan Akdoğan](https://editor.p5js.org/KaanAkdogan/sketches/wjKxexJ9j)
+[Mert Cambol](https://editor.p5js.org/mertcambol/sketches/FETDP9amn)
+[Nisa Esmer](https://editor.p5js.org/nisaemer/sketches/oeeGM0_VS)
+[Rüya Mihdavi](https://editor.p5js.org/ruyaghenamihdavi/sketches/T4dFsOvrn) (Check again)
+
+**Irrelevant ones**
+[Nurdan.Çelik.Computational Thinking Analysis.COD207.A by nurdancelik90 -p5.js Web Editor](https://editor.p5js.org/nurdancelik90/sketches/NUWK6judS)
+[week3 assignment by rhea.poonja -p5.js Web Editor](https://editor.p5js.org/rhea.poonja/sketches/sC8yrHvu2)
+
+#### B
+[Umut Gelir](https://editor.p5js.org/tumurileg/sketches/INeDprn-G)
+[Nehir Gelişin](https://editor.p5js.org/nehir.gelisin/sketches/E_j4ImEir)
+[Münazza Şirin](https://editor.p5js.org/munazza.shirin/sketches/UIUQ9fwGD)
+[Muhammad İmran](https://editor.p5js.org/HashirtheDev/full/v0dx_y86W)
+[Ilgınsu Gündüzalp](https://editor.p5js.org/ilginsugunduzalp/sketches/Nv4z7Lx-W)
+[Farida Hamed](https://editor.p5js.org/faridahamed/sketches/5xfCCqmIw)
+[Eda Erginoğlu](https://editor.p5js.org/eda.erginoglu/sketches/J988e_mkl)
+[Buse Özdemir](https://editor.p5js.org/buse.ozdemir.33629/sketches/VR9dvU-Vv)
+[Baran Bülbül](https://editor.p5js.org/Barannn/sketches/bagZYPjVT)
+[Alp Eroğlu](https://openprocessing.org/sketch/2753313)
+[Ada Tıngaz](https://editor.p5js.org/ada.tingaz/sketches/Eyf01mUMJ) What is Reflection?
+
+**Irrelevant ones**
+[week3 by ecematli -p5.js Web Editor](https://editor.p5js.org/ecematli/sketches/0zE8aBbUP)
+[WEEK3-DİLARAKOCA-B by di1ara -p5.js Web Editor](https://editor.p5js.org/di1ara/sketches/GBsSrB_BM)
+
+
+### Week 4
+goto [p5 sketch gallery](https://p5-sketch-gallery.up.railway.app/#week4/)
+
 
 ## COD 208 (2025-2026 Spring)
 ### Basic Platform Game
