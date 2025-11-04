@@ -95,13 +95,12 @@ Assignment 2 (Reading): Designing Sound, Practical Series Science Fiction, pg. 6
 Voice Over 
 In class tutorial
 #### Assignment
-1. Select a video scene of at least 30 seconds to record a voice over track. The video can be a movie clip, documentary, or any other clip of your choice.  
-  
-2. Create a sound design for the scene effects and soundscape.  
-  
-3. Then record your voice over track. You can record anyone including yourself. Avoid reverb or background noise during your recording.  
-  
-4. Add your voice-over track to your project and adjust background music and effects using automation curves as I showed you in class.
+1. Choose a text to read. It must be at least 100-200 words. The context depends on you. A podcast intro, ad announcement on the radio, TV Ad…
+2. Record the spoken text using your mobile phone or recorder. You don't have to record your own voice. You can find someone else. Found voice audio samples are not allowed.
+3. Choose a music relevant to your context. Automate the music volume according to spoken parts in your recording.
+4. Use EQ to filter out muddy low frequencies and filter out high frequencies.
+5. (Optional) Apply noise reduction filter if you have a background noisy soundscape (Depends on noise level in your recording. If there is no perceivable background noise, you don't need to use).
+6. Adjust the sound balance. Keep the overall sound level close to 0dB.
 
 Before importing your voiceover recording into Davinci Resolve, you can apply the following AI noise reduction tools.
 
@@ -111,6 +110,23 @@ Before importing your voiceover recording into Davinci Resolve, you can apply th
 ### week 06
 HOLYYYDAY
 Create a music concrete track, [inspiration](https://www.openfootage.net/particle-and-graphic-footage/)
+
+Do not get overwhelmed while creating your composition. Anyone submit a track with required material will get 100. Do your best, submit a track sounds good to you. You are allowed to use any tool or any sound effect. The challenge is creating a musical composition, not a mainstream pop song. So, be experimental as you wish.
+
+1. Record at least 3 items in your home, dorm or any other place. Prepare a 1-3 minutes long sound composition as a Musique Concrète track.
+2. Design a cover image for your track, give it a name. Upload the cover as a jpg file at least 1080x1080 px resolution.
+3. The context of your track can be anything. It is up to you.
+4. Export your tracks as wav file format.
+5. Upload the material to [google drive](https://drive.google.com/drive/folders/1DgfIcqHDOnvbe8ujuBvworvi58O8bh9j?usp=sharing). Create a folder with your name and surname.
+6. Paste the link to your folder as submission text.
+
+Resources
+
+[The process of making music concrete](https://www.youtube.com/watch?v=nmbeXuWs8Xo)  
+  
+[How to compose a music concrete piece](https://www.youtube.com/watch?v=2ZpwbXDleDw&t=293s)
+
+[Musique Concrète with Tape & Microsound Music Machine](https://www.youtube.com/watch?v=rOiAvki_dP0)
 
 
 ### week 07 - Spatial Effects and Visual Space

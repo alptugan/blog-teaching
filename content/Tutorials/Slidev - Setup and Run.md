@@ -35,7 +35,78 @@ pnpm install
 pnpm run dev
 ```
 
-## Publishing 
+
+## Publishing With GitHub Actions
+⚠️ Do not forget to edit actions files for each slide project.
+
+```yml title="deploy.yml"
+name: Deploy pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: 2025-2026/week05_cod_207-Randomness-Repetetion
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+
+      - name: Setup @antfu/ni
+        run: npm i -g @antfu/ni
+
+      - name: Install dependencies
+        run: nci
+
+      - name: Build
+        run: nr build --base /Slidev_Presentations/2025-2026/week05_cod_207-Randomness-Repetetion/
+
+      - name: Create deployment structure
+        working-directory: .
+        run: |
+          mkdir -p deploy/2025-2026/week05_cod_207-Randomness-Repetetion
+          cp -r 2025-2026/week05_cod_207-Randomness-Repetetion/dist/* deploy/2025-2026/week05_cod_207-Randomness-Repetetion/
+          touch deploy/.nojekyll
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: deploy
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
+## Publishing as SAAS
 ```bash
 pnpm run build --base /Slidev_Presentations/week03_cod_208/dist/
 

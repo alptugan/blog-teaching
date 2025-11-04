@@ -2,12 +2,13 @@
 title: FFMPEG - Video Export for Social Media
 date: 2025-03-02T02:00:00
 modification date: 2025-03-07T12:44:00
-description: 
+description:
 tags:
   - ffmpeg
   - video
   - script
-aliases: 
+  - p5js
+aliases:
 draft: false
 ---
 You can convert sequence of images in a folder via [[Cheat Sheets#FFmpeg|cheat sheet]] document. Specifically check the `# Covert image sequence to high-quality mp4 video`  commented one.

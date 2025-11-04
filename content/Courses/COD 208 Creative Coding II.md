@@ -342,5 +342,4 @@ If you need a topic or theme, you can utilize one of the following concepts;
 11. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
 12. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
 13. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
-   <iframe width="100%" height="400" src="https://www.youtube.com/embed/UWWDdKc2xko?si=etg3eW36B-qDyvih" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    

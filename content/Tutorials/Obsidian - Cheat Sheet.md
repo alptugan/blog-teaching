@@ -132,6 +132,17 @@ Sync Through third party apps, [video](https://www.youtube.com/watch?v=t3cy132ee
 [Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
 [How to Build Dataview Powered Dashboards in Obsidian - YouTube](https://www.youtube.com/watch?v=p3jqxQLHqUY)
 
+### Advanced URI  + Shell Command
+To use it on Leader Key app, follow the instructions below;
+```shell
+# Insert image resize command
+obsidian://adv-uri?vault=Obsidian&commandid=custom-commands%3Acustom-cmd-insert-image-resize-center
+
+# Sync teaching-blog
+obsidian://adv-uri?vault=Obsidian&commandid=obsidian-shellcommands%3Ashell-command-yg4ogqaqea
+
+```
+
 ## 6. Columns
 ### When is the best to ski in Switzerland?
 > [!blank-container|float-right-small] 
@@ -166,18 +177,14 @@ This text is going to be formatted in 3 columns. If the `--column-count` paramet
 ```
 
 
-## 7. Advanced URI Plug-in
-To use it on Leader Key app, follow the instructions below;
-```shell
-# Insert image resize command
-obsidian://adv-uri?vault=Obsidian&commandid=custom-commands%3Acustom-cmd-insert-image-resize-center
-
-# Sync teaching-blog
-obsidian://adv-uri?vault=Obsidian&commandid=obsidian-shellcommands%3Ashell-command-yg4ogqaqea
-
-```
-
-
+## 7. Embed Google Drive Video
+- Step 1: Get Your Video's Shareable Link
+- Step 2: Modify the Link for Embedding from
+`https://drive.google.com/file/d/ YOUR_FILE_ID /view?usp=sharing`
+to
+`https://drive.google.com/file/d/ YOUR_FILE_ID /preview`
+- Step 3: Embed the Link in Your Note
+  `<iframe src="https://drive.google.com/file/d/YOUR_FILE_ID/preview" width="600" height="400"></iframe>`
 
 ## Wikilinks
 Embed Content from different document into another document as excerpt.

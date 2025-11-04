@@ -1,7 +1,7 @@
 ---
 title: P5JS - ml5 and Teachable Machine Integration
 date: 2025-03-17T01:00:00
-description: 
+description:
 tags:
   - p5js
   - tutorial
@@ -9,7 +9,7 @@ tags:
   - cod208
   - creativecoding
   - AI
-aliases: 
+aliases:
 draft: false
 ---
 ## Introduction
@@ -58,6 +58,7 @@ During the model training process do not close the page, wait until it ends.
 
 When the training is done, you can test model to see, if it works good enough. If you are satisfied with the results you can hit <font color="#4f81bd">Export Model</font>. 
 
+## 3. Create a Custom Image Classifier P5Js App
 When you hit the export button, you will see a new pop-up page. You can upload the data to google cloud and use the link to load your trained samples over `MobilNet` model.
 
 ![[p5js-week07-teachable06.jpeg|-center|500]]
@@ -116,7 +117,7 @@ function gotResult(results) {
 
 [Click to open in p5JS editor](https://editor.p5js.org/alptugan/sketches/ENPpHqEUi)
 
-## 3. Troubleshoot
+## 4. Troubleshoot
 > [!TIP]- It doesn't identify the image correctly
 > You need to keep physical conditions of the environment same. Otherwise it cannot respond accurately. For instance; if you capture the object in a dark room, this means that your model is trained for dark room. That being said, it doesn't know what does your sample look like in different light conditions. 
 
@@ -127,7 +128,7 @@ function gotResult(results) {
 - [Reference \| ml5 - A friendly machine learning library for the web.](https://docs.ml5js.org/#/reference/image-classifier-tm)
 - [Image Classification / The Coding Train](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/1-classification/image-classification)
 
-## Examples
+## Case Studies & Tutorials
 - [Hand pose Painting](https://editor.p5js.org/codingtrain/sketches/InzaVXI-R)
 - [Hand Pose Detection with ml5.js - Daniel Shiffman](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s)
 - [Hand Pose Thumbs Up or Down](https://editor.p5js.org/codingtrain/sketches/0_qPHtsF_)

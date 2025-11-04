@@ -29,6 +29,8 @@ draft: false
 
 [Keyzone Classic](https://plugins4free.com/plugin/2848/)  is a sample based piano. 
 
+[Lunacy](https://lunacy.audio/freebies/) Haze (reverb) and Filter (EQ) plugins are free of charge. 
+
 ### Network Protocol VSTi
 [XXIIVV — pilot](https://wiki.xxiivv.com/site/pilot.html) Pilot features **16 voices, and 8 audio effects**, each operatable with their own set of commands, and their own FFT visualiser. The complete operation guide can be seen [here](https://github.com/Hundredrabbits/Pilot). Works via OSC on port `49161`. Use openFrameworks/examples UDP sender to test commands. 
 

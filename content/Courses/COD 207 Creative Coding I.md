@@ -82,6 +82,13 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 - Artist of the week: [Larry Cuba - Calculated Movements (complete film) - YouTube](https://www.youtube.com/watch?v=OkyqP-g_LrY)
 
 
+### Week 6: National Holiday (Republic Day)
+
+### Week 7: Media Loading
+- Presentation: [Week 06 - Media - Images](https://alptugan.github.io/Slidev_Presentations/2025-2026/week06_cod_207-Media)
+
+- Artist of The Week:  [Patrik Hübner](https://www.patrik-huebner.com/creative-coding/) Generative Poster Project
+
 ## Course Assessment:
 *   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.
 *   **Project-Based Evaluation:** A final project will assess students' ability to apply creative coding principles to a real-world scenario or artistic expression.
@@ -109,6 +116,7 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 ### Generative Art
 - [REAS.com is a database for Casey REAS](https://reas.com/)
+- [Shan, Shui](https://shan-shui-inf.lingdong.works/) Infinite procedurally generated Chinese landscape painting by [Lingdong Huang](https://lingdong.works/), 2018. Huang is one of the exceptional generative artists for our time (2025).
 - [Mokafolio – Weird Faces](https://www.mokafolio.de/works/Weird-Faces)
 - [Mokafolio – Regurgitating](https://www.mokafolio.de/works/Regurgitating)
 - [aBe - Ink waves decoded](https://hamoid.com/code/2020-ink-wave-decoded/) Plotter-based art.
@@ -117,6 +125,7 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 - [Tyler Hobbs - Fidenza](https://www.tylerxhobbs.com/works/fidenza#info) 
 - [Feral File](https://feralfile.com/explore/list-artworks?sortBy=recent&v=Grid) NFT art gallery
 - [b2renger - Grids galore!](https://github.com/b2renger/p5js_patterns?tab=readme-ov-file) Experiments with p5js on pattern, generative and grid design
+- [Patrik Hübner](https://www.patrik-huebner.com/creative-coding/) Generative Poster Project
 
 ### Datavis
 - [Wind Map](http://hint.fm/wind/) Showcases wind map in an interactive way in US.
