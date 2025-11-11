@@ -13,6 +13,12 @@ draft: true
 
 https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
 
+
+
+[Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
+
+[51 Powerful ChatGPT Prompts for Academic Writing](https://www.learnprompt.org/chatgpt-prompts-for-academic-writing/)
+
 ## Improve & Expand
 **template:**
 Rewrite the following text to improve clarity and make it more comprehensive about the [context]. It will be in the [title/topic] of an article for an [press type]. Keep the in-text citations in your answer. You can add more academic references if it is required to improve the academic quality of the text for a book chapter. Here is the text;

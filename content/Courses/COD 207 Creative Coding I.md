@@ -89,6 +89,11 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 
 - Artist of The Week:  [Patrik Hübner](https://www.patrik-huebner.com/creative-coding/) Generative Poster Project
 
+### Week 8: Image Processing
+- Presentation: [week07_cod_207-Image-Processing](https://alptugan.github.io/Slidev_Presentations/2025-2026/week07_cod_207-Image-Processing)
+- Artist of The Week: 
+
+
 ## Course Assessment:
 *   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.
 *   **Project-Based Evaluation:** A final project will assess students' ability to apply creative coding principles to a real-world scenario or artistic expression.

@@ -107,7 +107,7 @@ Before importing your voiceover recording into Davinci Resolve, you can apply th
 [Adobe Voice Enhancer](https://podcast.adobe.com/enhance) or [Audiophonic](https://auphonic.com)
 
 
-### week 06
+### week 06 - Music Concrete
 HOLYYYDAY
 Create a music concrete track, [inspiration](https://www.openfootage.net/particle-and-graphic-footage/)
 
@@ -120,18 +120,14 @@ Do not get overwhelmed while creating your composition. Anyone submit a track wi
 5. Upload the material to [google drive](https://drive.google.com/drive/folders/1DgfIcqHDOnvbe8ujuBvworvi58O8bh9j?usp=sharing). Create a folder with your name and surname.
 6. Paste the link to your folder as submission text.
 
-Resources
-
-[The process of making music concrete](https://www.youtube.com/watch?v=nmbeXuWs8Xo)  
-  
-[How to compose a music concrete piece](https://www.youtube.com/watch?v=2ZpwbXDleDw&t=293s)
-
-[Musique Concrète with Tape & Microsound Music Machine](https://www.youtube.com/watch?v=rOiAvki_dP0)
+**Resources**
+- [The process of making music concrete](https://www.youtube.com/watch?v=nmbeXuWs8Xo)  
+- [How to compose a music concrete piece](https://www.youtube.com/watch?v=2ZpwbXDleDw&t=293s)
+- [Musique Concrète with Tape & Microsound Music Machine](https://www.youtube.com/watch?v=rOiAvki_dP0)
 
 
 ### week 07 - Spatial Effects and Visual Space
 [week7-COD 323 Sound Design - Spatial Effects and Elements of Sound Design - Google Slides](https://docs.google.com/presentation/d/1DksXwgs8qJ0mkOYVrmWG8J7TwWcaf9ju0Ff6MJZ-wus/edit?slide=id.g2a28008c763_0_0#slide=id.g2a28008c763_0_0)
-
 Distant shoot sound effects
 Elements of Sound Design
 Effects
@@ -142,10 +138,24 @@ Hatefull eight scene, [sound source](https://freesound.org/people/D4XX/sounds/56
 [Naruto Sasuke fight scene](https://www.youtube.com/watch?v=hBV5aQ5i7rk)
 
 #### Assignment
-1. Choose a video footage from the [list](https://media-host.alptugan.workers.dev/)
+1. Choose a video footage from the [list](https://media-host.alptugan.workers.dev/) or use a video of your own shot. 
 2. Adjust EQ as we did in class time.
-3. Upload as mp4 file.
+3. Upload as mp4 file to the following [Drive link](https://drive.google.com/drive/folders/1pQjPNEDjLQ2Bm1i07R-juAK8IaPHPk1t?usp=sharing). Do not upload your own Google account!
+4. Read the attached document. 
+5. Research about Cartoon Sound Design Practices. 
+6. 
+#### Video List
+Do not use the original video sound or music track. You can use found samples, or record it by yourself. 
 
+https://media-host.alptugan.workers.dev/sounddesign/footage_blader_runner.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_deer_hunter.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_hateful_eight.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_inglorious_bastards.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_mad_maz-furry-road.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_road_to_perdition.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_snow_falling_on_cedars.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_the_godfather.mp4
+https://media-host.alptugan.workers.dev/sounddesign/footage_the_thing.mp4
 
 ### week 08 - Cartoon Sound Design
 [week8-COD 323 Sound Design - Animation Sound - Google Slides](https://docs.google.com/presentation/d/1ymgilj2ZyHdSq-bFNWAtntLS3AzABna2CJ44lCbb5iM/edit?slide=id.g38ab76768ee_1_47#slide=id.g38ab76768ee_1_47)

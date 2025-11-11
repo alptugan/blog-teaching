@@ -47,3 +47,18 @@ Unity tutorials for educators to start with beginner level.
 ## Unreal Engine
 ![UNREAL ENGINE](https://theninehertz.com/wp-content/uploads/2022/08/UNREAL-ENGINE.png)The [Unreal Engine ](https://www.unrealengine.com/en-US)is a **powerful game engine** that is widely used for creating high-quality, visually impressive games. It is known for its advanced graphics capabilities, including realistic lighting, shaders, and visual effects. The engine is also well-suited for large, complex game projects and is a popular choice for AAA game development. However, it requires more powerful hardware and may not be the best fit for simpler or solo game projects.
 
+## Game Dev Resources
+The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#animation) of hyperlinks involves variety of tools that might be helpful for you during the game development process. There are lots of tools like image compression to tile editors, etc...
+
+
+## Tutorials
+- Open world game from start to finish in Unity, [3D Survival Game Tutorial](https://www.youtube.com/watch?v=Nxg0vQk05os&list=PLtLToKUhgzwnk4U2eQYridNnObc2gqWo-&index=1)
+- Angry Bird Remake in Unity, [The Unity Tutorial For Complete Beginners](https://www.youtube.com/watch?v=XtQMytORBmM)
+- Circle Ring Game in Unity, [Unity \| Circle Oyun Yapımı - YouTube](https://www.youtube.com/watch?v=9XOKzyZSe40&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=126)
+- Stairs, [Unity Stairs Tutorial - YouTube](https://www.youtube.com/watch?v=de2uBodVzjE&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=115)
+- [Unity Rush Tutorial - YouTube](https://www.youtube.com/watch?v=2jTx4bZbDn4&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=114)
+- [Unity Simple Hyper Casual Game Tutorial - Angle Launch - YouTube](https://www.youtube.com/watch?v=LBHSrB4a1UI&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=111)
+- [Unity Simple Hyper Casual Game Tutorial - CircleRush - YouTube](https://www.youtube.com/watch?v=B9bP7kt6Utg&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=110)
+- [Doodle Jump Nasıl Yapılır? (Unity) - YouTube](https://www.youtube.com/watch?v=GTH7SFvqyq8&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=106)
+- [Make a FIRST PERSON SHOOTER in UNITY - 3 HOUR COURSE - Unity FPS Game - YouTube](https://www.youtube.com/watch?v=Jk85v08gmtc&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=104&t=102s)
+- [How to make Fruit Ninja in Unity (Complete Tutorial) 🍉🔪 - YouTube](https://www.youtube.com/watch?v=xTT1Ae_ifhM&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=101)

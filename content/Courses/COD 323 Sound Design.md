@@ -62,6 +62,11 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Pixabay](https://pixabay.com/sound-effects/) 90,000+ Royalty Free Sound Effects for Download.
 
+[PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
+
+[Musopen](https://musopen.org/) - Royalty free music.
+
+[Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 
 ## Inspiration
 - [Chiara Luzzana — Sound Designer](https://www.chiaraluzzana.com/)

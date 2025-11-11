@@ -186,6 +186,13 @@ to
 - Step 3: Embed the Link in Your Note
   `<iframe src="https://drive.google.com/file/d/YOUR_FILE_ID/preview" width="600" height="400"></iframe>`
 
+## 8. Comment Specific Lines
+To hide specific text on exported files as pdf.
+[Source Code path]:
+[Another Comment]:
+```md
+[Another Comment]:
+```
 ## Wikilinks
 Embed Content from different document into another document as excerpt.
 ```markdown
