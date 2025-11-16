@@ -13,6 +13,11 @@ This essay presents my personal insights into Personal Computer (PC) games from 
 ## Introduction
 - PC era in the world
 - PC era in Türkiye
+	- Byzantine
+	- Sırlar Labirenti
+	- Dedektif Fırtına, [source](https://www.instagram.com/reel/DQ1KPkBE4U6/?igsh=NDNnc3dtb2FlcXcx)
+	- İstanbul Efsaneleri
+	- Lale Savaşçıları…
 - How we access games
 
 ## MDK

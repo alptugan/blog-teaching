@@ -157,16 +157,19 @@ https://media-host.alptugan.workers.dev/sounddesign/footage_snow_falling_on_ceda
 https://media-host.alptugan.workers.dev/sounddesign/footage_the_godfather.mp4
 https://media-host.alptugan.workers.dev/sounddesign/footage_the_thing.mp4
 
+
+M. Edvin - to be upgraded 
+
 ### week 08 - Cartoon Sound Design
 [week8-COD 323 Sound Design - Animation Sound - Google Slides](https://docs.google.com/presentation/d/1ymgilj2ZyHdSq-bFNWAtntLS3AzABna2CJ44lCbb5iM/edit?slide=id.g38ab76768ee_1_47#slide=id.g38ab76768ee_1_47)
 
 [How To Easily Make Anime-Style Sound Effects - YouTube](https://www.youtube.com/watch?v=8uJnIijUnX8)
 [How I SOUND DESIGN For Animation (walkthrough) - YouTube](https://www.youtube.com/watch?v=r3dmywRy3ns) A long walkthrough on a real project.
 #### Assignment
-1. Create a sound design for a 20-second cartoon, animation, or stop-motion scene and export the video with sound.
-2. Finalize the sound design work that you started in class time representing the use of EQ, Panning automation curve, and fade-in/out transitions for long-distance shots.
-3. Submit the video to the Learning Management System (LMS) for evaluation.
-4. Check out the tutorials on the link (EQ) and review the other topic on the page for Davinci Resolve, if you haven't already
+1. Create a sound design for a 20-second cartoon, animation, or stop-motion scene and export the video with sound. The video codec must be mp4.
+2. Upload the video to my [Google Drive link](https://drive.google.com/drive/folders/1FOrZNXiCoSFm7hoWsMko_IMH0mYoiAG1?usp=sharing), not yours please.
+3. Submit the Google Drive share link to the LMS for evaluation.
+4. Read the attached document `Sound Effect Synthesis_Ch13.pdf`
 
 ### week 09 - Sound Design for Sci-fi Weapon
 [Tron Legacy's Daft Punk score and futuristic sound design examined - YouTube](https://www.youtube.com/watch?v=HlHFxkhJAMM)
