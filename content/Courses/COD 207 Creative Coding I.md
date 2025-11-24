@@ -100,7 +100,14 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 - Quiz (Three questions, section B)
 
 
-### Week 10: Sound
+### Week 10: Sound & Interactivity
+- Presentation: [Week 09 Sound Interactivity - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week09_cod_207-Interactivity-Sound/)
+
+
+### Week 11: ALAP & Autonomous Agents
+- Presentation Autonomous Agents: [Week 11 Autonomous Agents + Oscillations - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week11_cod_207-Autonomous-Agents/)
+- Presentation ALAP: [Algorithmic Art Praxis - Slidev](https://alptugan.github.io/Slidev_Presentations/Workshops/Algorithmic-Art-Praxis)
+
 
 ## Course Assessment:
 *   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.
