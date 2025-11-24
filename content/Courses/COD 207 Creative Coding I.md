@@ -94,6 +94,14 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 - Artist of The Week: 
 
 
+### Week 9: Typography
+- Presentation: [Week 08 - Typography - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week08_cod_207-Typography)
+- Quiz (Three questions, section A)
+- Quiz (Three questions, section B)
+
+
+### Week 10: Sound
+
 ## Course Assessment:
 *   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.
 *   **Project-Based Evaluation:** A final project will assess students' ability to apply creative coding principles to a real-world scenario or artistic expression.

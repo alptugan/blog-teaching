@@ -102,5 +102,4 @@ A carefully curated collection of quotes can serve as a wellspring of motivation
 
 - If you need it, somebody else need it. So do it open-source. (Alp Tuğan, 2024)
 - Dogmatizm üzerine: İnsanlar kendilerini düşündürtecek söylemleri değil, inanacakları söylemleri duymak isterler. (Alp Tuğan, 2025)
-- Analog notes survive more than digital ones. Analog notes survive 1000s of years, digital notes make them accessible. 
 - KULTÜR

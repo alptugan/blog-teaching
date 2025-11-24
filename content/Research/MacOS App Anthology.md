@@ -22,12 +22,14 @@ The primary motivation for this endeavor is personal. I frequently encounter the
 	- AI operations
 	- Open specific links on a browser
 	- Image file conversion
-  
+- ✅ 10.11.2025 - [Affinity](https://www.affinity.studio/) Free, private alternative for Adobe products (Photoshop, Illustrator, In Design). The app includes both three apps in a single app window with seamlessly transition between the modes. 
 - ⌛ [Boring Notch](https://theboring.name/?ref=plaenco) Replaces Mac OS notch.
 - ⌛ Dropover: [https://dropoverapp.com/?ref=plaenco]
 - ⌛ LocalSend: https://localsend.org/?ref=plaenco
 - ⌛ Hidden Bar: https://apps.apple.com/us/app/hidden-...
 - ⌛ Al Dante (Battery Management)
+- ⌛ [KeyClicker](https://wangchujiang.com/key-clicker/) KeyClicker brings a real keyboard typing sound experience to users, recreating the tactile feel of mechanical keyboards and typewriters. It also supports displaying the pressed shortcut keys on the desktop, making it ideal for meetings, teaching, or video tutorial creation.
+- ⌛[Handy](https://handy.computer/download) A free, open source, and extensible speech-to-text application that works completely offline.
 ### Home Server 
 - ✅ 15.05.2025 - [Glance](https://github.com/glanceapp/glance/tree/main) dashboard manager. 
 	- Server stats not working

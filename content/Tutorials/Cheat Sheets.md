@@ -113,6 +113,14 @@ find . -size +200M -exec du -hs {} \;
 find . -size +200M -exec du -hs {} \; | sort -hr | head -n 10
 ```
 
+### df
+```shell
+# Prints available free disk space
+df -h
+
+# Prints specific partition
+df -h | grep "/dev/mmcblk0p2"
+```
 ### echo 
 You can either use it for verbose operations and debugging or writing data in files
 ```bash

@@ -21,6 +21,10 @@ https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
 
 ## Improve & Expand
 **template:**
+Fix grammar errors, rewrite and organise the text to provide academic clarity. Keep in-text citations, use UK English. do not split the response into different titles, subtitles. Do not create bullet points. Just provide paragraphs in a clear flow. 
+
+
+**template:**
 Rewrite the following text to improve clarity and make it more comprehensive about the [context]. It will be in the [title/topic] of an article for an [press type]. Keep the in-text citations in your answer. You can add more academic references if it is required to improve the academic quality of the text for a book chapter. Here is the text;
 
 **prompt:**
@@ -115,3 +119,27 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 
 ### Blend Images
 - Seamlessly blend multiple visual elements into a natural, cohesive composition with smooth transitions
+
+## Avatar Image
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+<div style="width: 20%;">
+<img style="width: 100%;" src="gemini-alp-portrait.jpeg">
+</div>
+<div style="flex: 1;">
+A 4K ultra-realistic portrait of (reference), framed from the chest up (not full body), designed for Instagram story or profile picture. The background is a luxurious Persian red carpet design (only behind him, not on the ground). Sunlight shines from one side, casting natural warm light across half of his face. He is wearing an elegant dress inspired by Persian carpet patterns, with authentic Iranian colors and motifs. His facial features remain unchanged. He is holding a Persian cat in her hands.
+</div>
+</div>
+
+
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="width: 20%;">
+<img style="width: 100%;" src="gemini-alp-portrait-red.jpeg">
+</div>
+
+<div style="flex: 1;">A 4K ultra-realistic portrait of (reference), framed from the chest up (not full body), designed for Instagram story or profile picture. The background is a red minimal textured design (only behind him, not on the ground). Sunlight shines from one side, casting natural warm light across half of his face. He is wearing an stylish t-shirt, with authentic black tones and a small-tiny coin size red circular pin with minimal golden lines attached on the right chest. His facial features depicts artistic mimics. </div>
+</div>
+
+
+
+Cinematic street photography, stylish young man in motion, urban environment, motion blur effect. Blurred pedestrians passing by, shallow depth of field, natural overcast lighting, soft pastel tones, editorial fashion photography, candid moment, dynamic movement, film aesthetic, muted colors.

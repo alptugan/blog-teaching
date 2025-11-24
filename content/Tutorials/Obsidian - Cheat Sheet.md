@@ -104,6 +104,7 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 - [raisabelatrix’s gists · GitHub](https://gist.github.com/raisabelatrix)
 - [GitHub - vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) Backup tool for obsidian
 - [Private Obsidian AI: Add DeepSeek to your Obsidian with Ollama and CoPilot](https://www.youtube.com/watch?v=tC9wegnRyZk)
+- [My Ultimate Obsidian Setup - YouTube](https://www.youtube.com/watch?v=ZQTj8ZSDFw4)
 
 ### Obsidian sync across devices
 The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.
@@ -186,13 +187,6 @@ to
 - Step 3: Embed the Link in Your Note
   `<iframe src="https://drive.google.com/file/d/YOUR_FILE_ID/preview" width="600" height="400"></iframe>`
 
-## 8. Comment Specific Lines
-To hide specific text on exported files as pdf.
-[Source Code path]:
-[Another Comment]:
-```md
-[Another Comment]:
-```
 ## Wikilinks
 Embed Content from different document into another document as excerpt.
 ```markdown

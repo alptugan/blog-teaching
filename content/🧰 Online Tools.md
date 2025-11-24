@@ -30,6 +30,8 @@ The following post includes online development tools for productivity frequently
 
 [Git Diagram](https://gitdiagram.com/) Scans the provided Github repository and generates block diagram. 
 
+[IT Tools](https://it-tools.tech/) Collection of handy online tools for developers, with great UX.
+
 ### Linters
 [JSON Editor - Validator](https://jsoneditoronline.org/)
 [JsonCrack](https://github.com/AykutSarac/jsoncrack.com) JSON visualizer
