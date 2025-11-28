@@ -39,6 +39,9 @@ date: 2025-03-19T12:00:00
 [CodeMirror](https://codemirror.net/) is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
 
 
+## Highlight.js
+[highlightjs](https://highlightjs.org/) JavaScript syntax highlighter with language auto-detection and zero dependencies.
+
 ## StaticMaps
 [StaticMaps](https://www.npmjs.com/package/staticmaps) A Node.js library for creating map images with markers, polylines, polygons and text. ( #soundscape işleri için kullanılabilir. Gökçeada işine entegre edebiliriz.)
 
@@ -322,16 +325,20 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [docsify](https://docsify.js.org/#/) Generates documentation page via readme 
 
 ## Database & CMS
+### DB
 [NocoDB](https://github.com/nocodb/nocodb) Create databases as if using spreadsheets.
 [MongoDB](https://www.mongodb.com/pricing), free service, [tutorial](https://www.youtube.com/watch?v=ZeUX5aV-2Yk)
 [db4free](https://db4free.net/), MySQL free db
 [FreeSQLdatabase](https://www.freesqldatabase.com/),MySQL free db
 [Oracle Cloud MySQL Db](https://cloud.oracle.com/limits?region=eu-frankfurt-1), tutorial on how to create one [link](https://www.youtube.com/watch?v=CNVldnsrWgI)
+
+### CMS
 ⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file
 [Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
 [Decap CMS \| Open-Source Content Management System](https://decapcms.org/)
-
+[For fast and secure sites \| Jamstack](https://jamstack.org/) List of free Headless CMS
+[PagesCMS](https://dev.to/meldiron/i-found-perfect-cms-after-years-of-trial-and-error-2nb8)
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
 [JS.org](https://js.org/?) Sub Domain name for github pages
@@ -343,6 +350,9 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Free DNS](https://freedns.afraid.org/domain/add.php)
 [DuckDNS](https://www.duckdns.org/)
 [freedomain](https://freedomain.one/)
+[Pricing - Appwrite](https://appwrite.io/pricing)
+[Pricing & Fees \| Supabase](https://supabase.com/pricing)
+
 # Routers
 [Port Forwarding](https://portforward.com/zyxel/) Shows port forwarding instructions for several router brands. 
 

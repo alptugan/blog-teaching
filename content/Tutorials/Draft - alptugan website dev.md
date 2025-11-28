@@ -1,7 +1,6 @@
 ---
 title: Untitled
 date: 2024-07-02T01:00:00
-modification date: Tuesday 2nd July 2024 15:01:52
 description:
 tags:
   - webdev
@@ -16,7 +15,6 @@ draft: true
 - [ ] Also Check → [Full Stack Web Dev](https://www.notion.so/Full-Stack-Web-Dev-e5c4e390956943388bb07fc16628fb2d?pvs=21)
 - [ ] VS Code Database Client → [source](https://www.youtube.com/watch?v=MkSgscvxaU8&t=627s)
 - [ ] MySQL → [https://www.youtube.com/watch?v=dLXSJdTK9QI&ab_channel=CodeWithYousaf](https://www.youtube.com/watch?v=dLXSJdTK9QI&ab_channel=CodeWithYousaf)
-- [ ] Notion as Database → [https://www.youtube.com/watch?v=n2tkgeFcMhc&ab_channel=CoderOne](https://www.youtube.com/watch?v=n2tkgeFcMhc&ab_channel=CoderOne)
 - [ ] ⭐ [https://www.youtube.com/watch?v=TZvMLWFVVhE&ab_channel=OpenJavaScript](https://www.youtube.com/watch?v=TZvMLWFVVhE&ab_channel=OpenJavaScript)
     - [ ] Drag, Drop, Upload → [https://www.youtube.com/watch?v=HrK7RFNDTKA&ab_channel=OpenJavaScript](https://www.youtube.com/watch?v=HrK7RFNDTKA&ab_channel=OpenJavaScript)
     - [ ] [localhost](http://localhost) to WAN → [https://www.youtube.com/watch?v=2CPrn1PE5e0](https://www.youtube.com/watch?v=2CPrn1PE5e0) (ngrok)
@@ -24,7 +22,6 @@ draft: true
 - [ ] NOde js and express → [https://www.youtube.com/watch?v=4pmkQjsKJ-U&ab_channel=DaveGray](https://www.youtube.com/watch?v=4pmkQjsKJ-U&ab_channel=DaveGray)
 - [ ] ⭐ [https://www.youtube.com/watch?v=Hej48pi_lOc&ab_channel=SamMeech-Ward](https://www.youtube.com/watch?v=Hej48pi_lOc&ab_channel=SamMeech-Ward)
 - [ ] ⭐ Database Client on VS Code → [https://www.youtube.com/watch?v=MkSgscvxaU8&ab_channel=CoderOne](https://www.youtube.com/watch?v=MkSgscvxaU8&ab_channel=CoderOne)
-- [ ] [HEADLESS CMS Strapi + Vue.js + FlutterWare](https://www.youtube.com/watch?v=fnMZ1hV35bM&list=PLvYj-0rzQ4N99O6V8_0FdqPAJRwHLtrht&index=1)
 - [ ] [Strapi 1](https://www.youtube.com/watch?v=gweg5fl597Q)
 - [ ] [https://github.com/WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) → faster sqlite3 than the regular one….
 - [ ] [Bun and Hono vs. Node and Express.js](https://www.youtube.com/watch?v=uxMADW3CmN4)

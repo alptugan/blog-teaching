@@ -10,15 +10,15 @@ draft: true
 ## Live Coding
 [Mid25](https://www.youtube.com/watch?v=XYe8AKYPUYc) Buradaki TidalCycles kodlarına bak.
 
-## Assignments Pool - COD 323 Sound Design
-### week 01 - Introduction
+# COD 323 Sound Design Course Content
+## week 01 - Introduction
 💾 Download and install Davinci Resolve free edition → [link](https://www.blackmagicdesign.com/products/davinciresolve)
 📖 **Reading**: cod323_week1_Elements_of_Sound-Beauchamp
 📺 Watch: [What is Sound?](https://www.youtube.com/watch?v=8uUpTVZsP20), [The Art of Sound Design](https://www.youtube.com/watch?v=BU9nj2-6ZnA), [The Magic of Sound Design](https://www.youtube.com/watch?v=UO3N_PRIgX0)
 ✍🏻 **Assignment 1 (Writing):** Research about sound design. Explain the differences between sound design and sound track of a movie with your own words not using AI tools. 
 **Resources:** Screening [links](https://teaching.alptugan.com/Courses/COD-323-Watch-List) during the week 1
 
-### week 02 - What is Sound?
+## week 02 - What is Sound?
 - **Assignment 1 (Reading)**: [Listening Modes](https://teaching.alptugan.com/Articles/Three-Listening-Modes-of-Michel-Chion)
 - **Assignment 2 (Reading)**: Sound Design Theory, Ch2 pg. 15-17 (Beauchamp)
 - **Assignment 3 (Practice)**: Create a sound composition that is minimum of 30 seconds long using only pure sine, and/or noise tones. Do not use any sound effect or sound sample. Just pure signal tones. Export the track and upload as mp3.
@@ -28,7 +28,7 @@ draft: true
 - [Tutorial: Exporting the Audio Track](https://www.youtube.com/watch?v=N_m0CRG3jm8)
 - Check the following artists working with pure signals; [Alva Noto](https://www.youtube.com/watch?v=pDG0266w3ZQ&list=RDpDG0266w3ZQ&start_radio=1), [Telefon Tel Aviv](https://www.youtube.com/watch?v=HfmLaGFtyRA&list=RDHfmLaGFtyRA&start_radio=1), [Nam Jun Paik](https://www.youtube.com/watch?v=opug8uW21eU), [Acidwork](https://www.youtube.com/watch?v=qzTn9VH9nCE&list=OLAK5uy_k6twgy_Fj4BbuTeJkxE28GELWVEZJKsgE&index=1), [RAW](https://www.youtube.com/watch?v=ZtacnaYaOOQ), [Bytone](https://www.youtube.com/watch?v=jFHRJ_lh268&list=RDjFHRJ_lh268&start_radio=1), [Emptyset](https://www.youtube.com/watch?v=kXWFtPsxjm0&list=RDkXWFtPsxjm0&start_radio=1), [Frank BretSchneider,](https://www.youtube.com/watch?v=dQvQtIQQm_Q&list=PLT_aBs9pjfFY9zatncXP27BKksIagAuTG) [Ryoji Ikeda,](https://www.youtube.com/watch?v=cywFvcRR-QI) [Squarepusher](https://www.youtube.com/watch?v=GlhV-OKHecI&list=RDGlhV-OKHecI&start_radio=1), [Aphex Twin](https://www.youtube.com/watch?v=SqayDnQ2wmw&list=RDSqayDnQ2wmw&start_radio=1), [Atom TM](https://www.youtube.com/watch?v=twGkc-pYV6Q&list=RDtwGkc-pYV6Q&start_radio=1), [Fuck Buttons](https://www.youtube.com/watch?v=RxVZDxK02QE&list=RDRxVZDxK02QE&start_radio=1), [Fennesz](https://www.youtube.com/watch?v=ES1kbvt5FB8&list=RDES1kbvt5FB8&start_radio=1)
 
-### week 03 - Diegesis & Listening Modes
+## week 03 - Diegesis & Listening Modes
 1. Create a complete sound design for a short video, incorporating the diegetic, non-diegetic, and trans-diegetic layers of sound.  
    **Video Selection**: Select, shoot, or generate a video scene that is a maximum of 20-30 seconds long. The scene should provide an opportunity for both natural (diegetic) and stylized (non-diegetic/trans-diegetic) sound elements.  
    **Diegetic Sound**: Design a full and convincing soundscape for the scene using diegetic sounds (sounds that originate within the world of the video, like footsteps, dialogue, or environmental noises).  
@@ -40,7 +40,7 @@ draft: true
       
 4. Watch Fatih Akın's [Crossing The Bridge](https://www.imdb.com/title/tt0459242/). Jot down diegetic, non-diegetic, and trans-diegetic scenes. Bring your notes to class. Do not submit.
 
-### week 04 - Foley Recording, EQ
+## week 04 - Foley Recording, EQ
 [Adjust Loudness](https://youtube.com/shorts/9X6cffQyMu4?si=wlxaUtiSfuDLv7Pz) , -14 is good
 
 [Recording with Fairlight on Timeline](https://www.youtube.com/watch?v=EzkjOUnVXZk)
@@ -78,7 +78,7 @@ draft: true
   
 Assignment 2 (Reading): Designing Sound, Practical Series Science Fiction, pg. 627-631 (Farnell)
 
-### week 05 - Voice-over Recording (Automation Curves)
+## week 05 - Voice-over Recording (Automation Curves)
 [Audio Clarity](https://www.youtube.com/watch?v=it09wIB8QGE)
 
 [Automation Curves](https://teaching.alptugan.com/Tutorials/Davinci-Resolve---Automation-Curves)
@@ -94,7 +94,8 @@ Assignment 2 (Reading): Designing Sound, Practical Series Science Fiction, pg. 6
 
 Voice Over 
 In class tutorial
-#### Assignment
+
+**Assignment**
 1. Choose a text to read. It must be at least 100-200 words. The context depends on you. A podcast intro, ad announcement on the radio, TV Ad…
 2. Record the spoken text using your mobile phone or recorder. You don't have to record your own voice. You can find someone else. Found voice audio samples are not allowed.
 3. Choose a music relevant to your context. Automate the music volume according to spoken parts in your recording.
@@ -107,7 +108,7 @@ Before importing your voiceover recording into Davinci Resolve, you can apply th
 [Adobe Voice Enhancer](https://podcast.adobe.com/enhance) or [Audiophonic](https://auphonic.com)
 
 
-### week 06 - Music Concrete
+## week 06 - Music Concrete
 HOLYYYDAY
 Create a music concrete track, [inspiration](https://www.openfootage.net/particle-and-graphic-footage/)
 
@@ -126,7 +127,7 @@ Do not get overwhelmed while creating your composition. Anyone submit a track wi
 - [Musique Concrète with Tape & Microsound Music Machine](https://www.youtube.com/watch?v=rOiAvki_dP0)
 
 
-### week 07 - Spatial Effects and Visual Space
+## week 07 - Spatial Effects and Visual Space
 [week7-COD 323 Sound Design - Spatial Effects and Elements of Sound Design - Google Slides](https://docs.google.com/presentation/d/1DksXwgs8qJ0mkOYVrmWG8J7TwWcaf9ju0Ff6MJZ-wus/edit?slide=id.g2a28008c763_0_0#slide=id.g2a28008c763_0_0)
 Distant shoot sound effects
 Elements of Sound Design
@@ -137,14 +138,15 @@ Why sound design matters, [scene 1](https://www.youtube.com/watch?v=UU3WMfQOjes)
 Hatefull eight scene, [sound source](https://freesound.org/people/D4XX/sounds/564626/)
 [Naruto Sasuke fight scene](https://www.youtube.com/watch?v=hBV5aQ5i7rk)
 
-#### Assignment
+**Assignment**
 1. Choose a video footage from the [list](https://media-host.alptugan.workers.dev/) or use a video of your own shot. 
 2. Adjust EQ as we did in class time.
 3. Upload as mp4 file to the following [Drive link](https://drive.google.com/drive/folders/1pQjPNEDjLQ2Bm1i07R-juAK8IaPHPk1t?usp=sharing). Do not upload your own Google account!
 4. Read the attached document. 
 5. Research about Cartoon Sound Design Practices. 
-6. 
-#### Video List
+
+
+**Video List**
 Do not use the original video sound or music track. You can use found samples, or record it by yourself. 
 
 https://media-host.alptugan.workers.dev/sounddesign/footage_blader_runner.mp4
@@ -158,21 +160,27 @@ https://media-host.alptugan.workers.dev/sounddesign/footage_the_godfather.mp4
 https://media-host.alptugan.workers.dev/sounddesign/footage_the_thing.mp4
 
 
-M. Edvin - to be upgraded 
 
-### week 08 - Cartoon Sound Design
+## week 08 - Cartoon Sound Design
 [week8-COD 323 Sound Design - Animation Sound - Google Slides](https://docs.google.com/presentation/d/1ymgilj2ZyHdSq-bFNWAtntLS3AzABna2CJ44lCbb5iM/edit?slide=id.g38ab76768ee_1_47#slide=id.g38ab76768ee_1_47)
 
 [How To Easily Make Anime-Style Sound Effects - YouTube](https://www.youtube.com/watch?v=8uJnIijUnX8)
 [How I SOUND DESIGN For Animation (walkthrough) - YouTube](https://www.youtube.com/watch?v=r3dmywRy3ns) A long walkthrough on a real project.
-#### Assignment
+### Assignment
 1. Create a sound design for a 20-second cartoon, animation, or stop-motion scene and export the video with sound. The video codec must be mp4.
 2. Upload the video to my [Google Drive link](https://drive.google.com/drive/folders/1FOrZNXiCoSFm7hoWsMko_IMH0mYoiAG1?usp=sharing), not yours please.
 3. Submit the Google Drive share link to the LMS for evaluation.
 4. Read the attached document `Sound Effect Synthesis_Ch13.pdf`
 
-### week 09 - Sound Design for Sci-fi Weapon
+## week 09 - Sci-fi UI Sound Design
+### Assignment
+ 1. Design a sound for UX prototype scene from a movie/cartoon/game of your choice.
+ 2. The length of the scene must be minimum 20 seconds-long.
+ 3. You can submit different scenes from the same movie or you can cut scenes from different movies to create 20 seconds long audio track.
+
+## week 10 - Sound Design for Sci-fi Weapon
 [Tron Legacy's Daft Punk score and futuristic sound design examined - YouTube](https://www.youtube.com/watch?v=HlHFxkhJAMM)
+
 Find a sci-fi weapon and create a sound design for it. 
 Carefully determine Transient, Kick, Mech, and Tail parts. [Reference](https://www.youtube.com/watch?v=_J56n496u6k)
 
@@ -183,55 +191,75 @@ Carefully determine Transient, Kick, Mech, and Tail parts. [Reference](https://w
 - [Retro Plasma Gun – Sound Design Snacks 9 - YouTube](https://www.youtube.com/watch?v=m3qiU90rvUg) Advanced technique using synthesizers.
 - [Sci-Fi Gun Sound Effect From Scratch - YouTube](https://www.youtube.com/watch?v=3p81zSZ7SpE) Advanced technique with synthesizer
 - [Turn a Cough Into a Plasma Gun Beam - Sound Design Tutorial - YouTube](https://www.youtube.com/watch?v=OHPVHH5_SIg) Foley Technique
+- [Making Halo's beam rifle sound with just an iPhone mic \|\| Waveform - YouTube](https://www.youtube.com/watch?v=-_TGR2ux0nE)
 
-### week 10 - Sci-fi UI Sound Design
- 1. Design a sound for UX prototype scene from a movie/cartoon/game of your choice.
- 2. The length of the scene must be minimum 20 seconds-long.
- 3. You can submit different scenes from the same movie or you can cut scenes from different movies to create 20 seconds long audio track.
+### Assignment
+Design a distinct, highly detailed, standalone SFX for a single sci-fi weapon shot, integrating soundscape details.
 
-### week 11 - Soundscape Design
-Audiocard assignment
+- Focus on meticulous design, ensuring every sonic element is precise and intentional.
+- Collect audio samples for the four key components:
+    - Transient: Initial attack/snap.
+    - Kick/Body: Main impact/power.
+    - Mechanical: Moving parts/mechanism.
+    - Tail/Decay: Lingering energy/residue.
+- Soundscape elements must only enhance the space tone, keeping the product focused and self-contained. 
+- You can choose video from your favorite first-person-shooter game or utilize one of the videos in this presentation.
 
-### week 12
-In class - Final Project Study 
-Create a sound design project of your choosing that shows what you have learned in this course. You have a variety of options
-here— listed are just a few ideas:
-● Soundscape Project (min. 3.00 minutes long) x 4 : Mix a “fake” soundscape of an environment such as a fictional planet, the
-bottom of the ocean, a dystopian ambiance, etc... Totally it's up to you. x 4
-● Movie, Animation, Documentary (min. 03:00 minutes long) x 1: Remove the audio from your favorite movie scene and replace it
-with your own sound design.
-● Audio postcards (min. 20 seconds long) x 8: If you produce audio postcards, you will need to submit 8 different contexts.
-● Sound FX Design Pack (Min. 10 different samples): Sound effects for sci-fi/cartoon/anime props such as laser gun shot, sword
-shin sound, alien voice, explosion... You are expected to create a sound design pack. It must involve 10 different sound effects at
-least and the length of the samples should be between 1-10 seconds depending on the context.
+
+## week 11 - Soundscape Design
+Final Project presentations
+Audiocard assignment & Sound Logo
+
+## week 12
+Final Project Study - No class
+
+## week 13
+Final Project Study - No class
+
+## week 14
+Upload your files to the following Google Drive link. Create a folder with your name_surname and upload;
+1. All of your Davinci Resolve Project files. Compress all of the project files as zip.
+2. Sound design project video. Video must be in 1920x1080 px resolution in mp4 format.
+3. Project documentation pdf.
+
+# COD 323 Final Project Instructions
+Create a sound design project of your choosing that shows what you have learned in this course. You have a variety of options here listed are just a few ideas:
+
+- **Soundscape Project** (min. 1-2 minutes long) **x 4** : Mix a "fake" soundscape of an environment such as a fictional planet, the bottom of the ocean, a dystopian ambiance, etc... Totally it's up to you. x 4
+
+- **Movie, Animation, Documentary** (min. 2-4 minutes long) **x 1**: Remove the audio from your favorite movie scene and replace it with your own sound design.
+
+- **Audio postcards** (max. 20 seconds long) **x 8**: If you produce audio postcards, you will need to submit 8 different contexts.
+  
+- **Sound FX Design Pack** (Min. 20 different samples): Sound effects for sci-fi/cartoon/anime props such as laser gun shot, sword shin sound, alien voice, explosion... You are expected to create a sound design pack. It must involve 20 different sound effects depending on the context. You are expected to create a video showcasing your sound samples. 
+
 → Along with your project proposal (if it's a sound design for an animated image, just upload the video scene with sound under
 this post), include a paragraph description that describes your project. Why did you choose it? What is the motivation? What are
 you planning for the sound design process?...
 Just be clear on the project that you present to us.
 
---
+### Final Project Template Document
+Your final project document must include the following information. **Please complete every section to avoid losing points.**
 
-Upload the video scene or scenes you choose for the final project.
-2. Fill out and upload the project document.
-3. Determine required sound samples.
-4. Briefly explain the sound design process for your project. Refer to the project template document (2).
-I will be at my office next Tuesday. If you need assistance, you can visit me after 13:40 at AB4 G04
-Missing the deadline or failing to upload the project document and video scene(s) until the deadline will result in
-immediate failure. FYI.
+**Course:** COD 323 Sound Design
+**Student Name/Surname:** [Your Name]
 
-### week 13
-In class - Final Project Study 
+**Project Title:** Provide a title for your work. (You may update this after receiving feedback).
 
-### week 14
-Upload your files to the following Google Drive link.
-Create a folder with your name_surname and upload
-1. All of your Davinci Resolve Project files
-2. Upload your sound design project video.
-3. Video must be at least 3 (Three) minutes long and in mp4 format
+**Project Type:** Specify your project category;
+- Sci-fi, drama, horror, fantasy, etc.. movie 
+- Animated (Anime, stop-motion, 3D)
+- Soundscape
+- Music Concrete, Acousmatic, Field Recording Composition
+- Sound sample pack (specify the genre of the game or the context of your project)
 
+**Project Description:** Briefly explain the sound design process for your project such as sample collection, foley recording, the use diegetic, non-diegetic sounds, or literal, non-literal sound effects, etc... 
+
+Missing the deadline or failing to upload the project document and video scene(s) until the deadline will result in immediate failure. FYI.
 
 
-## Assignments Pool - COD 412 Sound Projects & Media
+
+# Assignments Pool - COD 412 Sound Projects & Media
 ### week 01 - Sound 
 - Introduction
 - What is sound art?

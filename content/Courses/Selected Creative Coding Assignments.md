@@ -80,6 +80,42 @@ draft: false
 ### Week 4
 goto [p5 sketch gallery](https://p5-sketch-gallery.up.railway.app/#week4/)
 
+### Week 5
+goto p5 gallery on railway
+
+
+### Week 9
+#### A
+[Boulder gear alperenkaraman](https://editor.p5js.org/alperek/sketches/hYW70iP6i0)
+[Azra.Akoğlu.week.09 by azra.akoglu -p5.js Web Editor](https://editor.p5js.org/azra.akoglu/sketches/5ScZT9gfc)
+[baran.ay.COD207.A.week09 by baranay -p5.js Web Editor](https://editor.p5js.org/baranay/sketches/iQQlbFGjg)
+[bersu-guzeyweek09-Typo by bersuguzey -p5.js Web Editor](https://editor.p5js.org/bersuguzey/sketches/Dt5EjMzwP)
+[Poster by bilal.mushtaque -p5.js Web Editor](https://editor.p5js.org/bilal.mushtaque/sketches/qKE0IJFYn)
+[week09.cemretoraman.A by cemre.toraman -p5.js Web Editor](https://editor.p5js.org/cemre.toraman/sketches/SMlCbplsj)
+[generativeposterweek9.azracerengunes by azracerengunes -p5.js Web Editor](https://editor.p5js.org/azracerengunes/sketches/4RADaZ6b0)
+[Magazine Cover by cerenozben -p5.js Web Editor](https://editor.p5js.org/cerenozben/sketches/4R_xyQBkT)
+[İpek Ögetürk- Week9 by ipekogeturk -p5.js Web Editor](https://editor.p5js.org/ipekogeturk/sketches/ZMcExotM2)
+[Week 9-Kaan Akdoğan by KaanAkdogan -p5.js Web Editor](https://editor.p5js.org/KaanAkdogan/sketches/spiqhfynX)
+[Week9-Nisa Emer Poster by nisaemer -p5.js Web Editor](https://editor.p5js.org/nisaemer/sketches/p56lcc_nt)
+[Recep.Can.Week9.Assignment by recep.can -p5.js Web Editor](https://editor.p5js.org/recep.can/sketches/09j1zN0qa)
+[Assigment 8 Simrun by simrun.eqbal -p5.js Web Editor](https://editor.p5js.org/simrun.eqbal/sketches/uJYIUM3kx)
+
+#### B
+[ADA TİNGAZ Week 09 Generative Poster by ada.tingaz -p5.js Web Editor](https://editor.p5js.org/ada.tingaz/sketches/DVjJuQLm7)
+[week10\_alp.eroğlu\_B - OpenProcessing](https://openprocessing.org/sketch/2805722)
+[poster design by asli.ozcan -p5.js Web Editor](https://editor.p5js.org/asli.ozcan/sketches/H62IcnuJk), [mixed styles by asli.ozcan -p5.js Web Editor](https://editor.p5js.org/asli.ozcan/sketches/nOWu1BOXs)
+[chaos by Barannn -p5.js Web Editor](https://editor.p5js.org/Barannn/sketches/mjEfI2ejd)
+[Berke.Çiçek.HW.9 by Berke.Cicek -p5.js Web Editor](https://editor.p5js.org/Berke.Cicek/sketches/1ksi6-730)
+[poster design by ceran -p5.js Web Editor](https://editor.p5js.org/ceran/sketches/MGAWkJ9ZI)
+[blue dreams by denizmutlu -p5.js Web Editor](https://editor.p5js.org/denizmutlu/sketches/uPenPX4P3)
+[week9 by ecematli -p5.js Web Editor](https://editor.p5js.org/ecematli/sketches/3u8AtJsJM)
+[Rhythm of Dots by eda.erginoglu -p5.js Web Editor](https://editor.p5js.org/eda.erginoglu/sketches/xJtmYf-Ke)
+[week9 by faridahamed -p5.js Web Editor](https://editor.p5js.org/faridahamed/sketches/KMqFCv8sa)
+[Bauhaus generative poster by iman.nawaz -p5.js Web Editor](https://editor.p5js.org/iman.nawaz/sketches/_LP58cSCS)
+[Week 09 - Munazza Shirin by munazza.shirin -p5.js Web Editor](https://editor.p5js.org/munazza.shirin/sketches/_ZDF8ybCk)
+[Waves Cover by nehir.gelisin -p5.js Web Editor](https://editor.p5js.org/nehir.gelisin/sketches/L92qLQLPX)
+[Su Mandacı](https://editor.p5js.org/su.mandaci/full/oghqWjrpA)
+[week09-umutgelir-B by tumurileg -p5.js Web Editor](https://editor.p5js.org/tumurileg/sketches/gn8xaaHeu)
 
 ## COD 208 (2025-2026 Spring)
 ### Basic Platform Game

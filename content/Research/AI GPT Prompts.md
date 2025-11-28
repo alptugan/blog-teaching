@@ -141,5 +141,32 @@ A 4K ultra-realistic portrait of (reference), framed from the chest up (not full
 </div>
 
 
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
 
-Cinematic street photography, stylish young man in motion, urban environment, motion blur effect. Blurred pedestrians passing by, shallow depth of field, natural overcast lighting, soft pastel tones, editorial fashion photography, candid moment, dynamic movement, film aesthetic, muted colors.
+<div style="width: 30%;">
+<img style="width: 100%;" src="prompt-casual-city.jpg">
+</div>
+
+<div style="flex: 1;">Cinematic street photography, stylish young man in motion, urban environment, motion blur effect. Blurred pedestrians passing by, shallow depth of field, natural overcast lighting, soft pastel tones, editorial fashion photography, candid moment, dynamic movement, film aesthetic, muted colors.</div>
+</div>
+
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="width: 30%;">
+<img style="width: 100%;" src="prompt-fix-photo.jpg">
+</div>
+
+<div style="flex: 1;">Please edit my childhood photo into HQ, with an aesthetic and modern photography look, making it appear authentic and enhancing the colors</div>
+</div>
+
+
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="width: 30%;">
+<img style="width: 100%;" src="prompt-business-photo.jpg">
+</div>
+
+<div style="flex: 1;">Ultra-realistic studio portrait of him leaning gracefully on the backrest of a chair, dressed in a sleek dark outfit. Shot from a subtle low-angle to accentuate his facial features and confident expression. Cinematic black-and-white color grade with refined, natural skin tones. Solid black background with sharp 8K details, highlighting textures in her clothing, hair, and eyes for a dramatic, lifelike effect.
+</div>
+</div>
+

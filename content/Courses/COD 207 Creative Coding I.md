@@ -8,21 +8,21 @@ tags:
 aliases: 
 draft: false
 ---
-## Introduction
+# Introduction
 COD 207 Creative Coding I is a foundational course designed to introduce students to the essential principles of programming within the realm of creative coding. Through hands-on experiences with algorithmic art practices, students will gain a comprehensive understanding of the fundamental concepts that underlie this innovative field.
 
-## Course Objectives:
+# Course Objectives:
 *   **Develop Programming Fundamentals:** Students will learn the basic syntax and structure of programming languages, focusing on problem-solving skills and logical thinking.
 *   **Explore Algorithmic Art Practices:** Through interactive exercises and projects, students will delve into the world of algorithmic art, understanding how to create visually striking and dynamic visualizations using code.
 *   **Apply Creative Coding Principles:** By applying creative coding principles to real-world scenarios, students will develop a unique perspective on problem-solving and artistic expression.
 
-## Office Hours
+# Office Hours
 Refer to the following link. Create a request. I will provide you the details. [Booking link](https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hEN-lfFsa5o9XwUvrUk23hiPMr-xNrDdbliDjhx13GPrkvr6JGqyO6MKZsHTud2Nwt9RnS2h)
 
-## Links
+# Links
 [Selected Student Works Show](https://cod207.damp-server.org/) Under Construction
 
-## Course Content:
+# Course Content:
 ### Week 1: Introduction to Creative Coding
 - Why do I need to learn programming? Interview with [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4)
 * Overview of programming languages (Python, JavaScript, etc.)
@@ -91,7 +91,6 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 
 ### Week 8: Image Processing
 - Presentation: [week07_cod_207-Image-Processing](https://alptugan.github.io/Slidev_Presentations/2025-2026/week07_cod_207-Image-Processing)
-- Artist of The Week: 
 
 
 ### Week 9: Typography
@@ -109,10 +108,91 @@ Several topics are reviewed during the class work on the creation Moire Pattern 
 - Presentation ALAP: [Algorithmic Art Praxis - Slidev](https://alptugan.github.io/Slidev_Presentations/Workshops/Algorithmic-Art-Praxis)
 
 
-## Course Assessment:
-*   **Quizzes and Assignments:** Regular quizzes and assignments will test students' understanding of programming fundamentals and algorithmic art practices.
-*   **Project-Based Evaluation:** A final project will assess students' ability to apply creative coding principles to a real-world scenario or artistic expression.
+***
 
+# Final Project Instructions
+
+### 1. Project Template Document
+Your final project document must include the following information. **Please complete every section to avoid losing points.**
+
+**Course:** COD 207 Creative Coding I
+**Student Name/Surname:** [Your Name]
+
+**Project Title:** Provide a title for your work. (You may update this after receiving feedback).
+
+**Mood Board:** Include your mood board here. If you are using Miro, Notion, or another cloud-based app, please add a screenshot and a **public link** so I can access it.
+
+**Project Type:** What is the category of your project? Choose one of the following or propose your own:
+
+*   **Generative Art:**
+    *   Abstract digital painting
+    *   Animated loops (GIFs)
+    *   Plotter drawings (vector-based designs for print)
+*   **Computational Design:**
+    *   Generative poster design
+    *   Generative cover design
+    *   Generative book covers
+    *   Algorithmic typography or logo design
+*   **Interactive Media:**
+    *   Mini-games (Educational, advergame, casual game, puzzle game, etc...)
+    *   Mouse/Keyboard interactive visual systems
+    *   Audio-reactive visuals (Music visualizer)
+*   **Data Visualization:**
+    *   Visualizing personal data (e.g., screen time, steps)
+    *   Abstract mapping of external datasets
+*   **Generative Collage:**
+    *   Remixing images and shapes using code
+*   **Other:**
+    *   If you have a unique idea not listed here, please explain it in detail.
+
+**Project Description:**
+Write a comprehensive description of your project. This section should cover:
+1.  **Concept:** What is the core idea or theme?
+2.  **Technical Approach:** Which coding techniques and tools are you using? Why did you choose them?
+3.  **Connection:** How does the technical approach support your concept and mood board?
+
+*Do not write these as separate bullet points; please write them as a cohesive paragraph.*
+
+---
+
+### 2. Final Project Video Documentation
+You must screen-record your project. The video resolution must be at least **1920x1080 px**.
+
+*   **Audio/Text:** Use subtitles or a voiceover to briefly explain your work.
+*   **Content:**
+    *   If it is **artwork**, explain your inspiration and motivation.
+    *   If it is a **design (poster, book cover, etc.)**, explain the context and usage.
+*   **Goal:** The video must clearly demonstrate how the project works to an audience who has never seen it before.
+
+---
+
+### 3. Source Code & Outcomes
+1.  Download your source code from p5.js or OpenProcessing.
+2.  Rename the downloaded `.zip` file using your name and surname.
+    *   *Example:* **sketch-alptugan.zip**
+
+---
+
+### 4. Submission Instructions
+1.  Create a folder on your computer named with the course code, your name, and surname.
+    *   *Example:* **alptugan_cod207_A**
+2.  Place your **Final Project PDF**, **Video Documentation**, and **Source Code (.zip)** inside this folder.
+3.  Upload the folder to the Google Drive link provided below.
+    *   <font color="#c0504d">**DO NOT UPLOAD THE FILES DIRECTLY TO THE LMS.**</font>
+4.  Once uploaded to Drive, copy the link to your folder and paste it into the LMS submission box.
+
+---
+
+### GRADING POLICY
+As stated in the course syllabus, the final project accounts for **30%** of your final grade. You will be evaluated based on the following criteria:
+
+| Description                                                                                                  | Points      |
+| :----------------------------------------------------------------------------------------------------------- | :---------- |
+| **Detailed Comments in the Code**<br>(Is the code explained clearly via comments?)                           | 20 PTS      |
+| **Aesthetics & Design**<br>(Visual balance, composition, and theoretical grounding)                          | 40 PTS      |
+| **Project Document, Description & Analysis**<br>(Quality of the project document and computational thinking) | 20 PTS      |
+| **Video Documentation**<br>(Clarity, resolution, and explanation)                                            | 20 PTS      |
+| **TOTAL**                                                                                                    | **100 PTS** |
 
 ## Useful Links
 * Check tutorials CodeGuppy -> [Coding for middle school and high school students \| Free coding platform](https://codeguppy.com/index.html)

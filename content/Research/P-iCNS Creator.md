@@ -30,6 +30,11 @@ draft: true
 	- [ ] #task #icns-creator Keep the original icon in the original app directory.
 	- [ ] #task #icns-creator [repo](https://github.com/mikker/wezterm-icon/blob/main/Makefile) icon swap formula 
 
+
+### v5
+- [ ] App packaging - [GitHub - create-dmg/create-dmg: A shell script to build fancy DMGs](https://github.com/create-dmg/create-dmg)
+
+
 ### Design & Documentation
 - [ ] #task #icns-creator/docs Update cover image, create a red arrow showing drag-drop icon from desktop to the app
 - [ ] Color picker alternative, [link](https://github.com/jaywcjlove/ColorSelector)

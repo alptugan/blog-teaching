@@ -108,7 +108,11 @@ Your Final Project Proposals must include the following informations;
 
 1.  **Descriptive Information (total: 80 points)**
 
-Your name: …? (5 points) Course Name / Section: …? (5 points) Name of your project: …? (10 points) Description of your project: (include sketches, storyboard, pictures, photos, etc… in a nutshell, tell EXACTLY what you want to do) (60 points) The description part of your final project is the most important one. So, tell your idea clearly within relevant material. I included some topics and list down the required informations that you must include in your pdf file. You can use completely different idea. The point is how well you present your project.
+Your name: …? (5 points) 
+Course Name / Section: …? (5 points) 
+Name of your project: …? (10 points) 
+Description of your project: (include sketches, storyboard, pictures, photos, etc… in a nutshell, tell EXACTLY what you want to do) (60 points) 
+The description part of your final project is the most important one. So, tell your idea clearly within relevant material. I included some topics and list down the required informations that you must include in your pdf file. You can use completely different idea. The point is how well you present your project.
 
 -   If this is a game, there must be at least three scenes' visual design and game assets that are exported as png files;
 

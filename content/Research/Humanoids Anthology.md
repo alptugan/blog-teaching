@@ -33,3 +33,8 @@ XPeng unveiled its next-generation “IRON” humanoid robot at its 2025 AI Day,
 Release Date: 2025-11-11
 Video: [Watch : Xpeng Unzips Humanoid Robot To Prove It’s Not Human ? - YouTube](https://www.youtube.com/watch?v=jWmqCIzAtIE)
 Company: [Xpeng](https://www.xpeng.com/news/019a56f54fe99a2a0a8d8a0282e402b7)
+
+
+
+## PHYBOT
+The details will be added later. 
