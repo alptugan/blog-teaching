@@ -20,7 +20,11 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 Refer to the following link. Create a request. I will provide you the details. [Booking link](https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hEN-lfFsa5o9XwUvrUk23hiPMr-xNrDdbliDjhx13GPrkvr6JGqyO6MKZsHTud2Nwt9RnS2h)
 
 # Links
-[Selected Student Works Show](https://cod207.damp-server.org/) Under Construction
+[Selected Student Assignments Showcase](https://cod207.damp-server.org/) Under Construction...
+
+[Selected Student Final Projects](https://sites.google.com/ozyegin.edu.tr/cod-207-selected-projects/all)
+
+[\|\|\| Student Works - Creative Coding \|\|\| - YouTube](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=0PDGlFD5MJGjYDML)
 
 # Course Content:
 ### Week 1: Introduction to Creative Coding
@@ -216,6 +220,7 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 ### Generative Art
 - [REAS.com is a database for Casey REAS](https://reas.com/)
+- [Daily Sketches in 2016. (note: this article has a fair number… \| by zach lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 - [Shan, Shui](https://shan-shui-inf.lingdong.works/) Infinite procedurally generated Chinese landscape painting by [Lingdong Huang](https://lingdong.works/), 2018. Huang is one of the exceptional generative artists for our time (2025).
 - [Mokafolio – Weird Faces](https://www.mokafolio.de/works/Weird-Faces)
 - [Mokafolio – Regurgitating](https://www.mokafolio.de/works/Regurgitating)
@@ -392,3 +397,38 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 - [DEM - Dijital Deneyim Tasarımı ve Kültürel Hikaye Anlatımı](https://www.demmuseums.com/tr/Projeler)
 - [Omotun \| Dijital Tasarım Stüdyosu](https://omotun.com/)
 - [ILLUSIONIST- Digital Arts Studio](https://www.illusionist.com.tr/)
+
+<!-- 
+Aşağıdakileri yaptınız mı? 
+
+1. Ders izlencesindeki kaynakları incelediniz mi?
+
+2. Eski öğrenci işlerini incelediniz mi?, [bu](https://sites.google.com/ozyegin.edu.tr/cod-207-selected-projects/all) ve [youtube](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=0PDGlFD5MJGjYDML).
+
+3. Ders sayfasındaki [inspiration](https://teaching.alptugan.com/Courses/COD-207-Creative-Coding-I#inspiration--showcases) başlığı. Buradaki projelerin nasıl yapıldığı, ne anlattığı, tasarımcıların neyi çözdüğü, sanatçının neyi ifade ettiği, nereden beslendikleri, projelerini nasıl dokümante ettiklerini incelediniz mi?
+
+4. Youtube ve internette arama yaptınız mı?
+
+5. Yapay zeka LLM sohbet uygulamaları üzerinden fikir geliştirmeye çalıştınız mı? Yapay zeka çıktısını alıp gelmeyin sakın! 
+
+6. Derste ve sunumlarda gösterdiğim bahsettiğim konuları okudunuz mu? 
+
+7. Üst dönem öğrencilerle konuştunuz mu? Yardım istediniz mi? Tanışmadıysanız gidin tanışın. Yardım isteyin. Akıl isteyin. Fikirlerinizi danışın.
+
+8. Beğendiğiniz, kullandığınız bir programı kim yapmış, neden yapmış araştırdınız mı? 
+
+9. Eski Türk sanatçı ve tasarımcıların işlerini araştırdınız mı?
+
+10. Türkiye'deki ve yurt dışında, creative coding isimli derslerde diğer öğrenciler ne yapmış araştırdınız mı? Derste gösterdiğim Daniel Schiffman ve Patt Vira'nın YouTube kanallarına baktınız mı?
+
+11. Benim sayfamda yaptığım işleri ve onlar üzerine yazdığım yazıları okudunuz mu? Mesela; [Icon Creator App](https://medium.com/@alptugan/icns-creator-open-source-native-utility-app-creating-icon-files-a54662093f7a), [alptugan.com](https://www.alptugan.com)
+
+12. Piyasada yaptığım işleri incelediniz mi? Mesela; [Rhizome sergisi](https://www.filikatasarim.com/v2/portfolio/hayat-bilgisi-vitra-2014/)
+
+13. Yazdığım makaleleri okudunuz mu? Blog yazılarıma baktınız mı? Mesela; [Computational Thinking](https://medium.com/@alptugan/coding-a-generative-picture-frame-a-journey-through-computational-thinking-as-a-problem-solving-746de589b65f)
+
+14. Kalem kağıt alıp, cep telefonunuzu bir kenara bırakıp yarım saat bile olsa bir şeyler yazıp, çizip beyin fırtınası yaptınız mı?
+
+15. Takip ettiğiniz sanatçı, şirket ya da tasarımcı var mı? Yoksa neden hala yok? Varsa onların nasıl proje geliştirdiklerini incelediniz mi?
+
+-->

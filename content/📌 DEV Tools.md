@@ -62,6 +62,7 @@ date: 2025-03-19T12:00:00
 ### Components
 [Uiverse.io](https://uiverse.io/cards?page=5) The Largest Library of Open-Source UI elements
 [cuicui](https://cuicui.day/) Copy/paste React component library.
+[Fancy Components](https://www.fancycomponents.dev/) library of ready-to-use react components & microinteractions. free & open source.
 [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
 
 ## JS Libraries
@@ -115,8 +116,9 @@ date: 2025-03-19T12:00:00
 [Chatwoot](https://www.chatwoot.com/help-center)
 
 # Docker Related
-### File Sharing
+## File Sharing
 [Sharry](https://github.com/eikek/sharry) File sharing system on docker
+
 ## Operating Systems
 https://www.youtube.com/watch?v=n3T2J0WQH10
 [Casa OS](https://casaos.io/) Single line installation. Supports even RPI 3. The best part is it supports custom docker installs → [Tutorial1](https://www.youtube.com/watch?v=PTSJIFjiCyE&list=TLPQMDYwNTIwMjQy-r8hmED16A&index=4)
@@ -175,7 +177,7 @@ AdGuard Home
 
 ## Bookmarks
 [linkding](https://github.com/sissbruecker/linkding)
-[linkwarden](https://linkwarden.app/) 
+[linkwarden](https://linkwarden.app/)  
 [readeck](https://readeck.org/en/) Kampsamlı bir bookmarking, not alma falan var.
 [slash](https://github.com/boojack/slash) Chrome extension'ı da var.
 
@@ -192,7 +194,7 @@ Guacamole
 
 ## File Managers
 [FileGator](https://filegator.io/) Nice interface. Better than fileBrowser
-[Directorylister](https://www.directorylister.com/) Olny View mode. Available for download
+[Directorylister](https://www.directorylister.com/) Only View mode. Available for download
 [Filestash](https://www.filestash.app/)
 [Gossa](https://github.com/pldubouilh/gossa)Very fast, simple, file server
 
@@ -316,6 +318,9 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Litlyx](https://github.com/Litlyx/litlyx) Open-source analytics tool for web applications.
 [Plausible](https://github.com/plausible/analytics) Open-source analytics tool for web applications.
 [Dub](https://dub.co/) Link shortener, self-host
+
+## Prototyping
+[Penpot](https://penpot.app/) The Design Tool for Design & Code Collaboration
 
 ## App Bundling
 [create-dmg](https://github.com/sindresorhus/create-dmg)  Create a good-looking DMG for your macOS app in seconds.

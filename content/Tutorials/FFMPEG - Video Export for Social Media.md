@@ -27,3 +27,10 @@ ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset slow -crf 18 -pix_fmt yuv4
 ```
 
 Finally, since writing down or copy/paste the script every time is a tedious task. I create shell script and assign the script to an Automator `Quick Action` app. So, I can directly right-click on the folder and execute the FFMPEG command on the context menu. 
+
+
+```shell
+ffmpeg -i INPUT.mov -crf 10 -vf “scale=640:640, setpts=1.0*PTS” -c:a copy -tune grain OUTPUT.mov
+```
+[source](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
+>note, I change the input and output files names. I also adjust the CRF value to try to keep the bitrate around 4000–5000 kbits. Also the 1.0 in setpts= line is for speed change, if I want to make the movie faster I adjust this.

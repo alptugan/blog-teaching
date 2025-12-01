@@ -187,14 +187,14 @@ to
 - Step 3: Embed the Link in Your Note
   `<iframe src="https://drive.google.com/file/d/YOUR_FILE_ID/preview" width="600" height="400"></iframe>`
 
-## Wikilinks
+## 8. Wikilinks
 Embed Content from different document into another document as excerpt.
 ```markdown
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
 ```
 ![[w7-The Social Construction of Facts and Artifacts Or How the Sociology of Science and the Sociology of Technology Might Benefit Each Other,Bijker and Pinch,  p. 11-45.#^ec21fc]]
 
-## Tables
+## 9. Tables
 ```markdown
 
 
@@ -208,3 +208,11 @@ Embed Content from different document into another document as excerpt.
 | [<img src="assets/t7.png" width="330" Height="330">](tutorial_7/src/main.rs) | [<img src="assets/t8.png" width="330" Height="330">](tutorial_8/src/main.rs) | [<img src="assets/t9.png" width="330" Height="330">](tutorial_9/src/main.rs) |
 
 ```
+
+
+## 10. Comments in Markdown
+The following  line will not be rendered when the document is exported as PDF.
+
+[Documentation video path:]:  /mnt/SAMSUNG_500GB_HDD/2025_Artworks
+
+`[Documentation video path:]:  /mnt/SAMSUNG_500GB_HDD/2025_Artworks`
