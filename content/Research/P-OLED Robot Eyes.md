@@ -11,8 +11,13 @@ draft: true
 
 For Oled Instructions refer to → [⁉️FAQ & SHORTCUT & HOWTO](https://www.notion.so/FAQ-SHORTCUT-HOWTO-8a0c0ddd2f8a426990c1e50b5cfd0d6c?pvs=21)
 # Connection
-`ssh pi@raspberrypi.local`
-`p: raspberry`
+```shell
+ssh pi@raspberrypi.local
+p: raspberry
+```
+
+## Enable Internet Connection
+![[rpi-internet-sharing.jpg|-center|500]]
 
 ## Alias Commands
 Aliases are hosted at `.bashrc` file

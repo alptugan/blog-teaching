@@ -18,6 +18,11 @@ Refer to the following [code](file:////Users/alptugan/Documents/Arduino/touch_se
 
 How to Make Touch Switch Sensor Circuit on a Breadboard without an MCU (BC547 Transistor), [link](https://www.youtube.com/watch?v=RUPeLwXn51g)
 
+[Capacitive Touch Sensing Grid - Hackster.io](https://www.hackster.io/gatoninja236/capacitive-touch-sensing-grid-f98144) Afranın grid sistemine benziyor
+
+Bareconductive uses <font color="#ffc000">MPR121</font> as well, [Bareconductive Github Lib](https://github.com/BareConductive/mpr121) , [fork](https://github.com/hku-ect/BareConductive?tab=readme-ov-file)
+datastream the touch threshold'u iyice düşürürsen proximity sensor gibi davranıyor.
+
 ## Debouncing
 - The article showcases several debouncing techniques to prevent ghost triggers, [Arduino Button Debouncing Techniques](https://deepbluembedded.com/arduino-button-debouncing/)
 - 

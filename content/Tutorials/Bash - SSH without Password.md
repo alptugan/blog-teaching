@@ -52,7 +52,7 @@ Enter same passphrase again:
 Your identification has been saved in /home/alptugan/.ssh/id_rsa.
 Your public key has been saved in /home/alptugan/.ssh/id_rsa.pub.
 The key fingerprint is:
-b1:25:04:21:1a:38:73:38:3c:e9:e4:5b:81:e9:ac:0f alptugan@MacbookPro
+b1:25:04:.................... alptugan@MacbookPro
 The key's randomart image is:
 +--[ RSA 2048]----+
 |.o= . oo.        |

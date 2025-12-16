@@ -1,11 +1,11 @@
 ---
 title: Mnemonic
 date: 2025-05-17 02:56:46
-description: 
-tags: 
-aliases: 
+description:
+tags:
+aliases:
 draft: false
-banner: "[[blog-teaching/content/assets/covers/mnemonic-cover.png]]"
+banner: "[[mnemonic-cover.png]]"
 banner-x: 50
 banner-y: 19
 ---

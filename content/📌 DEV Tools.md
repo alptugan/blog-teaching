@@ -346,7 +346,6 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [PagesCMS](https://dev.to/meldiron/i-found-perfect-cms-after-years-of-trial-and-error-2nb8)
 # Hosting & Domain
 [Pro Free Hosting](https://profreehost.com/register/) Free hosting, 5GB, subdomains
-[JS.org](https://js.org/?) Sub Domain name for github pages
 [Tiiny.host](https://tiiny.host/pricing) Allows single domain for project.
 [Netfily](https://www.netlify.com/) Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.
 [Vercel](https://vercel.com/alptugan-protonmailcs-projects) Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. 
@@ -354,9 +353,14 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [taubyte/tau](https://github.com/taubyte/tau) Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 [Free DNS](https://freedns.afraid.org/domain/add.php)
 [DuckDNS](https://www.duckdns.org/)
-[freedomain](https://freedomain.one/)
 [Pricing - Appwrite](https://appwrite.io/pricing)
 [Pricing & Fees \| Supabase](https://supabase.com/pricing)
+
+## Domain
+[DigitalPlat FreeDomain – NIC](https://domain.digitalplat.org/)
+[freedomain](https://freedomain.one/)
+[JS.org](https://js.org/?) Sub Domain name for github pages
+
 
 # Routers
 [Port Forwarding](https://portforward.com/zyxel/) Shows port forwarding instructions for several router brands. 

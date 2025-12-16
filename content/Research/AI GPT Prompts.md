@@ -19,7 +19,17 @@ https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
 
 [51 Powerful ChatGPT Prompts for Academic Writing](https://www.learnprompt.org/chatgpt-prompts-for-academic-writing/)
 
+[GitHub - LouisShark/chatgpt\_system\_prompt: A collection of GPT system prompts and various prompt injection/leaking knowledge.](https://github.com/LouisShark/chatgpt_system_prompt/tree/main) Huge prompt for many contexts.
+
+
 ## Improve & Expand
+**AURE (UK English)** 
+  The following text is the introduction section of my finished article. Rewrite the section in UK English in academic tone  to improve clarity and make it more comprehensive. Do not create bullet points or any other sub titles for the section. Use in text citations if required. Remove repeating arguments if they are unnecessary. Ask me questions to make it clear before providing the answer;
+
+**Check the text for grammar errors:** (American English)
+Check the following text for grammar errors and fix them according to academic American English tone.
+
+
 **template:**
 Fix grammar errors, rewrite and organise the text to provide academic clarity. Keep in-text citations, use UK English. do not split the response into different titles, subtitles. Do not create bullet points. Just provide paragraphs in a clear flow. 
 
@@ -30,19 +40,19 @@ Rewrite the following text to improve clarity and make it more comprehensive abo
 **prompt:**
 Rewrite the following text to improve clarity and make it more comprehensive about the importance of programming knowledge for students in the period of emerging AI technologies day by day so fast. It will be in the introduction section of an article for an academic book chapter. Keep the in-text citations in your answer. You can add more academic references if it is required to improve the academic quality of the text for a book chapter. Here is the text;
 
-## 1. Yazdığım Yazıyı Kusursuz Hale Gelene Kadar Gelistir
+# Yazdığım Yazıyı Kusursuz Hale Gelene Kadar Gelistir
 **Prompt:**
 Size üzerinde çalıştığım kaba bir fikir veya çıktı vereceğim. Senin görevin, bir uzman editör ve mükemmeliyetçi gibi davranmak. Gerektiğinde bana sorular sorarak ve geri bildirim döngüleriyle bunu adim adim geliştir, ta ki dünya çapında mükemmel bir versiyona ulaşana kadar. Üzerinde çalıştığım şey şu: [taslaginizi, fikrinizi veya metninizi buraya ekleyin]
 
-## 2. Çok Disiplinli Cevap Ver
+# Çok Disiplinli Cevap Ver
 **Prompt:**
 Bir psikolog, iş stratejisti, verimlilik koçu ve kreatif direktör karışımı gibi davran. Sana herhangi bir zorluk veya fikir sunduğumda, birden fazla disiplinden beslenen, dengeli ve dünya standartlarında bir çözümle yanıt ver.
 
-## 5. Bir Dahi Gibi Ogren
+# Bir Dahi Gibi Ogren
 **Prompt:**
 [Buraya konuyu ekle] öğrenmek istiyorum. Ama sıradan bir rehber istemiyorum. Bana, elit öğrenciler için özel bir eğitmen gibi hissedeceğim, 30 günlük ultra-verimli ve geri bildirim odaklı bir öğrenme planı oluşturmanı istiyorum. Bu planı, öğrenme tarzım, zamanım ve yaşadığım zorluklara göre sürekli geliştir ve bana mükemmel sekilde uyacak hale getir.
 
-## Improve the Answer 
+# Improve the Answer 
 In order to improve the answer. Ask your question first.
 > Summarize the findings from attached document
 
@@ -55,19 +65,20 @@ In the final step, instruct the GPT to polish the response one more time.
 ## Create Documentation from Uploaded Code
 Create a markdown document detailing this code and how to use it.
 
-## Gemini + Notebook LM
+# Notebook LM
 Reference [video](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
-**Visualize the document**
+## **Visualize the document**
 - Goto Gemini (model 2.5 Pro experimental)
 - Upload the document
 - Can you summarize this [type, e.g. patent] document about [context, e.g. AI Overviews Generation] and visualize the key process with details using a dark color scheme design?
 
-**Add interactivity to Visualization**
+## **Add interactivity to Visualization**
 - Goto Gemini (model Deep Research)
 - Upload the document
 - Can you turn this [type, e.g. patent] document into interactive infographics - visual data stories with hover-reveal details and embedded statistics?
-## Prompt templates for specific purposes
+# Prompt templates for specific purposes
 - [Top 10 ChatGPT prompts to learn anything 10 times faster](https://dly.to/Fk67ZyoPoJR)
+- 
 
 
 ## Fine Tuning vs. Retrieval-Augmented Generation (RAG)
@@ -89,15 +100,65 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 >Use icons from lucide-react for logos.
 
 
-## Nano Banana 
+# Nano Banana 
 [Official Prompting Guide](https://ai.google.dev/gemini-api/docs/image-generation#image-editing-prompts)
 
-🌟 Prompt templates, [github.com](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
-### Retouch old photos
+- 🌟 Prompt templates, [github.com](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md)
+- 🌟 [Nano Banana Pro Prompts](https://youmind.com/nano-banana-pro-prompts?filter=image)
+
+## Sketch a note
+**Role**
+You are a professional Sketchnote artist and information designer.
+
+**Task**
+Based on the text content I provide, create a clear, concise Sketchnote-style hand-drawn draft image, aiming to help readers quickly grasp its inherent logic and core points.
+
+**Steps**
+- Read and extract "key nodes" (roles/actions/results/conditions), organizing them by process or causality;
+- Name the key nodes with concise English keywords, ensuring correct spelling and easy understanding.
+- Create the image according to the **Core Requirements**.
+- Make the generated effect simpler.
+
+**Core Requirements**
+- Visual Style: Strictly adhere to the Sketchnote hand-drawn style. All elements should have a handwritten feel. Use clean, minimalist lines, paired with 1-2 simple icons. The overall feel should be like drawing on a whiteboard or notebook with a black marker.
+
+- Composition and Layout: The overall layout must be clear, concise, and logical, guiding the reader's eye naturally. The overall layout should not strictly be left-to-right or top-to-bottom; arrange elements reasonably and freely, ensuring sufficient white space between elements. Strictly avoid overlapping arrows; ensure the visual is not cluttered.
+
+- Color: Only black and white, maintaining overall simplicity; pure white background, high contrast; no gradients, no shadows, no photos/3D/skeuomorphism.
+
+**Output Goal**
+Generate a minimalist hand-drawn sketch that explains the core idea of the original text, allowing anyone who sees the image to grasp the main point quickly.
+
+## Illustration: Technical Exploded
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="width: 30%;">
+<img style="width: 100%;" src="prompt-technical-illustration.jpg">
+</div>
+
+<div style="flex: 1;">Create a technical exploded view diagram of a [SUBJECT] in [1080x1080] dimension. The device is deconstructed showing all individual components floating in space, separated from each other to reveal internal parts. Each major component is labeled</div>
+</div>
+
+
+## Illustration: Visualize Article
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 20px; align-items: flex-start;">
+
+<div style="width: 30%;">
+<img style="width: 100%;" src="prompt-illustration.jpg">
+</div>
+
+<div style="flex: 1;">Help me generate multiple 16:9 doodle-style images to explain this content.
+
+The images should have a consistent colorful, thick-pencil hand-drawn style, be rich in information, feature English text, use solid color backgrounds, have outlines around the cards, and include uniform titles, similar to a PowerPoint presentation.
+
+Use nano_banana tool to generate images. Find the most essential information and generate images, no more than 5 in total.</div>
+</div>
+
+## Retouch old photos
 - (Fix scratched images) Restore this damaged vintage family photo
 - (Colorize b&w photos) Color in the image and make it look modern
 
-### Material 
+## Cover with Material 
 - Change this [image] to a marble material
 - Change this skin to a chrome material
 - Comic strip style
@@ -114,10 +175,10 @@ The following prompt is embedded in `bolt.ai` code helper. It might be useful wh
 </div>
 </div>
 
-### Maintain Character Consistency
+## Maintain Character Consistency
 - Maintain exact character appearance, including facial features, hairstyle, clothing, and all physical characteristics consistent throughout the image
 
-### Blend Images
+## Blend Images
 - Seamlessly blend multiple visual elements into a natural, cohesive composition with smooth transitions
 
 ## Avatar Image

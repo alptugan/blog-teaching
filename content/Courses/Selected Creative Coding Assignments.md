@@ -117,6 +117,16 @@ goto p5 gallery on railway
 [Su Mandacı](https://editor.p5js.org/su.mandaci/full/oghqWjrpA)
 [week09-umutgelir-B by tumurileg -p5.js Web Editor](https://editor.p5js.org/tumurileg/sketches/gn8xaaHeu)
 
+
+### Week 10
+### A
+[week10\_assignment\_alperen\_karaman by alperek -p5.js Web Editor](https://editor.p5js.org/alperek/sketches/Jsf2kuUiF)
+[Baran.Ay.Week10 by baranay -p5.js Web Editor](https://editor.p5js.org/baranay/sketches/TkZoedbzC)
+[week10.cemre.toraman by cemre.toraman -p5.js Web Editor](https://editor.p5js.org/cemre.toraman/sketches/GCKCV1R3n)
+[İpek Ögetürk- Week10 by ipekogeturk -p5.js Web Editor](https://editor.p5js.org/ipekogeturk/sketches/qydbK0Ohx)
+[Week 10 Sound Assigment Nisa Emer by nisaemer -p5.js Web Editor](https://editor.p5js.org/nisaemer/sketches/1YZQxgOFP)
+[Week 10.Munazza Shirin by munazza.shirin -p5.js Web Editor](https://editor.p5js.org/munazza.shirin/sketches/IFG3Uanee)
+
 ## COD 208 (2025-2026 Spring)
 ### Basic Platform Game
 #### A

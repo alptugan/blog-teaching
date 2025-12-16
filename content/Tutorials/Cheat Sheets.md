@@ -399,6 +399,14 @@ kill <PID>
 # Autostart application on desktop startup for Raspberry Pi 
 /etc/xdg/autostart/
 sudo nano starter.desktop
+
+
+# Display OS Version Information
+cat /etc/os-release
+
+
+# Setup Wi-fi Connection 
+sudo nmtui
 ```
 
 ## Docker Basics

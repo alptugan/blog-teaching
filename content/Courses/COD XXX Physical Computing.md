@@ -145,13 +145,14 @@ In addition to the required readings specified in the weekly schedule, the follo
 6. **Interactive Poster:** Create an interactive poster for a movie, event or organization based on physical interaction.
 7. **Interaction Design Prototype:** Create a working prototype of your projects learned in Interaction Design courses.
 8. **Tiny Screen Interface:** Create a tiny screen interface using OLED or LCD 16x2 displays giving feedback to user interaction with an imagery product. [Ref1](https://www.youtube.com/watch?v=HVHVkKt-ldc)
+
 ## Assignments
 Weekly assignments will primarily involve hands-on exercises and small creative tasks designed to solidify the concepts introduced in lectures and readings. These assignments will progressively increase in complexity, starting with basic setup and component control and moving towards more integrated and interactive systems. Students will be encouraged to document their process and outcomes, fostering a habit of reflective practice. Some assignments may involve short written reflections or analyses of existing physical computing projects to encourage critical thinking and observation skills. The assignments will be adaptable to both Arduino and Raspberry Pi, allowing students to work with their chosen platform.
 
-## Showcase
-
-
-## Resources and links 
+## Showcase, Resources and links 
+[Projects using the Teensy USB development board](https://www.pjrc.com/teensy/projects.html) Projects with Teensy.
+[Arduino Playground - InterfacingWithHardware](https://playground.arduino.cc/Main/InterfacingWithHardware/#Input) Arduino playground page projects.
+[Bareconductive](https://www.hackster.io/bareconductive/projects?page=2) Bare Conductive Projects & Tutorials for Beginners and Up.
 ### Basic Electronic Projects
 - [Mechanical Cabaret](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:mechanical-cabaret:start) The Mechanical Cabaret workshop introduces electromechanics through building a miniature theater-style installation. Participants create moving, spinning, and jumping elements using a motor and simple mechanics. They can personalize their cabarets and are encouraged to experiment and troubleshoot independently, with support available from the facilitator.
 ### Arduino-based Circuits
@@ -189,3 +190,4 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 - Voltage Divider, Decrease DC Voltage from 5V to 3V - [video](https://www.youtube.com/watch?v=q5H0Lncie0M)
 - ⭐ How to use sensors, motors, and passive circuit elements via Arduino - [blog](https://deepbluembedded.com/arduino-button-debouncing/)
 - Arduino-based projects - [blog](http://www.learningaboutelectronics.com/Arduino/)
+- Touch Capacitive Sensor [MPR121 Capacitive Touch Sensor on Raspberry Pi](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
