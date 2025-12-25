@@ -20,7 +20,7 @@ How to Make Touch Switch Sensor Circuit on a Breadboard without an MCU (BC547 Tr
 
 [Capacitive Touch Sensing Grid - Hackster.io](https://www.hackster.io/gatoninja236/capacitive-touch-sensing-grid-f98144) Afranın grid sistemine benziyor
 
-Bareconductive uses <font color="#ffc000">MPR121</font> as well, [Bareconductive Github Lib](https://github.com/BareConductive/mpr121) , [fork](https://github.com/hku-ect/BareConductive?tab=readme-ov-file)
+Bareconductive uses <font color="#ffc000">MPR121</font> as well, [Bareconductive Github Lib](https://github.com/BareConductive/mpr121) , [fork](https://github.com/hku-ect/BareConductive?tab=readme-ov-file), [fork2](https://github.com/MakeItZone/BareConductive-TouchBoard-Reference-Info)
 datastream the touch threshold'u iyice düşürürsen proximity sensor gibi davranıyor.
 
 ## Debouncing

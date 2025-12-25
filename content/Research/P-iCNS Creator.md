@@ -38,3 +38,15 @@ draft: true
 ### Design & Documentation
 - [ ] #task #icns-creator/docs Update cover image, create a red arrow showing drag-drop icon from desktop to the app
 - [ ] Color picker alternative, [link](https://github.com/jaywcjlove/ColorSelector)
+
+
+
+> [!WARNING] Installation Instructions
+>1. ﻿﻿﻿After downloading, open Terminal
+>2. ﻿﻿﻿Remove quarantine attribute:  
+>    `sudo xattr -r - com.apple quarantine /Applications/Nuclear.app`
+>3. ﻿﻿﻿If still blocked:  
+> 	- Go to System Preferences → Security & Privacy
+> 	- Click "Open Anyway" next to Nuclear
+>4. ﻿﻿﻿For persistent issues:  
+>    `sudo spctl --master-disable`

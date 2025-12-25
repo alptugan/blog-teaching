@@ -27,8 +27,6 @@ draft: false
 
 **IC (*Integrated Circuit*):** An IC also known as a **microchip** or simply **chip**, is a set of [electronic circuits](https://www.wikiwand.com/en/articles/Electronic_circuits "Electronic circuits"), consisting of various [electronic components](https://www.wikiwand.com/en/articles/Electronic_components "Electronic components") (such as [transistors](https://www.wikiwand.com/en/articles/Transistor "Transistor"), [resistors](https://www.wikiwand.com/en/articles/Resistor "Resistor"), and [capacitors](https://www.wikiwand.com/en/articles/Capacitor "Capacitor")) and their interconnections ([ref](https://www.wikiwand.com/en/articles/Integrated_circuit)). 
 
-**MCU (*Microcontroller Unit*):** An MCU is an intelligent semiconductor IC that consists of a processor unit, memory modules, communication interfaces and peripherals. The MCU is used across a broad range of applications, including washing machines, robots, drones, radio and game controllers.
-
 **MCP (*Model Context Protocol*):** Model Context Protocol, is an open standard designed to help artificial intelligence (AI) systems, particularly large language models (LLMs), connect with various external tools and data sources. It simplifies the integration process, allowing AI to access real-time information and perform actions based on that context.
 
 **NLP (*Natural Language Processing*):** NLP is a field of computer science and artificial intelligence that focuses on enabling computers to understand, interpret, and generate human language. It involves tasks like speech recognition, text classification, and language translation, using techniques from linguistics and machine learning.

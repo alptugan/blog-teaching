@@ -9,6 +9,10 @@ draft: true
 Resource:
 [DeepSeek - Into the Unknown](https://chat.deepseek.com/share/rqj88jwennwp1mjeu8)
 
+# Dirvers
+[GitHub - swkim01/waveshare-dtoverlays at fb1fa273aa249c4a558c484611aeba4990ca1c6f](ht
+tps://github.com/swkim01/waveshare-dtoverlays/tree/fb1fa273aa249c4a558c484611aeba4990ca1c6f)
+[waveshare-dtoverlays/oled-ssd1306.dts at fb1fa273aa249c4a558c484611aeba4990ca1c6f · swkim01/waveshare-dtoverlays · GitHub](https://github.com/swkim01/waveshare-dtoverlays/blob/fb1fa273aa249c4a558c484611aeba4990ca1c6f/oled-ssd1306.dts)
 # LUMA.OLED Lib Installation
 Follow the [instructions](https://luma-oled.readthedocs.io/en/latest/install.html).
 
@@ -647,3 +651,5 @@ You can easily modify:
 - **Save format**: Change from JPEG to PNG in `save_high_res_image()`
 
 Would you like me to explain any part of the code in more detail or add specific features?
+
+

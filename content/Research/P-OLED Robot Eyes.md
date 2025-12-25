@@ -10,6 +10,10 @@ draft: true
 ---
 
 For Oled Instructions refer to → [⁉️FAQ & SHORTCUT & HOWTO](https://www.notion.so/FAQ-SHORTCUT-HOWTO-8a0c0ddd2f8a426990c1e50b5cfd0d6c?pvs=21)
+
+Cython ultra fast video playing [30 FPS Video on SSD1106 OLED Display - Hackster.io](https://www.hackster.io/saadsaif0333/30-fps-video-on-ssd1106-oled-display-fe7b32)
+
+UI library - [GitHub - olikraus/u8g2: U8glib library for monochrome displays, version 2](https://github.com/olikraus/u8g2)
 # Connection
 ```shell
 ssh pi@raspberrypi.local
@@ -94,6 +98,7 @@ print(f"Board: {board_type}")
 ```
 
 # Eyes
+[Building a Tiny Desktop Toy Pet with Xiao ESP32‑S3 & JUSTWAY - Hackster.io](https://www.hackster.io/pradeeplogu0/building-a-tiny-desktop-toy-pet-with-xiao-esp32-s3-justway-518845)
 
 ![[beccfad12996e441c04fcd507a8439cf.jpg]]
 

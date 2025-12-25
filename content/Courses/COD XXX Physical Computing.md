@@ -146,6 +146,19 @@ In addition to the required readings specified in the weekly schedule, the follo
 7. **Interaction Design Prototype:** Create a working prototype of your projects learned in Interaction Design courses.
 8. **Tiny Screen Interface:** Create a tiny screen interface using OLED or LCD 16x2 displays giving feedback to user interaction with an imagery product. [Ref1](https://www.youtube.com/watch?v=HVHVkKt-ldc)
 
+### Project Template
+[Music Trainer Pad for Disabled Children - Hackster.io](https://www.hackster.io/alextoms/music-trainer-pad-for-disabled-children-4bdfd9)
+
+**1. Cover Image**
+**2. List of Hardware Components, Software Apps, Hand Tools**
+**3. Story**
+	- 🌍 The Challenge
+	- 💡 The Spark of an Idea
+	- 🛠️ Building the Prototype
+	- ✨ Innovation in Simplicity
+	- 👥 Who Benefits?
+	- 🎤 Final Note
+
 ## Assignments
 Weekly assignments will primarily involve hands-on exercises and small creative tasks designed to solidify the concepts introduced in lectures and readings. These assignments will progressively increase in complexity, starting with basic setup and component control and moving towards more integrated and interactive systems. Students will be encouraged to document their process and outcomes, fostering a habit of reflective practice. Some assignments may involve short written reflections or analyses of existing physical computing projects to encourage critical thinking and observation skills. The assignments will be adaptable to both Arduino and Raspberry Pi, allowing students to work with their chosen platform.
 
@@ -191,3 +204,4 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 - ⭐ How to use sensors, motors, and passive circuit elements via Arduino - [blog](https://deepbluembedded.com/arduino-button-debouncing/)
 - Arduino-based projects - [blog](http://www.learningaboutelectronics.com/Arduino/)
 - Touch Capacitive Sensor [MPR121 Capacitive Touch Sensor on Raspberry Pi](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
+- [Tutorials \| Creative Technology Lab Wiki](https://lab.arts.ac.uk/books/physical-computing/chapter/tutorials)

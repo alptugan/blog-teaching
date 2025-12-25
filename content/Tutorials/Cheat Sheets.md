@@ -407,6 +407,41 @@ cat /etc/os-release
 
 # Setup Wi-fi Connection 
 sudo nmtui
+
+# To check if your Raspberry Pi is running a 32-bit or 64-bit operating system, you can use; 
+getconf LONG_BIT # which will return either 32 or 64.
+
+# Alternatively, you can use `dpkg --print-architecture`
+dpkg --print-architecture # which will show "armhf" for 32-bit or "arm64" for 64-bit
+
+
+```
+
+### Samba Server
+```bash
+# Install samba server
+
+# 1. Define the /home/dietpi share in smb.conf
+sudo nano /etc/samba/smb.conf
+
+[DietPi_Home]
+    comment = DietPi Home Folder
+    path = /home/dietpi
+    browseable = yes
+    writable = yes
+    only guest = no
+    valid users = dietpi
+    force user = dietpi
+    create mask = 0775
+    directory mask = 0775
+
+# 2. Fix directory permissions 
+# This ensures the Samba service has the right to enter the home folder
+sudo chown -R dietpi:dietpi /home/dietpi
+sudo chmod 775 /home/dietpi
+
+# 3. Restart Samba to pick up the new share
+sudo systemctl restart smbd
 ```
 
 ## Docker Basics
