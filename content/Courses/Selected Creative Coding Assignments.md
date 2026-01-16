@@ -119,7 +119,7 @@ goto p5 gallery on railway
 
 
 ### Week 10
-### A
+#### A
 [week10\_assignment\_alperen\_karaman by alperek -p5.js Web Editor](https://editor.p5js.org/alperek/sketches/Jsf2kuUiF)
 [Baran.Ay.Week10 by baranay -p5.js Web Editor](https://editor.p5js.org/baranay/sketches/TkZoedbzC)
 [week10.cemre.toraman by cemre.toraman -p5.js Web Editor](https://editor.p5js.org/cemre.toraman/sketches/GCKCV1R3n)
@@ -672,6 +672,11 @@ Face tracking
 [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/T8sZYnX74) ⭐
 
 
+## COD 207 Final Projects (2025-2026 Fall)
+
+[A Section](https://drive.google.com/drive/folders/1vxe2zVl7L3WG4KihqQkA2eA0rOkprxX3)
+[B Section](https://drive.google.com/drive/folders/1Mgy7O1FQv51mHLBpMcren6OJ2Ft1YdAR)
+
 ## Survey Links
 There are 12 different artworks chosen from the ALAP database. Each survey includes a different algorithmic artwork. In a nutshell, you are expected to Each question has 18 different categories a
 >[!TIP]- Click to reveal links to survey questions
@@ -687,3 +692,5 @@ There are 12 different artworks chosen from the ALAP database. Each survey inclu
 > [ALAP 10](https://forms.gle/1etSjiQST6FGVM217)
 > [ALAP 11](https://forms.gle/1m6gaEj3cPqdXUfK8)
 > [ALAP 12](https://forms.gle/RgfNauJyPe5sKewM7)
+
+

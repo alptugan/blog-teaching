@@ -1,13 +1,12 @@
 ---
 title: Cloudflare - Domain Register
 date: 2024-05-26T03:00:00
-modification date: Sunday 26th May 2024 10:30:11
 description: Shows domain register on Cloudflare
 tags:
   - tutorial
   - cloudflare
   - ubuntu
-aliases: 
+aliases:
 draft: false
 ---
 

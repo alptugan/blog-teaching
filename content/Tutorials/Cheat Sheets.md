@@ -648,6 +648,9 @@ pandoc input.pdf -o output.docx
 # Covert image sequence to high-quality mp4 video
 ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
 
+# Mov to Mp4
+ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p day02-2.mp4
+
 # REDUCE File Size
 # Play around crf -> increase the value to reduce file size
 ffmpeg -i 'input.mp4' -vcodec libx264 -crf 30 'output.mp4'

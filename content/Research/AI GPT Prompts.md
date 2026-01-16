@@ -21,6 +21,7 @@ https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
 
 [GitHub - LouisShark/chatgpt\_system\_prompt: A collection of GPT system prompts and various prompt injection/leaking knowledge.](https://github.com/LouisShark/chatgpt_system_prompt/tree/main) Huge prompt for many contexts.
 
+[prompts.chat](https://prompts.chat/) Free and open source — self-host for your organization with complete privacy. 
 
 ## Improve & Expand
 **AURE (UK English)** 
@@ -230,4 +231,3 @@ A 4K ultra-realistic portrait of (reference), framed from the chest up (not full
 <div style="flex: 1;">Ultra-realistic studio portrait of him leaning gracefully on the backrest of a chair, dressed in a sleek dark outfit. Shot from a subtle low-angle to accentuate his facial features and confident expression. Cinematic black-and-white color grade with refined, natural skin tones. Solid black background with sharp 8K details, highlighting textures in her clothing, hair, and eyes for a dramatic, lifelike effect.
 </div>
 </div>
-

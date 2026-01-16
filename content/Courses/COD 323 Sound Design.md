@@ -68,6 +68,9 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 
+[Bfxr](http://www.bfxr.net/) - A generative audio synthesis tool to make make sound effects for computer games. 
+
+
 ## Inspiration
 - [Chiara Luzzana — Sound Designer](https://www.chiaraluzzana.com/)
 

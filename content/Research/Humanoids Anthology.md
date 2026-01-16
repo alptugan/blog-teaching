@@ -28,13 +28,21 @@ Neo is built by the company [1X](https://www.1x.tech/neo)
 ## IRON
 XPeng unveiled its next-generation “IRON” humanoid robot at its 2025 AI Day, calling it the most anthropomorphic robot to date. The company presented it as part of its shift toward becoming a “Physical AI” enterprise. CEO He Xiaopeng highlighted the robot’s lifelike movements, which reportedly made some observers question whether a human was inside. XPeng views the IRON robot as a crucial step toward integrating human-like design and behavior to collect real-world data, linking the robot’s intelligence to the broader XPeng ecosystem across vehicles and aerial systems.
 
-![](https://www.browngh.com/wp-content/uploads/2025/11/Xpeng-IRON-robot.jpg)
+![[humanoid-xpeng-iron.jpg|-center|500]]
 
 Release Date: 2025-11-11
 Video: [Watch : Xpeng Unzips Humanoid Robot To Prove It’s Not Human ? - YouTube](https://www.youtube.com/watch?v=jWmqCIzAtIE)
 Company: [Xpeng](https://www.xpeng.com/news/019a56f54fe99a2a0a8d8a0282e402b7)
 
 
+## H2
+Standing 182 cm tall and weighing around 70 kg, the H2 features a streamlined metallic frame built from aircraft-grade aluminum, titanium alloy and high-strength plastics. The latest video showcases combat skills of the humanoid robot (04.01.2026). Standing 182 cm tall and weighing around 70 kg, the H2 features a streamlined metallic frame built from aircraft-grade aluminum, titanium alloy and high-strength plastics.
+
+![[humanoid-h2.jpg|-center|500]]
+
+Release Date: 2025-11-22
+Video: [Unitree Humanoid Robot Daily Training 🥳 - YouTube](https://www.youtube.com/watch?v=JZllfrHRc4g)
+Company: [Unitree Robotics](https://www.unitree.com/H2)
 
 ## PHYBOT
 The details will be added later. 

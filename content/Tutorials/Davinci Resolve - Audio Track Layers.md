@@ -1,13 +1,12 @@
 ---
 title: Davinci Resolve - Audio Track Layers
 date: 2024-11-30
-modification date: Saturday 30th November 2024 20:28:14
-description: 
+description:
 tags:
   - DavinciResolve
   - sound
   - layer
-aliases: 
+aliases:
 draft: false
 ---
 	## 1. Layered Audio Editing

@@ -234,6 +234,7 @@ Guacamole
 [Typeframes](https://www.typeframes.com/tools) AI supported video creation via text....
 [pinokio AI](https://pinokio.computer/) AI operating system to install variety of AI tech easily. It automates the github installation process.
 
+[Label Studio](https://labelstud.io/) Data Labeling and model fine tuning
 ## AI Data Analysis tools
 [Microsoft Lida](https://microsoft.github.io/lida/)
 ## Apps

@@ -147,7 +147,7 @@ In addition to the required readings specified in the weekly schedule, the follo
 8. **Tiny Screen Interface:** Create a tiny screen interface using OLED or LCD 16x2 displays giving feedback to user interaction with an imagery product. [Ref1](https://www.youtube.com/watch?v=HVHVkKt-ldc)
 
 ### Project Template
-[Music Trainer Pad for Disabled Children - Hackster.io](https://www.hackster.io/alextoms/music-trainer-pad-for-disabled-children-4bdfd9)
+[Music Trainer Pad for Disabled Children](https://www.hackster.io/alextoms/music-trainer-pad-for-disabled-children-4bdfd9)
 
 **1. Cover Image**
 **2. List of Hardware Components, Software Apps, Hand Tools**

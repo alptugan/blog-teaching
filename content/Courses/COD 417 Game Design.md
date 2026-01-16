@@ -10,7 +10,11 @@ aliases:
 draft: false
 banner: "[[cover-game-design.png]]"
 ---
+## Todo
 Check the following [path](file:///Users/alptugan/Documents/Teaching/official%20papers/COURSE%20CDF/COD%20417%20-%20Game%20Design)
+- [ ] Unity kitaplarına göre izlenceyi hazırla
+- [ ] Unity ya da P5JS kullanacağını belirt
+- [ ] 
 ## Top 10 Most Popular Game Engines
 A game engine is tool equipped with various functionalities to make easy game development process. Since there are many different programming languages, game engines can be also tailored to specific programming language. For example Unreal Engine provides libraries for C++ and Unity provides C# programming language.
 
@@ -48,8 +52,24 @@ Unity tutorials for educators to start with beginner level.
 ![UNREAL ENGINE](https://theninehertz.com/wp-content/uploads/2022/08/UNREAL-ENGINE.png)The [Unreal Engine ](https://www.unrealengine.com/en-US)is a **powerful game engine** that is widely used for creating high-quality, visually impressive games. It is known for its advanced graphics capabilities, including realistic lighting, shaders, and visual effects. The engine is also well-suited for large, complex game projects and is a popular choice for AAA game development. However, it requires more powerful hardware and may not be the best fit for simpler or solo game projects.
 
 ## Game Dev Resources
+### Design Tools
+- [Texture Packer](https://www.codeandweb.com/texturepacker) Great spritesheet creation editor.
+- [Piskel](https://www.piskelapp.com) Design characters, animations, and tiles — right in your browser.
 The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#animation) of hyperlinks involves variety of tools that might be helpful for you during the game development process. There are lots of tools like image compression to tile editors, etc...
+- ⭐ [Pixelart](https://www.pixilart.com/) Collection of pixelart assets, pixel editor and animation tool.
+- [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - Create pixel avatars.
+- [Creature Mixer](https://kenney.itch.io/creature-mixer) - Create pixel animated creatures.
+- [Spaceship Mixer](https://kenney.itch.io/ship-mixer) - Create pixel spaceships.
 
+### Assets
+- [Kenney](https://kenney.nl/assets) Free game assets and starter kits as boilerplate. 
+- [itch.io](https://itch.io/game-assets/free/tag-sprites) Includes free of charge game assets.
+
+### Sound
+- Refer to [[COD 323 Sound Design#Sound Sample Library|Sound Sample Library]] section.
+
+### Marketplace
+- [itch.io](https://itch.io/) Download the latest indie games. A space for finding and sharing indie games online for free.
 
 ## Tutorials
 - Open world game from start to finish in Unity, [3D Survival Game Tutorial](https://www.youtube.com/watch?v=Nxg0vQk05os&list=PLtLToKUhgzwnk4U2eQYridNnObc2gqWo-&index=1)

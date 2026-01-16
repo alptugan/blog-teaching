@@ -214,8 +214,19 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 
 ## Electronics, Robotics & Prototype
+### Mechanics
 [Gear Generator](https://geargenerator.com) Generate gears and export them as vectors. 
 
 [Motiongen](https://motiongen.io/cite) generates mechanical and Kinematics structures.
 
+### Simulator
 [Circuit Simulator Applet](https://falstad.com/circuit/index.html) Interactive app that allows you to test your circuits before production. It has tutorials on basic electronic circuits to learn more about electronics.
+
+Wokwi Arduino simulator
+
+[SimulIDE](https://simulide.com/p/) General purpose circuit simulator including Arduino board
+
+Tinkercad
+
+### PCB Design
+[KiCad](https://www.kicad.org/) Schematic Capture & PCB Design Software

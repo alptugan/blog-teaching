@@ -14,7 +14,29 @@ For Oled Instructions refer to → [⁉️FAQ & SHORTCUT & HOWTO](https://www.no
 Cython ultra fast video playing [30 FPS Video on SSD1106 OLED Display - Hackster.io](https://www.hackster.io/saadsaif0333/30-fps-video-on-ssd1106-oled-display-fe7b32)
 
 UI library - [GitHub - olikraus/u8g2: U8glib library for monochrome displays, version 2](https://github.com/olikraus/u8g2)
-# Connection
+
+# Dasai Mochi v2
+- [\| Build your own Dasai Mochi robot \| \|cute, kind, angry, perfect......\| ESP32 C3\| #tech#robots#mochi - YouTube](https://www.youtube.com/watch?v=8js1jpKyz38)
+- [GitHub - huykhoong/gif2cpp: Gif2cpp is a simple tool based on image2cpp to change gif images into byte arrays (or arrays back into an images) for use with (monochrome) displays such as OLEDs on your Arduino or Raspberry Pi.](https://github.com/huykhoong/gif2cpp)
+- Full [build](https://www.youtube.com/watch?v=8goPUs0yEig)
+
+## Emotions
+For testing purposes it is grabbed from the [link](https://github.com/HARAJIT05/XERO).
+Step by step to design emojisi → [Make your own Dasai Mochi (with ESP32 and OLED display) - YouTube](https://www.youtube.com/watch?v=QOoszpg0BsM)
+
+## Sound 
+Check the [link](https://github.com/dzonder/mochi-server/blob/main/main.go) for create R2D2 like buzzer sounds. Get the prompt template and check how they sound.
+
+For the sound we don't need audio drive, etc... A piezo can be directly connected. Check your old Nokia phone speaker.
+
+## Tools
+- Convert gif files to frames, [link](https://convertandedit.com/split)
+- Convert each frame to cpp hex code, [link](https://javl.github.io/image2cpp/)
+- Lopaka, online designer with presets, [link](https://lopaka.app/projects)
+- Rive, online animation tool, [link](https://editor.rive.app/file/untitled/1951499)
+
+
+# Connection v1
 ```shell
 ssh pi@raspberrypi.local
 p: raspberry

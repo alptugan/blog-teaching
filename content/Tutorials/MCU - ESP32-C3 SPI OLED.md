@@ -9,7 +9,25 @@ tags:
 aliases:
 draft: false
 ---
-1.3 inch SH1106
+The seller marks the display as SSD1106. But, with a little research and some tests, I found that most 1.3 inch OLED screens are generally SH1106 mode.
+
+![[Excalidraw/esp32c3_SPI-OLED.excalidraw|90%|center]]
+
+```C
+/*-----------------------------------------------------------------------------
+- Initial code for ESP32-C3 module
+
+   MISO, GPI05 +------\_/------+ 5V
+   MOSI, GPIO6 +               + GND
+     SS, GPI07 +               + 3V3
+    SDA, GPIO8 +   ESP32-C3    + GPIO4, ADC1_4, SCK
+    SCL, GPI09 +               + GPIO3, ADC1_3
+        GPIO10 +               + GPIO2, ADC1_2
+   TXD, GPIO20 +               + GPIO1, ADC1_1
+   RXD, GPIO21 +---------------+ GPIO0, ADC1_0
+
+------------------------------------------------------------------------------*/
+```
 
 ```C
 #include <SPI.h>
@@ -18,11 +36,11 @@ draft: false
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
-#define OLED_MOSI     6 // SDA // Refer to GPIO pins no digital pins
 #define OLED_CLK      4 // SCLK
-#define OLED_DC       7
-#define OLED_CS       2
-#define OLED_RESET    10 // RES
+#define OLED_MOSI     3 // SDA // Refer to GPIO pins no digital pins
+#define OLED_RESET    2 // RES
+#define OLED_DC       1
+#define OLED_CS       0
 
 
 // Note the class name change to SH1106G

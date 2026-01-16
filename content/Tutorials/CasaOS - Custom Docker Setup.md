@@ -9,9 +9,9 @@ tags:
 aliases: 
 draft: false
 ---
-# Create Directory
-Goto Casa OS default AppData directory. 
-```bash
+
+# 1. Creat Folder
+```shell
 cd /DATA/AppData/
 
 # Create a folder for the custom docker compose file
@@ -23,7 +23,15 @@ cd rustdesk
 mkdir config
 
 cd config
+```
 
+
+# 2. Install Docker Image
+Generally there are two fundamental methods to up and run a docker image. **Method 1** showcases installation via `docker-compose.yml`, **Method 2** exemplifies `docker run ...` command.
+
+## Method 1: Custom docker-compose file
+Goto Casa OS default AppData directory. 
+```bash
 # Create the docker-compose.yml file
 nano docker-compose.yml
 
@@ -33,6 +41,18 @@ nano docker-compose.yml
 # Run docker inside the config folder
 
 docker compose up -d
+```
+
+## Method 2: Custom Installation Command
+```shell
+docker run -d \
+  --name deepstream \
+  -p 6020:6020 \
+  -p 8080:8080 \
+  -v /DATA/AppData/deepstream/config:/usr/src/app/config \
+  -v /DATA/AppData/deepstream/data:/usr/src/app/data \
+  --restart unless-stopped \
+  deepstreamio/deepstream.io:latest
 ```
 
 

@@ -33,4 +33,10 @@ Finally, since writing down or copy/paste the script every time is a tedious tas
 ffmpeg -i INPUT.mov -crf 10 -vf “scale=640:640, setpts=1.0*PTS” -c:a copy -tune grain OUTPUT.mov
 ```
 [source](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
->note, I change the input and output files names. I also adjust the CRF value to try to keep the bitrate around 4000–5000 kbits. Also the 1.0 in setpts= line is for speed change, if I want to make the movie faster I adjust this.
+>note, I change the input and output files names. I also adjust the CRF value to try to keep the bitrate around 4000–5000 kbits. Also the 1.0 in setpts= line is for speed change, if I want to make the movie <font color="#ff0000">faster</font>, <font color="#ffc000">decrease</font> the value.
+
+
+```shell
+# High quality MP4
+ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos, setpts=1.0*PTS" -c:a copy -tune grain day02-2.mp4
+```
