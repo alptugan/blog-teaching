@@ -10,7 +10,7 @@ tags:
 aliases:
 draft: false
 ---
-# Art-Design-Technology Series
+## Introduction
 A curated collection of documentaries and series exploring creativity, design, and innovation across various disciplines.
 
 > 💡 These documentaries offer valuable insights into the creative process across different fields. Consider watching at least one from each category to broaden your understanding of design thinking and artistic practice.
