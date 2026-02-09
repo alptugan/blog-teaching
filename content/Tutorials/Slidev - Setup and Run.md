@@ -14,6 +14,13 @@ draft: false
 3. `pnpm install`
 4. Follow instruction if there are any of them.
 5. `pnpm dev`
+
+
+> [!TIP] To view the content on windowless browser use `broz`
+> [antfu/broz:](https://github.com/antfu/broz) A simple, frameless browser for screenshots.
+> `npx broz alptugan.com`
+
+
 ## Setup & Install	
 Official [Slidev](https://sli.dev/guide/) suggests to use `pnpm` instead of `npm` for optimum performance and less headache during the updates.
 ### Slidev Project

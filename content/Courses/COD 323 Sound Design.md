@@ -68,11 +68,109 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 
-[Bfxr](http://www.bfxr.net/) - A generative audio synthesis tool to make make sound effects for computer games. 
+[Bfxr](http://www.bfxr.net/) - ⭐ A generative audio synthesis tool to make make sound effects for computer games. 
+
+Here are the most popular keywords for searching social media story sound effects, categorized by purpose:
+
+## Sound SFX Keywords
+### Transitions & Movement
+- Whoosh
+- Swipe
+- Transition
+- Glitch transition
+- Zoom in/out
+- Slide
+- Page turn
+- Flash
+- Snap
+- Swish
+
+### UI & Digital Sounds
+- Notification
+- Pop
+- Click
+- Tap
+- Typewriter
+- Keyboard typing
+- Mouse click
+- App notification
+- Message tone
+- Dial-up/tech
+
+### Emotional & Reaction
+- Wow
+- Drum roll
+- Suspense
+- Sad violin
+- Crickets (awkward silence)
+- Gasp
+- Laugh track
+- Record scratch
+- Vine boom (meme)
+- "Oh no" / "Oof"
+
+### Magic & Sparkle
+- Sparkle
+- Magic wand
+- Fairy dust
+- Twinkle
+- Shimmer
+- Chime
+- Bell
+- Harp flourish
+- Magical
+
+### Reveals & Highlights
+- Reveal
+- Unlock
+- Achievement unlocked
+- Ding
+- Success
+- Celebration
+- Confetti
+- Victory
+
+### Comedy & Meme
+- Cue laugh track
+- Sad trombone
+- Ba-dum-tss (rimshot)
+- Yikes
+- Suspense (dun-dun-dun)
+- Boing
+- Slide whistle
+- Cartoon run
+- Wilhelm scream
+
+### Countdown & Build-up
+- Countdown
+- Timer
+- Clock tick
+- Heartbeat
+- Rising tension
+- Build-up
+- Drop (music)
+- Suspenseful
+
+### Nature & Atmosphere
+- Birds chirping
+- Rain
+- Thunder
+- Ocean waves
+- Forest ambiance
+- Wind
+- Fire crackle
+
+### Text & Typing
+- Text message
+- Typing
+- Pencil writing
+- Pen scratch
+- Swoosh send
+- Whoosh (for text)
+
+**Most searched overall**: whoosh, pop, notification, transition, sparkle, drum roll, click
 
 
-## Inspiration
-- [Chiara Luzzana — Sound Designer](https://www.chiaraluzzana.com/)
 
 ## Recommended Readings
 - [Musical Instrument Classification](https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)

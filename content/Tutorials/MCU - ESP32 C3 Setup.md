@@ -12,6 +12,9 @@ ESP32 C3 is a microcontroller unit ([[MCU]]) similar to Arduino Uno. It is a tin
 
 ![[esp32c3_super-mini_pinout-1655657963.png|-center|500]]
 
+The following pin-out diagram is collected from the following [video](https://www.youtube.com/watch?v=IzLD6f8cDHs).
+
+![[ESP32 C3 Setup.jpg|-center|500]]
 
 **1. Instal ESP32 boards:** Open Arduino IDE and switch to boards section.
 

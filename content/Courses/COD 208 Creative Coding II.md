@@ -12,43 +12,10 @@ draft: false
 ## Notes
 1. Check the [[Selected Computational Thinking Analysis Papers]] for how you should or not prepare your analysis about the project.
 2. p5js [website](https://p5js.org/)
-3. p5JS [cheatsheet](https://lms.ozyegin.edu.tr/pluginfile.php/72529/mod_label/intro/cheat%20sheet%20p5js.pdf)
-4. Presentations [page](https://alptugan.github.io/Slidev_Presentations/index.html)
-5. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
-6. RandomSeed Webpage [selected projects](https://randomseed.cargo.site/)
-### Topics
-#### WebSockets + WebRTC + Arduino (Physical Computing)
-[Creative Code Syllabus at Devin University](https://github.com/devinekask/creative-code-4-s25/tree/main)
+3. Presentations [page](https://alptugan.github.io/Slidev_Presentations/index.html)
+4. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
 
-#### ML5 Related
-[Neural Network Model Training](https://github.com/shiffman/ml5-neural-network-example/tree/main)
-[Golan Levin Example Codes](https://github.com/golanlevin/exercises/tree/main/16_machine_learning)
-
-### AI & ML
-- **2026-Content Update**, [What is Augmented Reality](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:augmentedreality:start)
-- [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
-- [ml5.js Website](https://ml5js.org/)
-
-* [ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI #ml5 #Interface <br>[ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library. #ml5 #tutorial 
-* [ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection. #tutorial  
-* [Hand Tracking With Media Pipe](https://www.youtube.com/watch?v=vfNHdVbE-l4) #tutorial  
-* [Flappy Bird NUI](https://www.youtube.com/watch?v=0yUHgDmwr2E) Playing Flappy Birds via body gestures. #ml5 #game 
-* [Elemental Powers AR](https://www.youtube.com/watch?v=s-aEP-bH83Y) Displays abstracted imagery of earth elements like water, wind, fire, soil... #ml5 #Interface #game 
-* [Body Painting](https://www.youtube.com/watch?v=E_U_Ftip7z0) Creating generative art via yoga gestures. #ml5 #generativeart  
-* [Posenet Xylophone](https://www.youtube.com/watch?v=p7nqgo8Dy_M&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=2) Blocks produce notes when left or right hand occupies the same space on the screen. #ml5 #Interface #music 
-* [Volume up/down](https://www.youtube.com/watch?v=OQFv5lueUF0&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=5) Volume up or down a signal according to the user's ankle movement.
-* [Head Tracking Piano](https://www.youtube.com/watch?v=3w3P_MyUKCo&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=7) Switch the notes via angle of the nose, and play the notes by opening mouth. #ml5 #Interface #music 
-* [Body Pose Music](https://www.youtube.com/watch?v=lkClgzumWRk&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=8) Play and switch the notes according to the user's body control points. #ml5 #Interface #music 
-* ⭐️ [Space Oddity - Performance w/ Posenet](https://www.youtube.com/watch?v=AIt7x0MvnrA&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=11) This performance uses the Posenet library in ml5.js to project the face of David Bowie as an image which follows my face during the performance. The lips moved based on the volume of my singing by using the Amplitude() object in the p5.Sound library. The other visuals in the sketch are also made in p5.js.. #ml5 #Interface #audiovisual 
-
-* [Teachable Machine - Sound](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5&index=3&t=608s) Sound classifier to play snake game with different spoken words. #tutorial #ml5 
-* [Teachable Machine - Pose](https://youtu.be/FYgYyq-xqAw?si=nBGWar0w_5Wm5oCI&t=1361) YMCA song with body gestures. The tutorial might be outdated. Check the following [tutorial](https://www.youtube.com/watch?v=T99fNXTUUaQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5) #tutorial #ml5 #game 
-* [Teachable Machine - Image](https://www.youtube.com/watch?v=pbjR20eTLVs&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=4)How to train model based on different images. #tutorial 
-* [Painting with Body](https://www.youtube.com/watch?v=eN843IOaLxM) Creates symmetrical drawing via hand gestures. 
-* [Hand Pose - Emoji](https://www.youtube.com/watch?v=oTnjExkmPTU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM) Display an emoji according to prerecorded poses. #ml5 #Interface 
-* [Guitar Chord Extractor](https://www.youtube.com/watch?v=27n8HSidoC0) Displays chords according to user hand pose. #ml5 #music 
-* [ML5 Machine Learning In JS](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) The complete playlist of Daniel Schifman.<br>
-## week 1
+## week 1 - Recall Your Coding Knowledge
 [week 01 Presentation](https://alptugan.github.io/Slidev_Presentations/week01_cod_208/dist)
 - 👀 Keep your eyes open. Choose a thing. Let's say your favorite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus. Review the example [tutorial](https://openprocessing.org/sketch/1879055). On the last page of the tutorial, you will see that whenever you run the code, it generates different facial expressions.  
 - As we did in the previous semester, break it apart using CT principles. Redraw it using p5JS.  
@@ -65,7 +32,7 @@ draft: false
 ### Selected Assignments B
 [Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/WClgazXPt), [Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/zxnioc4Ps), [Azra Sadıkoğlu](https://editor.p5js.org/azrasadikoglu/sketches/5D18hhWKb), [Bahar Kızılkaya](https://openprocessing.org/sketch/2536989), [Boray Ünlü](https://openprocessing.org/sketch/2538167), [Duru Seyhan](https://openprocessing.org/sketch/2538147), [Duygu Aksöz](https://openprocessing.org/sketch/2538625), [İrem Apaydın](https://openprocessing.org/sketch/2538871), [Kerem Alp](https://openprocessing.org/sketch/2539084), [Kerme Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/PuyJ--loG), [Zeynep Erol](https://openprocessing.org/sketch/2538652)
 
-## week 2
+## week 2 - Object Oriented Programming
 [week 02 Presentation](https://alptugan.github.io/Slidev_Presentations/week02_cod_208/dist)
 
 #### 2025-2026
@@ -83,11 +50,13 @@ draft: false
 - ❗Submit the openprocessing link.
 - ❗Submit the sketch source code as zip file as well.
 
-### Selected Assignments A
-
 ### Selected Assignments B
 [Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/igAewG5F4), [Azra Sadıkoğlu](https://openprocessing.org/sketch/2543596), [Boray Ünlü](https://openprocessing.org/sketch/2546214), [Duru Seyhan](https://openprocessing.org/sketch/2542961), [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/Th9bVyaHn), [Kerem Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/5OgDrQQGQ), [Zeynep Erol](https://openprocessing.org/sketch/2546480)
-## week 3
+
+
+## week 3 - Control Multiple Instances
+- Refer to [[COD 417 Game Design#Game Library | Game Library Section]].
+
 #### 2025-2026
 - Utilize Arrays to dynamically control multiple objects.
 - Distribute objects on the canvas.
@@ -103,11 +72,12 @@ draft: false
 - Export UI elements as PNG files.
 - 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
-## week 4
+## week 4 - Game Design
 #### 2025-2026
 Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
 Making a software visual guide, [link](https://www.makingsoftware.co/)
 Feedback for the games
+
 **Assignment**
 Dear all,  
 Let me clarify one thing. Those who do not attend classes submit irrelevant assignments. It does not mean that if your code is running, you will get high grades. This is a friendly reminder for you. Please read the LMS submissions carefully or ask your friends in the class before submission. For this game project, I won't decrease anyone's grade. But for the upcoming projects, if I receive irrelevant assignments, do not shock when you see your grades 🤷‍♂️. You're warned!
@@ -312,7 +282,6 @@ Reference: [Daniel Schiffman](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tre
 # Final Project Instructions
 ✍️ If you think that your project is ready, fill out the submission form also. Click the link to download [Project Template](COD208-Project%20Template.docx)
 
-
 ## Final Project Grading Policy
 
 As it is declared in the course syllabus, your final project has 30% weight on your final grade. You will be graded according to the following criteria;
@@ -342,4 +311,37 @@ If you need a topic or theme, you can utilize one of the following concepts;
 11. Generative Art (Image Processing) → [1](https://youtu.be/wCpvdvmlqVs?si=lPtpk6QzQyz20Kjf)
 12. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
 13. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
-   
+
+
+# Resources
+#### WebSockets + WebRTC + Arduino (Physical Computing)
+[Creative Code Syllabus at Devin University](https://github.com/devinekask/creative-code-4-s25/tree/main)
+
+#### ML5 Related
+[Neural Network Model Training](https://github.com/shiffman/ml5-neural-network-example/tree/main)
+[Golan Levin Example Codes](https://github.com/golanlevin/exercises/tree/main/16_machine_learning)
+
+### AI & ML
+- **2026-Content Update**, [What is Augmented Reality](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:augmentedreality:start)
+- [Introduction](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/01-introduction)
+- [ml5.js Website](https://ml5js.org/)
+
+* [ML Guitar Effect Control](https://www.youtube.com/watch?v=2HVP5dewl_8) Modify the guitar effect pedal  parameters via ML5  faceAPI #ml5 #Interface <br>[ML5 Face Api - Mask](https://www.youtube.com/watch?v=R5UZsIwPbJA) Create a mask illustration. Make it detect by the library. #ml5 #tutorial 
+* [ML5 Hand Pose Detection](https://www.youtube.com/watch?v=vfNHdVbE-l4&t=170s) Hand and finger tip detection. #tutorial  
+* [Hand Tracking With Media Pipe](https://www.youtube.com/watch?v=vfNHdVbE-l4) #tutorial  
+* [Flappy Bird NUI](https://www.youtube.com/watch?v=0yUHgDmwr2E) Playing Flappy Birds via body gestures. #ml5 #game 
+* [Elemental Powers AR](https://www.youtube.com/watch?v=s-aEP-bH83Y) Displays abstracted imagery of earth elements like water, wind, fire, soil... #ml5 #Interface #game 
+* [Body Painting](https://www.youtube.com/watch?v=E_U_Ftip7z0) Creating generative art via yoga gestures. #ml5 #generativeart  
+* [Posenet Xylophone](https://www.youtube.com/watch?v=p7nqgo8Dy_M&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=2) Blocks produce notes when left or right hand occupies the same space on the screen. #ml5 #Interface #music 
+* [Volume up/down](https://www.youtube.com/watch?v=OQFv5lueUF0&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=5) Volume up or down a signal according to the user's ankle movement.
+* [Head Tracking Piano](https://www.youtube.com/watch?v=3w3P_MyUKCo&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=7) Switch the notes via angle of the nose, and play the notes by opening mouth. #ml5 #Interface #music 
+* [Body Pose Music](https://www.youtube.com/watch?v=lkClgzumWRk&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=8) Play and switch the notes according to the user's body control points. #ml5 #Interface #music 
+* ⭐️ [Space Oddity - Performance w/ Posenet](https://www.youtube.com/watch?v=AIt7x0MvnrA&list=PLIsdHp2z9wFnH_ilTwCUl6wB5ylczTWIp&index=11) This performance uses the Posenet library in ml5.js to project the face of David Bowie as an image which follows my face during the performance. The lips moved based on the volume of my singing by using the Amplitude() object in the p5.Sound library. The other visuals in the sketch are also made in p5.js.. #ml5 #Interface #audiovisual 
+
+* [Teachable Machine - Sound](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5&index=3&t=608s) Sound classifier to play snake game with different spoken words. #tutorial #ml5 
+* [Teachable Machine - Pose](https://youtu.be/FYgYyq-xqAw?si=nBGWar0w_5Wm5oCI&t=1361) YMCA song with body gestures. The tutorial might be outdated. Check the following [tutorial](https://www.youtube.com/watch?v=T99fNXTUUaQ&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=5) #tutorial #ml5 #game 
+* [Teachable Machine - Image](https://www.youtube.com/watch?v=pbjR20eTLVs&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=4)How to train model based on different images. #tutorial 
+* [Painting with Body](https://www.youtube.com/watch?v=eN843IOaLxM) Creates symmetrical drawing via hand gestures. 
+* [Hand Pose - Emoji](https://www.youtube.com/watch?v=oTnjExkmPTU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM) Display an emoji according to prerecorded poses. #ml5 #Interface 
+* [Guitar Chord Extractor](https://www.youtube.com/watch?v=27n8HSidoC0) Displays chords according to user hand pose. #ml5 #music 
+* [ML5 Machine Learning In JS](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y) The complete playlist of Daniel Shiffman.

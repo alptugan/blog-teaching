@@ -587,8 +587,11 @@ brew services restart --verbose mysql
 ```
 
 ## Pandoc
+
+
 A `pandoc` script handles the image captions used in markdown. Note to myself the original script is in my `scripts` directory 😉
- ```shell
+
+```shell
 #!/bin/bash
 
 # Check if input and output filenames are provided
@@ -632,7 +635,6 @@ RESOURCE_PATH="./:/Users/alptugan/Documents/Obsidian/Assets/PHD:/Users/alptugan/
 pandoc "$INPUT_FILE" -o "$OUTPUT_FILE" --resource-path="$RESOURCE_PATH" && echo "Step 6: Converted Markdown to DOCX successfully."
 
 echo "Done! Output saved as '$OUTPUT_FILE'."
-
 ```
 
 ### PDF to .docx
@@ -641,7 +643,6 @@ echo "Done! Output saved as '$OUTPUT_FILE'."
 pandoc input.pdf -o output.docx
 ```
 
-
 ## FFmpeg
 ### Video Conversion
 ```shell
@@ -649,11 +650,15 @@ pandoc input.pdf -o output.docx
 ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
 
 # Mov to Mp4
-ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p day02-2.mp4
+ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -threads 6 day02-2.mp4
+
+# Move to MP4 with low CPU usage
+ffmpeg -i day27-organic.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos, setpts=0.5*PTS" -c:a copy -threads 6 -tune grain day27-organic.mp4
+
 
 # REDUCE File Size
 # Play around crf -> increase the value to reduce file size
-ffmpeg -i 'input.mp4' -vcodec libx264 -crf 30 'output.mp4'
+ffmpeg -i 'input.mp4' -vcodec libx264 -preset veryslow -crf 30 -threads 6 'output.mp4'
 
 # %07d -> filename includes 7 digits...
 # -preset veryslow -> takes more time but better quality
@@ -735,6 +740,9 @@ Auto run Items → RunAtLoad to false
 `/Library/LaunchDaemons/`
 `/Library/PrivilegedHelperTools/`
 
+Right-click Context Menu Actions
+`/Users/alptugan/Library/Services/Convert PNG Sequence to Video.workflow`
+
 $PATH variable
 `/private/etc/paths.d`
 
@@ -758,4 +766,3 @@ sudo spctl --master-enable
 # Status: 
 spctl --status
 ```
-

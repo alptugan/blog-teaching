@@ -63,10 +63,12 @@ date: 2025-03-19T12:00:00
 [Uiverse.io](https://uiverse.io/cards?page=5) The Largest Library of Open-Source UI elements
 [cuicui](https://cuicui.day/) Copy/paste React component library.
 [Fancy Components](https://www.fancycomponents.dev/) library of ready-to-use react components & microinteractions. free & open source.
-[Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com/?themes%5BrefinementList%5D%5Bcategories.ssg%5D%5B0%5D=html&themes%5BrefinementList%5D%5Bdistribution%5D%5B0%5D=free)The world's largest marketplace of themes, templates and UI kits for the modern stack.
+⭐ [Built At Lightspeed - 4000+ Themes, Templates & UI Kits](https://www.builtatlightspeed.com)The world's largest marketplace of themes, templates and UI kits for the modern stack. Ready-made SSG templates like Jekyll.
+[FreeFrontend](https://freefrontend.com/) Free front-end html components.
 
 ## JS Libraries
 [Anime.js](https://animejs.com/) JavaScript Animation Engine
+[Barba.js](https://barba.js.org/docs/getstarted/basic-transition/) Page transition without refresh.
 [AOS](https://michalsnik.github.io/aos/) Animate on scroll
 [Isotope](https://isotope.metafizzy.co/layout) Responsive Grid layout 
 [Swiper Gallery](https://swiperjs.com/) Touch enabled slideshow

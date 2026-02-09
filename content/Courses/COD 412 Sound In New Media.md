@@ -36,10 +36,25 @@ This section includes selected articles from sound literature and research to pr
 
 ## Apps & Tools
 - [img-encode](https://github.com/alexadam/img-encode) Convert images into sound spectrograms.
+- TwoTone.io → Sonification tool for textual data and numbers.
+- [Resemble AI - Custom AI Generated Voices](https://app.resemble.ai/hub/sts)
+- [Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.
+- [Voice Changer - Online & Free](https://voicechanger.io/)
+- [node.music](https://nodemusic.cc/) Interactive Electroacoustic history timeline.
 
 ## Weekly Resources
 ### Week 1 
-Example projects:<br>[Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.
+Opening: [Angine de Poitrine - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=0Ssi-9wS1so)
+
+Course Structure
+
+Food for inspiration
+
+BREAK
+
+Discussion
+
+Assignments
 
 ### Week 2
 ![[cardboard-synth.png|300]]

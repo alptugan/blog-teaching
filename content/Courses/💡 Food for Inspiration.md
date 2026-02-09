@@ -187,6 +187,15 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ---
 
 ## 📺 Video Archive
+## Must Seen Design-Related Movies
+- [Helvetica](https://www.youtube.com/watch?v=X80kSDxF4rg) "Helvetica" is a feature-length independent film about typography, graphic design and global visual culture. It looks at the proliferation of one typeface as part of a larger conversation about the way type affects our lives. The film is an exploration of urban spaces in major cities and the type that inhabits them, and a fluid discussion with renowned designers about their work, the creative process, and the choices and aesthetics behind their use of type.
+- [Abstract: The Art of Design](https://www.youtube.com/watch?v=LCfBYE97rFk) Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.
+- [PressPausePlay](https://www.youtube.com/watch?v=MterbpYTyjM) How to be an artist, creator, musician, designer in the age of tech era. Full version [video](https://www.youtube.com/watch?v=53rt6C_HDxE).
+- 
+
+
+
+## Algorithmic Art & Creative Coding
 [What is Digital Art?](https://www.youtube.com/watch?v=2RWop0Gln24&t=106s)
 
 [Chronological playlist of CGI History](https://www.youtube.com/playlist?list=PLLkEG1hv_KwIbvt7DdD4t0QdbMbPsyTbt) Chronological playlist of innovative 230 CGI Videos from this channel -excerpts from movies , shorts , animations...
@@ -329,7 +338,6 @@ Frieder Nake, #interview #history About Generative art
 [Water Distortion Effect](https://codepen.io/ksenia-k/pen/RwXVMMY)
 [WebGL Experiment: interactive noisy ring](https://codepen.io/ksenia-k/pen/zYyqRWE)
 [Mouse Following Spring Motion](https://codepen.io/ksenia-k/pen/rNoBgbV)
-
 [Photo tile](https://codepen.io/ksenia-k/pen/rNEXXqN)
 
 ### Post FX
@@ -403,16 +411,16 @@ Central to my practice is consideration of my audience, and I find no greater jo
 [RPI Timelapse Controller](https://github.com/Daandelange/rpi-timelapse-controller) Bash script for capturing time lapses using gphoto2, lsusb and wiringPi to control a light trough GPIO.
 
 ---
-# 🎧 Music 
+## 🎧 Music 
 [Music For Programming](https://musicforprogramming.net/) Set of curated playlists may help you to focus during creative coding assignments.
 
-# 🖌️ Design
+## 🖌️ Design
 [Gutenberg — A Meaningful Web Typography Starter Kit](https://matejlatin.github.io/Gutenberg/)
 [UNCUT.wtf](https://uncut.wtf/) Free fonts, alternative to Google Fonts, DaFont, etc...
 [Free Faces](https://www.freefaces.gallery/) Similar to the UNCUT.wtf...
 [Fontshare: Quality Fonts. Free.](https://fontshare.com/) Better UX for font discovery. You can preview the text with selected font in real-time.
 
-# ✳️ Inspiration
+## ✳️ Inspiration
 [Cache Overflow](https://cacheflowe.com/inspiration) A plethora of inspirational physical computing projects
 [Untitled List](https://untitled.cwandt.com/) Another list of projects for physical computing
 [Imogen Heap](https://www.youtube.com/watch?v=6btFObRRD9k) Wearable music technologies

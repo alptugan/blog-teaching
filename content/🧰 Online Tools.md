@@ -115,7 +115,7 @@ framer.com - website builder
 
 ### Illustration 
 Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
-###  Mockups
+### Mockups
 [Mockuply](https://mockuply.pro/) Paid mockups. Can be used as inspiration.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
 [Mockup Creator](https://postspark.app/device-mockup) Takes screenshot and apply mockup for social media, code block, browser window, etc...
@@ -127,6 +127,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
 - [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
 - [Free SVG Illustrations](https://undraw.co/illustrations/3)
+
 ### Fonts
 [Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
 [UNCUT.wtf](https://uncut.wtf/) Free stylish modern fonts.
@@ -135,6 +136,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
 
 [Huge List of Unicode Character Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
+
 ### Apps
 [Photopea](https://www.photopea.com/) Online Photo Editor similar to Photoshop.
 [Graphite](https://graphite.rs/) Free online vector editor & procedural design tool. Similar to Photopea
@@ -164,6 +166,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [Lorem Picsum](https://picsum.photos/) The Lorem Ipsum for photos.
 [Pexels](https://www.pexels.com/discover/) The best free stock photos, royalty free images & videos shared by creators.
 
+
 ## Video 
 [YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.
 
@@ -173,7 +176,10 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 [Filmot](https://filmot.com/) → Search in Youtube captions and subtitles
 
+
 ## Misc
+[VERT.sh](https://vert.sh/) Free, fast, and awesome file converter. Convert anything to anything.
+
 [Türkiye'nin Antik Kentleri](https://ancientcitiesturkey.com/hakkinda) Showing locations of antique cities in Türkiye.
 
 [A Good Movie To Watch](https://agoodmovietowatch.com/) What To Watch On Streaming Platforms. It suggests movies.
@@ -202,6 +208,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [Free Visa Alerts \| Real-Time Updates \| VisasBot.com](https://visasbot.com)
 
 [Playback.fm](https://playback.fm/) Shows what happened on your birthday.
+
 
 ## Writing & Reading
 [TinyWow](https://tinywow.com/) Free AI Writing, PDF, Image, and other Online Tools.

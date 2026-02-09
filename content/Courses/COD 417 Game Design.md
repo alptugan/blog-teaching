@@ -15,7 +15,7 @@ Check the following [path](file:///Users/alptugan/Documents/Teaching/official%20
 - [ ] Unity kitaplarına göre izlenceyi hazırla
 - [ ] Unity ya da P5JS kullanacağını belirt
 - [ ] 
-## Top 10 Most Popular Game Engines
+# Game Engines
 A game engine is tool equipped with various functionalities to make easy game development process. Since there are many different programming languages, game engines can be also tailored to specific programming language. For example Unreal Engine provides libraries for C++ and Unity provides C# programming language.
 
 Sometimes game engines provide their own unique programming language built on a different low level programming language to utilize its performance and to increase development speed and stability for the programmer.
@@ -51,8 +51,12 @@ Unity tutorials for educators to start with beginner level.
 ## Unreal Engine
 ![UNREAL ENGINE](https://theninehertz.com/wp-content/uploads/2022/08/UNREAL-ENGINE.png)The [Unreal Engine ](https://www.unrealengine.com/en-US)is a **powerful game engine** that is widely used for creating high-quality, visually impressive games. It is known for its advanced graphics capabilities, including realistic lighting, shaders, and visual effects. The engine is also well-suited for large, complex game projects and is a popular choice for AAA game development. However, it requires more powerful hardware and may not be the best fit for simpler or solo game projects.
 
-## Game Dev Resources
-### Design Tools
+## Pico8
+Arcade style mini games with pixel art concept. Relatively easy to begin. It offers educational license for students and educators. The IDE includes, sound, sprite design, and programming. Pico8 is an all-in-one solution for game developers.
+[Pico8 Tutorials](https://www.youtube.com/playlist?list=PLavIQQGm3RCmPt93jcg4LEQTvoZRFf9l0)
+
+# Game Dev Resources
+## Design Tools
 - [Texture Packer](https://www.codeandweb.com/texturepacker) Great spritesheet creation editor.
 - [Piskel](https://www.piskelapp.com) Design characters, animations, and tiles — right in your browser.
 The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#animation) of hyperlinks involves variety of tools that might be helpful for you during the game development process. There are lots of tools like image compression to tile editors, etc...
@@ -61,14 +65,14 @@ The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#
 - [Creature Mixer](https://kenney.itch.io/creature-mixer) - Create pixel animated creatures.
 - [Spaceship Mixer](https://kenney.itch.io/ship-mixer) - Create pixel spaceships.
 
-### Assets
+## Assets
 - [Kenney](https://kenney.nl/assets) Free game assets and starter kits as boilerplate. 
 - [itch.io](https://itch.io/game-assets/free/tag-sprites) Includes free of charge game assets.
 
-### Sound
+## Sound
 - Refer to [[COD 323 Sound Design#Sound Sample Library|Sound Sample Library]] section.
 
-### Marketplace
+## Marketplace
 - [itch.io](https://itch.io/) Download the latest indie games. A space for finding and sharing indie games online for free.
 
 ## Tutorials
@@ -82,3 +86,9 @@ The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#
 - [Doodle Jump Nasıl Yapılır? (Unity) - YouTube](https://www.youtube.com/watch?v=GTH7SFvqyq8&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=106)
 - [Make a FIRST PERSON SHOOTER in UNITY - 3 HOUR COURSE - Unity FPS Game - YouTube](https://www.youtube.com/watch?v=Jk85v08gmtc&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=104&t=102s)
 - [How to make Fruit Ninja in Unity (Complete Tutorial) 🍉🔪 - YouTube](https://www.youtube.com/watch?v=xTT1Ae_ifhM&list=PLI5KGtDrj4HVInyXdx5N2oYUAb9U7rJ4L&index=101)
+
+# Game Library
+## Farming Game
+- [Umut Tarlaları](https://www.youtube.com/watch?v=cxUSJBByUB8)  (1993), The first Turkish Farm Management Game Amiga by Siliconworx.
+- [Hyclics](https://www.instagram.com/reels/DTbMmecErdt/) (2015), Hylics is a surrealistic stop-motion style JRPG game created by Mason Lindroth. It boasts unique claymation graphics, RPG battles, and "overuse of random text generation", spread across 2+ hours of content. It's praised for its abstract, uncanny art style, as well as its alien atmosphere. Watch the retrospective [video](https://www.youtube.com/watch?v=BQEwevEJofY) on Youtube.
+- 

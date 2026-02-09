@@ -34,5 +34,8 @@ draft: true
 - [How to install StreamDiffusionTD to M1 mac. Realtime Stable Diffusion](https://www.youtube.com/watch?v=eQ4e_l5OFzo)
 
 
+## Github Repos
+- [GitHub - cacheflowe/haxlib: A personal TD toolkit](https://github.com/cacheflowe/haxlib)
+
 ## Touchdesigner Components
 [GitHub - hku-ect/TouchDesignerComponents: This is a collection of commonly used TouchDesigner components](https://github.com/hku-ect/TouchDesignerComponents)
