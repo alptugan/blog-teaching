@@ -87,25 +87,5 @@ If you prefer the **Next.js Notion Starter Kit** (another very popular option by
 ## Notion related
 - [Notion – Integration](https://www.notion.so/profile/integrations) ()
 
-YOUR_NOTION_API_TOKEN
-
-
-307d85a265e8809b8476c9d97f694594
-
-My-Nobelium-Blog-307d85a265e880ec8b0feabebc35524d
-
-307d85a2-65e8-80b3-86cb-000b805b5f30
-
-
-curl -X POST https://api.notion.com/v1/307d85a265e8809b8476c9d97f694594/query \
-  -H "Authorization: Bearer YOUR_NOTION_API_TOKEN" \
-  -H "Notion-Version: 2022-06-28" \
-  -H "Content-Type: application/json"
-
-
-curl -X POST https://api.notion.com/v1/databases/307d85a265e8809b8476c9d97f694594/query \
-  -H "Authorization: Bearer YOUR_NOTION_API_TOKEN" \
-  -H "Notion-Version: 2022-06-28" \
-  -H "Content-Type: application/json"
 
 
