@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠 Teaching",
+    pageTitle: "● Teaching",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -17,15 +17,15 @@ const config: QuartzConfig = {
     locale: "en-US",
     //baseUrl: "alptugan.github.io/blog-teaching",
     baseUrl: "teaching.alptugan.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/.space/**"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Space Grotesk",
+        body: "Space Grotesk",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -40,16 +40,17 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+        // ...existing code...
         darkMode: {
-          light: "#1a1a1e",          // Slightly lighter background for better contrast
-          lightgray: "#2e2e32",      // Subtle gray for borders or secondary elements
-          gray: "#5a5a5f",           // Neutral gray for text or icons
-          darkgray: "#c9c9c9",       // Light gray for secondary text or accents
-          dark: "#f0f0f0",           // Brightest color for primary text
-          secondary: "#6a8ea8",      // Muted blue for secondary elements
-          tertiary: "#7d9a8f",       // Muted green for tertiary elements
-          highlight: "rgba(100, 115, 125, 0.2)", // Subtle highlight for selected items
-          textHighlight: "#d4c80088", // Brighter yellow for highlighted text
+          light: "#1a1a14",          // Dark warm background with slight yellow tint
+          lightgray: "#2e2e1e",      // Warm dark gray for borders
+          gray: "#5a5a3a",           // Muted olive gray for icons/secondary elements
+          darkgray: "#c1c1bb",       // Warm light gray for secondary text
+          dark: "#f5f0d0",           // Warm white for primary text
+          secondary: "#ffcc00",      // Golden yellow — primary accent
+          tertiary: "#cc9900",       // Deeper gold for hover/tertiary elements
+          highlight: "rgba(255, 204, 0, 0.12)", // Subtle golden highlight
+          textHighlight: "#ffcc0055", // Transparent golden text highlight
         },
       },
     },

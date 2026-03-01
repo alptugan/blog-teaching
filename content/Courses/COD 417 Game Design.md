@@ -10,11 +10,6 @@ aliases:
 draft: false
 banner: "[[cover-game-design.png]]"
 ---
-## Todo
-Check the following [path](file:///Users/alptugan/Documents/Teaching/official%20papers/COURSE%20CDF/COD%20417%20-%20Game%20Design)
-- [ ] Unity kitaplarına göre izlenceyi hazırla
-- [ ] Unity ya da P5JS kullanacağını belirt
-- [ ] 
 # Game Engines
 A game engine is tool equipped with various functionalities to make easy game development process. Since there are many different programming languages, game engines can be also tailored to specific programming language. For example Unreal Engine provides libraries for C++ and Unity provides C# programming language.
 
@@ -102,4 +97,10 @@ The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#
 ## Farming Game
 - [Umut Tarlaları](https://www.youtube.com/watch?v=cxUSJBByUB8)  (1993), The first Turkish Farm Management Game Amiga by Siliconworx.
 - [Hyclics](https://www.instagram.com/reels/DTbMmecErdt/) (2015), Hylics is a surrealistic stop-motion style JRPG game created by Mason Lindroth. It boasts unique claymation graphics, RPG battles, and "overuse of random text generation", spread across 2+ hours of content. It's praised for its abstract, uncanny art style, as well as its alien atmosphere. Watch the retrospective [video](https://www.youtube.com/watch?v=BQEwevEJofY) on Youtube.
-- 
+
+
+
+
+[Follow the source book for the weekly course content.:]: Book 
+
+[Documentation:]: `file:///Users/alptugan/Documents/Teaching/official%20papers/COURSE%20CDF/COD%20417%20-%20Game%20Designè

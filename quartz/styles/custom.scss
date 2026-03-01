@@ -1,6 +1,27 @@
 @use "./base.scss";
 @use "./MCL Multi Column.css" as MCL;
 
+// Fluid base font size and line-height — scale with viewport width
+// font-size: min 16px → max 20px | line-height: 1.5 → 1.75
+html,p {
+  line-height: clamp(1.5em, 1.6vw, 1.75em) !important;
+}
+
+.center {
+  font-size: clamp(16px, 1.5vw, 20px);
+}
+
+.breadcrumb-container {
+	font-size: 14px;
+	color: var(--dark);
+  	opacity: .35;
+}
+
+.content-meta {
+	font-size: 14px;
+	opacity: .35;
+}
+
 .folder-title, li a {
 
 	font-weight: 400!important;
@@ -16,6 +37,8 @@ li {
   height: 280px;
   object-fit: cover;
   object-position: center center;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* width */
