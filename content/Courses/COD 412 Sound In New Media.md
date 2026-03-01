@@ -41,6 +41,7 @@ This section includes selected articles from sound literature and research to pr
 - [Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.
 - [Voice Changer - Online & Free](https://voicechanger.io/)
 - [node.music](https://nodemusic.cc/) Interactive Electroacoustic history timeline.
+- Also check [[COD 323 Sound Design#VST & Virtual Instruments |VST & Virtual Instruments]] on COD 323 Sound Design page. 
 
 ## Weekly Resources
 ### Week 1 
@@ -57,6 +58,8 @@ Discussion
 Assignments
 
 ### Week 2
+📢 [Sound Of The Year Awards](https://soundoftheyearawards.com/)
+
 ![[cardboard-synth.png|300]]
 Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsynth/index.html). You can connect your MIDI device and control the online synth.
 

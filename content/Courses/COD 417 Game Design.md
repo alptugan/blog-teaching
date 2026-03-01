@@ -1,12 +1,12 @@
 ---
-title: COD - Game Design
+title: COD 417 Game Design
 date: 2025-05-08 01:01:40
-description: 
+description:
 tags:
   - game
   - gameEngine
   - COD
-aliases: 
+aliases:
 draft: false
 banner: "[[cover-game-design.png]]"
 ---
@@ -56,6 +56,17 @@ Arcade style mini games with pixel art concept. Relatively easy to begin. It off
 [Pico8 Tutorials](https://www.youtube.com/playlist?list=PLavIQQGm3RCmPt93jcg4LEQTvoZRFf9l0)
 
 # Game Dev Resources
+## Books
+- [GitHub - JuanOlaya/Game-Development-P5js: Book: Game Development with p5.js](https://github.com/JuanOlaya/Game-Development-P5js?tab=readme-ov-file)
+- [Several Books](https://github.com/JuanOlaya/OOP) Scroll down on the page to review books.
+- [Amazon - The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
+- [Rules of Play](https://mitpress.mit.edu/9780262240451/rules-of-play/)
+- [Amazon - The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.es/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
+- [Amazon - Agile Game Development with SCRUM (Addison-Wesley Signature) (Addison Wesley Signature Series)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8)
+- [Amazon - Game Design: Theory and Practice (2nd Edition)](https://www.amazon.com/Game-Design-Practice-Wordware-Developers/dp/1556229127/ref=sr_1_1?ie=UTF8)
+- Paper: [Software Engineering Challenges in Game Development](https://ieeexplore.ieee.org/abstract/document/5070627)
+- Paper: [View of An Overview of Computational Thinking](https://ijcses.org/index.php/ijcses/article/view/53/55)
+- 
 ## Design Tools
 - [Texture Packer](https://www.codeandweb.com/texturepacker) Great spritesheet creation editor.
 - [Piskel](https://www.piskelapp.com) Design characters, animations, and tiles — right in your browser.

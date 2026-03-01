@@ -52,10 +52,6 @@ While the hi-fi soundscape is—Acoustic Ecologists suggest—balanced in terms 
 Since the sound level and cycles of the sonic entities are in harmony, hi-fi soundscape maintains an identifiable experience for the listener. However, the lo-fi environments the identities cannot be separated from each easily because of the non-harmonious traits of sonic entities. Schafer says that lo-fi soundscapes creates a “Sound Wall” that isolates the individual from the environment.
 
 
-
-
-
-
 ## References
 Wrightson, Kendall. 2000. “An Introduction to Acoustic Ecology.” _Soundscape: The Journal of Acoustic Ecology_ 1(1):10–13.
 

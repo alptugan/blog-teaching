@@ -149,20 +149,9 @@ _Focus: Interaction, Documentation, Publishing._
 
 ---
 
-## Assessment Rubric (Total 100%)
-- **Visual System (25%):** Quality of typography, color usage, and graphical consistency across media.
-    
-- **Narrative Clarity (25%):** Can the audience understand the data? Is the insight clear?
-    
-- **Technical Execution (25%):** Quality of the Motion Graphics (smoothness) and Sound (clarity/sync).
-    
-- **Process & Web Archive (25%):** Quality of the documentation and the final web page (Markdown/HTML structure).
-
-
 
 # COD 301: Design Studio III – Multimedia Data Narratives
 **Theme:** _From Abstract Numbers to Human Stories_
-
 ## 1. Course Rationale
 This studio course fulfills the COD 301 requirement to "communicate a message by using sound, video, and typography" by treating **Data** as the primary narrative material. Instead of viewing data visualization as merely making charts, students will explore data as a medium for storytelling across three distinct outputs: a **Static Poster** (Print), a **Kinetic Video** (Motion), and an **Interactive Archive** (Web/Sound).
 
@@ -189,10 +178,22 @@ The following texts are essential for this course. Weekly readings are assigned 
     
     - _Why:_ Bridges the gap between static graphic design and motion graphics.
         
+- _Data Sketches: A Journey of Imagination, Exploration, and Beautiful Data Visualizations_ **Authors:** Nadieh Bremer & Shirley Wu (2021)
 
+- **"Information is Beautiful"** by David McCandless
 ---
 
-## 3. Weekly Syllabus & Studio Exercises
+## 3. Assessment Rubric (Total 100%)
+- **Visual System (25%):** Quality of typography, color usage, and graphical consistency across media.
+    
+- **Narrative Clarity (25%):** Can the audience understand the data? Is the insight clear?
+    
+- **Technical Execution (25%):** Quality of the Motion Graphics (smoothness) and Sound (clarity/sync).
+    
+- **Process & Web Archive (25%):** Quality of the documentation and the final web page (Markdown/HTML structure).
+
+
+## 4. Weekly Syllabus & Studio Exercises
 
 ### Phase 1: The Static Image (Typography & Visual Semiotics)
 
@@ -211,16 +212,26 @@ _Goal: Master the grammar of graphics and static composition._
     
 - **Reading:** *The Truthful Art*, Chapter 2: "The Five Qualities of Great Visualizations."
     
-- **Studio Exercise:** _99 Variations._ Take one simple data point (e.g., "5 apples") and visualize it in 20 distinct styles (abstract, geometric, organic) using Adobe Illustrator/Figma.
+- **Reading:** _Data Sketches_, **"Olympic Feathers"** (Pages 42–65) and **"Figures in the Sky"** (Pages 180–205).
     
-- **Assignment:** Digitize Week 1 data into a clean CSV file and produce 3 low-fidelity poster layouts.
+    - _Focus:_ Notice how the authors refuse to use standard bar charts. Look at how they invent new visual metaphors (feathers, constellations) to represent hard numbers.
+        
+- **Studio Exercise:** _99 Variations._
+    
+    - Take one simple data point from your Week 1 collection (e.g., "5 apples").
+        
+    - Sketch it in 20 different visual styles (Abstract, Geometric, Organic, Glitch, Minimalist) using Adobe Illustrator/Figma.
+        
+    - _Constraint:_ You cannot use a bar, line, or pie chart. You must invent a shape.
+        
+- **Assignment:** Digitize Week 1 data into a clean CSV file and produce 3 low-fidelity poster layouts based on one of your "99 Variations" sketches.
     
 
 **Week 3: Typography as Interface**
 
 - **Topic:** Hierarchy in information design. The "Read-Glance-Deep Dive" structure.
     
-- **Reading:** *The Truthful Art*, Chapter 5: "Basic Principles of Visualization" (Focus on scales and coordinates).
+- **Reading:** *The Truthful Art*, Chapter 5: "Basic Principles of Visualization" (Focus on scales and coordinates, pg. 127).
     
 - **Studio Exercise:** _The Annotation Layer._ Students exchange raw charts and practice adding "active titles" and annotations that explain _why_ the data matters, not just _what_ it is.
     
@@ -381,3 +392,4 @@ _Goal: Use Static Site Generators to host the case study (Portfolio)._
 - [Quantified Self](https://quantifiedself.com/show-and-tell/) Inspirational projects from the community. week1
 - [Quantified Self](https://quantifiedself.com/get-started/) Get Started Guide. week1
 - [Case Study Quantified Self: Making Data Art From 100 Days](https://media.quantifiedself.com/slides/1100_LKarabaic_100daysofqsDailyArtFromData.pdf) week1 - start here...
+- [Information is Beautiful](https://informationisbeautiful.net/) A collection of data visualization projects of varying quality is presented herein. Readers are advised to exercise critical judgment when considering these examples as sources of inspiration. Refer to [[🧰 Online Tools#Data Visualization|🧰 Online Tools]] article's <span style="color:#ffcc00;">Data Visualization</span> section for more tools. 

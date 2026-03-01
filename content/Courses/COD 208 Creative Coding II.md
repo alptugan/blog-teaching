@@ -57,6 +57,15 @@ draft: false
 ## week 3 - Control Multiple Instances
 - Refer to [[COD 417 Game Design#Game Library | Game Library Section]].
 
+**Games**
+- [2022\_06\_Game\_Prototype\_w\_Timer by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/VxY7d-7PRt)
+- [week04\_Game\_IntroScene by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/wPV0-31Qv)
+- [NazBilge\_sound\_interactive\_game by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/GwedNwyRC)
+- [DINO DINNER TIME](https://editor.p5js.org/alptugan/sketches/-1KLl37m2)
+- [game\_prototype by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/5TXn7gahA)
+- [2022\_07\_Game\_Prototype\_w\_GameScenes by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/GP3bv4yy8)
+- ⭐ [Basic\_2D\_Game\_Prototype - OpenProcessing](https://openprocessing.org/sketch/2191906)
+
 #### 2025-2026
 - Utilize Arrays to dynamically control multiple objects.
 - Distribute objects on the canvas.

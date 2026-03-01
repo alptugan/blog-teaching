@@ -23,14 +23,15 @@ Finally, I use the following FFMPEG script for creating hi-quality H.264 mp4 vid
 # Covert image sequence to high-quality mp4 video 
 # -preset veryslow causes glitches on video
 # -preset slow works better
-ffmpeg -framerate 60 -i %07d.png -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" loop11.mp4
+# -threads LOW CPU usage on Mac Silicon
+ffmpeg -framerate 60 -i  %07d.png -c:v libx264 -preset slow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos" -threads 6 loop11.mp4
 ```
 
 Finally, since writing down or copy/paste the script every time is a tedious task. I create shell script and assign the script to an Automator `Quick Action` app. So, I can directly right-click on the folder and execute the FFMPEG command on the context menu. 
 
 
 ```shell
-ffmpeg -i INPUT.mov -crf 10 -vf “scale=640:640, setpts=1.0*PTS” -c:a copy -tune grain OUTPUT.mov
+ffmpeg -i INPUT.mov -crf 10 -vf “scale=640:640, setpts=1.0*PTS” -c:a copy -tune grain -threads 6 OUTPUT.mov
 ```
 [source](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 >note, I change the input and output files names. I also adjust the CRF value to try to keep the bitrate around 4000–5000 kbits. Also the 1.0 in setpts= line is for speed change, if I want to make the movie <font color="#ff0000">faster</font>, <font color="#ffc000">decrease</font> the value.
@@ -38,5 +39,5 @@ ffmpeg -i INPUT.mov -crf 10 -vf “scale=640:640, setpts=1.0*PTS” -c:a copy -t
 
 ```shell
 # High quality MP4
-ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos, setpts=1.0*PTS" -c:a copy -tune grain day02-2.mp4
+ffmpeg -i 02.mov -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -vf "scale=iw:ih:flags=lanczos, setpts=1.0*PTS" -c:a copy -tune grain -threads 6 day02-2.mp4
 ```

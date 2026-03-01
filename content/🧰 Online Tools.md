@@ -39,6 +39,7 @@ The following post includes online development tools for productivity frequently
 [RegEx Test](https://regex101.com/)
 ### CSS
 [Tailwind CSS](https://flowbite.com/docs/components/accordion/) Full Tailwind component examples.
+
 [Tailframes - Tailwind CSS UI Kit](https://www.tailframes.com/)
 
 [FlexboxLabs](https://flexboxlabs.netlify.app/) it’s a visual tool that helps you create layouts using CSS Flexbox.
@@ -65,8 +66,6 @@ The following post includes online development tools for productivity frequently
 [Clipping Masks](https://bennettfeely.com/clippy/)
 [CSS Filters](https://www.cssfilters.co/)
 [Convert to Base64 Images](https://www.base64-image.de/)
-[CSS Color Palettes](https://colorhunt.co/)
-[Color Related Tools](https://colordesigner.io/tools)
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 [CSS Layout Generator](https://layout.bradwoods.io/)
 [CSS Properties](https://codepen.io/carolineartz/full/ogVXZj)
@@ -96,10 +95,6 @@ The following post includes online development tools for productivity frequently
 
 [Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
 
-[Colour Contrast Checker](https://colourcontrast.cc/?background=1e1e1e&foreground=facd17) Check the contrast between different color combinations against WCAG standards.
-
-[Spectral.js](https://onedayofcrypto.art/) Spectral.js is a small JavaScript tool that helps you create realistic color blends. It’s made for people who want to make their projects look like real paint mixing, like artists and developers.
-
 [Mixkit](https://mixkit.co/) Awesome free assets for your next video project.
 
 [Items.Design](https://items.design/category/free) Quality Design Assets For Free including only images and app icon like files.
@@ -113,6 +108,19 @@ framer.com - website builder
 
 [Supahero](https://www.supahero.io/) Website hero section library.
 
+
+### Color
+[CSS Color Palettes](https://colorhunt.co/)
+
+[Spectral.js](https://onedayofcrypto.art/) Spectral.js is a small JavaScript tool that helps you create realistic color blends. It’s made for people who want to make their projects look like real paint mixing, like artists and developers.
+
+[Colour Contrast Checker](https://colourcontrast.cc/?background=1e1e1e&foreground=facd17) Check the contrast between different color combinations against WCAG standards.
+
+[Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
+
+[Color Related Tools](https://colordesigner.io/tools)
+
+
 ### Illustration 
 Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
 ### Mockups
@@ -125,7 +133,6 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 ### Icons
 - [Over 5000+ free icns icons](https://macosicons.com/#/) Could be useful for [[P-iCNS Creator]] app. 
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
-- [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
 - [Free SVG Illustrations](https://undraw.co/illustrations/3)
 
 ### Fonts
@@ -237,3 +244,7 @@ Tinkercad
 
 ### PCB Design
 [KiCad](https://www.kicad.org/) Schematic Capture & PCB Design Software
+
+
+### 3D Print related
+[RefMaker](https://refmaker.app/) 3D Head Reference Model Generator. Makes helmets fit your head.
