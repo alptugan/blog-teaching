@@ -62,7 +62,7 @@ Designers can combine digital information with the physical world to create imme
   </div>
 
   <div style="flex: 1;">
-    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00003.jpg " alt="">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00003.jpg" alt="">
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Designers can combine digital information with the physical world to create imme
   </div>
 
   <div style="flex: 1;">
-    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00005.jpg " alt="">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00005.jpg" alt="">
   </div>
 </div>
 
