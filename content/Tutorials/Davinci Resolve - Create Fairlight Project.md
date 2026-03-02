@@ -1,12 +1,11 @@
 ---
 title: Davinci Resolve - Create Fairlight Project
 date: 2024-10-07T03:00:00
-modification date: Monday 7th October 2024 17:32:05
 description: Shows how to create Fairlight Project on Davinci Resolve
 tags:
   - sound
   - DavinciResolve
-aliases: 
+aliases:
 draft: false
 ---
 ## 1. Open Davinci Resolve and create a new Timeline

@@ -3,12 +3,12 @@
 
 // Fluid base font size and line-height — scale with viewport width
 // font-size: min 16px → max 20px | line-height: 1.5 → 1.75
-html,p {
-  line-height: clamp(1.5em, 1.6vw, 1.75em) !important;
+html,p,li {
+  line-height: clamp(1.6em, 2.0vw, 1.8em) !important;
 }
 
 .center {
-  font-size: clamp(16px, 1.5vw, 20px);
+  font-size: clamp(16px, 1.2vw, 20px);
 }
 
 .breadcrumb-container {
@@ -29,7 +29,7 @@ html,p {
 
 
 li {
-	line-height: 1.6rem!important;
+	//line-height: 1.6rem!important;
 }
 
 .cover-image {

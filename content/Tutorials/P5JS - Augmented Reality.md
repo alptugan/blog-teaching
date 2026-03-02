@@ -1,22 +1,21 @@
 ---
 title: P5JS - Augmented Reality
 date: 2025-03-01T02:00:00
-modification date: 2025-03-08T15:03:00
-description: 
+description:
 tags:
   - p5js
   - tutorial
   - creativecoding
   - augmentedReality
   - cod208
-aliases: 
+aliases:
 draft: false
 cssclasses:
 ---
 ## What is augmented reality?
 Augmented reality (AR) is a technology that overlays computer-generated images onto the real world, providing an enhanced or altered view of reality. Think of it as blending digital content with your physical surroundings.
 
-![[p5js-ar00012.png]]
+![[p5js-ar00012.png|-center|500]]
 
 ## What is The Difference of AR, MR and VR?
 Immersion technologies ranging in their interaction with the physical environment and degree of user immersion are augmented reality (AR), virtual reality (VR), and mixed reality (MR).  
