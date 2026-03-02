@@ -14,6 +14,7 @@ draft: true
 - [ ] #task #icns-creator Quit app when clicked close button.
 - [ ] #task #icns-creator/debug Error.log tutma işini düşünelim.
 - [ ] #task #icns-creator open folder path after the generation completed.
+- [ ] #task #icns-creator save last state in the app. File save location, choices, etc....
 - [x] #task #icns-creator/docs check text color for github md. ✅ 2025-11-21
 - [x] #task #icns-creator Optional: A workaround for testing, and permissions. Test the app on a fresh Mac. ✅ 2025-11-21
 - [x] #task #icns-creator About penceresi açıldığında 2024 yazıyor. ✅ 2025-11-21

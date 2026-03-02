@@ -32,38 +32,85 @@ Designers can combine digital information with the physical world to create imme
 
 ## Use Cases of AR Technology
 1. **Interactive Projections**: For instance, a designer can enhance the customer experience using AR technologies. Imagine a brand identity representing a static images of the customer's company. When user points the smart phone camera onto the poster, the viewer can display animated version of the design, or give extra information about the company that can not be included in the identity.
-   ![[p5js-ar00014.jpg]]
+   ![[p5js-ar00014.jpg|-center|500]]
 
 2. **Architecture**: People can view the rendered 3D version of a building in planning phase. Or they can customize the inner design of a house before buying it.
-   ![[p5js-ar00001.jpg]]![[p5js-ar00004.jpg]]
-   ![[p5js-ar00011.jpg]]
+
+<div class="three-columns" style="--column-count: 3; display: flex; gap: 10px; align-items: stretch;">
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00001.jpg" alt="">
+  </div>
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00004.jpg" alt="">
+  </div>
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00011.jpg" alt="">
+  </div>
+
+</div>
+   
 
 3. **Interactive Games**: Imagine a traditional treasure hunt game. A set of markers can be distributed in closed or opened space, and players try to find the quests in correct order via scanning the markers. Or in a card game, the characters can be displayed in 3D and interact with the user.
-   
-   ![[p5js-ar00003.jpg]]![[p5js-ar00007.jpg]]
 
-Designers can utilize AR in creative coding for several purposes:
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 10px; align-items: stretch;">
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00007.jpg" alt="">
+  </div>
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00003.jpg " alt="">
+  </div>
+</div>
+
+
+**Designers can utilize AR in creative coding for several purposes:**
 - **Prototyping**: They test designs in virtual environments without physical models, allowing them to visualize and refine concepts efficiently.
-  ![[p5js-ar00009.jpg]]![[p5js-ar00005.jpg]]
+
+  <div class="two-columns" style="--column-count: 2; display: flex; gap: 10px; align-items: stretch;">
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00009.jpg" alt="">
+  </div>
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00005.jpg " alt="">
+  </div>
+</div>
+
   
 - **Immersive Experiences**: Designers create experiences that respond to the user's presence within their environment. For example, a virtual art gallery where each exhibit reacts to movement, providing an interactive and engaging experience.
-  ![[p5js-ar00008.jpg]]
+  ![[p5js-ar00008.jpg|-center|500]]
 
 - **Interior Architectural Design:** Designer or clients can determine required colors and object before buying it. By doing that customers have chance to experience how does the item look like in their space. 
-  ![[p5js-ar00013.jpg]]![[p5js-ar00010.jpg]]
+
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 10px; align-items: stretch;">
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00013.jpg" alt="">
+  </div>
+
+  <div style="flex: 1;">
+    <img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="p5js-ar00010.jpg" alt="">
+  </div>
+</div>
+
 
 ## p5.SimpleAR Library Installation
 **p5.simpleAR** is a simple JavaScript supplement (mini-library) file to easily convert existing sketches into AR for PCs and smart devices. It includes 64 different marker patterns. Watch the [video](https://www.youtube.com/watch?v=I2mgpdLRX3g).
-<iframe title="p5.simpleAR key visual" src="https://www.youtube.com/embed/I2mgpdLRX3g?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe title="p5.simpleAR key visual" src="https://www.youtube.com/embed/I2mgpdLRX3g?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1;  width: 80%; height: 100%;margin-left:auto;margin-right:auto;display:block;" allowfullscreen="" allow="fullscreen"></iframe>
 
 ### 1. Choose a Fiducial Marker and Print
 Initially, a fiducial marker must be printed for use in an augmented reality application. A selection of suitable markers is available via a provided link. The chosen marker should be printed on A4-sized paper, with scaling considerations to ensure it remains within the focal range of the webcam. This marker will be programmatically associated with a p5JS sketch. Upon camera detection of the marker, specific digital content will be rendered to the viewer. The numerical identifier (ID) of the selected marker must be recorded, as this ID will be employed within the p5JS sketch to trigger the display of the designated content when the application recognizes the marker. For example, if the selected marker's image filename is "48wFrame.png," the corresponding ID is "48." The marker should then be printed, maintaining the white borders, at a size of 5 x 5 cm.
-   🔗 [Link to fiducial markers](https://github.com/tetunori/p5.simpleAR/tree/main/markers)
-   
-   ![[p5js-ar00015.jpeg]]
+
+🔗 [Link to fiducial markers](https://github.com/tetunori/p5.simpleAR/tree/main/markers)
+   ![[p5js-ar00015.jpeg|-center|500]]
    
    Click on the png file, and download the image. Fiducial markers are just a simple black and white graphics.
-   ![48wFrame.png](https://github.com/tetunori/p5.simpleAR/blob/main/markers/48wFrame.png?raw=true)
+   ![48wFrame.png|-center](https://github.com/tetunori/p5.simpleAR/blob/main/markers/48wFrame.png?raw=true)
 
 ### 2. Include p5.SimpleAR Library 
 First of all, we need the [p5.SimpleAR](https://github.com/tetunori/p5.simpleAR/tree/main) library and import in to our project. If you are using p5JS official editor, open the `index.html` file from the explorer menu as show in the image below. Goto and check [[P5JS - How to Add Libraries]] post or click below callout buttons. It presents how to import libraries for both P5JS and OpenProcessing editors.
@@ -76,7 +123,8 @@ First of all, we need the [p5.SimpleAR](https://github.com/tetunori/p5.simpleAR/
 
 For your personal projects, copy the following library link:
    `https://tetunori.github.io/p5.simpleAR/dist/latest/p5SimpleAR.js` and paste in `<script>` element. Import the library after the `p5.js` library. The overall `index.html` should look like the following:
-```html
+   
+```html title=index.html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -97,7 +145,8 @@ For your personal projects, copy the following library link:
 
 ### 3. Code the AR Content
 Open the `sketch.js` file and change `createCanvas` -> `createARCanvas` in your `setup()` function as follows;
-```js
+
+```js title="sketch.js"
 function setup() {
 	createARCanvas(240, 240, P2D, {scale: 2, markerId: 6});
 	// instead of markerId: 6, type your choosen marker's id number
@@ -105,7 +154,8 @@ function setup() {
 ```
 
 Write some code that displays and image or draws an animated content in `draw()` function. For example I write an animated circle rotates around another circle as follows;
-```js {lineNumbers:true}
+
+```js title="sketch.js"
 function setup() {
 	createARCanvas(240, 240, P2D, {scale: 2, markerId: 6});
 	// instead of markerId: 6, type your choosen marker's id number
@@ -124,9 +174,11 @@ function draw() {
 ### 4. Point Your Cam to The Fiducial Marker
 Now run the sketch, your computer may ask for permission to use your computer's webcam. You must allow the browser, otherwise the camera cannot be initialized. Show the marker to the camera, and you will see your p5JS sketch as if it was generated on the marker. 
    ![[cod208_week4_simpleAR.mp4]]
+
 ## Multiple Markers
 If you want to use multiple markers, it is required to create multiple layers in your sketch code. We can use `createARGraphics()` method to create multiple AR layers. Suppose that we want to use markers between 20-26. The following code assigns markerId from 20-26, except the markerId:26, creates six independent layer groups.
-```js
+
+```js title=sketch.js
 const gfxs = []; // The Array will contain the individual 6 layers
 const W = 240; // width of the canvas
 
@@ -150,15 +202,20 @@ function draw() {
   });
 }
 ```
+
 [reference code](https://openprocessing.org/sketch/1898840) uses markerIds from 0 to 6, and draws animation content on each marker.
+
+
 ## Final Remarks
 You can also navigate to your sketch link using your phones browser and display the content with on your phone. Actually, anyone with the link and the marker can view the content using their own devices. Here is [link](https://editor.p5js.org/alptugan/sketches/8Y-ykeDOF) to running code.
 
 As you know, sky is the limit when we talk about creative coding. The following company presents set of methods on how playing with fiducial marker can push the limits of marker-based AR applications in real-life cases.
-<iframe title="DynaTags: Low-Cost Fiducial Marker Mechanisms" src="https://www.youtube.com/embed/3ddTIa-AhXE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+<iframe title="DynaTags: Low-Cost Fiducial Marker Mechanisms" src="https://www.youtube.com/embed/3ddTIa-AhXE?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 80%; height: 100%;margin-left:auto;margin-right:auto;display:block;" allowfullscreen="" allow="fullscreen"></iframe>
 
 You can also publish the project on internet using GitHub Pages. Follow the instruction on [[Github - Free Hosting for Online Apps]] article to learn how to do that.
+
 ## Augmented Reality with ML5 Library
 Simple, yet powerful method to engage viewers with AR technologies.
-<iframe title="Create AR filters in the browser with ML5.js and P5.js | Creative Coding Tutorial" src="https://www.youtube.com/embed/9WywDPOV5nA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe title="Create AR filters in the browser with ML5.js and P5.js | Creative Coding Tutorial" src="https://www.youtube.com/embed/9WywDPOV5nA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1;  width: 80%; height: 100%;margin-left:auto;margin-right:auto;display:block;" allowfullscreen="" allow="fullscreen"></iframe>
 

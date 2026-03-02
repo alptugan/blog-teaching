@@ -1,13 +1,13 @@
 ---
 title: Affinity Photo Basics
 date: 2025-03-30 12:21:51
-description: 
+description:
 tags:
   - tutorial
   - text
-aliases: 
+aliases:
 draft: false
-banner: "[[Assets/covers/affinity-hero.jpeg]]"
+banner: "[[affinity-hero.jpeg]]"
 ---
 Affinity Photo is an alternative and cheaper photo editing software similar to the Photoshop. You can get it for free if you are a student in an educational institute. 
 
