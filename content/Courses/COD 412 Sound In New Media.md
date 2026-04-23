@@ -42,6 +42,7 @@ This section includes selected articles from sound literature and research to pr
 - [Voice Changer - Online & Free](https://voicechanger.io/)
 - [node.music](https://nodemusic.cc/) Interactive Electroacoustic history timeline.
 - Also check [[COD 323 Sound Design#VST & Virtual Instruments |VST & Virtual Instruments]] on COD 323 Sound Design page. 
+- [Hooks Music Theory](https://www.hooktheory.com/trends) Interactive app shows chord progressions and the songs including that.
 
 ## Weekly Resources
 ### Week 1 
@@ -248,6 +249,8 @@ Live coding performance with vocals
 <iframe title="DIY Spring Box / Noise Box: My first creation for sound design in horror movies 👻" src="https://www.youtube.com/embed/Laau6Aui4dU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 <iframe title="Koka's Drone Box Ensemble" src="https://www.youtube.com/embed/lSpl4DVFsQU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
+<iframe title="Kinetic sound sculptures Collection" src="https://www.youtube.com/embed/YOsxVJKjEFU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 #### Contact Microphones
 #sound #piezo #fabric
 <iframe title="TUTORIAL - HOW TO WIRE A PIEZO MIC // MAGIC GLOVES AND CODING PROGRESS // CHAINES" src="https://www.youtube.com/embed/zI7EEvV4Lp8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
@@ -303,15 +306,39 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 
 
 ## Recommended Readings & Projects
-- (Book) Musical Inventions: DIY Instruments to Toot, Tap, Crank, Strum, Pluck, and Switch On (Make) by Kathy Ceceri
-- (Book) [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
-- [Pringle Can MIDI Drums, Instructables](https://www.instructables.com/Pringle-Can-MIDI-Drums/)
-- [Light Saber Hum, Instructables](https://www.instructables.com/Light-Saber-Hum/)
-- [Building a Simple Electronic Piano Using Tinkercad Circuits, Instructables](https://www.instructables.com/Building-a-Simple-Electronic-Piano-Using-Tinkercad/)
-- [Simple Electronic Piano, Instructables](https://www.instructables.com/Simple-Electronic-Piano/)
-- ⭐ [Sound Badge With Touch Sensor, Instructables](https://www.instructables.com/Sound-Badge-With-Touch-Sensor/)
-- [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
-- ⭐ [Developing the DIY Soundscape Box Try It](https://wiki.slq.qld.gov.au/doku.php?id=workshops:prototypes:diy_soundscape_box) Includes box design ready for laser cutting. 
+### 📚 Books
+- 📚 Musical Inventions: DIY Instruments to Toot, Tap, Crank, Strum, Pluck, and Switch On (Make) by Kathy Ceceri
+- 📚 [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
+- 📚 Senior, M. (2018). _Mixing Secrets for the Small Studio_ (2nd ed.). Routledge. [https://doi.org/10.4324/9781315150017](https://doi.org/10.4324/9781315150017)
+- 🛠️📚⭐ Ceceri, K. (2017). _Musical inventions: DIY instruments to toot, tap, crank, strum, pluck, and switch on_ (First edition). Maker Media.
+- 📚 Schafer, R. M. (1977). _The tuning of the world_ (1st ed). A. A. Knopf.
+- 📚 Hermann, T., Hunt, A., & Neuhoff, J. G. (n.d.). _The Sonification Handbook_.
+- 📚 Gibbs, T. (2007). _The fundamentals of sonic art & sound design_. AVA Academia.
+- 📚 Sterne, J. (n.d.). _The Audible Past: Cultural Origins of Sound Reproduction_.
+- 📚 Butler, S., & Nooter, S. (Eds.). (2019). _Sound and the ancient senses_. Routledge Taylor & Francis Group.
+- 📚 Kahn, D. (1999). _Noise, water, meat: A history of sound in the arts_. MIT Press.
+- 📚⭐ Truax, B. (2016). _ENVIRONMENTAL SOUND AND ITS RELATION TO HUMAN EMOTION_.
+
+### 📄 Papers
+- 📄⭐ Barlow, C. (2012). Music Derived from Other Sources. _The International Journal of the Humanities: Annual Review_, _9_(7), 135–146. [https://doi.org/10.18848/1447-9508/CGP/v09i07/43280](https://doi.org/10.18848/1447-9508/CGP/v09i07/43280)
+- 📄⭐ **Listening Modes:** Caramiaux, B., Françoise, J., Schnell, N., & Bevilacqua, F. (2014). Mapping Through Listening. _Computer Music Journal_, _38_(3), 34–48. [https://doi.org/10.1162/COMJ_a_00255](https://doi.org/10.1162/COMJ_a_00255)
+- 📄⭐ **Listening Exercises:** Schafer, R. M. (1992). _A sound education: 100 exercises in listening and sound-making_. Arcana Ed.
+- 📄⭐ Akin Güler, G., & Özçevik Bilen, A. (2023). Kent Gürültüsüne İşitsel Peyzaj Yaklaşımı ile Bir Bakış: Kentin Sesini Dinle, Kendi Sesini Sestele “Eskişehir.” _Kent Akademisi_, _16_(1), 477–495. [https://doi.org/10.35674/kent.1074848](https://doi.org/10.35674/kent.1074848)
+- 📄⭐ Capanna, A. (2001). Iannis Xenakis:Architect of Light and Sound. _Nexus Network Journal_, _3_(1), 19–26. [https://doi.org/10.1007/s00004-000-0003-4](https://doi.org/10.1007/s00004-000-0003-4)
+- 📄 Pijanowski, B. C., Villanueva-Rivera, L. J., Dumyahn, S. L., Farina, A., Krause, B. L., Napoletano, B. M., Gage, S. H., & Pieretti, N. (2011). Soundscape Ecology: The Science of Sound in the Landscape. _BioScience_, _61_(3), 203–216. [https://doi.org/10.1525/bio.2011.61.3.6](https://doi.org/10.1525/bio.2011.61.3.6)
+### Projects
+- [Intertapes](https://intertapes.net/) INTERTAPES is an updating collection of found cassette tapes from around the world. The audio fragments include: voice memos, field recordings, mixtapes, bootlegs and more.
+
+
+### 🛠️ Tutorials
+- 🛠️ [Pringle Can MIDI Drums, Instructables](https://www.instructables.com/Pringle-Can-MIDI-Drums/)
+- 🛠️ [Light Saber Hum, Instructables](https://www.instructables.com/Light-Saber-Hum/)
+- 🛠️ [Building a Simple Electronic Piano Using Tinkercad Circuits, Instructables](https://www.instructables.com/Building-a-Simple-Electronic-Piano-Using-Tinkercad/)
+- 🛠️ [Simple Electronic Piano, Instructables](https://www.instructables.com/Simple-Electronic-Piano/)
+- 🛠️ ⭐ [Sound Badge With Touch Sensor, Instructables](https://www.instructables.com/Sound-Badge-With-Touch-Sensor/)
+- 🛠️ ⭐ [Developing the DIY Soundscape Box Try It](https://wiki.slq.qld.gov.au/doku.php?id=workshops:prototypes:diy_soundscape_box) Includes box design ready for laser cutting. 
+- 🛠️ ⭐ [Novelty Synth from Recycled Vape](https://beckystern.com/2026/03/22/novelty-synth-from-recycled-vape/#more-122877) by  Becky Stern. Transform used vapes to synthesizer.
+- 🛠️ [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
 ## COD 412 Final Projects Collection
 [2018-2019](https://drive.google.com/drive/folders/1w5mFUEx23DS97JllBQnnVVXIA3362YVV?usp=drive_link)
@@ -320,3 +347,72 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 [2021-2022](https://drive.google.com/drive/folders/1Wiv_g0T54_pGfJHsIg2P1vRvqsxTY1CU?usp=drive_link)
 [2022-2023](https://drive.google.com/drive/folders/1Wxy3tHIlDtv7EGd4I4wL_CEN7eU5Ash7?usp=drive_link)
 [2023-2024](https://drive.google.com/drive/folders/1iYfsouSey3cWZy5YP2urqAcN97HhNKsj?usp=drive_link)
+
+
+Create a minimum **1-minute AV sketch** that demonstrates a direct, intentional mapping between audio analysis and visual parameters.
+
+### Steps
+
+**① Select a Tool** Choose one: TouchDesigner · Max/MSP · Hydra or found an abstract video footage.
+
+**② Record the Input** Capture a **10-second audio sample** of an _industrial_ sound (machinery, construction, metal, etc.)
+
+**③ Map 3 → 3 Parameters (E.g.** Map the bass tones in sound to colors, mid tones to scale, treble tone to different cuts or scenes.)
+
+**④ Submit** A screen recording of the tool’s interface _while the audio plays_ — **show your patch!**
+
+If you used found video footage, include your DAW timeline screenshot showing your tracks and include the rendered video. 
+
+### Final Project Proposal
+- Create a mood board
+- Mood board must include visual/audible references for your final project idea.
+- Include a one paragraph of explanation of your project. 
+- You can use Miro or Canva like online mood boards.
+- Submit the image or link (**be sure that it is publicly available**) to your mood board.
+- Do not limit your self, just image a utilizes sound as a medium (A documentary project, recording of your own sound compositions related to lectures, an experimental device that generates sounds, a self made analog sound object, an acoustic ecology study of a specific location, audiovisual performance, live coding performance, etc...).
+- Before crying out, please check the previous course material and student works. We discussed so many topics.
+
+### Selected Project Proposals
+- ⭐ [Lightscape](https://drive.google.com/file/d/1w8ZUcaMtaIIHMNcZO8KAaG8KtVFkxLc2/view?usp=sharing) by Bora Akdoğan, [documents](https://drive.google.com/drive/folders/13UEVVFC65AGNnWJY8uvV59iIHHQ3dvG6?usp=drive_link)
+- ⭐ [Live Coding Performance](https://drive.google.com/file/d/1qRupXem3M_5ywVg6IpUEVoz-SFl3bGp3/view?usp=sharing)  by Çağla Irmak Badem, [documents](https://drive.google.com/drive/folders/1hhlnpKi5lKM4y5M391x5xYMEZxOyrC_M)
+- [Dancing Waves](https://drive.google.com/file/d/1AU0OYFovZ7WxtYlp1DwF8u7rXTwe-ljM/view?usp=sharing) by Derya Özalp
+- ⭐ [BeatMix](https://drive.google.com/file/d/1_CdqGX1LdQMqeIE7VoX-Uo9W4kSM9389/view?usp=sharing) by Dilara Albayrak
+- [Hallucination](https://drive.google.com/file/d/1GE3UvuEi2dBI8yEOCjA0RANdZEpj3S0_/view?usp=sharing) by Emre Tunalı
+- [Unseen Dimensions](https://drive.google.com/file/d/1-WTG_G7YmlVE9Hak_HzYz94tcg_7Pfo5/view?usp=sharing) by Sarp Akçay
+- [20th Century](https://drive.google.com/file/d/1Fxc_OGzQ2gkG_Al_BEp-knxLFh5wPIru/view?usp=sharing) by Tuna Özkan
+- [The Sound of Nothing and Everything](https://drive.google.com/file/d/15kLFUT03gZ9W4f_qXSq6zoxMYQtmfc8_/view?usp=sharing) by Burcu Arslan
+- [Sun Walker](https://drive.google.com/file/d/1Z07ePCzQYAo3lZtS02iewQajvRDN02WB/view?usp=sharing) by Yiğit Kantel
+- ⭐ [Music of Abstract](https://drive.google.com/file/d/1pcQrYc-eYU8OmlojccXULRHtGRMx259u/view?usp=sharing) A sonification project by Mertol Okçu
+- [Dog Star Man](https://drive.google.com/file/d/1wZE63Mgsw4tCWQ1JYGLwpou0Km2Vtqt-/view?usp=sharing) by Ege Uysal
+
+	### Final Project Proposal Template
+	Please complete each section carefully. Use this template as a guide to structure your proposal.
+	
+	---
+	## 1. Identity
+	- On top left corner of an A4 document write the course name and date (*COD 412 Sound Projects & Media, 2026*)
+	- Your name and surname
+	  
+	## 2. Project Title
+	- Write a concise, descriptive name for your project.
+	- Aim for clarity and creativity — the title should capture the essence of your idea.
+	
+	## 3. Project Description
+	- What is your project about?
+	- Which medium are you working with (e.g., physical computing, acoustic ecology, soundscape study, musique concrète, documentary sound design, foley recording, sound installation, new musical interface)?
+	- What methods, tools, or processes will you use?
+	- What experience or outcome do you want to create for your audience?
+	
+	
+	## 4. Theoretical Background
+	- Which concepts, theories, or practices inform your project?
+	- How does your project connect to existing artistic or scholarly contexts?
+	- Reference key ideas from sound studies, acoustic ecology, media theory, or other relevant fields.
+	
+	---
+	
+	# ✅ Submission Notes
+	- Keep your writing clear and concise.
+	- Use academic language where appropriate, but make sure your ideas remain accessible.
+	- Demonstrate both creative vision and critical reflection.
+	- Think of this proposal as a **roadmap**: it should guide both you and your audience through the project’s purpose and direction.

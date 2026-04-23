@@ -15,141 +15,6 @@ draft: true
 
 You are not just learning "charts"; you are learning **Information Architecture** across print, time-based media, and interactive web.
 
----
-
-### **Course Syllabus: COD 301 – Data Narratives & Information Experiences**
-
-#### **Phase 1: The Static Image (Typography & Hierarchy)**
-
-_Focus: Print, Layout, Visual Semiotics._
-
-- **Week 1: Data Humanism & The Quantified Self**
-    
-    - **Concept:** Introduction to "Small Data" vs. "Big Data." Reviewing _Dear Data_ (Giorgia Lupi).
-        
-    - **Studio Task:** Analog data collection. Students choose a personal behavior to track for one week (e.g., "Every time I check my phone," "Every coffee I drink," "Negative vs. Positive thoughts").
-        
-    - **Outcome:** Raw dataset in a sketchbook.
-        
-- **Week 2: The Grammar of Graphics**
-    
-    - **Concept:** Visual variables (Position, Size, Color, Texture, Shape). How to encode meaning without using text.
-        
-    - **Tool:** Vector tools (Illustrator/Figma).
-        
-    - **Studio Task:** "99 Variations." Students must visualize a simple dataset (e.g., 5 numbers) in 20 different visual styles (abstract, geometric, organic).
-        
-- **Week 3: Typography as Interface**
-    
-    - **Concept:** Hierarchy in information design. The "Read-Glance-Deep Dive" structure.
-        
-    - **Studio Task:** Designing the "Legend" and the "Annotation."
-        
-    - **Project Launch:** The Data Poster (A1 format).
-        
-- **Week 4: Critique & Print**
-    
-    - **Activity:** Pin-up critique of the A1 Data Posters.
-        
-    - **Focus:** Can the viewer understand the story within 5 seconds? Is the typography supporting the data?
-        
-    - **Deliverable:** High-fidelity PDF poster.
-        
-
-#### **Phase 2: The Moving Image (Video & Motion)**
-
-_Focus: Timeline, Pacing, Narrative Arc._
-
-- **Week 5: Time as a Variable**
-    
-    - **Concept:** How data changes over time. The difference between a static chart and a data animation (e.g., "The Bar Chart Race").
-        
-    - **Tool:** After Effects (Keyframing data values).
-        
-    - **Studio Task:** Animate the "Week 1" dataset. Make the data grow, shrink, or morph.
-        
-- **Week 6: Storyboarding the Abstract**
-    
-    - **Concept:** Narrative structure in data storytelling (Setup, Conflict/Insight, Resolution).
-        
-    - **Studio Task:** Storyboard a 30-second "Data Short Film." How do you transition from one data point to another?
-        
-- **Week 7: Motion Graphics Production**
-    
-    - **Activity:** In-class workshop on "Easing" and "Flow." Rigid data needs fluid motion to feel human.
-        
-    - **Studio Task:** Production of the Data Short Film. Focus on kinetic typography (type that moves with the data).
-        
-- **Week 8: The Video Critique**
-    
-    - **Activity:** Screening of the 30-second data films.
-        
-    - **Deliverable:** MP4 file (1080p).
-        
-
-#### **Phase 3: The Sonic Layer (Sound Design)**
-
-_Focus: Sonification, Texture, Feedback._
-
-- **Week 9: Hearing Data (Sonification)**
-    
-    - **Concept:** Introduction to Sonification. Mapping data values to Pitch (High/Low) and Volume (Loud/Soft).
-        
-    - **Examples:** Listening to the sound of a black hole or stock market crashes.
-        
-    - **Tool:** TwoTone.io (Web-based sonification tool) or GarageBand.
-        
-- **Week 10: Soundscapes & Ambience**
-    
-    - **Concept:** Sound as emotional context. If the data is "sad" (e.g., global warming), the sound design should reflect that.
-        
-    - **Studio Task:** Create a 30-second audio track that represents the _same_ dataset from Phase 1 and 2, but purely through sound.
-        
-- **Week 11: Integrating Sound & Video**
-    
-    - **Activity:** Syncing the Week 10 audio with the Week 8 video.
-        
-    - **Focus:** Audio-Visual synchronization. Does the "ping" happen exactly when the graph spikes?
-        
-    - **Deliverable:** Revised Video File with custom Data Soundtrack.
-        
-
-#### **Phase 4: The Digital Container (Web & Portfolio)**
-
-_Focus: Interaction, Documentation, Publishing._
-
-- **Week 12: The Scrollytelling Format**
-    
-    - **Concept:** How to present data on the web. The "Scrollytelling" technique (content changes as user scrolls).
-        
-    - **Tool:** Introduction to Markdown and Static Site Generators (Jekyll) or a visual tool like Flourish/Readymag (depending on coding comfort).
-        
-    - **Task:** Structure the case study.
-        
-- **Week 13: The Digital Archive**
-    
-    - **Activity:** Students build a single web page that hosts:
-        
-        1. The A1 Poster (Downloadable PDF).
-            
-        2. The Data Film (Embedded Video).
-            
-        3. The Process (Sketches/Markdown text).
-            
-    - **Focus:** "Portfolio Design" skills (Web hosting, Domain management).
-        
-- **Week 14: Final Exhibition**
-    
-    - **Activity:** "The Data Gallery."
-        
-    - **Setup:** Students display their poster on the wall and have their web page/video running on a screen/laptop.
-        
-    - **Evaluation:** A holistic review of the ecosystem: The Print (Static), The Video (Motion), and The Site (Interaction).
-        
-
----
-
-
 # COD 301: Design Studio III – Multimedia Data Narratives
 **Theme:** _From Abstract Numbers to Human Stories_
 ## 1. Course Rationale
@@ -244,7 +109,7 @@ _Goal: Master the grammar of graphics and static composition._
     
 - **Reading:** *The Truthful Art*, Chapter 11: "Uncertainty and Significance" (How to not lie with data).
     
-- **Activity:** Pin-up critique of the A1 Data Posters.
+- **Activity:** Pin-up critique of the A2 Data Posters.
     
 - **Assessment:** Legibility at 1 meter vs. 10cm. Is the "Insight" visible within 5 seconds?
     
@@ -263,7 +128,8 @@ _Goal: Introduce time as a variable to create narrative pacing._
     
 - **Studio Exercise:** _Keyframing Change._ Using After Effects, animate one chart from the poster. How does a bar chart "grow"? Does it pop, slide, or fade?
     
-- **Assignment:** Draft a storyboard for a 30-second "Data Short Film."
+- **Assignment:** Draft a storyboard for a 30-second "Data Short Film." (In-class Session)
+- **Assignment:** Choose a data source for your final jury (Refer to Presentation Week 05).
     
 
 **Week 6: Narrative Structure in Data**
@@ -286,7 +152,7 @@ _Goal: Introduce time as a variable to create narrative pacing._
 - **Studio Exercise:** _Easing and Flow._ Workshop on animation curves (Graph Editor)—making data movement feel "organic" rather than "robotic."
     
 - **Assignment:** Finalize the visual track of the video (Silent draft).
-    
+
 
 **Week 8: Midterm Review (The Silent Screening)**
 
@@ -384,7 +250,6 @@ _Goal: Use Static Site Generators to host the case study (Portfolio)._
 - [CS Academy](https://csacademy.com/app/graph_editor/)
 - [Graph Editor](https://app.grapheditor.io/)
 
-
 # Resources
 - [Data Visualization in 2025: The Ultimate Guide](https://www.youtube.com/watch?v=loYuxWSsLNc) In this video, you will get an in-depth explanation of what data visualization really is. You will learn also what data visualization helps with, the different types of charts and graphs to use and how you can make them.
 - [Science of Data Visualization](https://www.youtube.com/watch?v=csXmVBw8cdo) Technical chart types; bar, scatter plot, line, histograms, pie, box plots, bubble chart.
@@ -393,3 +258,154 @@ _Goal: Use Static Site Generators to host the case study (Portfolio)._
 - [Quantified Self](https://quantifiedself.com/get-started/) Get Started Guide. week1
 - [Case Study Quantified Self: Making Data Art From 100 Days](https://media.quantifiedself.com/slides/1100_LKarabaic_100daysofqsDailyArtFromData.pdf) week1 - start here...
 - [Information is Beautiful](https://informationisbeautiful.net/) A collection of data visualization projects of varying quality is presented herein. Readers are advised to exercise critical judgment when considering these examples as sources of inspiration. Refer to [[🧰 Online Tools#Data Visualization|🧰 Online Tools]] article's <span style="color:#ffcc00;">Data Visualization</span> section for more tools. 
+
+# Illustrator Tips
+- [Adobe Illustrator making a bar graph infographic](https://www.youtube.com/watch?v=EKpU_iGuqcY)
+- [GRAPHS in Adobe Illustrator](https://www.youtube.com/watch?v=2mEVkSa53KA)
+- [How to Create an Editable Pie Chart in Adobe Illustrator](https://www.youtube.com/watch?v=n_DlcaAMX50)
+- [Illustrator CC Tutorial \| 3D Graphic Design \| Infographic Design template 04](https://www.youtube.com/watch?v=NgByDWnTkps&list=PLJ9GmWsyVYjQaqsGfHBb_1d_MzE2DeHKw)
+- [Abstract data design in Adobe Illustrator. Speed art](https://www.youtube.com/watch?v=PVn7pYQwQhs)
+
+
+
+# Data Sources
+## 📊 Recommended Free Data Sources
+
+### 1. **Kaggle Datasets**
+- **Scope:** Thousands of datasets across domains (finance, environment, health, social media, sports).
+- **Format:** Mostly CSV, ready for visualization.
+- **Use Case:** Great for project-based learning and competitions.
+- **Example datasets:** Global CO₂ emissions, Spotify song features, COVID-19 case data.  
+    [Kaggle](https://www.kaggle.com/datasets)
+
+---
+
+### 2. **Dataquest – Curated Free Datasets**
+- **Scope:** A curated list of 32 datasets specifically chosen for data visualization, machine learning, and analytics.
+- **Strength:** Clean, well-documented, and beginner-friendly.
+- **Use Case:** Ideal for teaching fundamentals without overwhelming students with messy data.
+- **Example datasets:** Government demographics, academic research datasets, personal analytics.  
+    [Dataquest](https://www.dataquest.io/blog/free-datasets-for-projects/)
+
+---
+
+### 3. **GeeksforGeeks – Top Visualization Datasets**
+- **Scope:** Classic datasets (Iris flower, Titanic survival) and modern ones (COVID-19, world population).
+- **Strength:** Balanced mix of small, manageable datasets and larger, real-world ones.
+- **Use Case:** Perfect for introducing students to storytelling with data.  
+    [GeeksForGeeks](https://www.geeksforgeeks.org/data-visualization/top-datasets-for-data-visualization/)
+
+---
+
+## 📌 Other Useful Free Sources
+- **Google Dataset Search** – Meta-search engine for open datasets across institutions.
+- **UN Data & World Bank Open Data** – Rich in global economic, demographic, and environmental statistics.
+- **Our World in Data** – Excellent for long-term, global datasets (climate change, health, inequality).
+- **OpenStreetMap & Natural Earth** – Geospatial datasets for map-based visualizations.
+- **Türkiye Statistics Institute**
+
+---
+
+## ⚖️ Comparison of Sources
+
+| Source                | Best For                | Strengths                         | Limitations            |
+| --------------------- | ----------------------- | --------------------------------- | ---------------------- |
+| **Kaggle**            | Projects & competitions | Huge variety, community support   | Some datasets messy    |
+| **Dataquest**         | Teaching fundamentals   | Curated, clean, beginner-friendly | Smaller selection      |
+| **GeeksforGeeks**     | Introductory projects   | Classic + modern datasets         | Less depth than Kaggle |
+| **World Bank/UN**     | Policy & global studies | Authoritative, large-scale        | Requires preprocessing |
+| **Our World in Data** | Long-term trends        | Excellent documentation           | Mostly macro-level     |
+
+---
+
+## 🚀 Teaching Strategy
+
+- Start with **small, classic datasets** (Iris, Titanic) to teach chart basics.
+- Progress to **real-world datasets** (COVID-19, climate, demographics) for storytelling.
+- Use **geospatial datasets** for map-based projects.
+- Encourage students to explore **Kaggle competitions** to apply skills in real-world contexts.
+
+---
+
+# Week 07 - Assignment Mockups
+In this stage of your data visualization project, you will move from raw information to structured insight. Before we dive into high-fidelity aesthetics, you must deeply understand the "why" and "how" of your dataset. This week is dedicated to rigorous analysis and structural planning.
+
+### Phase 1: Deep Data Analysis
+Analyze your chosen dataset to understand the dynamics and reciprocal relationships between variables. Use various tools to find inspiration and extract meaningful insights.
+- **AI as a Research Partner:** Upload your `.csv` data to an LLM (such as Gemini). Use it to infer exclusive insights, identify outliers, or discover hidden correlations.
+- **Visual Prototyping:** Ask the AI to generate different charts (scatter plots, heatmaps, etc.) to help you see the data in a clear, visual form.
+
+### Phase 2: Wireframing (3 Variations)
+Based on your findings, draft at least **three different wireframe layouts** for your final data visualization.
+- **Focus:** Spatial organization and information hierarchy.
+- **Constraints:** These layouts should _not_ include final typography, colors, or symbolic objects yet. Focus purely on the composition and where the data "lives" on the screen or page.
+    
+### Phase 3: Reflection & Submission
+Document your process in a blog post on your **Notion site** (Week 07 entry). Include:
+1. A summary of the insights you gained during analysis.
+2. Images or scans of your three wireframe layouts.
+3. A brief explanation of why you chose these specific structural approaches.
+
+**Submit the link to your Notion entry on the LMS.**
+
+### Important Notes
+- **In-Class Development:** We will determine typography, color palettes, symbolic objects, and visual aids together during our next session.
+    
+- **Feedback Policy:** I will provide personalized feedback during class time. **Attendance is mandatory for feedback.** If you miss the class, you miss the opportunity for a critique of your work. Consider yourself warned!
+
+### Helpful Resources & Tutorials
+#### Data Analysis & AI
+- [Gemini Faculty Fundamentals: The Live Data Analyst](https://www.youtube.com/watch?v=fLM7bMTr2h4): A practical guide on how to upload a CSV to Gemini, clean the data, and generate instant visualizations for your research.
+
+#### Wireframing for Data Viz
+- [Figma Wireframe Tutorial for Beginners](https://www.youtube.com/watch?v=iyrEStiTZh0): A guide on how to build structural layouts in Figma without getting distracted by high-fidelity design details. **You don't have to use Figma.** 
+    
+- [WIREFRAMES for Beginners | The 99% of UI/UX Design](https://www.youtube.com/watch?v=jWEE3YYv9BU): This video covers the "skeleton" approach to design, helping you focus on layout and interaction before aesthetics.    
+
+
+# Week 08 - Things getting Serious
+
+## 📑 Assignment Brief: Visualising Global CO₂ Emissions
+
+**Title:** _Telling Stories with Data – CO₂ Emissions Across Nations_
+
+**Objective:**  
+Students will create a multi-layered visualisation of global CO₂ emissions using the _Our World in Data_ dataset. The goal is to combine technical proficiency with narrative clarity, showing how visual design choices shape interpretation.
+
+---
+
+### Tasks
+1. **Data Preparation**
+    - Download the dataset from _Our World in Data – CO₂ Emissions_.
+    - Clean and organise the data for at least **five countries** across a **50-year period**.
+2. **Visualisation**
+    - Produce **three distinct chart types** (e.g., line chart, stacked bar chart, choropleth map).
+    - Ensure each chart has clear titles, labels, and legends.
+    - Apply consistent colour schemes and typographic hierarchy.
+3. **Narrative Layer**
+    - Write a **150–200 word caption** for each chart explaining:
+        - What the chart shows.
+        - Why the chosen visual form is effective.
+        - What story or insight emerges from the data.
+4. **Critical Reflection**
+    - Submit a **short reflection (300 words)** discussing:
+        - How design choices influence perception.
+        - What limitations exist in the dataset.
+        - How visualisation can contribute to public discourse on climate change.
+
+### Deliverables
+- Blog week08 containing:
+    - Three charts with captions.
+    - Reflection text.
+- All source files (Illustrator/Excel/Data/etc.) neatly organised on your Google Drive 
+
+---
+
+### Assessment Criteria
+
+|Criterion|Weight|
+|---|---|
+|Technical accuracy (clean data, correct charting)|30%|
+|Visual clarity (hierarchy, colour, typography)|30%|
+|Narrative strength (captions, storytelling)|20%|
+|Critical reflection (insight, awareness of limitations)|20%|

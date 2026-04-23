@@ -9,7 +9,8 @@ tags:
   - casaos
   - brew
   - ffmpeg
-aliases: 
+  - LaTeX
+aliases:
 draft: false
 ---
 ## TOC
@@ -217,6 +218,16 @@ nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv
 ```bash
 # Kill a running app by calling its absolute path
 sudo pkill -f -9 /home/filika/Desktop/irlz540.py
+
+# Find and kill the process via terminal
+lsof -ti :3031 | xargs kill -9
+
+# Find by process name
+pkill -f slidev
+
+# Find the PID and kill manually
+lsof -i :3031        # find the PID
+kill -9 <PID>        # replace <PID> with the number shown
 
 ```
 
@@ -587,8 +598,6 @@ brew services restart --verbose mysql
 ```
 
 ## Pandoc
-
-
 A `pandoc` script handles the image captions used in markdown. Note to myself the original script is in my `scripts` directory 😉
 
 ```shell
@@ -643,6 +652,16 @@ echo "Done! Output saved as '$OUTPUT_FILE'."
 pandoc input.pdf -o output.docx
 ```
 
+
+## LaTeX
+```shell
+# Generate Markup Version of the editted *.tex file 
+latexdiff old_manuscript.tex new_manuscript.tex > tracked_changes.tex
+
+# Then open the project on VS Code and compile it.
+```
+
+
 ## FFmpeg
 ### Video Conversion
 ```shell
@@ -683,7 +702,16 @@ ffmpeg -i scott-ko.mp4 -vf "scale=-1:720" resized.mp4
 ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" fast.mp4
 
 # SPEED DOWN Video
-ffmpeg -i input.mp4 -filter:v "setpts=2.0*PTS" slow.mp4
+ffmpeg -i input.mp4  -threads 6 -filter:v "setpts=2.0*PTS" slow.mp4
+
+# SLOW MOTION
+ffmpeg -i inputvideo.mp4 -threads 6 -filter:v "setpts=4*PTS,minterpolate=fps=60" result_slowmo.mp4
+
+# SLOW MOTION HIGH QUALITY
+ffmpeg -i inputvideo.mp4 -filter:v "setpts=4*PTS,minterpolate='mi_mode=mci:mc_mode=aobmc:me_mode=bidir:fps=60'" result_high_quality.mp4
+
+# UPSCALE & INCREASE FPS
+ffmpeg -i inputvideo.mp4 -threads 6 -filter:v minterpolate -r 120 result.mp4
 
 # AUDIO Extract
 ffmpeg -i input.mp4 -vn output.mp3
@@ -694,6 +722,12 @@ ffmpeg -i input.mp4 -an -c:v copy output.mp4
 # CONVER tO GIF
 ffmpeg -i input.mp4 -vf "fps=10,scale=320:-1:flags=lanczos" -c:v gif animation.gif
 
+```
+
+### Multi-video Input
+```bash
+# Puts 2 videos side by side
+ffmpeg -i left.MOV -i right.MOV -filter_complex hstack output.MOV
 ```
 
 #### Use FFmpeg concat to merge videos
@@ -719,6 +753,18 @@ ffmpeg -i "concat:input1.mp4|input2.mp4|input3.mp4|input4.mp4" -c copy output10.
 ```bash
 ffmpeg -i input_file_name.wav -b:a 320k -acodec libmp3lame output_file_name.mp3
 ```
+
+
+## Image Magick
+```shell
+# Convert image to grayscale
+magick input.jpg -colorspace Gray output.jpg
+
+# Convert to grayscale and improve the contrast
+magick input.jpg -colorspace Gray -contrast-stretch 1x1% output.jpg
+```
+
+
 ## Default Mac OS Paths
 Download the latest copy of [imgcat](https://raw.github.com/gnachman/iTerm2/master/tests/imgcat) from GitHub and put it into a bin directory which is inside your `$PATH` variable. ([What is PATH](http://www.linfo.org/path_env_var.html))
 

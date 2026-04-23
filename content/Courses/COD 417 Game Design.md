@@ -70,6 +70,7 @@ The following [list](https://github.com/JoseFaeti/magictools?tab=readme-ov-file#
 - [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - Create pixel avatars.
 - [Creature Mixer](https://kenney.itch.io/creature-mixer) - Create pixel animated creatures.
 - [Spaceship Mixer](https://kenney.itch.io/ship-mixer) - Create pixel spaceships.
+- [Pixel art tools](https://github.com/collections/pixel-art-tools) set of tools for editing and creating pixel art related visuals.
 
 ## Assets
 - [Kenney](https://kenney.nl/assets) Free game assets and starter kits as boilerplate. 

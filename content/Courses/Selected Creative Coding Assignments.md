@@ -203,7 +203,7 @@ After the second week of programming principles, students in the Creative Coding
 
 
 #### section B
-[Deniz Sönmez](https://openprocessing.org/sketch/2393640) Owl ⭐️
+[Deniz Sönmez](https://openprocessing.org/sketch/2393640) Owl 
 [Eda Şenel](https://openprocessing.org/sketch/2395833) Cat
 [Ali Büyükduman](https://openprocessing.org/sketch/2401621) Elephant
 [Kerem Alp](https://openprocessing.org/sketch/2395854) Rabbit ⭐️
@@ -245,7 +245,6 @@ Name Surname (@IG_username)
 Week 5 centers on the principles of randomness and probability. Students select an algorithmic artwork created between 1940 and 2000 and replicate it using stochastic decisions and conditional expressions.
 #p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart
 #### Section A
-[İdil Akan](https://openprocessing.org/sketch/2417902)
 [İrem Apaydın](https://openprocessing.org/sketch/2418164)
 [İris Eryılmaz](https://openprocessing.org/sketch/2412032)
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2415483)
@@ -317,7 +316,6 @@ Name Surname (@IG_username)
 During week 8, the main focus is utilizing typographic elements (loading fonts, displaying texts, and morphing font designs) on the canvas. The assignment is to create a generative version of a poster or book cover. We expect all students to create an interactive app via keyboard or mouse that generates variations of the design idea. 
 #p5js #processing #COD #ozu #ozufad #communicationdesign #creativecoding #algorithmicart #imageprocessing
 #### Section A
-[Azra Sadıkoğlu](https://openprocessing.org/sketch/2444037)
 [Bahar Kızılkaya](https://openprocessing.org/sketch/2443935)
 [Boray Ünlü](https://openprocessing.org/sketch/2444879)
 [Duru Özcan](https://openprocessing.org/sketch/2452018)
@@ -341,23 +339,20 @@ During week 8, the main focus is utilizing typographic elements (loading fonts, 
 
 ---
 
-### week 09 - Sound and Interactivity
+### ✅ week 09 - Sound and Interactivity
 #### Section A
 [Abeerah Malik](https://openprocessing.org/sketch/2462222) Songs from different period
-[Aleyna Kabaklar](https://openprocessing.org/sketch/2463426) Audio Player - Visualizer
-[Duygu Aksöz](https://openprocessing.org/sketch/2463545) 
-[GizemAudiovisual](https://openprocessing.org/sketch/2458127)
+[Duygu Aksöz](https://openprocessing.org/sketch/2463545) ⛔
 [İris Eryılmaz](https://openprocessing.org/sketch/2456822) Audio player
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2463522) Audiovisual
-[Lal Kara](https://openprocessing.org/sketch/2459113) Vinyl player
-[Lana Jamal](https://openprocessing.org/sketch/2454294) Audiovisual
-[Maya Caferzade](https://openprocessing.org/sketch/2462884)
-[Naz İpek](https://openprocessing.org/sketch/2463808) Vinyl
-[Talin Akarvardar](https://openprocessing.org/sketch/2462073) Audiovisual player
-[Zeynep Cebe](https://openprocessing.org/sketch/2463004) 
-[Zeynep Erol](https://openprocessing.org/sketch/2463004) Audiovisual game
+[Lal Kara](https://openprocessing.org/sketch/2459113) Vinyl player ⛔
+[Lana Jamal](https://openprocessing.org/sketch/2454294) Audiovisual ⛔
+[Maya Caferzade](https://openprocessing.org/sketch/2462884) ⛔
+[Naz İpek](https://openprocessing.org/sketch/2463808) Vinyl ⛔
+[Talin Akarvardar](https://openprocessing.org/sketch/2462073) Audiovisual player ⛔
+[Zeynep Cebe](https://openprocessing.org/sketch/2463004) ⛔⭐
 
-### week 10 - Autonomous Agents
+### ✅ week 10 - Autonomous Agents
 Week 10 Assignments - Autonomous Agents & Random Walkers
 Name Surname (@IG_username)
 .
@@ -367,10 +362,9 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 #### Section A
 [Ayşenur Karakuş](https://openprocessing.org/sketch/2472179)
 [Azra Sadıkoğlu](https://openprocessing.org/sketch/2470223)
-[Duru Özcan](https://openprocessing.org/sketch/2468761)
+[Duru Özcan](https://openprocessing.org/sketch/2468761) ⭐
 [Duygu Aksöz](https://openprocessing.org/sketch/2470876)
 [Gizem Çobanoğlu](https://openprocessing.org/sketch/2471259)
-[İdil Akan](https://openprocessing.org/sketch/2470459)
 [İrem Apaydın](https://openprocessing.org/sketch/2467587)
 [İris Eryilmaz](https://openprocessing.org/sketch/2467455)
 [Kerem Yaşlıçimen](https://openprocessing.org/sketch/2469479)
@@ -382,14 +376,10 @@ In Week 10 of COD 207: Creative Coding I, students developed projects focused on
 [Zeynep Erol](https://openprocessing.org/sketch/2472344)
 
 #### Section B
-[Alara Yılmaz]()
-[Ali Büyükduman](https://openprocessing.org/sketch/2476511)
-[Anıl Ekşi](https://openprocessing.org/sketch/2468484)
 [Beren Ay](https://openprocessing.org/sketch/2470974)
 [Cem Yılmaz](https://openprocessing.org/sketch/2476539)
 [Duru Seyhan](https://openprocessing.org/sketch/2477751)
 [Ecem Filik](https://openprocessing.org/sketch/2477320)
-[Melis Aktı](https://openprocessing.org/sketch/2476920)
 [Zaman Khan](https://openprocessing.org/sketch/2471130)
 
 ---
@@ -463,11 +453,11 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Faruk Sarı](https://openprocessing.org/sketch/2197701) Face Tracking Game
 [Gökalp Taşer](https://openprocessing.org/sketch/2203827) Car Racing
 [Can Canal](https://openprocessing.org/sketch/2204598) Face Tracking
-[Gül Naz Çoban](https://openprocessing.org/sketch/2197687) Running Mouse
+[Gül Naz Çoban](https://openprocessing.org/sketch/2197687) Running Mouse ⭐
 [Selin Kabadayı](https://openprocessing.org/sketch/2197691) Find the Monster
 #### B
 [Kübra Bostancı](https://openprocessing.org/sketch/2198154) 
-[Aya Berjamy](https://openprocessing.org/sketch/2198135) Football
+[Aya Berjamy](https://openprocessing.org/sketch/2198135) Football ⛔
 [Zainab Khan](https://openprocessing.org/sketch/2205165) My dog (Face Tracking)
 [Melis Üstün](https://openprocessing.org/sketch/2205481)
 [Kutluhan Hakkı Yücel](https://openprocessing.org/sketch/2198127)
@@ -475,10 +465,10 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Ceyda Koşer](https://openprocessing.org/sketch/2204866) Mouse Control
 
 ### Computational Illustration & Animation 
-[Esra Yücetürk](https://openprocessing.org/sketch/2181183) FAD Building
-[Ali Uzun](https://openprocessing.org/sketch/2130336) Dune Worms
-[Busenaz Kaplangı](https://openprocessing.org/sketch/2132897) OSC, Trace
-[Mert İnan](https://openprocessing.org/sketch/2276911) Audiovisual
+[Esra Yücetürk](https://openprocessing.org/sketch/2181183) FAD Building ⭐
+[Ali Uzun](https://openprocessing.org/sketch/2130336) Dune Worms ⭐ 
+[Busenaz Kaplangı](https://openprocessing.org/sketch/2132897) OSC, Trace 
+[Mert İnan](https://openprocessing.org/sketch/2276911) Audiovisual 
 [Ceyda Koşer](https://openprocessing.org/sketch/2135155) Audiovisual app
 
 ### Computational Art
@@ -619,9 +609,6 @@ Esra Yücetürk→ Feelings [Shock](https://openprocessing.org/sketch/2276646), 
 [Izel_Ergul-data - OpenProcessing](https://openprocessing.org/sketch/1873964)
 [Tutku_Calis-Lifetime Exp. Data - OpenProcessing](https://openprocessing.org/sketch/1873965)
 
-// Assignment upcoming
-[Teachable Machine 1: Image Classification - YouTube](https://www.youtube.com/watch?v=kwcillcWOg0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=13&ab_channel=TheCodingTrain)
-[Teachable Machine 3: Sound Classifiication - YouTube](https://www.youtube.com/watch?v=TOrVsLklltM&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y&index=21&ab_channel=TheCodingTrain)
 
 Face tracking
 // Darya mid-project - Assignment 10
@@ -670,6 +657,11 @@ Face tracking
 [Lal Kara](https://editor.p5js.org/lallkara/sketches/ZdcEgV__9) 
 [Lana Jamal](https://editor.p5js.org/lana.jamal/sketches/M7MtfHlSR)
 [Duygu Aksöz](https://editor.p5js.org/duygu.aksoz/sketches/T8sZYnX74) ⭐
+
+### Week 09 (Cod 208) - DAtavis
+[Spotify-top-50-artists by cemretoraman -p5.js Web Editor](https://editor.p5js.org/cemre.toraman/sketches/1nWJWoqCg)
+[azracerengunesweek9 by azracerengunes -p5.js Web Editor](https://editor.p5js.org/azracerengunes/sketches/tMPYBVqF1)
+[RecepCanAssignment09 by recepcan -p5.js Web Editor](https://editor.p5js.org/recep.can/sketches/RYo8RMcog)
 
 
 ## COD 207 Final Projects (2025-2026 Fall)

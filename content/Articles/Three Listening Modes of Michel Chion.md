@@ -10,11 +10,11 @@ tags:
 aliases:
 draft: false
 ---
-
 When we ask someone to talk about what they have heard, their responses vary greatly depending on the type of listening they employed. According to Chion there are three distinct types of listening: 
-1. causal listening, which focuses on understanding the source of the sound;
-2. semantic listening, which attempts to understand the meaning of the words; and 
-3. reduced listening, which focuses on the overall sound of the conversation.
+
+1. **Causal Listening**, which focuses on understanding the source of the sound;
+2. **Semantic Listening**, which attempts to understand the meaning of the words; and 
+3. **Reduced Listening**, which focuses on the overall sound of the conversation.
 
 ## 1. Causal Listening
 Causal Listening is one of the most commonplace among the society. This type of listening constitutes a cause & relation regarding the sound source. When the cause is visible, sound can provide additional information about it; for instance, tapping an enclosed container produces a sound that indicates how full it is. If it produces an echoic sound, it means the container is empty but if it creates lower frequency signals without a reverb effect, it means the container is filled with some substance other than air such as fluid or concrete material.
@@ -31,10 +31,10 @@ Causal listening is the most common mode, where listeners are primarily focused 
 - We can listen to a radio speaker everyday without having any idea about his or her imagery. Nevertheless this does not stop us to link him or her in our memory. The physical traits of the announcer may remain blank in our mind but we can recall the individual without seeing its visual qualities like hair color, body type, or his/her name.
 - We can identify the entities related to their general categories such as a motorbike, a human, a dog and so on…
 
-It's important to recognize that in movies, our listening mode is influenced by the audiovisual agreement, especially through synchresis. This means that the causes of the sounds we hear are not always the original ones, but rather what the film leads us to believe.
+> [!TIP] It's important to recognize that in movies, our listening mode is influenced by the audiovisual agreement, especially through synchresis. This means that the causes of the sounds we hear are not always the original ones, but rather what the film leads us to believe.
 
 ## 2. Semantic Listening
-Semantic listening is when listeners pay attention to the meaning and context of the audio content, such as lyrics in a song or dialogues in a movie.
+Semantic listening is when listeners pay attention to the meaning and context of the audio content, such as lyrics in a song, dialogues in a movie or morse-code signals.
 
 ## 3. Reduced Listening
 Reduced listening is the term coined by Pierre Schaeffer to describe a mode of listening that concentrates on the characteristics of the sound itself, rather than its origin or significance. This mode of listening is characterized by a detached and analytical approach to the sound, with a focus on the sound's properties and qualities.
@@ -61,9 +61,38 @@ Reduced listening is when the listener pays attention to the sound itself, indep
 - In order to gain awareness on a recorded sound, we need to listen to it repeatedly rather to perceive its inherited treats than focusing on its causes.  
 
 ## 4. Difference Between Causal and Reduced Listening
-Causal listening and reduced listening are two different modes of listening. Causal listening involves paying attention to the cause or source of a sound, including its contextual or emotional associations, while reduced listening focuses on the intrinsic qualities of the sound itself, independent of its source or meaning.
+Causal listening involves paying attention to the cause or source of a sound, including its contextual or emotional associations, while reduced listening focuses on the intrinsic qualities of the sound itself, independent of its source or meaning.
 
-An example case that highlights the difference between the two listening modes could be listening to a piece of music. When listening causally, one might pay attention to the instruments being played, the melody, and the lyrics, and how they fit together to create a particular mood or atmosphere. In contrast, reduced listening would involve paying attention to the individual sounds, such as the timbre and texture of each instrument, the rhythm, and the various sonic elements and effects used in the production. Reduced listening allows the listener to appreciate the music on a more abstract level, independent of its cultural or emotional associations, while causal listening emphasizes the social and cultural meanings of the music.
+An example case that highlights the difference between the two listening modes could be listening to a piece of music. *When listening causally, one might pay attention to the instruments being played, the melody, and the lyrics, and how they fit together to create a particular mood or atmosphere.* In contrast, *reduced listening would involve paying attention to the individual sounds, such as the timbre and texture of each instrument, the rhythm, and the various sonic elements and effects used in the production.* Reduced listening allows the listener to appreciate the music on a more abstract level, independent of its cultural or emotional associations, while *causal listening emphasizes the social and cultural meanings of the music*.
+
+
+## 5. All Listening Mode Theories
+![[listening01-mapping-through-listening.jpg]]
+
+
+
+## 6. References: Video 
+### Chris Jenkins' Full Series (Michel Chion's 3 Modes + more)
+> This 5-part series directly covers Chion's framework of Causal, Semantic, and Reduced listening.
+
+| #   | Title                                        | Channel       | Link                                                   |
+| --- | -------------------------------------------- | ------------- | ------------------------------------------------------ |
+| 1   | **Modes of Listening – Part 1: Intro**       | Chris Jenkins | [▶ Watch](https://www.youtube.com/watch?v=dR5n5cYl3r4) |
+| 2   | **Modes of Listening – Part 2: Causal**      | Chris Jenkins | [▶ Watch](https://www.youtube.com/watch?v=eKXfbLpxnuE) |
+| 3   | **Modes of Listening – Part 3: Semantic**    | Chris Jenkins | [▶ Watch](https://www.youtube.com/watch?v=ljUV4_M4GTY) |
+| 4   | **Modes of Listening – Part 4: Reduced**     | Chris Jenkins | [▶ Watch](https://www.youtube.com/watch?v=_W90BcCcWeY) |
+| 5   | **Modes of Listening – Part 5: Referential** | Chris Jenkins | [▶ Watch](https://www.youtube.com/watch?v=dbmXiSqpQQQ) |
+
+### Other Highly Relevant Videos
+
+|#|Title|Channel|Notes|Link|
+|---|---|---|---|---|
+|6|**Modes of Listening**|David Ogborn|University lecture covering Chion's causal/semantic/reduced modes|[▶ Watch](https://www.youtube.com/watch?v=oXZrkoarSPU)|
+|7|**Referential and Reduced Listening**|David Ogborn|Deep dive into Chion's reduced & referential listening concepts|[▶ Watch](https://www.youtube.com/watch?v=GvEwhAAPm5M)|
+|8|**Reduced Listening**|Connor MacDonald (Sensory Works)|Focused exploration of Chion's _reduced listening_|[▶ Watch](https://www.youtube.com/watch?v=HdNBdKwgudk)|
+|9|**R. Murray Schafer: LISTEN** _(Full Documentary)_|NFB (National Film Board of Canada)|Official documentary on Schafer's work and soundscape listening|[▶ Watch](https://www.youtube.com/watch?v=rOlxuXHWfHw)|
+|10|**Audio Cultures Lecture 11 – Ways of Listening**|Ian Stevenson|Academic lecture connecting Schafer, Chion, and listening theory|[▶ Watch](https://www.youtube.com/watch?v=d5Xd5mMxK3s)|
+|11|**Sounds in the Dark: The Art of the Acousmatic**|Univ. of Sheffield Arts|Covers acousmatic listening tied to Chion & Schaeffer's tradition|[▶ Watch](https://www.youtube.com/watch?v=s1S7rbPhvdw)|
 
 
 

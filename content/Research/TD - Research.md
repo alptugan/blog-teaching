@@ -85,6 +85,7 @@ Define uTime as uniform on shader variables menu. Be sure that `glslmulti1` is s
 [Mastering GLSL in TouchDesigner, Lesson 1: Writing your First Shader in TouchDesigner!](https://www.youtube.com/watch?v=kfI56H9bjLA)
 - watch lesson two
 - Tado'nun shaderlarını dene - [GitHub - tado/1000fragments](https://github.com/tado/1000fragments)
+- Bunu da dene - [GitHub - 0xhckr/ghostty-shaders: A repository containing many free shaders to use with ghostty (the terminal)](https://github.com/0xhckr/ghostty-shaders)
 
 ###  Serial Arduino Communication
 [Arduino multiple data to TouchDesigner \| Details \| Hackaday.io](https://hackaday.io/project/174967-arduino-muliple-data-to-touchdesigner/details)
@@ -104,6 +105,7 @@ Define uTime as uniform on shader variables menu. Be sure that `glslmulti1` is s
 ## Github Repos
 - [GitHub - cacheflowe/haxlib: A personal TD toolkit](https://github.com/cacheflowe/haxlib)
 - [GitHub - cacheflowe/td-docs-mcp: TouchDesigner Docs MCP server](https://github.com/cacheflowe/td-docs-mcp)
+- [GitHub - dylanroscover/Embody: Have a conversation with TouchDesigner](https://github.com/dylanroscover/Embody)
 
 ## Touchdesigner Components
 [GitHub - hku-ect/TouchDesignerComponents: This is a collection of commonly used TouchDesigner components](https://github.com/hku-ect/TouchDesignerComponents)

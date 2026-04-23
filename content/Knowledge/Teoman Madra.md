@@ -29,7 +29,7 @@ draft: true
 
 - 1984’ten itibaren zeytinyağı işi ile bir bağlantısı kalmıyor. Artık bir fotoğrafçı olarak yaşamaya başlıyor.
 
-- > Kanseri atlattıktan sonra sanat üretiminde daha çok yoğunlaşmaya başladı. 1980lerde KVK şirketi Commodore ve Amiga bilgisayarlarını Türkiye’ye getirmeye başlamıştı. O şirkette çalışan ve Teoman’ın yaptıklarını takip eden birisi, bilgisayar ortamında deneysel işler ürete- bileceğini ve bu üretimlerin bilgisayarın tanıtımını yapmaya katkısı olacağını düşünerek Teoman’a sanırım 1985 yılında bir Amiga bilgisayar tedarik edilmesini sağladı. 1986-88 yılları arasında çok sayıda multimedya, fotoğraf ve video gösterileri ve performanslar yaptı. O dönemlerde birçok müzisyenle ve caz gruplarıyla çalıştı. Avrupa sanat ortamı ile olan ilişkisini de uzaktan da olsa devamlı sürdürüyordu (Beral Madra).
+>Kanseri atlattıktan sonra sanat üretiminde daha çok yoğunlaşmaya başladı. 1980lerde KVK şirketi Commodore ve Amiga bilgisayarlarını Türkiye’ye getirmeye başlamıştı. O şirkette çalışan ve Teoman’ın yaptıklarını takip eden birisi, bilgisayar ortamında deneysel işler ürete- bileceğini ve bu üretimlerin bilgisayarın tanıtımını yapmaya katkısı olacağını düşünerek Teoman’a sanırım 1985 yılında bir Amiga bilgisayar tedarik edilmesini sağladı. 1986-88 yılları arasında çok sayıda multimedya, fotoğraf ve video gösterileri ve performanslar yaptı. O dönemlerde birçok müzisyenle ve caz gruplarıyla çalıştı. Avrupa sanat ortamı ile olan ilişkisini de uzaktan da olsa devamlı sürdürüyordu (Beral Madra).
 
 
 

@@ -1,10 +1,10 @@
 ---
 banner: "[[cover-Physical-compution.jpg]]"
-title: COD XXX Physical Computing
+title: COD 426 Creative Electronics and Prototyping
 date: 2025-04-16 08:31:09
-description: 
-tags: 
-aliases: 
+description:
+tags:
+aliases:
 draft: true
 cssclasses:
   - wide-page
@@ -14,6 +14,7 @@ share_updated: 2025-07-28T14:06:41+03:00
 ![[cover-Physical-compution.jpg]]
 ## Name Suggestions
 - Experimental Interfaces / Deneysel Arayüzler 
+- Creative Electronics and Prototyping
 
 ## Course Objective
 ### EN
@@ -197,6 +198,8 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 	- Leaded Solder - 360 C
 	- Lead Free Solder - 300-330 C
 	- Apply flux before solder
+- Button Library - [ezButton Library](https://arduinogetstarted.com/tutorials/arduino-button-library)
+	-  Push Button types - [How to Connect Buttons to Arduino](https://youtube.com/shorts/0zvgtS90LEk?si=H_M0w7fIJnITf1X4)
 - How to use servo motors - [[Driving Motors#Servo Motors]]
 - How to read capacitor values - [Read a Capacitor](https://www.wikihow.com/Read-a-Capacitor)
 - How to measure distance of objects via TOF200C - [article](https://www.makerguides.com/vl53l0x-distance-sensor-with-arduino/)
@@ -205,3 +208,4 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 - Arduino-based projects - [blog](http://www.learningaboutelectronics.com/Arduino/)
 - Touch Capacitive Sensor [MPR121 Capacitive Touch Sensor on Raspberry Pi](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
 - [Tutorials \| Creative Technology Lab Wiki](https://lab.arts.ac.uk/books/physical-computing/chapter/tutorials)
+- 

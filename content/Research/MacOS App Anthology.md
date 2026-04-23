@@ -19,6 +19,8 @@ The primary motivation for this endeavor is personal. I frequently encounter the
 macOS, Windows, and Linux. Built with Tauri, Svelte 5, and Rust.
 	- Built on top of FFMPEG
 	- GUI for adjusting FFMPEG parameters
+	- ⛔ The UI experience is bad.
+ 
 
 
 # 2025
@@ -59,3 +61,5 @@ Al Dante (Battery Management)
 [KeyClicker](https://wangchujiang.com/key-clicker/) KeyClicker brings a real keyboard typing sound experience to users, recreating the tactile feel of mechanical keyboards and typewriters. It also supports displaying the pressed shortcut keys on the desktop, making it ideal for meetings, teaching, or video tutorial creation.
 
 [Handy](https://handy.computer/download) A free, open source, and extensible speech-to-text application that works completely offline.
+
+[Shutter Encoder](https://www.shutterencoder.com/) Better UI then Frame built-on FFMPEG.

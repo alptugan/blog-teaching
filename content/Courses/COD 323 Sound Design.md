@@ -12,6 +12,12 @@ draft: false
 ## AI Tools
 [Minimax](https://www.minimax.io/audio/voice-isolator) Provides free noise reduction for voice over recordings. Voice cloning.
 
+[Coproducer](https://coproducer.output.com/pack-generator) Co-Producer is a new set of AI capabilities we’re building to help music makers unlock more time creating and less time searching, beginning with Pack Generator.
+
+[Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
+
+⭐ [Audio Enhancer Free](https://voice-clone.org/tools/audio-enhancer) AI Voice Enhancer Online. Free alternative to Adobe's Speech Enhancer.
+
 ## VST & Virtual Instruments
 [List of Free VST](https://www.ufukonen.com/tr/ucretsiz-pluginler.html) Huge list of free VST tools suggested by [Ufuk Önen](https://www.ufukonen.com/tr/). 
 
@@ -20,8 +26,6 @@ draft: false
 [Tape Cassette 2](https://www.caelumaudio.com/CaelumAudio/?Page=TapeCassette2)  is an audio plugin that emulates the warmth and character of old tape cassettes, featuring an updated interface and improved algorithms for saturation, wow & flutter, and tape noise. It includes a new Type 1 Cassette Impulse Response, VU meters, and selectable oversampling. The plugin adds vintage warmth and texture to tracks or channels and can also be used creatively for experimental sound design.
 
 [Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Review the [video](https://www.youtube.com/watch?v=oLvAbLEremk) to get more information. (Tip. FFT size parameter sets the clearance of the recorded track. Play with this to change the timbre of the sound. Higher values are close to original sound)
-
-[Speech Enhancer](https://podcast.adobe.com/enhance#) Adobe Speech Cleaner fixes background noise and reverb issues. It is capable of healing problematic recorded speech tracks. 
 
 [Vital Synth](https://vital.audio/) Sound synthesizer.
 
@@ -75,100 +79,126 @@ Before diving into searching sound samples in an endless ocean of web, review th
 Here are the most popular keywords for searching social media story sound effects, categorized by purpose:
 
 ## Sound SFX Keywords
-### Transitions & Movement
-- Whoosh
-- Swipe
-- Transition
-- Glitch transition
-- Zoom in/out
-- Slide
-- Page turn
-- Flash
-- Snap
-- Swish
+<div class="three-columns" style="--column-count: 3; display: flex; gap: 20px; align-items: flex-start;">
+<div>
+<h3>Transitions & Movement</h3>
+<li>Whoosh</li>
+<li>Swipe</li>
+<li>Transition</li>
+<li>Glitch transition</li>
+<li>Zoom in/out</li>
+<li>Slide</li>
+<li>Page turn</li>
+<li>Flash</li>
+<li>Snap</li>
+<li>Swish</li>
+</div>
 
-### UI & Digital Sounds
-- Notification
-- Pop
-- Click
-- Tap
-- Typewriter
-- Keyboard typing
-- Mouse click
-- App notification
-- Message tone
-- Dial-up/tech
+<div>
+<h3>UI & Digital Sounds</h3>
+<li>Notification</li>
+<li>Pop</li>
+<li>Click</li>
+<li>Tap</li>
+<li>Typewriter</li>
+<li>Keyboard typing</li>
+<li>Mouse click</li>
+<li>App notification</li>
+<li>Message tone</li>
+<li>Dial-up/tech</li>
+</div>
 
-### Emotional & Reaction
-- Wow
-- Drum roll
-- Suspense
-- Sad violin
-- Crickets (awkward silence)
-- Gasp
-- Laugh track
-- Record scratch
-- Vine boom (meme)
-- "Oh no" / "Oof"
+<div>
+<h3>Emotional & Reaction</h3>
+<li>Wow</li>
+<li>Drum roll</li>
+<li>Suspense</li>
+<li>Sad violin</li>
+<li>Crickets (awkward silence)</li>
+<li>Gasp</li>
+<li>Laugh track</li>
+<li>Record scratch</li>
+<li>Vine boom (meme)</li>
+<li>"Oh no" / "Oof"</li>
+</div>
 
-### Magic & Sparkle
-- Sparkle
-- Magic wand
-- Fairy dust
-- Twinkle
-- Shimmer
-- Chime
-- Bell
-- Harp flourish
-- Magical
+</div>
 
-### Reveals & Highlights
-- Reveal
-- Unlock
-- Achievement unlocked
-- Ding
-- Success
-- Celebration
-- Confetti
-- Victory
 
-### Comedy & Meme
-- Cue laugh track
-- Sad trombone
-- Ba-dum-tss (rimshot)
-- Yikes
-- Suspense (dun-dun-dun)
-- Boing
-- Slide whistle
-- Cartoon run
-- Wilhelm scream
+<div class="three-columns" style="--column-count: 3; display: flex; gap: 20px; align-items: flex-start;">
+<div>
+<h3>Magic & Sparkle</h3>
+<li>Sparkle</li>
+<li>Magic wand</li>
+<li>Fairy dust</li>
+<li>Twinkle</li>
+<li>Shimmer</li>
+<li>Chime</li>
+<li>Bell</li>
+<li>Harp flourish</li>
+<li>Magical</li>
+</div>
 
-### Countdown & Build-up
-- Countdown
-- Timer
-- Clock tick
-- Heartbeat
-- Rising tension
-- Build-up
-- Drop (music)
-- Suspenseful
+<div>
+<h3>Reveals & Highlights</h3>
+<li>Reveal</li>
+<li>Unlock</li>
+<li>Achievement unlocked</li>
+<li>Ding</li>
+<li>Success</li>
+<li>Celebration</li>
+<li>Confetti</li>
+<li>Victory</li>
+</div>
 
-### Nature & Atmosphere
-- Birds chirping
-- Rain
-- Thunder
-- Ocean waves
-- Forest ambiance
-- Wind
-- Fire crackle
+<div>
+<h3>Comedy & Meme</h3>
+<li>Cue laugh track</li>
+<li>Sad trombone</li>
+<li>Ba-dum-tss (rimshot)</li>
+<li>Yikes</li>
+<li>Suspense (dun-dun-dun)</li>
+<li>Boing</li>
+<li>Slide whistle</li>
+<li>Cartoon run</li>
+<li>Wilhelm scream</li>
+</div>
+</div>
 
-### Text & Typing
-- Text message
-- Typing
-- Pencil writing
-- Pen scratch
-- Swoosh send
-- Whoosh (for text)
+<div class="three-columns" style="--column-count: 3; display: flex; gap: 20px; align-items: flex-start;">
+<div>
+<h3>Countdown & Build-up</h3>
+<li>Countdown</li>
+<li>Timer</li>
+<li>Clock tick</li>
+<li>Heartbeat</li>
+<li>Rising tension</li>
+<li>Build-up</li>
+<li>Drop (music)</li>
+<li>Suspenseful</li>
+</div>
+
+<div>
+<h3>Nature & Atmosphere</h3>
+<li>Birds chirping</li>
+<li>Rain</li>
+<li>Thunder</li>
+<li>Ocean waves</li>
+<li>Forest ambiance</li>
+<li>Wind</li>
+<li>Fire crackle</li>
+</div>
+
+<div>
+<h3>Text & Typing</h3>
+<li>Text message</li>
+<li>Typing</li>
+<li>Pencil writing</li>
+<li>Pen scratch</li>
+<li>Swoosh send</li>
+<li>Whoosh (for text)</li>
+</div>
+</div>
 
 **Most searched overall**: whoosh, pop, notification, transition, sparkle, drum roll, click
 
@@ -211,13 +241,9 @@ Here are the most popular keywords for searching social media story sound effect
 #### Reverb
 - [Davinci Resolve Fairlight - Reverb](https://www.youtube.com/watch?v=RmLmDP0tyis) How to end the music track with reverb
 
-
 #### Noise Reduction
 - [How To Remove Audio Background Noise In Davinci Resolve 19 (2 methods)](https://www.youtube.com/watch?v=Zl3nr7ylUeo) 
 
----
-## AI Assisted Audio Technologies
-[Coproducer](https://coproducer.output.com/pack-generator) Co-Producer is a new set of AI capabilities we’re building to help music makers unlock more time creating and less time searching, beginning with Pack Generator.
 
 ---
 ## Quotes

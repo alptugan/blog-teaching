@@ -8,9 +8,7 @@ tags:
 aliases:
 draft: false
 ---
-
 # Spectrogram in Audio and Sound
-
 A **spectrogram** is a visual tool that shows how the **frequency content** of an audio signal changes over time. Think of it as a detailed map of sound frequencies, their volume, and how they evolve as the audio plays.
 
 ![[spectrogram-example-forensic-voice-comparison-guide-1369631495.jpg]]
@@ -21,7 +19,6 @@ A spectrogram is like a picture of sound, showing how the different pitches (fre
 For casual listening, this means you can visually spot patterns like a singer holding a note (a bright horizontal line), or a drum hit (a short burst across many frequencies). It helps you understand sound beyond just hearing it, showing hidden details that make music and speech unique. Spectrograms are used by musicians, sound engineers, and language experts, but anyone curious about how sounds work can enjoy exploring them this way.
 
 ## Key Elements of a Spectrogram
-
 - **Time (X-axis):** This horizontal axis shows the progression of time in the audio.
     
 - **Frequency (Y-axis):** The vertical axis shows the range of frequencies, from low (bass) to high (treble).
@@ -30,11 +27,9 @@ For casual listening, this means you can visually spot patterns like a singer ho
     
 
 ## How It Works
-
 The audio is split into short segments, and each segment is analyzed using mathematical methods (like the Short-Time Fourier Transform) to identify which frequencies are present and how strong they are. These slices are then arranged side-by-side to create the full spectrogram.
 
 ## Why Spectrograms Matter
-
 - They let us **see sound** in a way the normal waveform can’t, revealing details like transient hits, sustained notes, or overlapping frequencies.
     
 - They’re essential in fields like **speech recognition**, where different phonemes have unique frequency patterns.
@@ -45,9 +40,7 @@ The audio is split into short segments, and each segment is analyzed using mathe
 ## Interpretation Tips
 
 - **Vertical lines** show individual frequencies.
-    
 - **Horizontal streaks** indicate how long those frequencies last.
-    
 - The **color intensity** shows the volume or presence strength of those frequencies.
     
 

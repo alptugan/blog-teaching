@@ -27,6 +27,9 @@ date: 2025-03-19T12:00:00
 
 [Browserless: The headless Chrome/Chromium driver on top of Puppeteer.](https://github.com/microlinkhq/browserless?tab=readme-ov-file)  The headless Chrome/Chromium driver on top of [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 
+## Brow
+[antfu/broz:](https://github.com/antfu/broz) A simple, frameless browser for screenshots.
+
 ## ImageJS
 [ImageJS](https://docs.image-js.org/docs/getting-started) ImageJS is a versatile and powerful TypeScript library for image processing and analysis, offering comprehensive tools and algorithms for manipulating, enhancing, and understanding images both in Node.js and popular browsers.
 
@@ -88,6 +91,7 @@ date: 2025-03-19T12:00:00
 - [yzdbg/spectrogram-threejs](https://github.com/yzdbg/spectrogram-threejs) A realtime 3d spectrogram visualization of the user's microphone audio. Made with threeJs using shaders.
 - [GitHub - toakleaf/spectrogramJS: HTML5 Canvas and Web Audio API based spectrograph app. Live demo @ https://spectrogramjs.netlify.com](https://github.com/toakleaf/spectrogramJS?tab=readme-ov-file)
 - [GitHub - InfiniteX95/inspekt-web: Web audio spectrogram visualizer](https://github.com/InfiniteX95/inspekt-web?tab=readme-ov-file)
+- [wavesurfer.js \| audio waveform player JavaScript library](https://wavesurfer.xyz/) spectrogram view.
 
 ## Markdown
 - [Mardown Badges](https://github.com/Ileriayo/markdown-badges) Badges for your personal developer branding, profile, and projects.
@@ -339,6 +343,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [db4free](https://db4free.net/), MySQL free db
 [FreeSQLdatabase](https://www.freesqldatabase.com/),MySQL free db
 [Oracle Cloud MySQL Db](https://cloud.oracle.com/limits?region=eu-frankfurt-1), tutorial on how to create one [link](https://www.youtube.com/watch?v=CNVldnsrWgI)
+[Prisma Data Platform](https://www.prisma.io/), Free database, Postgres
 
 ### CMS
 ⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file

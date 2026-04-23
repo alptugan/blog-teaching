@@ -51,7 +51,6 @@ cssclasses:
 > [!NOTE] Piezo Preamp VI - Phantom Powered
 > [Piezo Buffer – OPAIC – opamp impedance converter – POTAR Design Concern](https://potardesign.com/piezo-buffer-opaic-opamp-impedance-converter/)
 
-
 > [!NOTE] Piezo Preamp VII - TLC 272 + 3V
 > [Lab3 - Laboratory for Experimental Computer Science](https://interface.khm.de/index.php/lab-log/piezo-disk-preamplifier/index.html)
 > 🛒 [TLC272CP, TLC272, DIP-8 Entegre Devre](https://karakoyelektronik.com/amplifikatorler/tlc272cp-21584?SubmitCurrency=1&id_currency=1)
@@ -64,13 +63,29 @@ cssclasses:
 - Connect multiple piezos in Parallel not in series. Because Serial connection increases impedance. In parallel connection, each positive and negative goes to connection tips separately. [video](https://www.youtube.com/watch?v=JrN4HSJadNM)
 
 - Balanced Piezo Connection, [video](https://www.youtube.com/watch?v=JrN4HSJadNM)
-![[piezo balanced connection.jpg|-center|100]]
+![[piezo balanced connection.jpg|-left|200]]
 ## Case Studies
 [Hear hidden sounds with a DIY microphone - CNET](https://www.cnet.com/tech/home-entertainment/hear-hidden-sounds-with-a-diy-microphone/)
 
 [DIY Hydrophone - YouTube](https://www.youtube.com/watch?v=C3Sm4YkPF9w)
 
 [Crystal Light With Piezoelectricity, Instructables](https://www.instructables.com/Crystal-Light-With-Piezoelectricity-the-Precious-L/)
+
+### Tin Can + Piezo + Motor
+Refer to the [documentation](https://media-host.alptugan.workers.dev/Documents/cod412-Tut-Piezo-Amplifier-Motor-Kalimba.pdf) 
+
+<div class="two-columns" style="--column-count: 2; display: flex; gap: 2%; align-items: flex-stretch;">
+
+<div >
+<img style="width: 100%; height: 100%; object-fit: contain; display: block;" src="P-Piezo Sensors-tincan01.jpg" alt="">
+</div>
+
+<div>
+<img style="width: 100%; height: 100%; object-fit: cover; display: block;" src="P-Piezo Sensors-tinca02.jpg" alt="">
+</div>
+</div>
+
+
 
 ## Piezo Mic Version History
 The problems with using the piezo disk as a microphone as follows;

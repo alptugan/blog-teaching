@@ -16,7 +16,6 @@ draft: false
 4. RandomSeed IG [link](https://www.instagram.com/cod207_randomseed/)
 
 ## week 1 - Recall Your Coding Knowledge
-[week 01 Presentation](https://alptugan.github.io/Slidev_Presentations/week01_cod_208/dist)
 - 👀 Keep your eyes open. Choose a thing. Let's say your favorite cup at your home, or a specific bird that you hear everyday, or your pet, or a tree at the campus. Review the example [tutorial](https://openprocessing.org/sketch/1879055). On the last page of the tutorial, you will see that whenever you run the code, it generates different facial expressions.  
 - As we did in the previous semester, break it apart using CT principles. Redraw it using p5JS.  
 - Make it parametric. So whenever you run the app, determine its properties randomly.  
@@ -33,7 +32,26 @@ draft: false
 [Abeerah Malik](https://editor.p5js.org/Abeerah_malik/sketches/WClgazXPt), [Aleyna Kabaklar](https://editor.p5js.org/aleyna03/sketches/zxnioc4Ps), [Azra Sadıkoğlu](https://editor.p5js.org/azrasadikoglu/sketches/5D18hhWKb), [Bahar Kızılkaya](https://openprocessing.org/sketch/2536989), [Boray Ünlü](https://openprocessing.org/sketch/2538167), [Duru Seyhan](https://openprocessing.org/sketch/2538147), [Duygu Aksöz](https://openprocessing.org/sketch/2538625), [İrem Apaydın](https://openprocessing.org/sketch/2538871), [Kerem Alp](https://openprocessing.org/sketch/2539084), [Kerme Yaşlıçimen](https://editor.p5js.org/KeremY./sketches/PuyJ--loG), [Zeynep Erol](https://openprocessing.org/sketch/2538652)
 
 ## week 2 - Object Oriented Programming
-[week 02 Presentation](https://alptugan.github.io/Slidev_Presentations/week02_cod_208/dist)
+### Assignments 1
+1. Convert the week 01 assignment to a class. [Reference1](https://openprocessing.org/sketch/2183375), [Reference2](https://openprocessing.org/sketch/2183462), [Reference3](https://editor.p5js.org/alptugan/sketches/m-fYDwhpS), [Reference4](https://editor.p5js.org/alptugan/sketches/pR1sw_pqs)
+2. Create instances of your class by initializing it using different parameters.
+3. Create at least 10 different objects in different features.
+4. Position all of the objects in the same sketch. Do not create different sketches of each instance.
+5. ⏫ Upload the sketch to your openProcessing or P5JS account.
+6. ❗Submit the openprocessing or P5JS link.
+7. ❗Submit the sketch source code as zip file as well.
+8. 📺 Watch the video [Mini Games](https://www.youtube.com/watch?v=f3lodYYyr24)
+
+### Assignments 2
+I want you to first write a story for a mini game. The concept can be anything using the Object you used for the Assignment 1.
+
+1. Create a mini game interface. Keep the document size at 800 x 800 pixel and resolution to 72 DPI.
+2. Desing Intro Screen: A background, Clearly explain instructions to play the game.
+3. Design Game Scene: A background, the hero, and enemies
+4. Design End Scene: A background, the result of the game. SUCCESS or FAIL or CONGRATS!
+5. Export everything as PNG in appropriate size.
+6. ⏫ Upload the interfaces.
+7. 📺 Watch the video [Mini Games](https://www.youtube.com/watch?v=f3lodYYyr24)
 
 #### 2025-2026
 1. Finalize the project that you started in class time. You have two options. Choose 1 or 2. It is optional to submit both of them.  
@@ -55,6 +73,15 @@ draft: false
 
 
 ## week 3 - Control Multiple Instances
+1. 👀 Implement all of the scenes that you design for your game in P5Js.
+2. You can use the codes in my game and implement to yours.
+3. Fork my game template to adapt your game scenes.
+4. For those who have different game mechanics than my game, do your best. I want to see the implemented design in P5Js.
+5. ⏫ Upload the sketch to your openProcessing or P5JS account.
+6. ❗Submit the openprocessing or P5JS link.
+7. ❗Submit the sketch source code as zip file as well.
+
+- 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4)
 - Refer to [[COD 417 Game Design#Game Library | Game Library Section]].
 
 **Games**
@@ -82,6 +109,11 @@ draft: false
 - 📺 Check the videos [Former Student Games](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=3JG3bH1E8inVrCJ4).
 
 ## week 4 - Game Design
+1. Submit screen-capture video of your game play. Keep it under 2 minutes. You have to do it properly. Convert the screen capture to mp4 video format using the [Frame](https://www.framegui.app/) App (40 points).
+2. Read the [article](https://teaching.alptugan.com/Tutorials/P5JS---Augmented-Reality) about Augmented Reality.
+3. Print a [fiducial marker](https://github.com/tetunori/p5.simpleAR/tree/main/markers) (20 points).
+4. Submit an augmented reality project as a pdf document. You don't need to write the code. Submit only your project idea in appropriate format. Use reference images or drawings to explain your project. (40 points). Refer to the following [video1](https://www.youtube.com/watch?v=4CSYA9R70R8), [video2](https://www.youtube.com/watch?v=KRvEFwHXm8s)
+
 #### 2025-2026
 Showcase of games on itch.io web platform, [links](https://itch.io/games/made-with-p5js)
 Making a software visual guide, [link](https://www.makingsoftware.co/)
@@ -106,6 +138,25 @@ For more information about the game format, visit the [link](https://alptugan.gi
 5. ❗Submit the sketch source code as zip file as well.
 
 ## week 5 - Marker-based AR
+Create the Augmented Reality project you submitted previous week. 
+**OR**
+You have 3 options. Choose one below. Link to the [tutorial](https://teaching.alptugan.com/Tutorials/P5JS---Augmented-Reality). Review previous student works. Links are [here](https://alptugan.github.io/Slidev_Presentations/2025-2026-Spring/week05_cod_208-Metaphors-AR/#/15)
+
+1. **Art:** Create an interactive AR sketch where the fiducial marker displays a unique piece of digital art or animation.
+    
+2. **Education:** Design an AR-based educational tool that uses fiducial markers to teach a concept (e.g., design, astronomy, biology, geography, or math).
+    
+3. **Interactive Poster:** Create a poster about a topic of your choice. You can use a material that you did before in your other typography or basic design courses. Attach the marker to the corner of your poster. Whenever, the user points the camera at the poster, it displays some more information or animation related to the printed design.
+    
+
+aYou can use a single or multiple markers if you want. Refer to the example sketch In this sketch you need to print the first 6 markers (0wFrame.png, 1wFrame.png, 2wFrame.png, 3wFrame.png, 4wFrame.png, 5wFrame.png) from the following link.
+
+**General Submission Guidelines for All Assignments:**
+
+1. **Code Submission:** Submit the p5.js or openProcessing link.
+2. **Zipped Project Folder:** Compress the entire project folder. Upload on LMS.
+3. **Proof of Concept Video:** Record a video using your mobile phone’s screen recorder to demonstrate the AR application in action. The video should clearly show the fiducial markers being detected and the AR content responding accordingly.
+
 Other than p5JS addon. there is a more advanced web-based AR library built with JS [MindAR \| mind-ar-js](https://hiukim.github.io/mind-ar-js-doc/)
 #### 2025-2026
 Review the last year student works from the following [link1](https://drive.google.com/drive/folders/1edO4_MdxBJG1ZL_TSAljGU7GBJtT5Ljt?usp=sharing) and [link2](https://drive.google.com/drive/folders/1ndAaIwq1CQCZ2IgkZDWIXEeU6Jo0Pxcy?usp=sharing).
@@ -132,6 +183,18 @@ You can use a single or multiple markers if you want. Refer to the example [sket
 - Submit the link of your game.
 
 ## week 6 - ML with Teachable Machine
+### Assignment 
+1. **Objective:** Create a custom trained model as we did in class with your own objects.
+2. **Instructions:** Gather at least 3 distinct objects.
+3. **Bring** the objects with yourself to the upcoming class.
+4. **Upload** the video of your Teachable Machine page in action as a proof of concept. 
+
+### Assignment 2
+1. 👀 Review the [ml5.org](https://ml5js.org/about) website for other Machine Learning tools related to sound, images, and human poses. Review the selected [student works](https://drive.google.com/drive/folders/1XI32tritP87MVNYYPZYmQwG1VafL1Ih9?usp=sharing) from previous year.
+2. 📖 Research about creative coding projects
+3. ⏫ Submit the draft project idea in pdf format…
+
+
 #### 2025-2026
 Watch the following videos in order.
 1. [Introduction to Machine Learning](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/0-introduction/1-introduction)
@@ -155,41 +218,41 @@ Options 2: Create three different masks in Photoshop or Illustrator. Upload the 
 - Upload the image you choose. 
 - References : [Computational Mask Repo](https://www.pinterest.com/alptugan/02-computational-masks-repo/more_ideas/?request_params=%7B%221%22:%2039,%20%227%22:%20%221100798308726688953%22,%20%228%22:%20%22575686833557453072%22,%20%2232%22:%2020,%20%2237%22:%20%22Ideas%20for%20your%20board%22%7D&full_feed_title=Ideas%20for%20your%20board&view_parameter_type=3173&pins_display=3&ideas_referrer=25), [Generative Masks](https://generativemasks.io/), [Ref3](https://www.britannica.com/art/mask-face-covering/The-functions-and-forms-of-masks)
 
-## week 7 - ML
+## week 7 - ML (Project Showcase)
+Create a group project using Google Teachable Machine and P5JS.
+
+Choose one of the project ideas below **or** you can choose a different theme.  
+  
+ [Tutorial about how to use trained models in p5js.](https://teaching.alptugan.com/Tutorials/P5JS---ml5-and-Teachable-Machine-Integration) Also check previous student projects related to machine learning. Refer to previous presentations and LMS entries.  
+
+Answer the following questions for your project and upload the project document as pdf file.
+
+1. What is the name of your project?
+2. What kind of design issue does your project solve?
+3. How does your project solve that issue?
+
+### Submission Requirements
+1. 🔗 Code link
+2. 📦 Source_code.zip
+3. 📺 Screen capture the video of your project. ⏫ Upload it as **mp4**.
+4. Project document as pdf file.
+
+### (Option 1) Interactive Digital Art Installation
+**Objective:** Create an interactive digital art piece that responds to real-world objects.
+**Collect and Train:** Gather at least 10 distinct objects. Integrate the trained model into a p5.js sketch. Design visual elements that change based on the detected object. For example, displaying different animations or colors corresponding to each object.
+
+### (Option 2) Educational Game
+**Objective:** Develop a simple game that teaches users about the objects recognized by the classifier.
+**Collect and Train:** Select 10 educational items (e.g., fruits, geometric shapes, tools). Train a model using Teachable Machine to identify each item. Create a p5.js game where users present objects to the camera. Provide feedback or facts about the object upon correct identification.
+
+### (Option 3) Assistive Tool
+**Objective:** Build a tool that aids individuals with visual impairments by audibly identifying objects.
+**Collect and Train:** Assemble 10 everyday objects. Train an image classifier using Teachable Machine to recognize these items. Integrate the model into a p5.js sketch. Implement functionality to speak the name of the detected object using the p5.js sound library.
 #### 2025-2026
 Review the selected [student works](https://drive.google.com/drive/folders/1XI32tritP87MVNYYPZYmQwG1VafL1Ih9?usp=sharing) from previous year.
 You may choose one of the following:
 
-**Option 1: Interactive Art Installation**
-**Objective:** Create an interactive digital art piece that responds to real-world objects.
-
-**Instructions:**
-1. Collect and Train: Gather at least 10 distinct objects.
-2. Develop with p5.js:
-
-Integrate the trained model into a p5.js sketch.
-Design visual elements that change based on the detected object. For example, displaying different animations or colors corresponding to each object.
-
-
-**Option 2: Educational Game**
-**Objective**: Develop a simple game that teaches users about the objects recognized by the classifier.
-
-**Instructions:**
-1. Collect and Train: Select 10 educational items (e.g., fruits, geometric shapes, tools). Train a model using Teachable Machine to identify each item.
-2. Game Development: Create a p5.js game where users present objects to the camera. Provide feedback or facts about the object upon correct identification.
-
-**Option 3: Assistive Tool**
-**Objective**: Build a tool that aids individuals with visual impairments by audibly identifying objects.
-
-**Instructions**:
-1. Collect and Train: Assemble 10 everyday objects. Train an image classifier using Teachable Machine to recognize these items.
-2. Develop with p5.js: Integrate the model into a p5.js sketch.
-
-Implement functionality to speak the name of the detected object using the p5.js sound library.
-
-
-#### 2024-2025
-##### Please READ💢
+#### 2024-2025##### Please READ💢
 ##### No Late Submissions❗❗❗If you don't understand ask me, or your friend, or to an AI chatbot.  
 - Use **Decomposition**, **Flow**, **Translation**, and **Algorithm Design** steps for your mask generation. I want to see how you implement your ideas. Upload text, diagram or any kind of material that you include your programming activity. Create a pdf for your design process as I show you in the presentation. You don't need to include material for the Algorithm Desin section since your codes on openProcessing is the last step actually. **(40 points)** [Tutorial](https://openprocessing.org/sketch/2217223 "https://openprocessing.org/sketch/2217223")
 - Write down the mask code. **(20 points)**
@@ -201,7 +264,27 @@ Implement functionality to speak the name of the detected object using the p5.js
 - ❗Submit the openprocessing link.
 - ❗Submit the sketch source code as zip file as well.
 
-## week 8
+## week 8 - FaceAPI with ML5
+### Assignment 1 (50 points)
+1. Create three additional mask illustrations using the same **UV texture map** used during class.
+2. Modify your application to detect **multiple faces** and assign a random mask to each detected face.
+3. Upload a **high-quality video** as proof of the multi-face detection in action with randomly chosen masks in **MP4** format.    
+4. Submit the source code on the **LMS**.
+5. Refer to the [article](https://teaching.alptugan.com/Tutorials/P5JS---ml5-Face-mesh-Mask-Switch). Do not copy/paste all the codes. First, **READ** and **WATCH** what is on the page. Then try it by yourself. If you get stuck, you can ask. Do not send me email without any context, or I do not reply. FYI. 
+**Don't**
+- Student: My code does not work.
+- Instructor: No reply.
+
+**Do**
+- Student: I'm in COD 208 B section. Here is link to my code (https://editor.…). I tried to implement the code as described on the article. But I got error around the line 35...
+- Instructor: Replies...
+
+### Assignment 2 (50 points)
+1. Update your **Week 07 Machine Learning** assignment. Ensure the design is relevant to your project concept and maintains visual balance (alignment of UI elements, grid layout, typography, color palette, etc.). Record a proper, **high-quality video** of the result.
+2. Submit the video in **MP4 format**.
+
+
+
 ### 2025 - 2026
 #### Personal Portfolio Inspiration
 The only web design inspiration sites you need: 
@@ -236,7 +319,13 @@ New example on fetching image via rest API [[REST API#DOG API]]
 #### 2025-2026
 Load a CSV dataset and create a **static** data visualization that reveals interesting patterns, comparisons, or distributions. Your visualization should be visually engaging and thoughtfully designed. Do not forget to include a legend in your design.
 
-**Inspiration:** Look at [Information is Beautiful](https://informationisbeautiful.net/) for creative static visualizations!
+**Inspiration:** 
+- Look at [Information is Beautiful](https://informationisbeautiful.net/) for creative static visualizations!
+- [p5JS Class Code Example - Starwars data visualization](https://editor.p5js.org/alptugan/sketches/d89_fe6ru)
+- Datavis with p5js → [tutorial](https://teaching.alptugan.com/Tutorials/P5JS---Data-Visualization#onduygu2018)
+- In class codes → [datavis-sectionA](https://editor.p5js.org/alptugan/sketches/OMdKt9eEG)
+- In class codes → [datavis-sectionB by alptugan -p5.js Web Editor](https://editor.p5js.org/alptugan/sketches/IDcs_2Qjg)
+- Datavis projects built with p5js → [The Data Garden Collective](https://www.data-garden.co/gallery)
 
 ##### Suggested Datasets (or find your own):
 - [Weather Data](https://www.kaggle.com/datasets) (temperature, rainfall by city)
@@ -246,6 +335,9 @@ Load a CSV dataset and create a **static** data visualization that reveals inter
     
 ##### Submission Guidelines:
 - Submit p5JS link
+- Your project must include a relational data visualization
+- Include a legend into your project that gives information about your visual entities
+- DO NOT COPY/PASTE AI response as submission. You can use AI but you must customize the code and design.
 - Submit source code as a zip file.
 
 ##### Mood board & Final Project Proposal Submission Guideline:
@@ -300,7 +392,7 @@ As it is declared in the course syllabus, your final project has 30% weight on y
 | Detailed Comments in the Code       | 20 PTS      |
 | Use of Variables                    | 20 PTS      |
 | Aesthetics, Design Balance, Context | 20 PTS      |
-| Project Document                    | 20 PTS      |
+| Project Documentation               | 20 PTS      |
 | Presentation                        | 20 PTS      |
 | **TOTAL**                           | **100 PTS** |
 
@@ -321,6 +413,43 @@ If you need a topic or theme, you can utilize one of the following concepts;
 12. Generative Art (Abstracted formalism) → [Fish](https://youtu.be/sDe83WXMkP8?si=FuZzzLOJz2WjfbSk), [Generative Logo](https://youtu.be/jBGm0xtxI1Y?si=eu5HLu_JRoqnF8mx)
 13. A project including Algorithmic Art Praxis. Choose multiple categories from the cheat sheet that I distributed to you in class and create series of artworks according to a theme and print them to fine papers. Check the existing artworks to get inspired → [link](https://alptugan.notion.site/0025088dd8be4eafad7826c90260dc59?v=e8195072f5ec42f4b9f39a70b64b429d). You can view specific category items using ALAP website.
 
+## Selected Final Project Proposals
+1. [Final Project - moodboard Ceren\_kazaz.docx](https://docs.google.com/document/d/1AiiD0wSvnhzWwWa-DToJC8EXCfheEwTl/edit?usp=sharing&ouid=114728097188468583945&rtpof=true&sd=true)
+2. [Naz\_İrem\_Sevinc\_COD 207 Final Project Porposal.pdf](https://drive.google.com/file/d/1kPYVgdXDL6d2vuh50h7i9sCRtbgf7YO3/view?usp=sharing)
+3. [AlmiraOguz\_Final\_Project\_Proposal\_COD208\_B.pdf](https://drive.google.com/file/d/1OjMAK80a5NPPGFPEVaIYM-0tXnFWekZX/view?usp=sharing)
+4. Bad Example: [Emre.Tunali.Final.Project.Proposal.COD208.B.pdf](https://drive.google.com/file/d/1GxO6gV4mrq23ZKLLVBbxjNucUe0xHqiY/view)
+5. ⭐ [Iris\_Eryilmaz\_FinalTemplate.docx](https://docs.google.com/document/d/14MQLA0T9jM8cl_d9joKIvn3Ae3Lm_rWh/edit?usp=sharing&ouid=114728097188468583945&rtpof=true&sd=true)
+6. [COD208-Project Template.docx](https://docs.google.com/document/d/1WqiH--a2ExBFjzoNxjN9lODC3toFV_96/edit?usp=sharing&ouid=114728097188468583945&rtpof=true&sd=true)
+7. [kerem.alp.cod.208.project.template.pdf](https://drive.google.com/file/d/11LeFMrzg9YX3VWvyzoUo35RIc0czs0GH/view?usp=sharing)
+8. [Kerem.Yaslıçimen.COD208.Proposal.docx](https://docs.google.com/document/d/1Yp94PdVj7cgSqrYQ2zftXM4k-XS68_Mk/edit?usp=sharing&ouid=114728097188468583945&rtpof=true&sd=true)
+
+## Project Documentation 
+[kerem.alp.cod.208.final.mp4](https://drive.google.com/file/d/18PetZKp1T5oKdOibUzxLvu7h6QsBkX0R/view?usp=sharing)
+![[cod-intro-scene.png]]
+Your documentation video is the primary representation of your final project. To ensure clarity and professionalism, follow these steps:
+
+1. **Video Quality**
+    - Record in clean, high resolution (minimum 1080p).
+        
+2. **Opening Screen (max. 5 seconds)**
+    - Begin with a black screen displaying:
+        - Your full name
+        - Course name and section
+        - Date
+    - Use a sans-serif font (e.g., [Roboto](https://fonts.google.com/specimen/Roboto)).
+        
+3. **Project Introduction**
+    - Provide a brief overview of your project in the next scene.
+    - Keep it concise: maximum three sentences, delivered as text or voiceover.
+        
+4. **Recording with Phone**
+    - Ensure proper framing and stable shots.
+    - Avoid shaky camera movements.
+    
+5. **Screen Recording**
+    - Keep the project video full screen. Do not stretch or crop the video. Fit into 1920x1080 area. You can set the remaining parts white or black. [reference](https://drive.google.com/file/d/18PetZKp1T5oKdOibUzxLvu7h6QsBkX0R/view?usp=sharing)
+    - Do not show code and output side by side.    
+    - First present the code in one scene, then show the generated output in a separate scene.
 
 # Resources
 #### WebSockets + WebRTC + Arduino (Physical Computing)

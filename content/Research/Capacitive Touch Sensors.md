@@ -25,4 +25,8 @@ datastream the touch threshold'u iyice düşürürsen proximity sensor gibi davr
 
 ## Debouncing
 - The article showcases several debouncing techniques to prevent ghost triggers, [Arduino Button Debouncing Techniques](https://deepbluembedded.com/arduino-button-debouncing/)
-- 
+
+
+## References
+- [Electric Fields and Capacitance](https://www.allaboutcircuits.com/textbook/direct-current/chpt-13/electric-fields-capacitance/)
+- [Introduction to Capacitive Touch Sensing](https://www.allaboutcircuits.com/technical-articles/introduction-to-capacitive-touch-sensing/)

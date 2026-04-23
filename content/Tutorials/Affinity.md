@@ -1,5 +1,5 @@
 ---
-title: Affinity Photo Basics
+title: Affinity Basics
 date: 2025-03-30 12:21:51
 description:
 tags:
@@ -34,6 +34,10 @@ To create text boxes in Affinity Photo left-click and hold mouse, then select th
 - Select destination layer.
 - Hit `CMD + Ctrl + V`
 
+
+## Make Selection
+- Use pen tool to create curve
+- When pen tool is selected hit "selection" button on top left corner.
 
 ## Creating Grid Templates
 Watch the following [YouTube](https://www.youtube.com/watch?v=gUzkRue28VI) video to learn the basics of utilizing grids in your design.

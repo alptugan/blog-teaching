@@ -10,12 +10,6 @@ draft: false
 ---
 The following post includes online development tools for productivity frequently. You may want to check [[REST API]] page further online tools providing API to retrieve specific data.
 
-## Broken White Tones
-🌕 Off White [#FAF9F6](https://www.instagram.com/explore/tags/faf9f6/)  
-❄️ Snow [#FFFAFA](https://www.instagram.com/explore/tags/fffafa/)  
-🟡 Ivory [#FFFFF0](https://www.instagram.com/explore/tags/fffff0/)  
-🧊 Alice Blue [#F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
-👻 Ghost White [#F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
 
 ⭐ Customizing UI components on the fly [Beautiful themes for shadcn/ui — tweakcn \| Theme Editor & Generator](https://tweakcn.com/) There is also ShadcnUI component customization. Refer to the [tutorial](https://www.youtube.com/watch?v=jHzdo1Bm9Lk)
 
@@ -37,6 +31,7 @@ The following post includes online development tools for productivity frequently
 [JsonCrack](https://github.com/AykutSarac/jsoncrack.com) JSON visualizer
 
 [RegEx Test](https://regex101.com/)
+
 ### CSS
 [Tailwind CSS](https://flowbite.com/docs/components/accordion/) Full Tailwind component examples.
 
@@ -76,6 +71,26 @@ The following post includes online development tools for productivity frequently
 
 [Hoppscotch](https://hoppscotch.io/)  Open source API development ecosystem
 
+#### Web Dev Inspirational Works
+- ﻿﻿Awwwards
+- ﻿﻿Behance
+- ﻿﻿Dribbble
+- ﻿﻿SiteInspire
+- ﻿﻿UX Archive
+- ﻿﻿Mobbin
+- ﻿﻿Collect Ul
+- ﻿﻿Land-book
+- ﻿﻿Ul Jar
+- ﻿﻿Design Vault
+- ﻿﻿Refero
+- ﻿﻿Pageflows
+- ﻿﻿Scrnshts
+- ﻿﻿Waveguide
+- ﻿﻿GoodUX
+- ﻿﻿Dark Mode Design
+- ﻿﻿Minimal Gallery
+- ﻿﻿Saaspo
+
 ## Algorithms & Graphics Programming
 [Graphtoy](https://graphtoy.com/) Visualize signed distance functions.
 
@@ -88,10 +103,14 @@ The following post includes online development tools for productivity frequently
 
 [LiveGap](https://charts.livegap.com/) Online Chart & Graph Maker. Provides creating and exporting animated videos of the graphs.
 
+[drawDB](https://www.drawdb.app/) Online database diagram editor and SQL generator.
+
 ## Design
 ⭐️ [Discover Best Web Design Tools in The Internet](https://bestwebdesigntools.com/)
 
 ⭐ [FossFLOW](https://stan-smith.github.io/FossFLOW/) Isometric Mindmap Tool
+
+[Grainrad](https://grainrad.com/) Post processing effects on the fly.
 
 [Code Timeline](https://code-timeline.vercel.app/) Generates timeline like graphics for pasted code. Interesting and might be useful for visualizations.
 
@@ -115,15 +134,26 @@ framer.com - website builder
 
 [Spectral.js](https://onedayofcrypto.art/) Spectral.js is a small JavaScript tool that helps you create realistic color blends. It’s made for people who want to make their projects look like real paint mixing, like artists and developers.
 
+[Color Palette Tool](https://www.colorharmonygenerator.com/) The Color Harmony Generator.
+
 [Colour Contrast Checker](https://colourcontrast.cc/?background=1e1e1e&foreground=facd17) Check the contrast between different color combinations against WCAG standards.
+
+[Palette Checker](https://palettechecker.com/) Color Palette & Contrast Checker. Similar to the previous one, but it includes more functionality.
 
 [Tones of Readable Dark Theme](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)
 
 [Color Related Tools](https://colordesigner.io/tools)
 
+#### Broken White Tones
+🌕 Off White [FAF9F6](https://www.instagram.com/explore/tags/faf9f6/)  
+❄️ Snow [FFFAFA](https://www.instagram.com/explore/tags/fffafa/)  
+🟡 Ivory [FFFFF0](https://www.instagram.com/explore/tags/fffff0/)  
+🧊 Alice Blue [F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
+👻 Ghost White [F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
 
 ### Illustration 
 Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
+
 ### Mockups
 [Mockuply](https://mockuply.pro/) Paid mockups. Can be used as inspiration.
 [Mockup](https://shots.so/) take image, choose bg for social media, or devices...
@@ -155,6 +185,8 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 [TopoExport](https://app.topoexport.com/) TopoExport is a simple, fast, and accurate web application for downloading maps with 2D contour lines and 3D topography using reliable open-source datasets. This application addresses a specific need for architects, landscapers, urban planners, geographers, consulting firms, and local authorities to obtain supporting maps for architectural projects and spatial analysis of the territory.
 
+[OpenHuman Atlas](https://www.openhumanatlas.com) The smart 3D atlas for anatomy education, medical animation, and surgical simulation.
+
 ## File Sharing
 [Send large files up to 5GB for free](https://transfer.pcloud.com/) A file sharing system alternative to wetransfer.
 
@@ -170,10 +202,13 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 [Export Spotify playlist to CSV or Text ](https://www.chosic.com/spotify-playlist-exporter/) Export your Spotify playlist in `.txt` or `.csv` format
 
+[Exportify](https://exportify.app/)
 ## Image
 [Lorem Picsum](https://picsum.photos/) The Lorem Ipsum for photos.
+
 [Pexels](https://www.pexels.com/discover/) The best free stock photos, royalty free images & videos shared by creators.
 
+[Remove Gemini Watermark](https://pilio.ai/gemini-watermark-remover) Browser-Based Local Processing, Instant Free & Lossless
 
 ## Video 
 [YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.

@@ -11,6 +11,10 @@ draft: false
 ---
 The seller marks the display as SSD1106. But, with a little research and some tests, I found that most 1.3 inch OLED screens are generally SH1106 mode.
 
+> [!NOTE] Software vs. Hardware SPI
+> When you connect any pin to any input, you activated the Software SPI which is slower. When you connect OLED pins to the defined Hardware SPI pins, you activated the hardware version. According to your practice, the constructor functions arguments change. [reference](https://www.youtube.com/watch?v=ICXznCN3NOI)
+
+
 ![[Excalidraw/esp32c3_SPI-OLED.excalidraw|90%|center]]
 
 ```C

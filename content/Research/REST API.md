@@ -50,6 +50,10 @@ The service offers different subscription plans, with a free version offer that 
 ## DOG API
 [Dog API](https://dog.ceo/dog-api/) Returns an image of a specific or random dog gender. Example usage can be found via p5Js on the following [video](https://youtu.be/0Ad5Frf8NBM?si=r4DZZTPleiNJ5RR2&t=1130).
 
+
+## NASA
+[NASA API](https://eonet.gsfc.nasa.gov/docs/v3) Earth Observatory Natural Event Tracker (EONET). The API does not require an API key; it allows real-time data from NASA without requiring authentication to access the available data.
+
 ## Free Restful API list
 Other notable mentions include; OpenSky Network, The Movie DB API, Open Food Facts, Zen Quotes, Deepgram AI API, etc. These APIs may have rate limit and other restrictions. It's important to read the documentation for more information regarding usage.
 
