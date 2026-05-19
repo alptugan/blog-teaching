@@ -27,7 +27,7 @@ The development of this field coincided with growing environmental awareness and
 Soundscape ecology represents a response to the changing acoustic environment of our planet. As human-generated sounds have increasingly dominated many landscapes, researchers have documented the ecological consequences of these shifts. The preservation of natural soundscapes has consequently emerged as a recognized conservation goal[^1]. This reflects an understanding that sound is not merely an incidental feature of environments but a fundamental aspect of ecological systems that deserves protection alongside visual landscapes and physical habitats.
 
 ## Key Components and Terminology of Soundscape Ecology
-Soundscape ecology operates on the premise that acoustic environments can be analyzed by categorizing sounds according to their sources. These sources are typically divided into three fundamental components that together comprise the complete soundscape of any given environment. 
+Soundscape ecology operates on the premise that acoustic environments can be analyzed by categorizing sounds according to their sources. These sources are typically divided into three fundamental components that together comprise the complete soundscape of any given environment[^10].   
 
 >[!blank|float-center]
 >![[soundscape-ecology.jpg]]
@@ -100,3 +100,5 @@ The growing movement of ecological sound art represents a promising development 
 [^7]: Southworth, Michael (1969). "The Sonic Environment of Cities". _Environment and Behavior_. **1** (1): 49–70.
 [^8]: [Chapter 2: Geophony, Biophony & Anthropophony \| Just Sound Effects](https://justsoundeffects.com/article/geophony-biophony-anthropophony/)
 [^9]: Gilmurray, J. (2017). Ecological Sound Art: Steps towards a new field. _Organised Sound_, _22_(1), 32–41. doi:10.1017/S1355771816000315
+
+[^10]: [Bernie Krause](https://en.wikipedia.org/wiki/Bernie_Krause)

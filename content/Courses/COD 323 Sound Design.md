@@ -37,6 +37,12 @@ draft: false
 
 ⭐ [Tape Fiasco](https://www.erikssonjonas.com/tapefiasco) A free glitch and granular synthesis tool for creating quality sound textures.
 
+[Big Bang Orchestra Bundle](https://www.vsl.co.at/products/free/bundle?clid=eyJpIjoiX015d25yNVRVVVpfRm8wc0RuTW55IiwiaCI6IiIsInAiOiIvdnNsZnJlZSIsInQiOjE3Nzc4MjI2ODd9.TwDZUE4Qc0U35bL39ktM-TPpWy7gy-W132eAVMqspcI)
+
+[The Deer, the Fox and the Guitar](https://wavelet-audio.com/deer-fox-guitar/) Free Guitar VST. It requires free version of [Kontakt](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8-player/) player vst.
+
+[The Nation of Free Plugins](https://plugin-nation.com/) The web site is a marketplace for VST tools. 
+
 ### Network Protocol VSTi
 [XXIIVV — pilot](https://wiki.xxiivv.com/site/pilot.html) Pilot features **16 voices, and 8 audio effects**, each operatable with their own set of commands, and their own FFT visualiser. The complete operation guide can be seen [here](https://github.com/Hundredrabbits/Pilot). Works via OSC on port `49161`. Use openFrameworks/examples UDP sender to test commands. 
 

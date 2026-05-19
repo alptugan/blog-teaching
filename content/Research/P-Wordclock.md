@@ -114,3 +114,4 @@ Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x
 9. FastLED library for addressable leds and matrix, [github](https://github.com/FastLED/FastLED), [video](https://www.youtube.com/watch?v=D_QBlFIQk-o&t=4s), [article](https://www.instructables.com/Make-Your-Own-10x10-LED-Matrix/)
 10. Wristwatch wordclock, includes 3D print files. Font cut-out seems better [github](https://github.com/andydoro/Wordclock-Wristwatch/tree/master)
 11. NeoMatrix (Adafruit) wordclock tutorial, [github](https://github.com/andydoro/WordClock-NeoMatrix8x8/tree/master) 
+12. Custom RGB led strip, [instructables](https://www.instructables.com/Word-Clock-RGB)

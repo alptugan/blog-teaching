@@ -267,3 +267,24 @@ Guitar/Piezo Preamp       Guitar Amp (Mono Input)
 - How to solder mic cable? [SAE](https://www.youtube.com/watch?v=EaWUzTvs9QQ) 
 - Complete list of Piezo Contact Mics and Comparisons, [link](https://zachpoff.com/resources/choosing-a-contact-mic-for-field-recording/)
 - 2N5457 JFET Applications, [YouTube](https://www.youtube.com/watch?v=rJb1eVR30dY)
+
+
+## Hardware List for Piezo Box
+Video tutorial → [youtube](https://www.youtube.com/watch?v=RXFaXT8EsZQ), [youtube2](https://www.youtube.com/watch?v=EzSu5zOX_Qg), [youtube3](https://www.youtube.com/watch?v=zI7EEvV4Lp8), [youtube4](https://www.youtube.com/watch?v=4Wrsr1qnN9Q), [youtube5-Korg CM400](https://www.youtube.com/watch?v=hy_RZyg469g)
+
+**DIY Piezo Mic Parts List**
+- 25mm or 50mm with cables, [amazon](https://www.amazon.com.tr/Arduino-Piezzo-Buzzer-50mm-Kablolu/dp/B0B2WL3TYM/ref=sr_1_2?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91)
+- USB C Ses kartı, [hepsiburada](https://www.hepsiburada.com/veggieg-type-c-ses-karti-3-5mm-kulaklik-ve-mikrofon-girisli-p-HBCV000075U3DD), [hepsiburada](https://www.hepsiburada.com/veggieg-type-c-to-3-5mm-aux-ve-mikrofon-donusturucu-adaptor-dac-chip-hifi-ses-karti-pm-HBC0000C723HU)
+- Metal or wooden box.
+- Double-sided tape.
+- Silicon glue.
+- Aluminium foil for noise isolation (optional).
+- Stereo or mono cable 1/8, [hepsiburada](https://www.hepsiburada.com/altin-uclu-arac-muzik-ses-kablosu-stereo-aux-kablo-1-mt-3-5mm-siyah-p-HBCV0000AC8ZDF)
+
+**Ready-made Piezo Mic List**
+- [Korg CM-400](https://www.amazon.com.tr/KORG-CM400BK-Tuner/dp/B0CSGN4GRF/ref=sr_1_1?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91) a ready made contact microphone built for instrument tuners.
+- USB C Ses kartı, [hepsiburada](https://www.hepsiburada.com/veggieg-type-c-ses-karti-3-5mm-kulaklik-ve-mikrofon-girisli-p-HBCV000075U3DD), [hepsiburada](https://www.hepsiburada.com/veggieg-type-c-to-3-5mm-aux-ve-mikrofon-donusturucu-adaptor-dac-chip-hifi-ses-karti-pm-HBC0000C723HU)
+- Metal or wooden box.
+- Double-sided tape.
+- Silicon glue.
+- Aluminium foil for noise isolation (optional).

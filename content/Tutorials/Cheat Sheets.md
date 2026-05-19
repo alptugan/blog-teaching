@@ -687,6 +687,9 @@ ffmpeg -i 'input.mp4' -vcodec libx264 -preset veryslow -crf 30 -threads 6 'outpu
 # ffmpeg -i input.mp4 -ss start_time -t duration -c copy output.mp4
 ffmpeg -i scott-ko.mp4 -ss 00:00:10 -t 5 -c copy trimmed.mp4
 
+# Trim a video from a specified start and end time
+ffmpeg -i causal-listening.mp4 -threads 6 -ss 00:00:14 -to 00:01:41 -c copy output2.mp4
+
 # CROP Video
 # ffmpeg -i input.mp4 -filter:v "crop=w:h:x:y" output.mp4
 ffmpeg -i scott-ko.mp4 -filter:v "crop=640:640:900:50" cropped.mp4

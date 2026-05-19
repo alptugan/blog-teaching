@@ -11,51 +11,33 @@ tags:
 aliases: 
 draft: false
 ---
-## Articles
-This section includes selected articles from sound literature and research to provide students overall framework in terms of sound as a theory and practice. The section organized in a unordered list of sources. There is no linear flow for the selected articles and project documents. Rather the list provides set of themes, contexts and knowledge related to sound and experimental showcases of music. 
-
-> [!tip]- How to Read an Academic Article 
->1. Caveat: no single style works for everyone!
->2. Klein’s basic steps for skimming, scanning, processing…
->    I. Read the abstract (if provided)
->    II. Read the introduction.
->    III. Read the conclusion.
->    IV. Skim the middle, looking at section titles, tables, figures, etc.—try to get a feel for the style and flow of the article.
->        a. Is it methodological, conceptual, theoretical (verbal or mathematical), empirical, or something else?
->        b. Is it primarily a survey, a novel theoretical contribution, an empirical application of an existing theory or technique, a critique, or something else?
->    V. Go back and read the whole thing quickly, skipping equations, most figures and tables.
->    VI. Go back and read the whole thing carefully, focusing on the sections or areas that seem most important.
->3. Once you’ve grasped the basic argument the author is trying to make, critique it!
->    I. Ask if the argument makes sense. Is it internally consistent? Well supported by argument or evidence? (This skill takes some experience to develop!)
->    II. Compare the article to others you’ve read on the same or a closely related subject. (If this is the first paper you’ve read in a particular subject area, find some more and skim them. Introductions and conclusions are key.) Compare and contrast. Are the arguments consistent, contradictory, orthogonal?
->    III. Use Google Scholar, the Social Sciences Citation Index, publisher web pages, and other resources to find articles that cite the article you’re reading. See what they say about it. See if it’s mentioned on blogs, groups, etc.
->    IV. Check out a reference work, e.g. a survey article from the _Journal of Economic Literature,_ a Handbook or Encyclopedia article, or a similar source, to see how this article fits in the broader context of its subject area.
->    
->    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-
-
 ## Apps & Tools
 - [img-encode](https://github.com/alexadam/img-encode) Convert images into sound spectrograms.
 - TwoTone.io → Sonification tool for textual data and numbers.
 - [Resemble AI - Custom AI Generated Voices](https://app.resemble.ai/hub/sts)
 - [Mosspillow](https://www.youtube.com/watch?v=yWN9omtVdoU&list=PLzujfpc1847-TGyVlwm9TNTvN6xWSqELM&index=9) A pillow help you to sleep with sounds of nature.
 - [Voice Changer - Online & Free](https://voicechanger.io/)
+- Speech to Text on Hugging face, [link](https://huggingface.co/spaces/innoai/Edge-TTS-Text-to-Speech)
 - [node.music](https://nodemusic.cc/) Interactive Electroacoustic history timeline.
 - Also check [[COD 323 Sound Design#VST & Virtual Instruments |VST & Virtual Instruments]] on COD 323 Sound Design page. 
 - [Hooks Music Theory](https://www.hooktheory.com/trends) Interactive app shows chord progressions and the songs including that.
+- [PaulXStretch](https://sonosaurus.com/paulxstretch/) PaulXStretch is designed for radical transformation of sounds. It is NOT suitable for subtle time or pitch correction. Ambient music and sound design are probably the most suitable use cases. It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
+![[cod412-week-3paulxstretch_screenshot.png]]
+- [MyNoise.net](https://mynoise.net/NoiseMachines/northAmericaForestSoundscape.php) Online soundscape tool helps you to generate soundscapes for variety of spaces.
+
+- [Imaginary Soundscapes](https://www.imaginarysoundscape.net/) Listen to the soundscape of places. Google maps based online tool allows you to navigate to different places of the world and listen to their soundscapes recorded by volunteer people who works with sound.
+
+- [Free VST Tools](https://www.youtube.com/watch?v=hBE1T5QSTRY) Youtube video presents free vst tools that can be useful for your sound projects.
+
+
 
 ## Weekly Resources
 ### Week 1 
 Opening: [Angine de Poitrine - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=0Ssi-9wS1so)
-
 Course Structure
-
 Food for inspiration
-
 BREAK
-
 Discussion
-
 Assignments
 
 ### Week 2
@@ -75,25 +57,6 @@ Online VST instrument [Cardboard Synth](https://www.gsn-lib.org/apps/cardboardsy
 - [Mimaroğlu](https://www.youtube.com/watch?v=rDb7bAazU64) Documentary
 - [İlhan Mimaroğlu - Müzik Tarihi](https://www.kitapyurdu.com/kitap/muzik-tarihi/1145.html) Book about the history of world music in Turkish.
 
-#### Tools
-![[cod412-week-3paulxstretch_screenshot.png]]
-[PaulXStretch](https://sonosaurus.com/paulxstretch/) PaulXStretch is designed for radical transformation of sounds. It is NOT suitable for subtle time or pitch correction. Ambient music and sound design are probably the most suitable use cases. It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way.
-Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
-
-[MyNoise.net](https://mynoise.net/NoiseMachines/northAmericaForestSoundscape.php) Online soundscape tool helps you to generate soundscapes for variety of spaces.
-
-[Imaginary Soundscapes](https://www.imaginarysoundscape.net/) Listen to the soundscape of places. Google maps based online tool allows you to navigate to different places of the world and listen to their soundscapes recorded by volunteer people who works with sound.
-
-[Free VST Tools](https://www.youtube.com/watch?v=hBE1T5QSTRY) Youtube video presents free vst tools that can be useful for your sound projects.
-
-
-#### Soundscape Projects
-* İris Eryılmaz -> Sound of the City (Hatay soundscape)
-* Asya Korkmaz -> Disappearing Sound: A Sound Worth Saving (Aygaz Melodisi), Most Unpleasant Sound (Construction)
-* Esra Yücetürk -> Composed with sound (Ses kayıtları)
-* Bera Doğan ->  Best Imagined Sound (Babel), Unpleasant Sound (Taxi)
-* Zeynep Özer -> Best Imagined Sound (Space), Best Natural Sound (Sea Shell) 
-
 ### Week 4
 **Assignment**
 Read the attached document (Audio-Vision: Sound on Screen, Michel Chion). The ebook is available on OZU as well, if you want to skim the whole content. 
@@ -105,7 +68,7 @@ Record 2 different sound samples for each category mentioned in the book. Keep t
 **Reading:** COD412_Three_listening_Modes.pdf
 
 ### Week 5
-- Who is Michel Chion?
+- Listening modes?
 - What are the listening modes? Why do they matter?
 - Examples of Causal, Semantic and Reduced Listening discussion.
 
@@ -135,7 +98,7 @@ In class practice
 	- [Joint Breakcore Live Coding \| Tidal Cycles - YouTube](https://www.youtube.com/watch?v=XYe8AKYPUYc)
 ### Week 7 -  Acoustic Ecology
 [Doğayı dinlemek: Ağaçların sesini duyabilir miyiz? I "Burada hayat var" - YouTube](https://www.youtube.com/watch?v=aRogAZbu8FU)
-### Week 8 - Holiday
+### Week 8
 
 ### Week 9 - Soundscape Ecology
 #### **Soundscape Ecology Project: Campus Soundscapes**  
@@ -175,12 +138,54 @@ Categorize the sounds in your recording using **R. Murray Schafer’s soundscape
 - **Written analysis** (PDF or embedded in documentation)  
 
 ### Week 10 - Final Project Notes
-**İris Yılmazer:** Rhino - Audiovisual
-**Bera Doğan:** Wearables
-**Zeynep Özer:** Acoustic/Soundscape Ecology based musical composition.
-**Okan Bilici:** Live-coding Performance - Live Guitar 
-**Esra Yücetürk:** TD - Pointcloud - Mekan Müziği - Sonic Pi
-**Asya Korkmaz:** 
+Refer to [[COD 412 Final Project Instructions]] page for more information and instructions.
+
+
+## Assignment Pool
+### Live Coding and Silence
+Reading: Music and The New Audio Culture - Intro, John Cage - Future of Music: Credo.
+Reading: John Cage – The Moral Value of Silence   
+Assignment 1: Write an essay about John Cage's conceptual 4'33'' sound art piece.
+Assignment 2: Download and install Sonic Pi, bring headphones for the next class.
+
+### Live Coding with Sonic Pi
+[Week 5 Content (Three Listening Modes)](https://alptugan.github.io/blog-teaching/Articles/The-Three-Listening-Modes)
+
+**Links**
+1. [[Solresol](https://www.wikiwand.com/en/articles/Solresol)] musical language called Langue Universelle developed by Jean-François Sudre in the 19th century.
+2. [Every noise](https://everynoise.com/) A web page for exploring music genres with an experimental UI.
+3. [Kuntay Seferoğlu Instruments - Portfolio Review](https://www.kunsf.xyz)
+4. [Unusual Musical Instruments](https://www.youtube.com/watch?v=3EPdeQTTFt8&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=15)
+5. [Chord Progression Cheat Sheet](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26) This is the source if you want to play around with notes according to classical western harmony. 
+
+**Assignment**
+1. Download and install Sonic Pi from [https://sonic-pi.net/](https://sonic-pi.net/).
+2. Open the application and familiarize yourself with the interface:
+    - **Code Editor:** Where you write your code.
+    - **Log Window:** Displays feedback and errors.
+    - **Help System:** Provides documentation and examples.
+3. Go to the [website](https://sonic-pi.mehackit.org/exercises/en/01-introduction/02-play-a-melody.html) and review examples. There are also tons of tutorials on YouTube.
+4. Create a basic melody with live coding using Sonic Pi. 
+5. Submit your code as a txt file.
+6. This assignment does not measure the musical quality or tonality. And this is not a programming class. Your primary focus should be on exploring the limits of sound through the use of modern technological tools. So do not stress out. Just try to make something sound good to you.
+
+
+### Audiovisual Composition
+Create a minimum **1-minute AV sketch** that demonstrates a direct, intentional mapping between audio analysis and visual parameters.
+
+#### Steps
+**① Select a Tool** Choose one: TouchDesigner · Max/MSP · Hydra or found an abstract video footage.
+
+**② Record the Input** Capture a **10-second audio sample** of an _industrial_ sound (machinery, construction, metal, etc.)
+
+**③ Map 3 → 3 Parameters (E.g.** Map the bass tones in sound to colors, mid tones to scale, treble tone to different cuts or scenes.)
+
+**④ Submit** A screen recording of the tool’s interface _while the audio plays_ — **show your patch!**
+
+If you used found video footage, include your DAW timeline screenshot showing your tracks and include the rendered video. 
+
+
+
 
 
 
@@ -274,38 +279,30 @@ A fabric speaker made into a pillow with embroidery inside has a modified amplif
 
 
 <iframe title="Paper speaker demo with Adafruit 3.7V lipo AMP" src="https://www.youtube.com/embed/kQOlVw5H6pA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
-## Assignment Pool
-### Live Coding and Silence
-Reading: Music and The New Audio Culture - Intro, John Cage - Future of Music: Credo.
-Reading: John Cage – The Moral Value of Silence   
-Assignment 1: Write an essay about John Cage's conceptual 4'33'' sound art piece.
-Assignment 2: Download and install Sonic Pi, bring headphones for the next class.
-
-### Live Coding with Sonic Pi
-[Week 5 Content (Three Listening Modes)](https://alptugan.github.io/blog-teaching/Articles/The-Three-Listening-Modes)
-
-**Links**
-1. [[Solresol](https://www.wikiwand.com/en/articles/Solresol)] musical language called Langue Universelle developed by Jean-François Sudre in the 19th century.
-2. [Every noise](https://everynoise.com/) A web page for exploring music genres with an experimental UI.
-3. [Kuntay Seferoğlu Instruments - Portfolio Review](https://www.kunsf.xyz)
-4. [Unusual Musical Instruments](https://www.youtube.com/watch?v=3EPdeQTTFt8&list=PLvcJjvBzWDXbnxGsrHps1HQOpFeZ6_rDs&index=15)
-5. [Chord Progression Cheat Sheet](https://kyndinfo.notion.site/The-secrets-of-sound-for-kids-14a019e814cf80e5a6e5ea1255f13e26) This is the source if you want to play around with notes according to classical western harmony. 
-
-**Assignment**
-1. Download and install Sonic Pi from [https://sonic-pi.net/](https://sonic-pi.net/).
-2. Open the application and familiarize yourself with the interface:
-    - **Code Editor:** Where you write your code.
-    - **Log Window:** Displays feedback and errors.
-    - **Help System:** Provides documentation and examples.
-3. Go to the [website](https://sonic-pi.mehackit.org/exercises/en/01-introduction/02-play-a-melody.html) and review examples. There are also tons of tutorials on YouTube.
-4. Create a basic melody with live coding using Sonic Pi. 
-5. Submit your code as a txt file.
-6. This assignment does not measure the musical quality or tonality. And this is not a programming class. Your primary focus should be on exploring the limits of sound through the use of modern technological tools. So do not stress out. Just try to make something sound good to you.
-
-
 
 
 ## Recommended Readings & Projects
+This section includes selected articles from sound literature and research to provide students overall framework in terms of sound as a theory and practice. The section organized in a unordered list of sources. There is no linear flow for the selected articles and project documents. Rather the list provides set of themes, contexts and knowledge related to sound and experimental showcases of music. 
+
+> [!tip]- How to Read an Academic Article 
+>1. Caveat: no single style works for everyone!
+>2. Klein’s basic steps for skimming, scanning, processing…
+>    I. Read the abstract (if provided)
+>    II. Read the introduction.
+>    III. Read the conclusion.
+>    IV. Skim the middle, looking at section titles, tables, figures, etc.—try to get a feel for the style and flow of the article.
+>        a. Is it methodological, conceptual, theoretical (verbal or mathematical), empirical, or something else?
+>        b. Is it primarily a survey, a novel theoretical contribution, an empirical application of an existing theory or technique, a critique, or something else?
+>    V. Go back and read the whole thing quickly, skipping equations, most figures and tables.
+>    VI. Go back and read the whole thing carefully, focusing on the sections or areas that seem most important.
+>3. Once you’ve grasped the basic argument the author is trying to make, critique it!
+>    I. Ask if the argument makes sense. Is it internally consistent? Well supported by argument or evidence? (This skill takes some experience to develop!)
+>    II. Compare the article to others you’ve read on the same or a closely related subject. (If this is the first paper you’ve read in a particular subject area, find some more and skim them. Introductions and conclusions are key.) Compare and contrast. Are the arguments consistent, contradictory, orthogonal?
+>    III. Use Google Scholar, the Social Sciences Citation Index, publisher web pages, and other resources to find articles that cite the article you’re reading. See what they say about it. See if it’s mentioned on blogs, groups, etc.
+>    IV. Check out a reference work, e.g. a survey article from the _Journal of Economic Literature,_ a Handbook or Encyclopedia article, or a similar source, to see how this article fits in the broader context of its subject area.
+>    
+>    [source](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+
 ### 📚 Books
 - 📚 Musical Inventions: DIY Instruments to Toot, Tap, Crank, Strum, Pluck, and Switch On (Make) by Kathy Ceceri
 - 📚 [Handmade Electronic Music by Nicolas Collins](zotero://open-pdf/library/items/9RVFSXJL?page=1)
@@ -326,11 +323,11 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 - 📄⭐ Akin Güler, G., & Özçevik Bilen, A. (2023). Kent Gürültüsüne İşitsel Peyzaj Yaklaşımı ile Bir Bakış: Kentin Sesini Dinle, Kendi Sesini Sestele “Eskişehir.” _Kent Akademisi_, _16_(1), 477–495. [https://doi.org/10.35674/kent.1074848](https://doi.org/10.35674/kent.1074848)
 - 📄⭐ Capanna, A. (2001). Iannis Xenakis:Architect of Light and Sound. _Nexus Network Journal_, _3_(1), 19–26. [https://doi.org/10.1007/s00004-000-0003-4](https://doi.org/10.1007/s00004-000-0003-4)
 - 📄 Pijanowski, B. C., Villanueva-Rivera, L. J., Dumyahn, S. L., Farina, A., Krause, B. L., Napoletano, B. M., Gage, S. H., & Pieretti, N. (2011). Soundscape Ecology: The Science of Sound in the Landscape. _BioScience_, _61_(3), 203–216. [https://doi.org/10.1525/bio.2011.61.3.6](https://doi.org/10.1525/bio.2011.61.3.6)
-### Projects
+### 🛠️ Projects
 - [Intertapes](https://intertapes.net/) INTERTAPES is an updating collection of found cassette tapes from around the world. The audio fragments include: voice memos, field recordings, mixtapes, bootlegs and more.
 
 
-### 🛠️ Tutorials
+### 🔬 Tutorials
 - 🛠️ [Pringle Can MIDI Drums, Instructables](https://www.instructables.com/Pringle-Can-MIDI-Drums/)
 - 🛠️ [Light Saber Hum, Instructables](https://www.instructables.com/Light-Saber-Hum/)
 - 🛠️ [Building a Simple Electronic Piano Using Tinkercad Circuits, Instructables](https://www.instructables.com/Building-a-Simple-Electronic-Piano-Using-Tinkercad/)
@@ -340,79 +337,3 @@ Assignment 2: Download and install Sonic Pi, bring headphones for the next class
 - 🛠️ ⭐ [Novelty Synth from Recycled Vape](https://beckystern.com/2026/03/22/novelty-synth-from-recycled-vape/#more-122877) by  Becky Stern. Transform used vapes to synthesizer.
 - 🛠️ [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 
-## COD 412 Final Projects Collection
-[2018-2019](https://drive.google.com/drive/folders/1w5mFUEx23DS97JllBQnnVVXIA3362YVV?usp=drive_link)
-[2019-2020](https://drive.google.com/drive/folders/1Nc2ymtgCL_4ufQ8OUdT15Up7EycBNPEV?usp=drive_link)
-[2020-2021](https://drive.google.com/drive/folders/1zjdlIRUP79FixrMFaIDs1HfYUreJ_BxK?usp=drive_link)
-[2021-2022](https://drive.google.com/drive/folders/1Wiv_g0T54_pGfJHsIg2P1vRvqsxTY1CU?usp=drive_link)
-[2022-2023](https://drive.google.com/drive/folders/1Wxy3tHIlDtv7EGd4I4wL_CEN7eU5Ash7?usp=drive_link)
-[2023-2024](https://drive.google.com/drive/folders/1iYfsouSey3cWZy5YP2urqAcN97HhNKsj?usp=drive_link)
-
-
-Create a minimum **1-minute AV sketch** that demonstrates a direct, intentional mapping between audio analysis and visual parameters.
-
-### Steps
-
-**① Select a Tool** Choose one: TouchDesigner · Max/MSP · Hydra or found an abstract video footage.
-
-**② Record the Input** Capture a **10-second audio sample** of an _industrial_ sound (machinery, construction, metal, etc.)
-
-**③ Map 3 → 3 Parameters (E.g.** Map the bass tones in sound to colors, mid tones to scale, treble tone to different cuts or scenes.)
-
-**④ Submit** A screen recording of the tool’s interface _while the audio plays_ — **show your patch!**
-
-If you used found video footage, include your DAW timeline screenshot showing your tracks and include the rendered video. 
-
-### Final Project Proposal
-- Create a mood board
-- Mood board must include visual/audible references for your final project idea.
-- Include a one paragraph of explanation of your project. 
-- You can use Miro or Canva like online mood boards.
-- Submit the image or link (**be sure that it is publicly available**) to your mood board.
-- Do not limit your self, just image a utilizes sound as a medium (A documentary project, recording of your own sound compositions related to lectures, an experimental device that generates sounds, a self made analog sound object, an acoustic ecology study of a specific location, audiovisual performance, live coding performance, etc...).
-- Before crying out, please check the previous course material and student works. We discussed so many topics.
-
-### Selected Project Proposals
-- ⭐ [Lightscape](https://drive.google.com/file/d/1w8ZUcaMtaIIHMNcZO8KAaG8KtVFkxLc2/view?usp=sharing) by Bora Akdoğan, [documents](https://drive.google.com/drive/folders/13UEVVFC65AGNnWJY8uvV59iIHHQ3dvG6?usp=drive_link)
-- ⭐ [Live Coding Performance](https://drive.google.com/file/d/1qRupXem3M_5ywVg6IpUEVoz-SFl3bGp3/view?usp=sharing)  by Çağla Irmak Badem, [documents](https://drive.google.com/drive/folders/1hhlnpKi5lKM4y5M391x5xYMEZxOyrC_M)
-- [Dancing Waves](https://drive.google.com/file/d/1AU0OYFovZ7WxtYlp1DwF8u7rXTwe-ljM/view?usp=sharing) by Derya Özalp
-- ⭐ [BeatMix](https://drive.google.com/file/d/1_CdqGX1LdQMqeIE7VoX-Uo9W4kSM9389/view?usp=sharing) by Dilara Albayrak
-- [Hallucination](https://drive.google.com/file/d/1GE3UvuEi2dBI8yEOCjA0RANdZEpj3S0_/view?usp=sharing) by Emre Tunalı
-- [Unseen Dimensions](https://drive.google.com/file/d/1-WTG_G7YmlVE9Hak_HzYz94tcg_7Pfo5/view?usp=sharing) by Sarp Akçay
-- [20th Century](https://drive.google.com/file/d/1Fxc_OGzQ2gkG_Al_BEp-knxLFh5wPIru/view?usp=sharing) by Tuna Özkan
-- [The Sound of Nothing and Everything](https://drive.google.com/file/d/15kLFUT03gZ9W4f_qXSq6zoxMYQtmfc8_/view?usp=sharing) by Burcu Arslan
-- [Sun Walker](https://drive.google.com/file/d/1Z07ePCzQYAo3lZtS02iewQajvRDN02WB/view?usp=sharing) by Yiğit Kantel
-- ⭐ [Music of Abstract](https://drive.google.com/file/d/1pcQrYc-eYU8OmlojccXULRHtGRMx259u/view?usp=sharing) A sonification project by Mertol Okçu
-- [Dog Star Man](https://drive.google.com/file/d/1wZE63Mgsw4tCWQ1JYGLwpou0Km2Vtqt-/view?usp=sharing) by Ege Uysal
-
-	### Final Project Proposal Template
-	Please complete each section carefully. Use this template as a guide to structure your proposal.
-	
-	---
-	## 1. Identity
-	- On top left corner of an A4 document write the course name and date (*COD 412 Sound Projects & Media, 2026*)
-	- Your name and surname
-	  
-	## 2. Project Title
-	- Write a concise, descriptive name for your project.
-	- Aim for clarity and creativity — the title should capture the essence of your idea.
-	
-	## 3. Project Description
-	- What is your project about?
-	- Which medium are you working with (e.g., physical computing, acoustic ecology, soundscape study, musique concrète, documentary sound design, foley recording, sound installation, new musical interface)?
-	- What methods, tools, or processes will you use?
-	- What experience or outcome do you want to create for your audience?
-	
-	
-	## 4. Theoretical Background
-	- Which concepts, theories, or practices inform your project?
-	- How does your project connect to existing artistic or scholarly contexts?
-	- Reference key ideas from sound studies, acoustic ecology, media theory, or other relevant fields.
-	
-	---
-	
-	# ✅ Submission Notes
-	- Keep your writing clear and concise.
-	- Use academic language where appropriate, but make sure your ideas remain accessible.
-	- Demonstrate both creative vision and critical reflection.
-	- Think of this proposal as a **roadmap**: it should guide both you and your audience through the project’s purpose and direction.

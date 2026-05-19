@@ -34,3 +34,15 @@ draft: true
 
 
 ## Oğlu Yahya Madra ile 20.Temmuz.2022’de yapılan söyleşiden derlenmiştir
+sf. 92'de kaldım
+
+---
+
+![[durrenmatt.jpg]]
+
+Teoman Madra'nın, Selçuk Artut'un derlediği monografisinden bir alıntı.
+
+Günümüzde herkes her şeyi kullanabilir. Bunu öğretmek için daha kolay tasarım araçları, teoriler ve çerçeveler sunuyoruz. Fakat bu durum insanın temelinde kullanması gereken bilişsel yetenekleri üzerinde olumsuz etkilere sebep oluyor. Basit bir mesaj yazmak için bile LLM'leri kullanmaya ihtiyaç duyar hale geldik. 
+
+Evet herkes bilgisayarda çalışacak bir program yazabilir, fakat bunu ne kadar sürdürülebilir kılabiliyoruz? Hiçbir deneyim olmaksızın teknolojinin bize sağladığı imkanlar anı kurtarırken sonrasını düşünmeyen ya da önemsemeyen varlıklara dönüşmemize sebep oluyor. 
+

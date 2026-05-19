@@ -97,7 +97,6 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 ```
 
 ## 5. PLUG-INS
-### Obsidian Bridge
 - [obsidian-zotero-integration/Templating.md at main · mgmeyers/obsidian-zotero-integration (github.com)](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/Templating.md)
 - Syntax →[Nunjucks (mozilla.github.io)](https://mozilla.github.io/nunjucks/templating.html#variables)
 - [Obsidian-CSS-Snippets](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets/blob/Collection/Snippets/Callout%20styling%20-%20Wikipedia%20like%20infobox.md) Several css snippets for UI improvement.
@@ -105,6 +104,7 @@ box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
 - [GitHub - vrtmrz/diffzip](https://github.com/vrtmrz/diffzip) Backup tool for obsidian
 - [Private Obsidian AI: Add DeepSeek to your Obsidian with Ollama and CoPilot](https://www.youtube.com/watch?v=tC9wegnRyZk)
 - [My Ultimate Obsidian Setup - YouTube](https://www.youtube.com/watch?v=ZQTj8ZSDFw4)
+- [obsidian-banners-reloaded](https://github.com/dgcreations00/obsidian-banners-reloaded) Better than pexel banners. Titles can be aligned in the middle with emoji icons...
 
 ### Obsidian sync across devices
 The following [video](https://www.youtube.com/watch?v=PScdHzUiBLA) shows how to sync Obsidian content on your devices. It uses Github to host your notes and sync the markdown notes between devices.

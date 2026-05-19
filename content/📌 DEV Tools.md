@@ -346,7 +346,7 @@ Anything LLM lokal çalışma için daha iyi big-agi'den (web scraping yapıyor)
 [Prisma Data Platform](https://www.prisma.io/), Free database, Postgres
 
 ### CMS
-⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file
+⭐️⭐️ [Pocketbase](https://github.com/pocketbase/js-sdk) Wordpress like CMS. Very nice. Lots of examples. Open Source realtime backend in 1 file
 [Home × Mattrbld](https://mattrbld.com/) Markdown CMS.
 [Strapi \| Self-Hosted](https://strapi.io/pricing-self-hosted)
 [Decap CMS \| Open-Source Content Management System](https://decapcms.org/)

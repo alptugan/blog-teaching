@@ -1,7 +1,6 @@
 ---
 title: Computer Art History
 date: 2024-08-20
-modification date: Tuesday 20th August 2024 17:40:21
 description: Landmarks on Computer Art History from Tuğan's perspective.
 tags:
   - history
@@ -117,4 +116,7 @@ The book collects several artists of its time.
 ### Ridley Scott's Alien: Control Panel Graphics
 ![[Nostromo_landing_1979.png| Movie scene from Alien-right|300]]George Mallen's company System Simulation Ltd. produced the control panel graphics for the Nostromo spaceship in the movie.
 
-[Creative Simulations by Catherine Mason](https://www.amazon.com/Creative-Simulations-Computer-Springer-Computing/dp/3031506197)<br><br><br><br><br><br><div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+[Creative Simulations by Catherine Mason](https://www.amazon.com/Creative-Simulations-Computer-Springer-Computing/dp/3031506197)
+<div style="margin: 50px auto; width: fit-content;">・・・・・・・・・・ ༄ ・・・・・・・・・・</div>
+## 1981
+On April 27, 1981, a high-stakes computer "birth" occurred that changed the way we interact with technology: the **Xerox Star 8010** was officially introduced.

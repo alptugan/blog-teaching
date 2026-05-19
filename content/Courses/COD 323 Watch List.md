@@ -24,6 +24,48 @@ In Hollywood, everything is magic and make-believe, even sounds. When you watch 
 [We've Found The Magic Frequency](https://www.youtube.com/watch?v=mBL9pS6GMdA)
 > If you want to find the secrets of the Universe, think in terms of energy, frequency and vibration.  – Nikola Tesla
 
+
+### Electronic Music Documentaries
+[Modulations, 1998](https://www.youtube.com/watch?v=icpDt6aQDww) A feature-length documentary that explores the evolution of electronic music, capturing the moment when humans and machines fused. ıt covers the history from early minimalist experiments to the 90s explosion of techno, house, and jungle.
+
+[The Chemical Generation, 2000](https://www.imdb.com/title/tt1086775/) This documentary covers the acid house, rave and club culture revolution in the UK and of course the chemical Methylenedioxymethamphetamine or ecstasy. This era inspired the film 24 Hour Party people and sheds light on the forgotten counter culture movement.
+
+[Pump Up the Volume, 2001](https://www.imdb.com/title/tt0847411/) A documentary series that traces the history of house music from its roots in New York disco to its explosion in the UK club scene.
+
+[Scratch, 2001](https://www.imdb.com/title/tt0143861/) The story of the hip-hop DJ from the birth of hip-hop to the invention of scratching and "beat-juggling" vinyl, to the more recent "turntablism" movement. Underdogs and virtuosos who have radically changed the way we hear and create music.
+
+[High Tech Soul: The creation of Techno Music, 2006](https://www.youtube.com/watch?v=x1KkE6I1wJo) This film is the first document the deep roots of techno in Detroit. It focuses on the cultural and social environment that allowed the genre to emerge as a global phenomenon. 
+
+[We Call It Techno!, 2008](https://www.youtube.com/watch?v=eT2aaR09aw0) A Documentary About Germany's Early Techno Scene And Culture.
+
+[The Story of Tresor Berlin, 2009](https://www.youtube.com/watch?v=5LBU5GgV9xE) A documentary traces the history of the iconic club in Berlin, from its 1991 opening in a former department store's bank vault to its closure in 2005. It explore the club's role in the Berlin-Detroit techno connection and the dawning of a new music era.
+
+[The Sound of Belgium, 2012](https://www.imdb.com/title/tt2966298/) 'The Sound of Belgium' explores the rich but untold story of Belgian electronic dance music. From the grand dance halls with Decap organs to the golden days of Popcorn; From dark and cold Electronic Body Music and New Beat to Belgian House and Techno An alternative chronicle of unique popular music, 'The Sound of Belgium' goes in search of the spirit of a nation and the people that danced to it.
+
+[I Dream of Wires, 2014](https://www.imdb.com/title/tt3636334/) The history and resurgence of the electronic modular music synthesizer.
+
+[Daft Punk Unchained, 2015](https://www.imdb.com/title/tt3833822/) Two French musicians rise from an indie rock band to become electronic music legends Daft Punk, revolutionizing dance music and pop culture with their iconic robot personas and groundbreaking sounds over two decades.
+
+[I Was There When House Took Over the World, 2017](https://www.youtube.com/watch?v=9Rah1F1zq1k) A documentary mini-series directed by Jake Sumner that explores how "the death of Disco" and social unrest gave birth to house music in Chicago underground gay and Black clubs.
+
+[Studio 54, 2018](https://www.youtube.com/watch?v=N-tAZD7TpU4) This film chronicles the rapid rise and fall of Manhattan's most infamous nightclub. 
+
+[Sound of Berlin, 2018](https://www.imdb.com/title/tt9222826/) A journey through the capital of electronic music, exploring Berlin's unique nightlife and history.
+
+[Berlin Bouncer, 2019](https://www.imdb.com/title/tt9584906/) An exciting piece of Berlin's cultural history from the time of the fall of the Berlin Wall to the vibrant present.
+
+[Sisters With Transistors, 2021](https://www.youtube.com/watch?v=rkrOY4ING5Y) This film highlights the essential role of female pioneers in electronic music history. It reveals how these women used technology to liberate sound and reshape modern music.
+
+[Laurent Garnier: Off the Record, 2021](https://www.imdb.com/title/tt10485250/) A look into the life of Laurent Garnier, one of the godfathers of house music, from his emergence on the music scene in the 80's to now. The story of the last music revolution through the eyes of a pioneer.
+
+[God Said Give ‘Em Drum Machines, 2022](https://www.youtube.com/watch?v=I9Xf34GLqBk) It covers the history of Detroit Techno. 
+
+[The Hacienda: The Club That Shook Britain, 2022](https://www.imdb.com/title/tt23639030/) A Documentary covering the history of The Hacienda, a Manchester music club in the eighties, run by Tony Wilson and largely financed by the record label Factory Records.
+
+[Desire: The Carl Craig Story, 2024](https://www.youtube.com/watch?v=NgDNkasVjPU) The film provides an intimate portrait of the legendary techno producer Carl Craig. 
+
+[Move Ya Body: The Birth of House, 2025](https://www.imdb.com/title/tt28247874) The film highlights the Black and queer pioneers of house music in Chicago. 
+
 ## Shorts
 
 

@@ -32,7 +32,7 @@ Keynotes (background sounds) are the dominant frequencies that set the tone for 
 
 Proper identification and understanding of these categories serve as a basis for effective sound design and management of acoustic environments in various fields such as urban planning, architecture, and environmental studies. The implementation of these principles ensures harmonious sonic environments that enhance quality of life and contribute positively to human wellbeing.
 
-The contrast between pre-industrial and post-industrial acoustic environments is well expressed in Schafer’s use of the terms “hi-fi (high fidelity) to characterise the former and “lo-fi" (low fidelity) to describe the latter. [Page 1](zotero://open-pdf/library/items/H9A2QZXS?page=1&annotation=DEZ8HVF6)
+The contrast between pre-industrial and post-industrial acoustic environments is well expressed in Schafer’s use of the terms “hi-fi (high fidelity) to characterize the former and “lo-fi" (low fidelity) to describe the latter. [Page 1](zotero://open-pdf/library/items/H9A2QZXS?page=1&annotation=DEZ8HVF6)
 
 >According to Schafer there are two main categories for sounds namely “hi-fi” (high fidelity) and “lo-fi” (low fidelity) that constitute soundscapes to represent the difference between pre-industrial and post-industrial acoustic environments. A hi-fi soundscape environment, sounds overlap less frequently and constitutes more space acoustically. Natural sounds such as wind, animals, and insects are all in harmony within a cyclic behavior (Figure 1). 
 
@@ -47,6 +47,7 @@ In the lo-fi soundscape, meaningful sounds (and any associated acoustic colourat
 >As a result of the lo-fi soundscape, meaningful sounds (along with their associated acoustic colouration) can be masked to the point where a person's "aural space" is reduced. If an individual cannot hear the reflected sounds of his/her own movement or speech, aural space has effectively shrunk to enclose him/her, isolating him/her from the environment. In such situations, sonic information mutates into anti-information called “noise.”
 
 Under such extreme conditions, sound is either smothered (in the sense that particular sounds are not heard) or, sounds merge and sonic information mutates into anti-information: “noise.”" Yellow Highlight [Page 2](zotero://open-pdf/library/items/H9A2QZXS?page=2&annotation=3XMF2EIT)
+
 While the hi-fi soundscape is—Acoustic Ecologists suggest—balanced in terms of level, spectra and rhythm, the lo-fi soundscape features an almost constant level. This creates a “Sound Wall” (Schafer 1977a, 93), isolating the listener from the environment." Yellow Highlight [Page 2](zotero://open-pdf/library/items/H9A2QZXS?page=2&annotation=4RG4G3N9)
 
 Since the sound level and cycles of the sonic entities are in harmony, hi-fi soundscape maintains an identifiable experience for the listener. However, the lo-fi environments the identities cannot be separated from each easily because of the non-harmonious traits of sonic entities. Schafer says that lo-fi soundscapes creates a “Sound Wall” that isolates the individual from the environment.

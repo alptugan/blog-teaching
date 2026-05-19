@@ -25,7 +25,7 @@ https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
 
 ## Improve & Expand
 **AURE (UK English)** 
-  The following text is the introduction section of my finished article. Rewrite the section in UK English in academic tone  to improve clarity and make it more comprehensive. Do not create bullet points or any other sub titles for the section. Use in text citations if required. Remove repeating arguments if they are unnecessary. Ask me questions to make it clear before providing the answer;
+  The following text is the introduction section of my finished article. Rewrite the section in UK English in academic tone  to improve clarity and make it more comprehensive. Do not create bullet points or any other sub titles for the section. Avoid verbose long sentences. Do not use hyphens. Use in text citations if required. Add the references section for the in text citations in the end of your response. Remove repeating arguments if they are unnecessary. Ask me questions to make it clear before providing the answer;
 
 **Check the text for grammar errors:** (American English)
 Check the following text for grammar errors and fix them according to academic American English tone.

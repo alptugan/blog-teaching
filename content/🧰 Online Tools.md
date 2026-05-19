@@ -151,6 +151,8 @@ framer.com - website builder
 🧊 Alice Blue [F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
 👻 Ghost White [F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
 
+🟡 FFCC00 → 🟠 EB5B00, 🔴 B12C00, 🟣 640D5F
+
 ### Illustration 
 Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
 
@@ -213,8 +215,6 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 ## Video 
 [YoutubeDL](https://ytdlp.online/) Online youtube video downloader app.
 
-[FFmpeg Online](https://ffmpeg-online.top/) Free Online Video Processing Tool with AI.
-
 [Social Hook Video](https://transitionalhooks.com/) Social media transitional video footage.
 
 [Filmot](https://filmot.com/) → Search in Youtube captions and subtitles
@@ -275,6 +275,8 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 Wokwi Arduino simulator
 
 [SimulIDE](https://simulide.com/p/) General purpose circuit simulator including Arduino board
+
+[Cirkit Designer IDE](https://app.cirkitdesigner.com/)
 
 Tinkercad
 

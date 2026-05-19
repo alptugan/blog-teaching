@@ -24,3 +24,10 @@ In Turkic cultures, "Tuğan" often appears in compound words and expressions tha
 Today, "Tuğan" continues to be used across Turkic-speaking regions, appearing in personal names, place names, and cultural expressions. It serves as a linguistic bridge connecting millions of people across Central Asia, the Caucasus, and beyond to their shared Turkic heritage.
 
 The enduring presence of this word in Turkic languages reflects the deep cultural value placed on origins, family, and the land of one's ancestors—concepts that remain central to Turkic identity in the modern world.
+
+
+> Menin atım Alp Tuğan
+
+
+ök = anne
+öksüz = anasız ya da akılsız. Çünkü anneler çocuklarını yetiştiren ve onlara bildiklerini öğreten kadınlardır.

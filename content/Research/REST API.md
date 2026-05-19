@@ -70,3 +70,6 @@ Other notable mentions include; OpenSky Network, The Movie DB API, Open Food Fac
 
 ## CSV Data
 Open data portals around the world powered by CKAN, [Showcase](https://ckan.org/showcase)
+
+## Turkish Newspaper Archieve
+[Gaste Arşivi](https://www.gastearsivi.com/) 150+ Yıllık Eski Gazete Arşivi — Osmanlı'dan Günümüze

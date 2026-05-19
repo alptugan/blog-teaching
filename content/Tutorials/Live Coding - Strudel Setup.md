@@ -57,3 +57,12 @@ Edit the `samples()` function
 
 ### Samplepack Creation
 [GitHub - smaudd/strudel-samplepack-template](https://github.com/smaudd/strudel-samplepack-template?tab=readme-ov-file)
+
+
+
+# Sync Commands
+/Users/alptugan/Music/strudel-wansync/tools/wan-sync-server
+pnpm start
+
+
+/Users/alptugan/Music/strudel-wansync
