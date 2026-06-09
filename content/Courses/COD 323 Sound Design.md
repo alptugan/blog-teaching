@@ -82,6 +82,8 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Bfxr](http://www.bfxr.net/) - ⭐ A generative audio synthesis tool to make make sound effects for computer games. 
 
+[Wario Synthesis Engine](https://www.wario.style/) Converts any song to sound as if it were an 8-bit MIDI song.
+
 Here are the most popular keywords for searching social media story sound effects, categorized by purpose:
 
 ## Sound SFX Keywords

@@ -46,3 +46,11 @@ Company: [Unitree Robotics](https://www.unitree.com/H2)
 
 ## PHYBOT
 The details will be added later. 
+
+
+## Atlas
+Release Date: 2026-05-29
+Video: [School of Football \| The Ghost Rabona \| Boston Dynamics x Hyundai](https://www.youtube.com/watch?v=V1Lxp-Q6Y9g)
+Video: [How does Atlas learn? \| Inside the Lab \| Boston Dynamics](https://www.youtube.com/watch?v=xKK5ze3FukQ)
+Company: Boston Dynamics + Hyundai
+

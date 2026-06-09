@@ -106,6 +106,7 @@ Define uTime as uniform on shader variables menu. Be sure that `glslmulti1` is s
 - [GitHub - cacheflowe/haxlib: A personal TD toolkit](https://github.com/cacheflowe/haxlib)
 - [GitHub - cacheflowe/td-docs-mcp: TouchDesigner Docs MCP server](https://github.com/cacheflowe/td-docs-mcp)
 - [GitHub - dylanroscover/Embody: Have a conversation with TouchDesigner](https://github.com/dylanroscover/Embody)
+- [GitHub - rheadsh/audiovisual-production-skills](https://github.com/rheadsh/audiovisual-production-skills/tree/main) Claude Code skills for audiovisual production. Modular skills for TouchDesigner, real-time graphics, video processing, and creative coding workflows.
 
 ## Touchdesigner Components
 [GitHub - hku-ect/TouchDesignerComponents: This is a collection of commonly used TouchDesigner components](https://github.com/hku-ect/TouchDesignerComponents)

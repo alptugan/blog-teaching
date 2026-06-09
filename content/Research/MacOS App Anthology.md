@@ -63,3 +63,35 @@ Al Dante (Battery Management)
 [Handy](https://handy.computer/download) A free, open source, and extensible speech-to-text application that works completely offline.
 
 [Shutter Encoder](https://www.shutterencoder.com/) Better UI then Frame built-on FFMPEG.
+
+
+
+
+# Apps To Check
+[A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.](https://github.com/tisfeng/Easydict)
+
+https://jacklandrin.github.io/macos%20app/2021/12/01/onlyswitch.html
+
+[GitHub - chidiwilliams/buzz: Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.](https://github.com/chidiwilliams/buzz)
+
+File Diff checker
+[GitHub - nuance-dev/medio: A minimal free macOS realtime diff checker app](https://github.com/nuance-dev/medio)
+
+Responsive app style checker
+[Download \| Responsively App](https://responsively.app/download)
+
+Rest API Client
+[The Collaborative API Development Platform - Insomnia](https://insomnia.rest/)
+[Trayce](https://trayce.dev/)
+[Yaak – The API client for modern developers](https://yaak.app/)
+
+Batt → Battery limiter
+https://github.com/rurza/BatFi
+https://github.com/waydabber/BetterDisplay
+[LocalSend](https://localsend.org/) Airdrop alternative
+
+[Awesome Mac application sharing recommendation - Awesome Mac](https://wangchujiang.com/awesome-mac/#version-control)
+
+
+Upload Songs to Spotify For Free Spotify Music
+[Pricing \| Freshtunes](https://freshtunes.com/pricing)

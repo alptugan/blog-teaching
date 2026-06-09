@@ -662,6 +662,57 @@ latexdiff old_manuscript.tex new_manuscript.tex > tracked_changes.tex
 ```
 
 
+
+## Vim
+```shell
+####################################################################
+# CURSOR MOVEMENT
+####################################################################
+#   h    j  k   l
+# LEFT DOWN UP RIGHT
+
+# w: Jump RIGHT word-by-word
+# b: Jump LEFT word-by-word
+
+# 0: Jump to the BEGINING of line
+# g_: Jump to the END of line
+
+# o creates a new line below the current line and enters insert mode
+# O creates a new line above the current line and enters insert mode
+
+####################################################################
+# PAGE MOVEMENT
+####################################################################
+# CTRL + b : Page up
+# CTRL + f : Page down
+
+# Ctrl + d - move cursor and screen down 1/2 page
+# Ctrl + u - move cursor and screen up 1/2 page
+
+####################################################################
+# COPY, CUT & PASTE
+####################################################################
+# x: delete cursor position char
+# yy: copy line
+# p: paste the line
+# dd: delete line
+# dG: to delete everything after the cursor
+
+# u: Undo
+# Ctrl + r: Redo
+
+# v: Mark multiple lines to copy
+# v + y : Mark the char and copy
+
+####################################################################
+# FIND Pattern
+####################################################################
+# / : Type forward slash and the text
+# n : Find next occurance
+# N : Find next occurance
+
+```
+
 ## FFmpeg
 ### Video Conversion
 ```shell
@@ -765,6 +816,9 @@ magick input.jpg -colorspace Gray output.jpg
 
 # Convert to grayscale and improve the contrast
 magick input.jpg -colorspace Gray -contrast-stretch 1x1% output.jpg
+
+# Optimize png images
+magick input.png -strip -quality 75 output.png
 ```
 
 
@@ -790,7 +844,7 @@ Auto run Items → RunAtLoad to false
 `/Library/PrivilegedHelperTools/`
 
 Right-click Context Menu Actions
-`/Users/alptugan/Library/Services/Convert PNG Sequence to Video.workflow`
+`/Users/username/Library/Services/Convert PNG Sequence to Video.workflow`
 
 $PATH variable
 `/private/etc/paths.d`
@@ -804,7 +858,7 @@ Brew
 Android SDK
 `/Users/username/Library/Android/sdk`
 
-Disable Gate Keeper app on mac. Settings→Security & Privacy 
+###  Disable Gate Keeper app on mac. Settings→Security & Privacy 
 ```shell
 # Disable: 
 sudo spctl --master-disable 
@@ -815,3 +869,29 @@ sudo spctl --master-enable
 # Status: 
 spctl --status
 ```
+
+### Disable Quarantine Apps
+```shell
+# Avoid This app cannot be opened issues
+xattr -d com.apple.quarantine /Applications/Bak.app
+```
+
+### Screen Shot Format
+```shell
+# Save screen shot as png
+defaults write com.apple.screencapture type png;killall SystemUIServer
+```
+
+### File Content Type
+```shell
+# Returns filetype information required for Bak.Gör
+mdls -name kMDItemContentType /path/to/file
+```
+
+### Bundle Identifier
+```shell
+# Returns Application Bundle Identifier required for Paneru Maanger App
+mdls -name kMDItemCFBundleIdentifier /path/to/app
+```
+
+

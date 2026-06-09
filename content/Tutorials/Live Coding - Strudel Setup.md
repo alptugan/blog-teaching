@@ -61,8 +61,8 @@ Edit the `samples()` function
 
 
 # Sync Commands
-/Users/alptugan/Music/strudel-wansync/tools/wan-sync-server
+/Users/alptugan/Music/strudel-wansync-v1/tools/wan-sync-server
 pnpm start
 
 
-/Users/alptugan/Music/strudel-wansync
+/Users/alptugan/Music/strudel-wansync-v1
