@@ -1,6 +1,5 @@
 ---
 title: Home
-tags: []
 ---
 ![[cover_01.png]]
 
