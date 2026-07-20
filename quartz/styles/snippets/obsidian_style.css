@@ -1,0 +1,325 @@
+body {
+    --default-border-color: rgba(255, 255, 255, 0.06);
+    --heading-text-color: #f1f1f1;
+
+    --scrollbar-background: #272727;
+    --scrollbar-color: #484c50;
+    --color-highlight: rgba(255, 255, 92, 0.6);
+
+    /* READABLE LENGTH IN PREVIEW Updated 2025 */
+    --file-line-width: 700px !important;
+}
+
+/** SCROLL BARS **/
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--scrollbar-background);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.13);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-color);
+
+    /*outline: 4px solid var(--scrollbar-background);*/
+    border: 0px solid var(--scrollbar-background); /* creates padding around scroll thumb */
+    border-radius: 0px;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #444;
+}
+
+.callout[data-callout="scale"] {
+    --callout-color: 244, 0, 0;
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="video"] {
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="image"] {
+    --callout-icon: lucide-proportions;
+}
+
+.callout[data-callout="my-comment"] {
+    --callout-icon: lucide-message-square;
+    /* --callout-icon: message-o; // font-awesome
+    border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    box-shadow: 20px 20px 40px rgba(255, 0, 0, 0.5);*/
+}
+
+.cm-highlight {
+    background: var(--color-highlight) !important;
+    color: var(--color-base-00) !important;
+}
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 2. Centers the image container in Editing Mode (Live Preview) */
+.image-embed:has(img[alt*="center"]) {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+img[alt*="right"] {
+    float: right;
+    clear: right;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+img[alt*="left"] {
+    float: left;
+    clear: left;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+[alt~="vid-20"] video {
+    width: 20%;
+}
+
+[alt~="vid-30"] video {
+    width: 30%;
+}
+
+[alt~="vid-40"] video {
+    width: 40%;
+}
+
+.two-columns {
+    column-count: var(--column-count, 2);
+}
+
+.three-columns {
+    column-count: var(--column-count, 3);
+}
+
+.four-columns {
+    column-count: var(--column-count, 4);
+}
+
+/* ======================================================================= */
+/*HIDE RIBBON WHEN SIDEBAR IS COLLAPSED
+.workspace-tab-header-container-inner {
+    padding-left: 20px !important;
+}
+.side-dock-ribbon.mod-left.is-collapsed .side-dock-ribbon-action {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.side-dock-ribbon.mod-left.is-collapsed:hover .side-dock-actions:hover .side-dock-ribbon-action,
+.side-dock-ribbon.mod-left.is-collapsed:hover .side-dock-settings:hover .side-dock-ribbon-action {
+    opacity: 1;
+}*/
+
+/*HIDE RIBBON WHEN SIDEBAR IS EXPANDED
+.side-dock-ribbon.mod-left:not(.is-collapsed) .side-dock-ribbon-action,
+.side-dock-ribbon.mod-left:not(.is-collapsed) .workspace-ribbon-collapse-btn svg {
+    opacity: 0;
+}
+.side-dock-ribbon.mod-left.is-collapsed
+    .workspace-ribbon-collapse-btn:not(hover)
+    + .side-dock-actions:hover
+    .side-dock-ribbon-action,
+.side-dock-ribbon.mod-left:hover:not(.is-collapsed) .side-dock-ribbon-action,
+.side-dock-ribbon.mod-left:hover:not(.is-collapsed) .workspace-ribbon-collapse-btn svg {
+    opacity: 1;
+}
+.side-dock-ribbon.mod-left:not(.is-collapsed) {
+    flex: 0 0 5px;
+    padding-left: 0px;
+    transition: flex 0.2s;
+}
+.side-dock-ribbon.mod-left:hover:not(.is-collapsed) {
+    flex: 0 0 40px;
+    padding-left: 5px;
+}*/
+
+.workspace-ribbon {
+    display: none !important;
+}
+
+/* PIXEL BANNER FIX For Image Zoom */
+.image-zoom .view-content :is(.cm-editor, .markdown-preview-view) .select-image-icon img {
+    cursor: default !important;
+}
+
+.image-zoom:not(.is-mobile) .view-content :is(.cm-editor, .markdown-preview-view) .select-image-icon img:active {
+    all: unset !important;
+    cursor: default !important;
+    position: static !important;
+    display: inline !important;
+    max-width: 100% !important;
+    background: transparent !important;
+}
+
+/* ========================================================================= */
+/* HEADER FIX for Reading and Editing */
+.metadata-container {
+    padding-bottom: 0px !important;
+}
+
+.cm-contentContainer {
+    padding-top: 0px !important;
+}
+
+.HyperMD-header {
+    padding-bottom: 16px !important;
+}
+
+div.markdown-reading-view > div > div > div.el-h2 > h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding-top: 16px !important;
+}
+
+/* If the FIRST child is .HyperMD-header, remove padding */
+.cm-contentContainer:has(.HyperMD-header) {
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+}
+
+/* TABLE FIX : editing */
+div.cm-embed-block.cm-table-widget.markdown-rendered {
+    padding-top: 0px !important;
+    margin-top: -14px !important;
+}
+
+/* TABLE FIX : reading */
+div.markdown-reading-view > div > div > div.el-table {
+    margin-top: -22px !important;
+}
+
+div.markdown-reading-view > div p > div.el-table {
+}
+
+/* ========================================================================= */
+/* FLOAT CENTER MCL */
+/* Float Center */
+[data-callout-metadata~="float-center"] {
+    width: 95%; /* Adjust width as needed */
+    margin: 0 auto 0 auto !important; /* Space around floated element */
+    clear: left; /* Prevent stacking with other floats */
+}
+
+/* Style the caption text */
+[data-callout-metadata~="float-center"] .callout-content p {
+    text-align: center;
+}
+
+/* Style the caption text */
+[data-callout-metadata~="float-left-small"],
+[data-callout-metadata~="float-center"] .callout-content,
+[data-callout-metadata~="float-center"] .callout-content p,
+[data-callout-metadata~="float-center"] .callout-content em,
+[data-callout-metadata~="float-center"] .callout-content a {
+    font-size: 0.9em;
+    font-style: italic;
+    line-height: 1.4;
+    margin-top: 0.5em;
+}
+
+[data-callout-metadata~="float-center"] .callout-content p {
+    background: rgba(20, 20, 20, 0.4) !important;
+    border-radius: 2%;
+    padding: 4px 4px;
+}
+
+/* ==============================================================================
+NOTION STYLE BOOKMARK LINK
+==============================================================================
+*/
+
+.bookmark-item .source {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1.5em;
+    word-break: break-all;
+}
+
+.bookmark-item figure {
+    margin: 1.25em 0;
+    page-break-inside: avoid;
+}
+
+.bookmark-item .icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1.2em;
+    max-height: 1.2em;
+    text-decoration: none;
+    vertical-align: text-bottom;
+    margin-right: 0.5em;
+}
+
+.bookmark-item img.icon {
+    border-radius: 3px;
+}
+
+.bookmark-item .bookmark {
+    text-decoration: none;
+    max-height: 8em;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+.bookmark-item .bookmark-title {
+    font-size: 0.85em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 1.75em;
+    white-space: nowrap;
+}
+
+.bookmark-item .bookmark-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.bookmark-item .bookmark-info {
+    flex: 4 1 180px;
+    padding: 12px 14px 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bookmark-item .bookmark-image {
+    width: 33%;
+    flex: 1 1 180px;
+    display: block;
+    position: relative;
+    object-fit: cover;
+    border-radius: 1px;
+}
+
+.bookmark-item .bookmark-description {
+    color: var(--heading-text-color);
+    opacity: 0.5;
+    font-size: 0.75em;
+    overflow: hidden;
+    max-height: 4.5em;
+    word-break: break-word;
+}
+
+.bookmark-item .bookmark-href {
+    font-size: 0.75em;
+    margin-top: 0.25em;
+}

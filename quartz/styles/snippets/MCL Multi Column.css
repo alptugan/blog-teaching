@@ -1,154 +1,75 @@
-@use "sass:meta";
-@use "./variables.scss" as *;
+/* === README ===
+	Snippet: MCL Multi Column / Author: Faiz Khuzaimah / twitter: @faizkhuzaimah / github: https://github.com/efemkay
 
-<<<<<<< HEAD
+	Ver 0.9.11 (draft 2024-09-01)
+	- introduce fw dw and pw
+	- added left-right margin for Float Callout
+	- refactor List Column code to improve performance
+	Ver 0.9.10 (updated 2024-06-26)
+	- fix issues #81 and #89
+	Ver 0.9.9 (updated 2024-01-25)
+	- code cleanup (including -small -medium -large)
+	- improve css performance on float but require cssclass use again
+	Ver 0.9.8 (updated 2023-11-03)
+	- fixes on sub-callout becomes flexible height (and introduce option for such)
+	Ver 0.9.7 (updated 2023-10-13)
+	- GH FR issue #41, #42 and fixed GH issue #35. MC Callout now supports sub-blockquote and sub-paragraph
+	- GH FR issue #43. MC Callout now supports Multi Column within Multi Column
+	Ver 0.9.5 (updated 2023-07-30)
+	- fixes on minimal float affecting Minimal own wide table feature
+	- fixes on properties padding affecting Minimal
+	Ver 0.9.4 (updated 2023-07-06)
+	- improved MC Callout compatibility with Minimal theme V7.0
+	- improved MC Callout compatibility with Blue Topaz
+	Ver 0.9.3 (updated 2023-06-24)
+	- add support for List Column for li that's also a header
+	- fixes on column ruler to apply properly only for List Column on first ul only
+	- fixes on Float Callout in LP not floating due to additional div layer
+	Ver 0.9.2 (updated 2023-05-27)
+	- fix MC List Card mistakenly affect non List Card bullet list padding in same note
+	- fix obsidian default bullet "draw" not rendered properly in List Column (for the ones using tag and contextual typography plugin)
+	Ver 0.9.1 (updated 2023-04-06)
+	- fix MC "fixed center" option not properly coded
+	- fix MC List Grid previous not support sublist
+	- fix MC List Column margin top for first column
+	- fix MC List Grid for first bullet header
+	Ver 0.9.0 (updated 2023-04-01)
+	- MC - add option to hide SNW block ref for images in MC Callout
+	- MC - added wide option for List Grid/Card
+	- MC - added option to adjust float callout top margin
+	- MC - added fixed width option
+	- fix support minimal Callout style Outlined
+	- List Column/Grid/Card fully support :has()
 
-.cm-highlight {
-    background: var(--color-highlight) !important;
-    color: var(--color-base-00) !important;
-}
+	What is this snippet for?
+	- to allow Obsidian users to change the layout with preset css by just specifying
+	  the cssClass in the frontmatter (YAML) or naming the Callout block
+	- available cssClass
+		- cssClass: two-column-list
+		- cssClass: {.two-column-list-block}
+		- cssClass: three-column-list
+		- cssClass: {.three-column-list-block}
+		- cssClass: multi-column-list
+	- available Callout format
+		- [!multi-column]
+		- [!blank] / [!blank-container]
 
-img[alt*="center"] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+	Compatibility
+	- tested to work fine with the following Community Theme
+		- Default Theme
+		- Big Sur / Blue Topaz / California Cost / Notation / Pisum / Prism / Things / Typewriter (with minor issue on title color)
+	- known to be not working
+		- Primary (due to the theme heaving theming, box-shadow and so on)
 
-/* 2. Centers the image container in Editing Mode (Live Preview) */
-.image-embed:has(img[alt*="center"]) {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-}
-
-img[alt*="right"] {
-    float: right;
-    clear: right;
-    margin-bottom: 2px;
-    margin-top: 2px;
-}
-
-img[alt*="left"] {
-    float: left;
-    clear: left;
-    margin-bottom: 2px;
-    margin-top: 2px;
-}
-
-[alt~="vid-20"] video {
-    width: 20%;
-}
-
-[alt~="vid-30"] video {
-    width: 30%;
-}
-
-[alt~="vid-40"] video {
-    width: 40%;
-}
-
-.two-columns {
-    column-count: var(--column-count, 2);
-}
-
-.three-columns {
-    column-count: var(--column-count, 3);
-}
-
-.four-columns {
-    column-count: var(--column-count, 4);
-}
-
-
-/* ==============================================================================
-NOTION STYLE BOOKMARK LINK
-==============================================================================
+	Credits
+	- Kevin Powell Youtube channel
+	- https://css-tricks.com/
+	- discord OMG members @Cáo thoát tục (Cáo thoát tục#6993), @mulfok (mulfok#6931) and @Rainbell (Rainbell#3617)
+	- kepano for accomodating my snippets adjustment
+	- trainbuffer for numerous help and assisted css snippets
 */
 
-.bookmark-item .source {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 1.5em;
-    word-break: break-all;
-}
 
-.bookmark-item figure {
-    margin: 1.25em 0;
-    page-break-inside: avoid;
-}
-
-.bookmark-item .icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 1.2em;
-    max-height: 1.2em;
-    text-decoration: none;
-    vertical-align: text-bottom;
-    margin-right: 0.5em;
-}
-
-.bookmark-item img.icon {
-    border-radius: 3px;
-}
-
-.bookmark-item .bookmark {
-    text-decoration: none;
-    max-height: 8em;
-    padding: 0;
-    display: flex;
-    width: 100%;
-    align-items: stretch;
-}
-
-.bookmark-item .bookmark-title {
-    font-size: 0.85em;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    height: 1.75em;
-    white-space: nowrap;
-}
-
-.bookmark-item .bookmark-text {
-    display: flex;
-    flex-direction: column;
-}
-
-.bookmark-item .bookmark-info {
-    flex: 4 1 180px;
-    padding: 12px 14px 14px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-.bookmark-item .bookmark-image {
-    width: 33%;
-    flex: 1 1 180px;
-    display: block;
-    position: relative;
-    object-fit: cover;
-    border-radius: 1px;
-}
-
-.bookmark-item .bookmark-description {
-    color: var(--heading-text-color);
-    opacity: 0.5;
-    font-size: 0.75em;
-    overflow: hidden;
-    max-height: 4.5em;
-    word-break: break-word;
-}
-
-.bookmark-item .bookmark-href {
-    font-size: 0.75em;
-    margin-top: 0.25em;
-}
-
-
-
-
-/*	MULTI COLUMNS */
 
 body{
 	/* for list column, grid and card */
@@ -345,9 +266,10 @@ body{
 /* === Blank Container "DIV"'s - can be used with Main Multi-Column layout above === */
 
 	/* "blank-container" - no bg, no border, no title, no nothing, and remove the ligthen effect */
-	div[data-callout*="blank"].callout { border: none !important; padding-top: 0 !important; padding-inline: 0 !important; background: transparent !important; box-shadow: none !important; }
-	div[data-callout*="blank"].callout > .callout-title { display: none !important; }
+	div[data-callout*="blank"].callout {--callout-blend-mode: normal;}
+	div[data-callout*="blank"].callout > .callout-title { display: none; }
 	div[data-callout*="blank"].callout > .callout-content {display: contents;}
+	div[data-callout*="blank"].callout { border: 0; padding-top: 0; padding-inline: 5px; background: unset; box-shadow: unset; }
 
 	/* -- No Margin -- */
 	/* issues still persists
@@ -660,378 +582,298 @@ body{
 		:is(div:has(> ul [data-heading*="#mcl/list-card"]), div:has(> ul [href*="#mcl/list-card"]), .tag-mcllist-card) ul img {margin: 0; float: none;}
 
 
+	/* -- Special Adjustment for Themes -- */
 
-/* === Wide Page === */
+		/* Sanctum */
+		.markdown-rendered .tag-mcllist-card ul img[alt*=right] {margin: 0;}
 
-/* -- Main Code - EV & RV -- */
-body .wide-page {
-    --file-line-width: 100%;
-}
 
-/* -- Special adjustment for Community Themes */
 
-/* Minimal */
-body[class*="minimal-tab-title"] .wide-page {
-    --line-width: 100%;
-    --max-width: 95%;
-    --container-table-width: var(--line-width);
-    --container-table-max-width: var(--max-width);
-}
+/* === Style Settings === */
 
-/* AnuPpuccin */
-/* body .wide-page { --anp-preview-width-pct: 100%; } */
+/* @settings
 
-/* === Adjustable RLL === */
-/* cssClass toggle to allow users to adjust the RLL via Style Settings.
-       Obsidian v1.0.0 makes it easier to do adjustable RLL ;) */
+name: Modular CSS Layout - Multi Column
+id: modular-css-layout-mc
+settings:
 
-/* -- Main Code - Editing and Reading View -- */
-body.is-adj-rll .view-content {
-    --file-line-width: var(--adj-rll-max-width);
-}
+    -
+        id: multi-column-title
+        title: Multi Column Callout Settings
+        type: heading
+        level: 1
+		collapsed: true
 
-/* === Narrow Page === */
-/* cssClass YAML to allow users with disabled RLL to introduce RLL per
-       page/note basis. width is following obsidian default setting, or you
-       can change it via MCL's Adjustable RLL */
+	-
+        id: mc-callout-general-title
+        title: MCC -- General
+        type: heading
+        level: 2
+		collapsed: false
+	-
+		id: mcc-img-snw-display
+		title: Hide SNW indicator for images in MC Callout
+		type: variable-select
+		default: none
+		options:
+			-
+				label: Show
+				value: inline
+			-
+				label: Hide
+				value: none
 
-/* -- Main Code - Editing and Reading View -- */
-.narrow-page.markdown-source-view .cm-sizer,
-.narrow-page.markdown-preview-view .markdown-preview-sizer {
-    max-width: var(--file-line-width);
-    margin-inline: auto;
-}
+	-
+        id: mc-callout-width-title
+        title: MCC -- Width
+        type: heading
+        level: 2
+		collapsed: false
+    -
+        id: callout-min-width
+        title: Minimum Sub-Callout Width
+        description: for sub-callout in [!multi-column]. in px units
+        type: variable-number-slider
+        default: 200
+        min: 100
+        max: 500
+        step: 50
+		format: px
+	-
+        id: callout-nowrap-min-width
+        title: Minimum NO-WRAP Sub-Callout Width
+        description: for sub-callout in [!multi-column|no-wrap]. in px units
+        type: variable-number-slider
+        default: 250
+        min: 100
+        max: 500
+        step: 50
+		format: px
 
-/* === General Setups for Wide Blocks === */
+	-
+        id: mc-callout-gap-title
+        title: MCC -- Gap & Margin
+        type: heading
+        level: 2
+		collapsed: false
+    -
+        id: callout-gap
+        title: Sub-Callout Gap (any unit)
+        description: NO spacing between figure and unit
+        type: variable-text
+        default: 1em
+	-
+		id: callout-margin
+		title: Sub-Callout Margin (any unit)
+		description: to allow some spacing for box-shadow
+		type: variable-text
+		default: 0px
 
-/* -- Setup for @container -- */
-:is(.wide-table-global, .wide-dataview-global, .wide-callout-global, .wide-backlinks-global)
-    .markdown-source-view.is-readable-line-width,
-:is(.wide-table-global, .wide-dataview-global, .wide-callout-global, .wide-backlinks-global)
-    .markdown-preview-view.is-readable-line-width,
-:is(.wide-table, .wide-dataview, .wide-callout, .wide-backlinks).markdown-source-view.is-readable-line-width,
-:is(.wide-table, .wide-dataview, .wide-callout, .wide-backlinks).markdown-preview-view.is-readable-line-width {
-    container-name: content-view;
-    container-type: inline-size;
-}
 
-/* === Wide Blocks - Wide Table === */
 
-/* -- Mai.n Code - EV & RV -- */
-body {
-    --wide-tbl-left-ev-adj: -4rem;
-    --wide-tbl-min-left-ev: 0.5rem;
-    --wide-tbl-width-ev: calc(var(--file-line-width) - var(--wide-tbl-left-ev-adj));
-}
-body:has(.cm-gutters) {
-    --wide-tbl-left-ev-adj: 1rem;
-    --wide-tbl-min-left-ev: 6rem;
-}
-@container content-view (width > 50px) {
-    /* editing view */
-    :is(.wide-table-global, .wide-table) .cm-embed-block.cm-table-widget {
-        width: calc(100cqi - 4rem);
-        margin-left: calc(max(100cqi - var(--wide-tbl-width-ev), var(--wide-tbl-min-left-ev)) / 2 * -1) !important;
-    }
+	-
+        id: float-callout-title
+        title: Float Callout Settings
+        type: heading
+        level: 1
+		collapsed: true
 
-    /* reading view */
-    :is(.wide-table-global .markdown-preview-view, .wide-table.markdown-preview-view) div:has(> table) {
-        width: 100cqi;
-        margin-left: calc(max(100cqi - var(--file-line-width), 1rem) / 2 * -1) !important;
-    }
-    /* centering the table a bit */
-    :is(.wide-table-global, .wide-table) .cm-embed-block.cm-table-widget table,
-    :is(.wide-table-global .markdown-preview-view, .wide-table.markdown-preview-view) div > table {
-        margin-inline: auto;
-    }
-}
+	-
+        id: float-callout-general-title
+        title: FC -- General
+        type: heading
+        level: 2
+		collapsed: false
 
-/* -- Special adjustment for Community Themes */
+	-
+		id: float-callout-snw-display
+		title: Hide SNW indicator in Callout Float / Aside
+		type: variable-select
+		default: none
+		options:
+			-
+				label: Show
+				value: inline-block
+			-
+				label: Hide
+				value: none
 
-/* Minimal, complete re-write for the theme due to many !important used by the theme */
-body[class*="minimal-tab-title"] {
-    --wide-tbl-left-adj: -4rem;
-    --wide-tbl-width-adj: 2rem;
-}
-body[class*="minimal-tab-title"]:has(.cm-gutters) {
-    --wide-tbl-left-adj: -4rem;
-    --wide-tbl-width-adj: 0rem;
-}
-body[class*="minimal-tab-title"]:has(.cm-gutters).minimal-theme {
-    --wide-tbl-left-adj: 0rem;
-}
-@container content-view (width > 50px) {
-    body[class*="minimal-tab-title"][class*="wide-table-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-embed-block.cm-table-widget,
-    body[class*="minimal-tab-title"]
-        .wide-table.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-embed-block.cm-table-widget {
-        width: calc(100cqi - 4rem) !important;
-        max-width: 100%;
-        margin-left: calc(var(--wide-tbl-left-adj) / 2 * -1) !important;
-    }
-    body[class*="minimal-tab-title"][class*="wide-table-global"]
-        .markdown-preview-view
-        .markdown-preview-sizer
-        div:has(> table),
-    body[class*="minimal-tab-title"] .wide-table.markdown-preview-view .markdown-preview-sizer div:has(> table) {
-        width: calc(100cqi - 2rem - var(--wide-tbl-width-adj)) !important;
-        max-width: 100%;
-        margin-left: calc(var(--wide-tbl-left-adj) / 2 * -1) !important;
-    }
-    /* centering the table a bit */
-    body[class*="minimal-tab-title"][class*="wide-table-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-embed-block.cm-table-widget
-        table,
-    body[class*="minimal-tab-title"]
-        .wide-table.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-embed-block.cm-table-widget
-        table,
-    body[class*="minimal-tab-title"][class*="wide-table-global"]
-        .markdown-preview-view
-        .markdown-preview-sizer
-        div
-        > table,
-    body[class*="minimal-tab-title"] .wide-table.markdown-preview-view .markdown-preview-sizer div > table {
-        margin-inline: auto;
-    }
-}
+	-
+        id: float-width-title
+        title: FC -- Width
+        type: heading
+        level: 2
+		collapsed: false
+    -
+        id: float-small-width
+        title: Floating Callout Width - Small (in px)
+        type: variable-number-slider
+        default: 300
+        min: 200
+        max: 450
+        step: 50
+		format: px
+    -
+        id: float-medium-width
+        title: Floating Callout Width - Medium (in px)
+        type: variable-number-slider
+        default: 400
+        min: 300
+        max: 550
+        step: 50
+		format: px
+    -
+        id: float-large-width
+        title: Floating Callout Width - Large (in px)
+        type: variable-number-slider
+        default: 600
+        min: 500
+        max: 750
+        step: 50
+		format: px
 
-/* Catppuccin */
-body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
-    --wide-tbl-left-ev-adj: -8rem;
-}
+	-
+        id: float-gap-title
+        title: FC -- Gap & Margin
+        type: heading
+        level: 2
+		collapsed: false
+	-
+	    id: float-callout-top-margin
+		title: Adjust top margin for Float Left and Float Right
+		description: Can use em or px unit
+	    type: variable-text
+	    default: 0em
+	-
+	    id: float-left-callout-margin-inline
+		title: Adjust left-right margin for Float Left Callout
+		description: Enter in this order - "left right". Can use em or px unit
+		type: variable-text
+	    default: 0px 12px
+	-
+	    id: float-right-callout-margin-inline
+		title: Adjust left-right margin for Float Right Callout
+		description: Enter in this order - "left right". Can use em or px unit
+	    type: variable-text
+	    default: 12px 0px
 
-/* === Wide Blocks - Wide Dataview === */
-/* there are options to enable it (a) per page basis and (b) globally
-       however, editing view is a hackaround */
 
-/* -- Main Code - EV & RV -- */
-body {
-    --wide-dv-left-ev-adj: -4rem;
-    --wide-dv-min-left-ev: 0.5rem;
-    --wide-dv-width-ev: calc(var(--file-line-width) - var(--wide-dv-left-ev-adj));
-}
-body:has(.cm-gutters) {
-    --wide-dv-left-ev-adj: 1.7rem;
-    --wide-dv-min-left-ev: 6.5rem;
-}
-@container content-view (width > 50px) {
-    :is(.wide-dataview-global, .wide-dataview) .cm-preview-code-block:has(> .block-language-dataview),
-    :is(.wide-dataview-global, .wide-dataview) .cm-preview-code-block:has(> .block-language-dataviewjs) {
-        width: calc(100cqi - 4rem);
-        margin-left: calc(max(100cqi - var(--wide-dv-width-ev), var(--wide-dv-min-left-ev)) / 2 * -1) !important;
-    }
-    :is(.wide-dataview-global, .wide-dataview) div:has(> .block-language-dataview),
-    :is(.wide-dataview-global, .wide-dataview) div:has(> .block-language-dataviewjs) {
-        width: 100cqi;
-        margin-left: calc(max(100cqi - var(--file-line-width), 1rem) / 2 * -1) !important;
-    }
-}
 
-/* -- Special adjustment for Community Themes */
+    -
+        id: mc-list-column-title
+        title: List Column
+		description: using `{.xxx-column-list-xxx}` and `#mcl/list-column`
+        type: heading
+        level: 1
+		collapsed: true
+	-
+        id: list-column-width-title
+        title: Width control for List Column
+        type: heading
+        level: 2
+		collapsed: false
+    -
+        id: list-min-width
+        title: Minimum Column Width (in px)
+        type: variable-number-slider
+        default: 200
+        min: 100
+        max: 500
+        step: 50
+		format: px
 
-/* Minimal, complete re-write for the theme */
-body[class*="minimal-tab-title"] {
-    --wide-dv-width-adj: 2rem;
-}
-body[class*="minimal-tab-title"]:has(.cm-gutters) {
-    --wide-dv-left-ev-adj: -4rem;
-    --wide-dv-width-adj: 0rem;
-}
-body[class*="minimal-tab-title"]:has(.cm-gutters).minimal-theme {
-    --wide-dv-left-ev-adj: 0rem;
-}
-@container content-view (width > 50px) {
-    body[class*="minimal-tab-title"][class*="wide-dataview-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-preview-code-block:has(> .block-language-dataview),
-    body[class*="minimal-tab-title"]
-        .wide-dataview.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-preview-code-block:has(> .block-language-dataview),
-    body[class*="minimal-tab-title"][class*="wide-dataview-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-preview-code-block:has(> .block-language-dataviewjs),
-    body[class*="minimal-tab-title"]
-        .wide-dataview.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-preview-code-block:has(> .block-language-dataviewjs) {
-        width: calc(100cqi - 4rem);
-        max-width: 100%;
-        margin-left: calc(var(--wide-dv-left-ev-adj) / 2 * -1) !important;
-    }
-    body[class*="minimal-tab-title"][class*="wide-dataview-global"]
-        .markdown-preview-view
-        div:has(> .block-language-dataview),
-    body[class*="minimal-tab-title"] .wide-dataview.markdown-preview-view div:has(> .block-language-dataview),
-    body[class*="minimal-tab-title"][class*="wide-dataview-global"]
-        .markdown-preview-view
-        div:has(> .block-language-dataviewjs),
-    body[class*="minimal-tab-title"] .wide-dataview.markdown-preview-view div:has(> .block-language-dataviewjs) {
-        width: calc(100cqi - 2rem - var(--wide-dv-width-adj));
-        max-width: 100%;
-        margin-left: calc(var(--wide-dv-left-ev-adj) / 2 * -1) !important;
-    }
-    /* centering the table a bit */
-    body[class*="minimal-tab-title"][class*="wide-dataview-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        table,
-    body[class*="minimal-tab-title"]
-        .wide-dataview.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        table,
-    body[class*="minimal-tab-title"] .wide-dataview.markdown-preview-view .markdown-preview-sizer div > table {
-        width: calc(100%);
-    }
-}
+	-
+        id: list-column-deco-title
+        title: Decoratives control for List Column
+        type: heading
+        level: 2
+		collapsed: false
+	-
+        id: col-rule-width
+        title: Ruler (vertical line between columns) width for List Column
+		description: in px unit. Set to 0 to disable ruler
+        type: variable-number-slider
+        default: 1
+        min: 0
+        max: 4
+        step: 1
+		format: px
+    -
+        id: col-rule-color
+        title: Ruler (vertical line between columns) color for List Column
+		type: variable-themed-color
+		format: hsl
+		opacity: true
+		default-light: '#'
+		default-dark: '#'
 
-/* Catppuccin */
-body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
-    --wide-dv-left-ev-adj: -8rem;
-}
 
-/* === Wide Blocks - Wide Callout === */
-/* there are options to enable it (a) per page basis and (b) globally
-       however, editing view is a hackaround
-       !important needed because app's default uses it `.markdown-source-view.mod-cm6 .cm-content > *` */
+	-
+        id: mc-list-grid-title
+        title: List Grid and List Card
+		description: using `#mcl/list-grid` and `#mcl/list-card`
+        type: heading
+        level: 1
+		collapsed: true
 
-/* -- Main Code - EV & RV -- */
-body {
-    --wide-co-left-ev-adj: -3.8rem;
-    --wide-co-min-left-ev: 0.5rem;
-    --wide-co-width-ev-adj: 4rem;
-    --wide-co-width-ev: calc(var(--file-line-width) - var(--wide-co-left-ev-adj));
-}
-body:has(.cm-gutters) {
-    --wide-co-left-ev-adj: 1.7rem;
-    --wide-co-min-left-ev: 6.5rem;
-}
-@container content-view (width > 50px) {
-    :is(.wide-callout-global, .wide-callout) .cm-embed-block.cm-callout {
-        width: calc(100cqi - var(--wide-co-width-ev-adj));
-        margin-left: calc(max(100cqi - var(--wide-co-width-ev), var(--wide-co-min-left-ev)) / 2 * -1) !important;
-    }
-    :is(.wide-callout-global, .wide-callout) .markdown-preview-sizer > div:has(> .callout) {
-        width: 100cqi;
-        margin-left: calc(max(100cqi - var(--file-line-width), 1rem) / 2 * -1) !important;
-    }
-}
+	-
+        id: list-grid-card-width-title
+        title: Width control for List Grid and List Card
+        type: heading
+        level: 2
+		collapsed: false
+	-
+        id: list-grid-min-width
+        title: Minimum width for normal List Grid/Card
+		description: For `#mcl-list-grid` or `#mcl-list-card`. Can use em or px unit
+		type: variable-text
+		default: 250px
+	-
+        id: list-grid-wide-min-width
+        title: Minimum width for Wide List Grid/Card
+		description: For `#mcl/list-grid-wide` or `#mcl/list-card-wide`. Can use em or px unit
+		type: variable-text
+		default: 350px
 
-/* -- Special adjustment for Community Themes */
+	-
+        id: list-card-deco-title
+        title: Decoratives control for List Card
+        type: heading
+        level: 2
+		collapsed: false
+	-
+		id: mcl-card-header-border-width
+		title: Bottom border for first header in List Card
+		description: Can use em or px unit. Set to 0 to disable the border
+		type: variable-text
+		default: 1px
+	-
+		id: mcl-card-bg-color
+		title: Background color for List Card
+		type: variable-themed-color
+		format: hsl
+		opacity: true
+		default-light: '#'
+		default-dark: '#'
+	-
+        id: mcl-card-gap
+        title: Gap between cards for List Card
+		description: Can use em or px unit
+		type: variable-text
+		default: 0.2em
+	-
+        id: mcl-card-border-width
+        title: Border width for each card in List Card
+		description: Can use em or px unit. Set to 0 to disable the border
+		type: variable-text
+		default: 1px
+	-
+		id: mcl-card-border-color
+		title: Border color for each card in List Card
+		type: variable-themed-color
+		format: hsl
+		opacity: true
+		default-light: '#'
+		default-dark: '#'
 
-/* Minimal, complete re-write for the theme */
-body[class*="minimal-tab-title"] {
-    --folding-toggle: 1;
-}
-body.minimal-theme {
-    --folding-toggle: 0;
-}
-body.minimal-theme:not(:has(.cm-gutters)) {
-    --folding-toggle: 1;
-}
-@container content-view (width > 50px) {
-    body[class*="minimal-tab-title"][class*="wide-callout-global"]
-        .markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-embed-block.cm-callout,
-    body[class*="minimal-tab-title"]
-        .wide-callout.markdown-source-view
-        .cm-contentContainer.cm-contentContainer
-        .cm-content
-        .cm-embed-block.cm-callout {
-        width: calc(100cqi - 4rem);
-        max-width: 100%;
-        margin-left: calc(var(--folding-offset) * var(--folding-toggle)) !important;
-    }
-    body[class*="minimal-tab-title"][class*="wide-callout-global"]
-        .markdown-preview-view
-        .markdown-preview-sizer
-        > div:has(> .callout),
-    body[class*="minimal-tab-title"] .wide-callout.markdown-preview-view .markdown-preview-sizer > div:has(> .callout) {
-        width: calc(100cqi - 2rem - 2rem * var(--folding-toggle));
-        max-width: calc(100% - 0rem);
-        margin-left: calc(var(--folding-offset) * var(--folding-toggle)) !important;
-    }
-}
-
-/* AnuPpuccin */
-body[class*="anp-"] {
-    --wide-co-width-ev-adj: 3.5rem;
-}
-
-/* Catppuccin */
-body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
-    --wide-co-left-ev-adj: -7.8rem;
-}
-
-/* === Wide Blocks - Wide Backlinks === */
-
-/* -- Main Code - EV & RV -- */
-body {
-    --wide-bl-left-ev-adj: 4rem;
-    --wide-bl-width-ev: calc(var(--file-line-width) + var(--wide-bl-left-ev-adj));
-}
-@container content-view (width > 50px) {
-    :is(.wide-backlinks-global .markdown-source-view, .wide-backlinks.markdown-source-view) .embedded-backlinks {
-        width: calc(100cqi - 3.5rem);
-        margin-left: calc(max(100cqi - var(--wide-bl-width-ev), 1rem) / 2 * -1);
-    }
-    :is(.wide-backlinks-global .markdown-preview-view, .wide-backlinks.markdown-preview-view) .embedded-backlinks {
-        width: calc(100cqi - 0rem);
-        margin-left: calc(max(100cqi - var(--file-line-width), 1rem) / 2 * -1);
-    }
-}
-
-/* -- Special adjustment for Community Themes */
-
-/* Minimal, complete re-write for the theme */
-body[class*="minimal-tab-title"] {
-    --wide-bl-width-adj: 4rem;
-}
-body[class*="minimal-tab-title"]:has(.cm-gutters) {
-    --wide-bl-width-adj: 0rem;
-}
-@container content-view (width > 50px) {
-    body[class*="minimal-tab-title"][class*="wide-backlinks-global"]
-        .markdown-source-view
-        .cm-sizer
-        .embedded-backlinks,
-    body[class*="minimal-tab-title"] .wide-backlinks.markdown-source-view .cm-sizer .embedded-backlinks {
-        width: calc(100cqi - 4.5rem);
-        max-width: unset;
-        margin-left: calc(var(--wide-bl-width-adj) / 2 * 1) !important;
-    }
-    body[class*="minimal-tab-title"][class*="wide-backlinks-global"] .markdown-preview-view .embedded-backlinks,
-    body[class*="minimal-tab-title"] .wide-backlinks.markdown-preview-view .embedded-backlinks {
-        width: calc(100cqi - 2rem - var(--wide-bl-width-adj) / 2);
-        margin-left: calc(max(100cqi - var(--line-width) - var(--wide-bl-width-adj), 4rem) / 2 * -1) !important;
-    }
-}
-
-/* Catppuccin */
-body[class*="ctp-"].is-adj-rll:not([class*="anp-default"]) {
-    --wide-bl-left-ev-adj: 13.5rem;
-}
-=======
-// replace @import with:
-@include meta.load-css("./snippets/MCL Multi Column.css");
-@include meta.load-css("./snippets/MCL Wide Views.css");
-@include meta.load-css("./snippets/obsidian_style.css");
->>>>>>> fc11568888cab7ca05214e23d53501264fdd5db0
+*/
