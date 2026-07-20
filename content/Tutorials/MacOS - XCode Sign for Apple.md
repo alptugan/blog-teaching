@@ -1,0 +1,14 @@
+---
+title: MacOS - XCode Sign for Apple
+date: 2024-06-03T04:00:00
+description: 
+tags:
+  - tutorial
+  - MacOS
+aliases: 
+draft: false
+---
+Enable or disable Gate Keeper on Mac. It helps to download and install apps on your Mac from untrusted sources. [link](https://lessons.livecode.com/a/876834-signing-and-uploading-apps-to-the-mac-app-store)
+
+Signing and uploading apps to the Mac App Store. [link](https://lessons.livecode.com/a/876834-signing-and-uploading-apps-to-the-mac-app-store)
+
