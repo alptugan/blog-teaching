@@ -11,18 +11,20 @@ draft: true
 
 For Oled Instructions refer to → [⁉️FAQ & SHORTCUT & HOWTO](https://www.notion.so/FAQ-SHORTCUT-HOWTO-8a0c0ddd2f8a426990c1e50b5cfd0d6c?pvs=21)
 
-Cython ultra fast video playing [30 FPS Video on SSD1106 OLED Display - Hackster.io](https://www.hackster.io/saadsaif0333/30-fps-video-on-ssd1106-oled-display-fe7b32)
-
-UI library - [GitHub - olikraus/u8g2: U8glib library for monochrome displays, version 2](https://github.com/olikraus/u8g2)
 
 # Dasai Mochi v2
-- [\| Build your own Dasai Mochi robot \| \|cute, kind, angry, perfect......\| ESP32 C3\| #tech#robots#mochi - YouTube](https://www.youtube.com/watch?v=8js1jpKyz38)
-- [GitHub - huykhoong/gif2cpp: Gif2cpp is a simple tool based on image2cpp to change gif images into byte arrays (or arrays back into an images) for use with (monochrome) displays such as OLEDs on your Arduino or Raspberry Pi.](https://github.com/huykhoong/gif2cpp)
+- [Build Your Own Dasai Mochi Robot Pet](https://www.youtube.com/watch?v=PECutUUnuFY)
+- [Build your own Dasai Mochi ESP32 C3](https://www.youtube.com/watch?v=8js1jpKyz38)
 - Full [build](https://www.youtube.com/watch?v=8goPUs0yEig)
+- [The Mochi - Dự Án The Mochi by Huykhong](https://themochi.huykhong.com/), [Github Repo](https://github.com/huykhoong/esp32_dasai_mochi_clone_and_how_to)
+- Another version [GitHub - Zero-State-Logic/Dasai-mochi-dextop-buddy: 🍡 Mochi — a palm-sized ESP32-C3 buddy that chats out loud and makes goofy faces when bored. Bring any AI key, flash it from your browser, done. · GitHub](https://github.com/Zero-State-Logic/Dasai-mochi-dextop-buddy#-wiring)
 
 ## Emotions
-For testing purposes it is grabbed from the [link](https://github.com/HARAJIT05/XERO).
-Step by step to design emojisi → [Make your own Dasai Mochi (with ESP32 and OLED display) - YouTube](https://www.youtube.com/watch?v=QOoszpg0BsM)
+- For testing purposes it is grabbed from the [link](https://github.com/HARAJIT05/XERO).
+- Emotions in mp4 format, [link](https://github.com/pham-tuan-binh/watcher-mochi/tree/main)
+- Step by step to design emojisi → [Make your own Dasai Mochi (with ESP32 and OLED display) - YouTube](https://www.youtube.com/watch?v=QOoszpg0BsM)
+- [GitHub - pham-tuan-binh/watcher-mochi: Build your own Dasai Mochi with SenseCAP Watcher](https://github.com/pham-tuan-binh/watcher-mochi/tree/main)
+
 
 ## Sound 
 Check the [link](https://github.com/dzonder/mochi-server/blob/main/main.go) for create R2D2 like buzzer sounds. Get the prompt template and check how they sound.

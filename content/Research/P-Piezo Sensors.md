@@ -172,6 +172,11 @@ Finally, I attached the magnets to the bottom of the case. 4x6 mm magnets signif
 ![[2n5457.jpg|center]]
 
 
+
+### Version 04 - Built-in Battery
+![[P-Piezo Sensors-battery.jpg|-center|600]]
+
+
 ## Stereo Wiring Tips
 Here’s a clear breakdown of your current wiring, potential noise issues, and alternative solutions:
 

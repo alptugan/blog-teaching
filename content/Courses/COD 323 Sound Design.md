@@ -27,7 +27,6 @@ draft: false
 
 [Paulxstretch](https://sonosaurus.com/paulxstretch/) It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Review the [video](https://www.youtube.com/watch?v=oLvAbLEremk) to get more information. (Tip. FFT size parameter sets the clearance of the recorded track. Play with this to change the timbre of the sound. Higher values are close to original sound)
 
-[Vital Synth](https://vital.audio/) Sound synthesizer.
 
 [TyrellN6](https://u-he.com/products/tyrelln6/) is a compact freeware software synth by u-he and Amazona, based on a canceled hardware concept. It features a streamlined, easy-to-use interface for fast workflow.
 
@@ -37,11 +36,24 @@ draft: false
 
 ⭐ [Tape Fiasco](https://www.erikssonjonas.com/tapefiasco) A free glitch and granular synthesis tool for creating quality sound textures.
 
+[free Archives](https://dawjunkie.com/product-tag/free/) DAWJunkie - Music Production Plugins and Effects
+
+#### Synths
+[Vital Synth](https://vital.audio/) Sound synthesizer.
+
+[2026] ⭐ [CapySynth](https://www.capysynth.com/) Retro style 80s lo-fi synth.
+
+[2026]  [Reverie by Quiet Music - Resonator Plugin VST3 Audio Unit](https://www.kvraudio.com/product/reverie-by-quiet-music)
+
 [Big Bang Orchestra Bundle](https://www.vsl.co.at/products/free/bundle?clid=eyJpIjoiX015d25yNVRVVVpfRm8wc0RuTW55IiwiaCI6IiIsInAiOiIvdnNsZnJlZSIsInQiOjE3Nzc4MjI2ODd9.TwDZUE4Qc0U35bL39ktM-TPpWy7gy-W132eAVMqspcI)
 
 [The Deer, the Fox and the Guitar](https://wavelet-audio.com/deer-fox-guitar/) Free Guitar VST. It requires free version of [Kontakt](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-8-player/) player vst.
 
 [The Nation of Free Plugins](https://plugin-nation.com/) The web site is a marketplace for VST tools. 
+
+
+#### Compressor
+[TDR Kotelnikov \| Tokyo Dawn Records](https://www.tokyodawn.net/tdr-kotelnikov/)
 
 ### Network Protocol VSTi
 [XXIIVV — pilot](https://wiki.xxiivv.com/site/pilot.html) Pilot features **16 voices, and 8 audio effects**, each operatable with their own set of commands, and their own FFT visualiser. The complete operation guide can be seen [here](https://github.com/Hundredrabbits/Pilot). Works via OSC on port `49161`. Use openFrameworks/examples UDP sender to test commands. 

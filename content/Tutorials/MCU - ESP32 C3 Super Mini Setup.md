@@ -1,5 +1,5 @@
 ---
-title: MCU - ESP32 C3 Setup
+title: MCU - ESP32 C3 Super Mini Setup
 date: 2025-12-24 06:35:01
 description:
 tags:
@@ -8,7 +8,7 @@ tags:
 aliases:
 draft: false
 ---
-ESP32 C3 is a microcontroller unit ([[MCU]]) similar to Arduino Uno. It is a tiny [[MCU]] including onboard Wi-fi and bluetooth and suitable for ioT projects. In theory, anything works on Arduino board, can be uploaded to ESP boards as well. We will use Arduino [[IDE]] to upload programs.
+ESP32 C3 Super Mini sis a microcontroller unit ([[MCU]]) similar to Arduino Uno. It is a tiny [[MCU]] including onboard Wi-fi and bluetooth and suitable for ioT projects. In theory, anything works on Arduino board, can be uploaded to ESP boards as well. We will use Arduino [[IDE]] to upload programs.
 
 ![[esp32c3_super-mini_pinout-1655657963.png|-center|500]]
 
@@ -59,3 +59,7 @@ void loop() {
 
 ## Tutorials
 - [Simple ESP32 ADC Calibration](https://www.youtube.com/watch?v=4D8BNrNJ1KE) This tutorial showcases how to accurately measure voltage using analog inputs.
+- [ESP32 Tutorials](https://esp32io.com/esp32-tutorials) Various tutorials for ESP32 boards including buttons, displays and many other sensors.
+
+## Troubleshoot
+For more tips about common issues, refer to the following [[MCU - ESP32 Tips and Tricks|post]].

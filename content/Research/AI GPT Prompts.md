@@ -9,19 +9,18 @@ tags:
 aliases: 
 draft: true
 ---
+# Prompt templates for specific purposes
+- [Top 10 ChatGPT prompts to learn anything 10 times faster](https://dly.to/Fk67ZyoPoJR)
+- [Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
+- [51 Powerful ChatGPT Prompts for Academic Writing](https://www.learnprompt.org/chatgpt-prompts-for-academic-writing/)
+- [GitHub - LouisShark/chatgpt\_system\_prompt: A collection of GPT system prompts and various prompt injection/leaking knowledge.](https://github.com/LouisShark/chatgpt_system_prompt/tree/main) Huge prompt for many contexts.
+- [prompts.chat](https://prompts.chat/) Free and open source — self-host for your organization with complete privacy.
+
+
 ![[prompt_engineering.jpg |  | 300]]
 
 https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
-
-
-
-[Best ChatGPT Prompts for Academic Writing (100+ Prompts!)](https://www.papertrue.com/blog/chatgpt-prompts-for-academic-writing/)
-
-[51 Powerful ChatGPT Prompts for Academic Writing](https://www.learnprompt.org/chatgpt-prompts-for-academic-writing/)
-
-[GitHub - LouisShark/chatgpt\_system\_prompt: A collection of GPT system prompts and various prompt injection/leaking knowledge.](https://github.com/LouisShark/chatgpt_system_prompt/tree/main) Huge prompt for many contexts.
-
-[prompts.chat](https://prompts.chat/) Free and open source — self-host for your organization with complete privacy. 
+ 
 
 ## Improve & Expand
 **AURE (UK English)** 
@@ -53,18 +52,13 @@ Bir psikolog, iş stratejisti, verimlilik koçu ve kreatif direktör karışım�
 **Prompt:**
 [Buraya konuyu ekle] öğrenmek istiyorum. Ama sıradan bir rehber istemiyorum. Bana, elit öğrenciler için özel bir eğitmen gibi hissedeceğim, 30 günlük ultra-verimli ve geri bildirim odaklı bir öğrenme planı oluşturmanı istiyorum. Bu planı, öğrenme tarzım, zamanım ve yaşadığım zorluklara göre sürekli geliştir ve bana mükemmel sekilde uyacak hale getir.
 
-# Improve the Answer 
-In order to improve the answer. Ask your question first.
-> Summarize the findings from attached document
-
-Then, sen another message to improve the quality of AI response.
-> That's a level 1 answer. Can you give me a Level 2 version that goes deeper?
-
-In the final step, instruct the GPT to polish the response one more time.
-> Now take your previous answer to Level 3. Give me the most comprehensive answer.
 
 ## Create Documentation from Uploaded Code
 Create a markdown document detailing this code and how to use it.
+
+# SKILLS
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [The Agent Skills Directory](https://www.skills.sh/)
 
 # Notebook LM
 Reference [video](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
@@ -77,9 +71,6 @@ Reference [video](https://www.youtube.com/watch?v=hqBkKMT1IPQ)
 - Goto Gemini (model Deep Research)
 - Upload the document
 - Can you turn this [type, e.g. patent] document into interactive infographics - visual data stories with hover-reveal details and embedded statistics?
-# Prompt templates for specific purposes
-- [Top 10 ChatGPT prompts to learn anything 10 times faster](https://dly.to/Fk67ZyoPoJR)
-- 
 
 
 ## Fine Tuning vs. Retrieval-Augmented Generation (RAG)

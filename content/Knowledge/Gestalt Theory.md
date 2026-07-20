@@ -12,19 +12,19 @@ The core idea of Gestalt theory is that our perception of visual stimuli is not 
 
 1. **Proximity**: Objects that are close together are perceived as belonging together.
 
-Example: A group of dots scattered randomly on a page will be perceived as individual dots. However, if the dots are arranged in a circular pattern, they will be perceived as a single unit, a circle.
+*Example*: A group of dots scattered randomly on a page will be perceived as individual dots. However, if the dots are arranged in a circular pattern, they will be perceived as a single unit, a circle.
 
 2. **Similarity**: Similar objects are perceived as belonging together.
 
-Example: A collection of red and blue squares will be perceived as two separate groups, one red and one blue, rather than a single group of squares.
+*Example*: A collection of red and blue squares will be perceived as two separate groups, one red and one blue, rather than a single group of squares.
 
 3. **Continuity**: The mind tends to complete incomplete shapes and patterns.
 
-Example: A line with a small gap in it will be perceived as a single, continuous line rather than two separate lines.
+*Example*: A line with a small gap in it will be perceived as a single, continuous line rather than two separate lines.
 
 4. **Closure**: The mind tends to fill in missing information to create a complete shape.
 
-Example: A circle with a small piece missing will be perceived as a complete circle, rather than an incomplete shape.
+*Example*: A circle with a small piece missing will be perceived as a complete circle, rather than an incomplete shape.
 
 5. **Figure-Ground**: The mind distinguishes between objects (figures) and their background.
 

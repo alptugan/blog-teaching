@@ -31,3 +31,11 @@ The enduring presence of this word in Turkic languages reflects the deep cultura
 
 ök = anne
 öksüz = anasız ya da akılsız. Çünkü anneler çocuklarını yetiştiren ve onlara bildiklerini öğreten kadınlardır.
+
+
+# Annotated Bibliography
+## Efrasiyab (Alp Er Tonga)
+Türkçe kaynaklarda Alp Er Tonga veya Tonga Alp Er. Farsça kaynaklarda Aıjasp, Franngrasyon, Frasyav, Frasiyak, Frangrasyak ve Efrasiyab, Arap kaynaklar/nda Frasyab ve Frasyat şeklinde geçen efsanevi Turan padişahı, Türk hükümdar soyunun atası kabul edilmiş ve birçok Türk boylar/nın tarihi destanlar/nda kahramanll/lln sembolü olarak günümüze kadar devam
+etmiştir.
+
+- Abdurrahman, V. (2004). Tarihteki Efsanevi Turan Padişahı Alp Er Tunga Hakkında. Tarih Araştırmaları Dergisi, 23(35), 1-8. https://doi.org/10.1501/Tarar_0000000194, [ref](https://dergipark.org.tr/tr/download/article-file/782484)

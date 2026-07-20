@@ -16,3 +16,7 @@ Piezo + Arduino synth using `tone` function
 
 ## Tape-loop
 [CS8N60F](https://www.stereojak.com/urun/sony-fh-b50cd-fhb50cd-kristal-kafa-1-sinif-made-in-japan-sankyo-japan-product)
+
+
+## Noise Box
+[Noise Maker With 555 Timer LDR Auto Changing RGB LED](https://www.youtube.com/watch?v=hxrg4QTxJys)

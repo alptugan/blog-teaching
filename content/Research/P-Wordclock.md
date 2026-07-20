@@ -115,3 +115,4 @@ Neo Matrix 8x8 AdaFruit Tutorial, [link](https://learn.adafruit.com/neomatrix-8x
 10. Wristwatch wordclock, includes 3D print files. Font cut-out seems better [github](https://github.com/andydoro/Wordclock-Wristwatch/tree/master)
 11. NeoMatrix (Adafruit) wordclock tutorial, [github](https://github.com/andydoro/WordClock-NeoMatrix8x8/tree/master) 
 12. Custom RGB led strip, [instructables](https://www.instructables.com/Word-Clock-RGB)
+13. 2026-06-21-Custom RGB Strip, [Youtube](https://youtu.be/YocUUQ9fXIE?si=v9DGFzE4rV2jGRSz)

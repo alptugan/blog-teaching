@@ -30,3 +30,22 @@ Gör = See
 
 ## Installation
 The repository is not suitable for non-programmers. It's a little bit tricky to deploy extension according to regular software. I'll get over this issue in the future releases.
+
+### The "Terminal Bypass" Method
+1. Copy **Bak.app** to the `/Applications` folder of the new Mac.
+    
+2. Open **Terminal** on the new Mac.
+    
+3. Run this command to strip away the Apple quarantine flag (which is attached automatically when the file is downloaded or transferred):
+
+```bash
+xattr -cr /Applications/Bak.app
+```
+    
+4. Run this command to force a fresh Ad-Hoc signature onto the app using the new Mac's internal security credentials:
+ 
+```bash
+codesign --force --deep --sign - /Applications/Bak.app
+```
+
+Once they run those two lines, the app will open perfectly on their machine and live forever without expiring.

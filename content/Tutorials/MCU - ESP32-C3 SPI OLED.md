@@ -69,3 +69,7 @@ void setup() {
 
 void loop() {}
 ```
+
+
+## Extend wifi range
+[ESP32-C3 Super Mini Follow-Up: Antenna Mods, RSSI Tests & Viewer Insights](https://www.youtube.com/watch?v=Vnm7jtjf0T4)

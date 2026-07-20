@@ -247,6 +247,15 @@ ps -ef | grep "irlz*"
 pyenv shell system
 ```
 
+
+### realpath
+```bash
+# Return the the absolute path of the file in the directory
+realpath file.extension
+
+# pwd: Returns the directory path where the user logged in.
+```
+
 ### rm
 ```shell
 # Delete the folder_name directory and file_name document
@@ -869,7 +878,6 @@ sudo spctl --master-enable
 # Status: 
 spctl --status
 ```
-
 ### Disable Quarantine Apps
 ```shell
 # Avoid This app cannot be opened issues

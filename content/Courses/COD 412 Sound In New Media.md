@@ -335,5 +335,6 @@ This section includes selected articles from sound literature and research to pr
 - 🛠️ ⭐ [Sound Badge With Touch Sensor, Instructables](https://www.instructables.com/Sound-Badge-With-Touch-Sensor/)
 - 🛠️ ⭐ [Developing the DIY Soundscape Box Try It](https://wiki.slq.qld.gov.au/doku.php?id=workshops:prototypes:diy_soundscape_box) Includes box design ready for laser cutting. 
 - 🛠️ ⭐ [Novelty Synth from Recycled Vape](https://beckystern.com/2026/03/22/novelty-synth-from-recycled-vape/#more-122877) by  Becky Stern. Transform used vapes to synthesizer.
+- 🛠️ ⭐ [ESP32 drum kit](https://youtube.com/shorts/En4KD0c3XXs?si=qiwximAYc254w34p)
 - 🛠️ [ZPatch: Hybrid Resistive/Capacitive ETextile Input : 8 Steps (with Pictures) - Instructables](https://www.instructables.com/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/)
 

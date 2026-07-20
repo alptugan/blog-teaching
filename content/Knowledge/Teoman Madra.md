@@ -34,9 +34,25 @@ draft: true
 
 
 ## Oğlu Yahya Madra ile 20.Temmuz.2022’de yapılan söyleşiden derlenmiştir
+Burhan Öcal evlerine gidip gelirdi. Bir çok müzisyenle beraber. Miles Davis konserine gitmiş. Teoman Madra'nın Sultan Ahmet Camii'nin fotoğraflarını çektiğini anılarında yer alıyor. 
+
+Perküsyonist <span style="color:#ffcc00;">Burhan Öcal</span>'la yakın arkadaşlıkları sebebiyle, babasının sık sık bir araya geldiklerinden bahsediyor. Bunun yanında 1970'lerde <span style="color:#ffcc00;">Okay Temiz</span>'le ortak işler çokça yapmışlar.
+Okay Temiz, Johnny Dyan ve Ruhi Su'nun albüm kapaklarında *Işık Oyunları* serisinden işleri kullanılmış.
+
+2008 yılında New York’a gitmişler. Burada <span style="color:#ffcc00;">Sonic Youth</span> gitaristi <span style="color:#ffcc00;">Lee Ranaldo</span>'nun konserine gitmişler. Teoman Madra dinlediği müziğin biraz pop olduğunu dile getirmiş. Bunun yanında <span style="color:#ffcc00;">John Zorn</span>'un Lower East Side'daki mekanında <span style="color:#ffcc00;">Zeena Parkins</span> konserlerinden keyif aldığını dile getiriyor.
+
+Başka bir gün <span style="color:#ffcc00;">İlhan Mimaroğlu</span>'nun evine gitmişler fakat kendisi evde yokmuş. Eşiyle tanıştıklarını ve uzunca muhabbet ettiklerini dile getiriyor. 
+
+Bir diğer kişi de Ayvalık'ta yaşayan <span style="color:#ffcc00;">İlhan Usmanbaş</span> ile her yaz görüşürlermiş.
+
+
+
 sf. 92'de kaldım
+'/Users/alptugan/Downloads/pdf/Teoman Madra/Teoman-Madra.pdf'
 
 ---
+
+## Sonuç
 
 ![[durrenmatt.jpg]]
 

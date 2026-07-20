@@ -146,6 +146,8 @@ In addition to the required readings specified in the weekly schedule, the follo
 6. **Interactive Poster:** Create an interactive poster for a movie, event or organization based on physical interaction.
 7. **Interaction Design Prototype:** Create a working prototype of your projects learned in Interaction Design courses.
 8. **Tiny Screen Interface:** Create a tiny screen interface using OLED or LCD 16x2 displays giving feedback to user interaction with an imagery product. [Ref1](https://www.youtube.com/watch?v=HVHVkKt-ldc)
+9. **Ring:** [p5_Ring](https://github.com/harveymoon/p5_Ring) Run p5js sketches on small displays.
+10. **Plant Talk:** [openai/planttalk](https://github.com/openai/planttalk) Give your houseplants a voice with ChatGPT.
 
 ### Project Template
 [Music Trainer Pad for Disabled Children](https://www.hackster.io/alextoms/music-trainer-pad-for-disabled-children-4bdfd9)
@@ -185,6 +187,8 @@ Weekly assignments will primarily involve hands-on exercises and small creative 
 
 [IC 555 Timer](http://www.learningaboutelectronics.com/Articles/LED-flasher-circuit.php) How to Build an LED Flasher Circuit with a 555 Timer Chip
 
+[Light Theremin Dual 555 Timer](https://www.youtube.com/watch?v=OH1OmWB0xF4) Create a theremin without using an [[MCU]]
+
 [Advanced Electronics](https://www.learningaboutelectronics.com/Projects/) 
 
 ### Online Apps
@@ -208,4 +212,5 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 - Arduino-based projects - [blog](http://www.learningaboutelectronics.com/Arduino/)
 - Touch Capacitive Sensor [MPR121 Capacitive Touch Sensor on Raspberry Pi](https://learn.adafruit.com/mpr121-capacitive-touch-sensor-on-raspberry-pi-and-beaglebone-black)
 - [Tutorials \| Creative Technology Lab Wiki](https://lab.arts.ac.uk/books/physical-computing/chapter/tutorials)
-- 
+- ⭐ The following link include tutorials for ESP32 boards, [ESP32 Tutorials](https://esp32io.com/esp32-tutorials) 
+- ⭐ 250+ ESP32 Projects, Tutorials and Guides with Arduino IDE, [Random Nerd Tutorials](https://randomnerdtutorials.com/projects-esp32/)

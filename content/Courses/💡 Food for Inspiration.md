@@ -106,7 +106,7 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 ### 4. Shader Clients
 [ShaderToy](https://www.shadertoy.com/) An online app and community to write and share shader programs.
 [ShaderBoy](https://shaderboy.net/) A better UI for Shadertoy app.
-
+[Paper Shaders](https://shaders.paper.design/) Ultra-fast zero-dependency shaders
 
 ---
 ## ⚙️ Library & Addons
@@ -314,6 +314,7 @@ Frieder Nake, #interview #history About Generative art
 ## Shaders
 [Paper Design](https://github.com/paper-design/shaders) WebGL based shader generation tool. It is like a playground app for developers. You need to create your own playground. Check relevant shader sources. 
 ### Three Js
+(2026) [Smalltalk on World of Three - Slidev](https://rct-ai.github.io/frontend-slides/smalltalk-on-world-of-three/#/20)
 [World map with countries](https://codepen.io/ksenia-k/pen/zYXZGev)
 [World  3D](https://codepen.io/ksenia-k/pen/NWERpmb) Add pin on click to 3D surface.
 [Matcap](https://codepen.io/ksenia-k/pen/ExqgveK)
@@ -350,6 +351,7 @@ Frieder Nake, #interview #history About Generative art
 Collection of Three.js Resources for Building 3D Websites, [link](https://threejsresources.com/)
 [P5js Shader Tutorials](https://itp-xstory.github.io/p5js-shaders/#/) The repository includes beginner friendly shader development focused on p5JS. It also showcases how to implement shader programs from other tools like ShaderToy and Book of Shaders web sites.
 [p5JS Shader Examples](https://github.com/aferriss/p5jsShaderExamples/tree/gh-pages/4_image-effects) Includes how to setup shaders in p5JS coordinate system, image post fx effects, and various other topics.
+(2026) [Scratchapixel](https://www.scratchapixel.com/) Learn Computer Graphics From Scratch! 
 
 ---
 # Generative Art

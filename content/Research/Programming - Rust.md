@@ -8,7 +8,8 @@ tags:
 aliases: 
 draft: true
 ---
-Rust language is highly popular in recent years as of 
+Rust language is highly popular in recent years. The following article covers variety of resources related to Rust. There is not a specific context. 
+
 ## Static Site Generators
 [mdBook](https://github.com/rust-lang/mdBook) Create book from markdown files. Like Gitbook but implemented in Rust
 
