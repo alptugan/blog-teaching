@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: alptugan.github.io/blog-teaching
+  baseUrl: teaching.alptugan.com
   ignorePatterns:
     - private
     - templates
