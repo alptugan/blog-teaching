@@ -90,11 +90,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-<<<<<<< HEAD
     enabled: true
-=======
-    enabled: false
->>>>>>> fc11568888cab7ca05214e23d53501264fdd5db0
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -126,11 +122,7 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-<<<<<<< HEAD
     enabled: false
-=======
-    enabled: true
->>>>>>> fc11568888cab7ca05214e23d53501264fdd5db0
   - source: github:quartz-community/explorer
     enabled: true
     layout:
