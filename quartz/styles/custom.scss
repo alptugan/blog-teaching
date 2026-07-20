@@ -1,6 +1,7 @@
+@use "sass:meta";
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-@import url("./snippets/MCL Multi Column.css");
-@import url("./snippets/MCL Wide Views.css");
-@import url("./snippets/obsidian_style.css");
+// replace @import with:
+@include meta.load-css("./snippets/MCL Multi Column.css");
+@include meta.load-css("./snippets/MCL Wide Views.css");
+@include meta.load-css("./snippets/obsidian_style.css");
