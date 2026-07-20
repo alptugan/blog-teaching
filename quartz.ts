@@ -1,10 +1,6 @@
-import * as ExternalPlugin from "./.quartz/plugins"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
+import * as ExternalPlugin from "./.quartz/plugins"
 
-
-const config = await loadQuartzConfig()
-export default config
-export const layout = await loadQuartzLayout()
 
 ExternalPlugin.Explorer({
   filterFn: (node) => {
@@ -12,3 +8,7 @@ ExternalPlugin.Explorer({
     return node.displayName.toLowerCase() !== "assets"
   }
 })
+
+const config = await loadQuartzConfig()
+export default config
+export const layout = await loadQuartzLayout()

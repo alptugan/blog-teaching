@@ -1,14 +1,14 @@
 ---
 title: GPU Programming
 date: 2025-04-26 02:53:00
-description: 
+description:
 tags:
   - glsl
   - GPU
   - programming
   - shader
-aliases: 
-draft: true
+aliases:
+draft: false
 ---
 ## Online Tools
 Refer to the [[🧰 Online Tools#Algorithms & Graphics Programming|Online Tools]] page to review available online tools that might be helpful during visual programming.

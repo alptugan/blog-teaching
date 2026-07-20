@@ -17,6 +17,11 @@ draft: true
 - DC motor with variable pot [video](https://www.youtube.com/watch?v=0sU-Uk1NprQ)
 
 
+## Control DC Motor via Tactile Buttons
+[TOP 25 Electronic Projects For Beginners Using Transistor BC547 - YouTube](https://www.youtube.com/watch?v=Z2AGyuwoqVg)
+- Motor control with buttons ⬅️➡️
+- Sound sensitive 
+
 ## DC Motor with Arduino
 ![[dc-motor-arduino.jpeg]]
 [Link](https://www.tinkercad.com/things/6UdjNyV4Tw3-dc-motor-pn2222) to the Tinkercad simulation.
