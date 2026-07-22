@@ -18,6 +18,8 @@ draft: false
 
 ⭐ [Audio Enhancer Free](https://voice-clone.org/tools/audio-enhancer) AI Voice Enhancer Online. Free alternative to Adobe's Speech Enhancer.
 
+⭐🆓 [Voicebox](https://voicebox.sh/) Clone voices, generate speech across seven TTS engines, dictate into any app, and talk to agents in voices you own. A free and local alternative to ElevenLabs and WisprFlow, running **entirely on your machine.**
+
 ## VST & Virtual Instruments
 [List of Free VST](https://www.ufukonen.com/tr/ucretsiz-pluginler.html) Huge list of free VST tools suggested by [Ufuk Önen](https://www.ufukonen.com/tr/). 
 
