@@ -5,6 +5,7 @@ description:
 tags:
   - Art
   - artist
+  - person
 aliases:
 draft: false
 ---

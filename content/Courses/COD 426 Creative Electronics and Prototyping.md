@@ -123,6 +123,7 @@ In addition to the required readings specified in the weekly schedule, the follo
 
 **Books:**
 - "Physical Computing: Sensing and Controlling the Physical World with Computers" by Tom Igoe and Dan O'Sullivan.
+- 
 - "Getting Started with Arduino" by Massimo Banzi.
 - "Make: Electronics" by Charles Platt.
 - "Raspberry Pi Cookbook" by Simon Monk.

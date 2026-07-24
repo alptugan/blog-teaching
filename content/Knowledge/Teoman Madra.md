@@ -6,6 +6,7 @@ tags:
   - algorithmicart
   - generativeart
   - artist
+  - person
 aliases:
 draft: true
 ---
@@ -45,9 +46,16 @@ Başka bir gün <span style="color:#ffcc00;">İlhan Mimaroğlu</span>'nun evine 
 
 Bir diğer kişi de Ayvalık'ta yaşayan <span style="color:#ffcc00;">İlhan Usmanbaş</span> ile her yaz görüşürlermiş.
 
+Babasının geçirdiği ve kariyerini oluşturmak üzerine geçirdiği zorlu süreçten bahsediyor;
+>Babamın hayatında 1980’ler oldukça zor bir dönem. Aile işinden ayrılması, iki adet kanser mücadelesi, kariyerini yeniden oluşturma çabası gibi zorlu süreçler yaşıyor. 1990’lı yıllarda ise İstanbul’da sanat ortamı hızla gelişiyor. Birçok yabancı sanatçı gelip gidiyor. O dönem sanat ortamı da politikleşiyor. Babam da tabii politik ama daha çok evrenselci, ister istemez o dönemin kimlik odaklı akımlarının dışında kalıyor. Bu durumun üstüne bir de teknolojik aletlerle yeni bir şeyler üretmeye çalışıyor. Sanat ortamı henüz onun bu çabasını algılayacak bir ortama sahip değil. 1989 yılında AKM’de büyük bir sergi yapıyor. Onlarca ekranı üst üste koyup bir duvar yapıyor.
+
+Teoman Madra'nın ilk bilgisayarı bir Amiga makineydi. Yarattığı görsel denemeler ve işler kod tabanlı değil. **Deluxe Paint** gibi bilgisayar içinde gelen programları kullanıyordu. Video işleri için de **Genlock** isimli bir cihaz kullanıyordu. Bu cihaz günümüzde (2026) kullanılan video mikserlere benziyor. Bilgisayarda yaptığı görselleri, video teyp üzerindeki kayıtlarla harmanlamasını sağlayan bir cihazdı.
 
 
-sf. 92'de kaldım
+## Etem Postacıoğlu ile 11.Mart.2023’te yapılan söyleşiden derlenmiştir
+
+
+sf. 112'de kaldım
 '/Users/alptugan/Downloads/pdf/Teoman Madra/Teoman-Madra.pdf'
 
 ---
