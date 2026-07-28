@@ -12,6 +12,7 @@ Refer to the Apple's article ([Creating Launch Daemons and Agents](https://devel
 
 The following [Use launchd instead of crontab on your Mac](https://bas-man.dev/post/launchd-instead-of-cron/) showcases how to transform your shell scripts to `launchd`.
 
+Refer to the following [[MacOS - Automate Tasks via launchd]] tutorial to learn how to implement your own periodic tasks alternative to `crontab`.
 
 ## References
 - [A launchd Tutorial](https://www.launchd.info/)

@@ -9,6 +9,7 @@ tags:
 aliases:
 draft: false
 ---
+![[Cartesian Dualism.jpg]]
 ## What is Cartesian dualism?
 Cartesian dualism is the philosophical view proposed by [[René Descartes]] (hence "Cartesian") in the 17th century. It holds that reality consists of two fundamentally different kinds of substance:
 

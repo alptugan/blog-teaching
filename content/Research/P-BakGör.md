@@ -23,7 +23,7 @@ draft: true
 
 
 ## Motivation
-Whenever I need to quickly check markdown files, I have to double-click and wait for VS Code to initialized, etc... I've just wanted to hit Space key and see what is inside of the README files quickly. To overcome this tedious process, I've developed Bak.gör. The name of the of the extensin is in Turkish.
+Whenever I need to quickly check markdown files, I have to double-click and wait for VS Code to initialized, etc... I've just wanted to hit Space key and see what is inside of the README files quickly. To overcome this tedious process, I've developed Bak.gör. The name of the of the extension is in Turkish.
 
 Bak = Look
 Gör = See

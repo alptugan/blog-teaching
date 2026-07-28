@@ -30,3 +30,8 @@ BenQ PD3420Q Ultrawide - [https://amzn.to/3UdKnaJ](https://www.youtube.com/redir
 [Don’t Buy the Wrong Resolution for Your Mac - 4K vs 1440p vs 1080p. MacOS Scaling Explained! - YouTube](https://www.youtube.com/watch?v=odXKT_ge66o)
 
 https://youtu.be/XyTbm4V7Mvs?si=-uUM8MNgQMQg-j7W ppi 100-110 arası ya da 200 üstü ppi lazım
+
+
+# Motosiklet
+[GAERNE G-ZION GORE-TEX BOT SİYAH BEYAZ GAERNE BOT](https://www.drdmotorbikes.com/gaerne-g-zion-gore-tex-bot-siyah-beyaz)
+

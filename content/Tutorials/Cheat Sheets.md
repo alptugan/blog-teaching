@@ -892,7 +892,7 @@ defaults write com.apple.screencapture type png;killall SystemUIServer
 
 ### File Content Type
 ```shell
-# Returns filetype information required for Bak.Gör
+# Returns file type information required for Bak.Gör
 mdls -name kMDItemContentType /path/to/file
 ```
 
