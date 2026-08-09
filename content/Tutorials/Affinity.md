@@ -52,4 +52,5 @@ The following [YouTube](https://www.youtube.com/watch?v=fCI3hSIWQwE) video showc
 
 
 ## Removing Artifacts
-
+In `Pixel` mode, choose `Inpainting Brush Tool`. It works similar to stamp tool. For quick editing you can use this method.
+![[Affinity05.jpg|-center|500]]

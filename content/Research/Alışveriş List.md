@@ -33,5 +33,44 @@ https://youtu.be/XyTbm4V7Mvs?si=-uUM8MNgQMQg-j7W ppi 100-110 arası ya da 200 ü
 
 
 # Motosiklet
-[GAERNE G-ZION GORE-TEX BOT SİYAH BEYAZ GAERNE BOT](https://www.drdmotorbikes.com/gaerne-g-zion-gore-tex-bot-siyah-beyaz)
+## Kask
+[Zeus ZS-913 BK19P Black Red Blue Kapalı Kask](https://www.mototas.com.tr/zeus-kaskzs-913-bk19p-black-red-blue-l-41901) 3-5K
 
+[Ls2 Pıoneer 2 Namıb Kapalı Kask Beyaz-mavi-kırmızı](https://www.motospartan.com.tr/urun/ls2-pioneer-2-namib-kapali-kask-beyaz-mavi-kirmizi-26995) 8-9K (2026-08-02)
+[LS2 Drifter Devor Kask (Mat Kum) Modeli ve Fiyatı Feyizoglu.com - Türkiye'nin Motosiklet Aksesuarları Magazası](https://www.feyizoglu.com/ls2-drifter-devor-kask-mat-kum-_59508.html) 8-9K (2026-08-02)
+
+[Scorpion ADF-9000 Air Desert Kapalı Motosiklet Kaskı Beyaz / Mavi / Kırmızı Fiyatı ve Özellikleri](https://www.motomax.com.tr/scorpion-adf-9000-air-desert-kapali-motosiklet-kaski-beyaz-/-mavi-/-kirmizi) 22 K (2026-08-02)
+## Ayakkabı
+[GAERNE G-ZION GORE-TEX BOT SİYAH BEYAZ GAERNE BOT](https://www.drdmotorbikes.com/gaerne-g-zion-gore-tex-bot-siyah-beyaz) 10K
+
+[Dainese Suburb D-WP Kışlık Bot (Siyah-Beyaz-Kırmızı) Modeli ve Fiyatı Feyizoglu.com - Türkiye'nin Motosiklet Aksesuarları Magazası](https://www.feyizoglu.com/dainese-suburb-d-wp-kislik-bot-siyah-beyaz-kirmizi-_58495.html) 11K, Bağcıklı
+
+[Vexo Knit Yazlık Bot Modeli ve Fiyatı Feyizoglu.com - Türkiye'nin Motosiklet Aksesuarları Magazası](https://www.feyizoglu.com/vexo-knit-yazlik-bot_58631.html) 4K, fileli, tasarım kötü
+
+[Falco Arrakis 2 Motosiklet Botu Kısa Siyah](https://www.motoruma.com/falco-arrakis-2-motosiklet-botu-kisa-siyah), MOTORUMA
+
+[Falco Chaser 3 Motosiklet Botu Siyah](https://www.motoruma.com/falco-chaser-3-motosiklet-botu-siyah)
+
+## Elektronik
+[MOTOEYE E6+ Kask İçi Akıllı Ekran](https://www.motozanmotosiklet.com/urun/motoeye-e6-kask-ici-akilli-ekran) 57K (2026-08-02)
+
+[Ride Play Elite](https://tripmate.com.tr/ride-play-elite)
+
+## Pantalon
+[4Riders Patrol Cordura Denim Korumalı Motosiklet Kot Pantolonu Mavi Fiyatı ve Özellikleri](https://www.motomax.com.tr/4riders-patrol-cordura-denim-korumali-motosiklet-kot-pantolonu-mavi) 4K - (2026-08-02)
+
+[Shima Zenith Korumalı Motosiklet Pantolonu Siyah Fiyatı ve Özellikleri](https://www.motomax.com.tr/shima-zenith-korumali-motosiklet-pantolonu-siyah) 11K - (2026-08-02)
+
+[SECA Superlite Yazlık Motosiklet Pantolonu Siyah](https://www.motoruma.com/seca-superlite-motosiklet-pantolonu-siyah-4), MOTORUMA
+
+[EFİL SİYAH MOTOSİKLET PANTOLONU - Riderdenim](https://riderdenim.com/efil-siyah-motosiklet-pantolonu)
+
+## Lastik Kiti
+[FormulaX - FormulaX](https://www.formulaxstore.com/) ( Zen Motor - Hasanpaşa'da uygulanıyor), [Zenn Motor \| Motorsiklet Lastikleri Satış & Servis](https://zennmotor.com/index.php), 
+
+DIY uygulama, [youtube](https://www.youtube.com/watch?v=L1Xs9YXTRU8)
+
+# Routes
+[Kabakoz Plajı](https://www.google.com/maps/dir/40.995816,29.027614/Kabakoz+Village+Beach,+Kabakoz,+34980+%C5%9Eile%2F%C4%B0stanbul/@41.0564398,28.7042884,9z/data=!3m1!4b1!4m12!4m11!1m1!4e1!1m5!1m1!1s0x409e31a9030b82d3:0x67ec65b97f1decfe!2m2!1d29.7069504!2d41.1590097!2m1!2b1!3e0?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D) 01:15
+
+[Motosikletim Çamura Saplandı Ama Ulaştığım Koy Her Şeye Değdi \| Solo Kamp](https://www.youtube.com/watch?v=axqNuB6BsBw) Sardala Koyu

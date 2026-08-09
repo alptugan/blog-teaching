@@ -17,7 +17,7 @@ draft: true
 - [prompts.chat](https://prompts.chat/) Free and open source — self-host for your organization with complete privacy.
 
 
-![[prompt_engineering.jpg |  | 300]]
+![[prompt_engineering.jpg | -center | 300]]
 
 https://www.instagram.com/p/DOeMp-hkz8P/?img_index=3&igsh=MXk4YXNub2owdWsy
  

@@ -21,17 +21,17 @@ Sound is according to [ANSI](https://web.archive.org/web/20170405014942/https://
 
 **In physics**, sound is a vibration that propagates as a typically audible mechanical wave of pressure and displacement, through a medium such as air or water. In physiology and psychology, sound is the reception of such waves and their perception by the brain. – [_wikipedia_](https://web.archive.org/web/20170405014942/https://en.wikipedia.org/wiki/Sound)
 
-Basically, sound is a disturbance of molecules around us such as walls, air, water… When any kind of event happens that takes these mediums away from their restful state (the molecules are compressed together) and forces them to vibrate (these compressed molecules shoot off in every direction from the point of disturbance), our ears get a disturbance which is perceived as sound. Then, these moving molecules fades out according to their physical properties and turn back their restful state. (_Figure 1.)_
+Basically, sound is a disturbance of molecules around us such as walls, air, water… When any kind of event happens that takes these mediums away from their restful state (the molecules are compressed together) and forces them to vibrate (these compressed molecules shoot off in every direction from the point of disturbance), our ears get a disturbance which is perceived as sound. Then, these moving molecules fades out according to their physical properties and turn back their restful state. (_Figure 1._)
 
-![characteristics of sound wave](https://web.archive.org/web/20170405014942im_/http://teaching.alptugan.com/en/wp-content/uploads/2016/08/characteristics-of-sound-wave.jpg)
+![[What is Sound01.jpg]]
 
-Figure 1.
+Figure 1. Behaviour of molecules on the medium caused by the disturbance of sound.
 
 Everything around us in the world have molecules and some of them are tend to move faster some of them are not. For instance; if you strike a wall, the molecules in the wall moves much faster than in air. Molecules in the concrete wall are much close together than air. But, the sound you hear fades out much faster because the material is more rigid that air. (_Figure 2._)
 
-![sound_1_mediums](https://web.archive.org/web/20170405014942im_/http://teaching.alptugan.com/en/wp-content/uploads/2016/08/sound_1_mediums.png)
+![[What is Sound02.png]]
 
-Figure 2 – Shows molecule structure of different mediums and sound wave transmission speed
+Figure 2. Shows molecule structure of different mediums and sound wave transmission speed
 
 Sound waves travels at different speed on different mediums because of  molecules are spaced differently on each mediums. The distance between molecules in solid objects are the closest ones according to liquids and air.
 
@@ -45,7 +45,7 @@ Sound energy is absorbed faster than in a gas or liquid. It will therefore be ei
 
 The sound wave once converted into analog electrical, digital electrical or digital optical signal sound travels much faster.
 
-Speed of electrical sound wave = **200.000 apprx. kilometers per second**
+Speed of electrical sound wave = **200.000 approx. kilometers per second**
 
 **Speed of Sound = Wavelength x Frequency**
 
@@ -66,7 +66,7 @@ You can also use the same math to find what frequency is 10 feet long by dividin
 
 **1000 cycles per second = 1000 hertz = 1 kilohertz**
 
-**1000 cps = 1000 Hz = 1 Kh**
+**1000 cps = 1000 Hz = 1 Khz**
 
 Humans can hear frequencies between 20 Hz to 20.000 Hz (20 Kh) which is called audible spectrum.
 

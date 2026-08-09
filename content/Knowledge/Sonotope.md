@@ -14,7 +14,6 @@ In a nutshell, **sonotope quality** refers to the ecological health, complexity,
 ---
 
 ## Sonotope Quality in Acoustic Ecology
-
 Acoustic ecology is an interdisciplinary field that studies the relationship between **living beings and their sonorous environment** (Paparrigopoulos, 2024).
 
 The term **sonotope** is a geographical concept, much like a habitat or landscape, but defined by its acoustic properties. It represents a spatial area with a relatively **homogeneous acoustic environment** (Farina & James, 2016). Think of a single forest patch, a wetland, or a busy intersection. Each of these spaces is a distinct sonotope.

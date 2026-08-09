@@ -215,3 +215,5 @@ Refer to the following [[🧰 Online Tools#Electronics, Robotics & Prototype|art
 - [Tutorials \| Creative Technology Lab Wiki](https://lab.arts.ac.uk/books/physical-computing/chapter/tutorials)
 - ⭐ The following link include tutorials for ESP32 boards, [ESP32 Tutorials](https://esp32io.com/esp32-tutorials) 
 - ⭐ 250+ ESP32 Projects, Tutorials and Guides with Arduino IDE, [Random Nerd Tutorials](https://randomnerdtutorials.com/projects-esp32/)
+- [Last Minute Engineers \| Learn Electronics the Easy Way](https://lastminuteengineers.com/)
+- [Circuit Digest - Electronics Engineering News, Latest Products, Tutorials & Project](https://circuitdigest.com/)

@@ -284,6 +284,8 @@ Do your own research frequently on search engines like google and social media a
 - [Raster Media](https://raster-media.net/news/raster.-open-call) Record label studio focuses on experimental sound issues. 
 - [MUSE Creative Awards - International Advertising Awards](https://museaward.com/) Paid
 - [Sound Score](https://soundscore.org/about/)
+- [OPEN CALL: CMC/DMARC Sonic Arts Residency 2026/2027](https://www.cmc.ie/opportunities/open-call-cmcdmarc-sonic-arts-residency-20262027)
+- [MA/IN festival – electroacoustic music + digital art](https://www.mainfest.it/en/)
 
 Free online support from professionals: [Composers' Helpline - Sound Scotland](https://sound-scotland.co.uk/event/composers-helpline)
 

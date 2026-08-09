@@ -183,6 +183,23 @@ head -n 1 FILE_NAME
 tail -n 1 FILE_NAME
 ```
 
+
+### launchctl
+Background running apps
+```bash
+# list running bg apps except com.apple
+launchctl list | grep -v com.apple
+
+# list all running bg apps
+sudo launchctl list
+
+# To get more info for a particular service run launchctl list [label],
+# e.g. launchctl list com.openssh.ssh-agent or sudo launchctl list org.cups.cupsd as the appropriate user.
+
+# to remove app
+launchctl remove [label]
+```
+
 ### lm-sensors
 ```bash
 # List sensors
@@ -212,6 +229,30 @@ nvidia-smi -q
 
 # Display in a table. For continous update check watch
 nvidia-smi --query-gpu=gpu_name,gpu_uuid --format=csv
+```
+
+
+### openssl
+```bash
+# Generates secret key
+openssl rand -hex 16
+```
+### pmset
+```bash
+# Get specific lines from a command response
+pmset -g sched | grep "Repeating" -A 2
+
+# Power on & Shutdown every day
+sudo pmset repeat wakeorpoweron MTWRFSU 20:43:00 shutdown MTWRFSU 20:41:00
+
+# Check scheduled events
+pmset -g sched
+
+# Disable repeating events
+pmset repeat cancel
+
+# Disable all scheduled events
+sudo pmset schedule cancelall
 ```
 
 ### pkill
@@ -604,6 +645,22 @@ brew services cleanup
 
 # Troubleshoot Services
 brew services restart --verbose mysql
+
+# uninstall app
+brew uninstall <app>
+brew autoremove
+
+# Clean old redundant unnecessary packages
+brew cleanup --prune=all
+
+# Create bundle file
+brew bundle dump
+
+# You can add apps
+nano Brewfile
+
+# Auto install 
+brew bundle
 ```
 
 ## Pandoc
@@ -659,6 +716,9 @@ echo "Done! Output saved as '$OUTPUT_FILE'."
 ```shell
 # The following script throws error
 pandoc input.pdf -o output.docx
+
+# Set document margin with extra arguments
+pandoc input.pdf -o output.docx -V geometry:"top=3cm, bottom=1.5cm, left=3cm, right=3cm"
 ```
 
 

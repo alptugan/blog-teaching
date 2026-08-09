@@ -5,6 +5,8 @@ description:
 tags:
   - sound
   - sounddesign
+  - ecology
+  - audio
 aliases:
 draft: false
 ---
