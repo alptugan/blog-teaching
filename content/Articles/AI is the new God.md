@@ -31,7 +31,7 @@ People miss the point that many of the AI tools (paid ones especially) are the p
 All of the ontology is created upon the center of humanity. Triple O can supply answers for us for today. Harman says that there are sensual objects independent from humans. For example, pleasure is a sensual object. We cannot know the pleasure that your pet feels. Because humanity created the construct to describe the concept of pleasure. For example, a baby isn’t aware of the constructed concept of pleasure. But we can identify it according to their mimics and gestures; we can say that a baby is happy or sad. A newborn is not capable of the meaning of pleasure or the concept. But they can use that sensual object. So we can epistemologically determine that object according to thousands of years of experience and say that if a baby is happy or not.
 
 In order to use the AI tools efficiently you must know have the factual knowledge and conceptual knowledge first;
-![[Bloom_Anderson_Krathwohl_Taxonomy-of-Knowledge.png]]
+![[Bloom_Anderson_Krathwohl_Taxonomy-of-Knowledge-1.png]]
 
 However people miss that part and try to get answer by asking questions in general level. Most of the time the system works as trial and error to find the answer. The worse part is AI systems have advantages in terms of applying Procedural Knowledge because all of them have that. They have the factual, conceptual and procedural knowledge. 
 

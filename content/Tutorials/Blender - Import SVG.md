@@ -23,7 +23,7 @@ Use `File > Import` menu to import your SVG file.
 ## 3. Check Units
 Goto right pane, choose `Scene` tab and check `Units`. Choose the appropriate `Length` value according to your project.
 
-![[Blender - Import SVG02.jpg]]
+![[Blender - Import SVG02-1.jpg]]
 
 
 ## 4. Scale The Content
