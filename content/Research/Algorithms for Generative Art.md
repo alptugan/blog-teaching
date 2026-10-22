@@ -120,3 +120,12 @@ function sdf(p, size, center) {
 [source](https://kyndinfo.notion.site/Signed-distance-functions-32b6ebf05fb84367ac59b4349f080b4c)
 
 
+## Markov Chain
+Markov chains, named after [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov), are mathematical systems that hop from one "state" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include "playing," "eating", "sleeping," and "crying" as states, which together with other behaviors could form a 'state space': a list of all possible states. In addition, on top of the state space, a Markov chain tells you the probabilitiy of hopping, or "transitioning," from one state to any other state---e.g., the chance that a baby currently playing will fall asleep in the next five minutes without crying first.
+
+ref: [Markov Chains explained visually](https://setosa.io/ev/markov-chains/)
+
+
+## Geometric Functions
+Curve Algorithms: [http://paulbourke.net/geometry/](http://paulbourke.net/geometry/)
+

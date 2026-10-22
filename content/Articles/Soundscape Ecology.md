@@ -11,7 +11,7 @@ tags:
 aliases: 
 draft: false
 ---
-Before Soundscape ecology read about acoustic ecology [[Wrightson_2000]]
+Before Soundscape ecology read about acoustic ecology [[wiki/entities/wrightson_2000]]
 ## Introduction
 Soundscape ecology represents a multidisciplinary field that examines the complex relationships between organisms, environments, and the acoustic signatures they create and respond to. This emerging science studies how sound sources—from natural phenomena to biological organisms to human activities—interact to form distinctive acoustic environments that affect ecological processes and human experiences. The field has evolved significantly since its formal inception in the late 1970s, with pioneers like [R. Murray Schafer ](https://en.wikipedia.org/wiki/R._Murray_Schafer) and [Barry Truax](https://en.wikipedia.org/wiki/Barry_Truax) establishing foundational concepts that continue to guide research and practice today. While initially focused on documenting and preserving natural soundscapes, the discipline has expanded to address growing concerns about noise pollution, biodiversity monitoring, and the use of acoustic information in conservation. The field maintains strong connections to creative practices, with sound artists increasingly incorporating ecological principles into their work and developing innovative approaches to raising environmental awareness through sound-based art. 
 

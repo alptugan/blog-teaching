@@ -45,8 +45,6 @@ https://youtu.be/XyTbm4V7Mvs?si=-uUM8MNgQMQg-j7W ppi 100-110 arası ya da 200 ü
 
 [Dainese Suburb D-WP Kışlık Bot (Siyah-Beyaz-Kırmızı) Modeli ve Fiyatı Feyizoglu.com - Türkiye'nin Motosiklet Aksesuarları Magazası](https://www.feyizoglu.com/dainese-suburb-d-wp-kislik-bot-siyah-beyaz-kirmizi-_58495.html) 11K, Bağcıklı
 
-[Vexo Knit Yazlık Bot Modeli ve Fiyatı Feyizoglu.com - Türkiye'nin Motosiklet Aksesuarları Magazası](https://www.feyizoglu.com/vexo-knit-yazlik-bot_58631.html) 4K, fileli, tasarım kötü
-
 [Falco Arrakis 2 Motosiklet Botu Kısa Siyah](https://www.motoruma.com/falco-arrakis-2-motosiklet-botu-kisa-siyah), MOTORUMA
 
 [Falco Chaser 3 Motosiklet Botu Siyah](https://www.motoruma.com/falco-chaser-3-motosiklet-botu-siyah)
@@ -57,11 +55,9 @@ https://youtu.be/XyTbm4V7Mvs?si=-uUM8MNgQMQg-j7W ppi 100-110 arası ya da 200 ü
 [Ride Play Elite](https://tripmate.com.tr/ride-play-elite)
 
 ## Pantalon
-[4Riders Patrol Cordura Denim Korumalı Motosiklet Kot Pantolonu Mavi Fiyatı ve Özellikleri](https://www.motomax.com.tr/4riders-patrol-cordura-denim-korumali-motosiklet-kot-pantolonu-mavi) 4K - (2026-08-02)
 
 [Shima Zenith Korumalı Motosiklet Pantolonu Siyah Fiyatı ve Özellikleri](https://www.motomax.com.tr/shima-zenith-korumali-motosiklet-pantolonu-siyah) 11K - (2026-08-02)
 
-[SECA Superlite Yazlık Motosiklet Pantolonu Siyah](https://www.motoruma.com/seca-superlite-motosiklet-pantolonu-siyah-4), MOTORUMA
 
 [EFİL SİYAH MOTOSİKLET PANTOLONU - Riderdenim](https://riderdenim.com/efil-siyah-motosiklet-pantolonu)
 

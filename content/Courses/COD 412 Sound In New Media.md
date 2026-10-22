@@ -22,14 +22,14 @@ draft: false
 - Also check [[COD 323 Sound Design#VST & Virtual Instruments |VST & Virtual Instruments]] on COD 323 Sound Design page. 
 - [Hooks Music Theory](https://www.hooktheory.com/trends) Interactive app shows chord progressions and the songs including that.
 - [PaulXStretch](https://sonosaurus.com/paulxstretch/) PaulXStretch is designed for radical transformation of sounds. It is NOT suitable for subtle time or pitch correction. Ambient music and sound design are probably the most suitable use cases. It can turn any audio into hours or days of ambient soundscape, in an amazingly smooth and beautiful way. Video walkthrough, [link](https://www.youtube.com/watch?v=UQy7VHm-Ucg)
-![[cod412-week-3paulxstretch_screenshot.png]]
+![[cod412-week-3paulxstretch_screenshot.png|446]]
 - [MyNoise.net](https://mynoise.net/NoiseMachines/northAmericaForestSoundscape.php) Online soundscape tool helps you to generate soundscapes for variety of spaces.
 
 - [Imaginary Soundscapes](https://www.imaginarysoundscape.net/) Listen to the soundscape of places. Google maps based online tool allows you to navigate to different places of the world and listen to their soundscapes recorded by volunteer people who works with sound.
 
 - [Free VST Tools](https://www.youtube.com/watch?v=hBE1T5QSTRY) Youtube video presents free vst tools that can be useful for your sound projects.
 
-
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/) Free, instant bird identification help and guide for thousands of birds – Identify the birds you see.
 
 ## Weekly Resources
 ### Week 1 

@@ -71,6 +71,10 @@ The following post includes online development tools for productivity frequently
 
 [Hoppscotch](https://hoppscotch.io/)  Open source API development ecosystem
 
+[Free Templates to Clone – Built with Modulify](https://modulify.ai/templates)
+
+[Motion — Premium Interactive Web Sections](https://www.motionin.design/)
+
 #### Web Dev Inspirational Works
 - ﻿﻿Awwwards
 - ﻿﻿Behance
@@ -167,6 +171,8 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 - [Over 5000+ free icns icons](https://macosicons.com/#/) Could be useful for [[P-iCNS Creator]] app. 
 - [Developer Icons](https://xandemon.github.io/developer-icons/icons/All/)
 - [Free SVG Illustrations](https://undraw.co/illustrations/3)
+- [Browse app, game & web icons \| Iconly](https://iconly.design/)
+- [Your go-to for free icons on the internet - Ikonik](https://ikonik.modulify.ai/)
 
 ### Fonts
 [Developer Fonts](https://devfonts.gafi.dev/) Preview lots of mono-spaced fonts for code editors.
@@ -174,6 +180,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 [Fontshare: Quality Fonts. Free.](https://fontshare.com/)
 [Open Foundry](https://open-foundry.com/fonts) Fonts
 [FontJoy](https://fontjoy.com/) Determine Font Pairs, Typography
+[What Font Is This Logo? - Famous Brands Logo Fonts - Font In Logo](https://www.fontinlogo.com/)
 
 [Huge List of Unicode Character Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
 
@@ -219,6 +226,7 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 [Filmot](https://filmot.com/) → Search in Youtube captions and subtitles
 
+[Paper Animation — One Image Away From Your Most Viral Clip](https://paperanimation.ai/)
 
 ## Misc
 [VERT.sh](https://vert.sh/) Free, fast, and awesome file converter. Convert anything to anything.

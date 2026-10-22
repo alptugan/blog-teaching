@@ -20,19 +20,26 @@ macOS, Windows, and Linux. Built with Tauri, Svelte 5, and Rust.
 	- Built on top of FFMPEG
 	- GUI for adjusting FFMPEG parameters
 	- ⛔ The UI experience is bad.
+	- I use FFMPEG more than Frame app.
 
 - 22.07.2026 - [Handy](https://handy.computer/download) A free, open source, and extensible speech-to-text application that works completely offline.
-
+	- I tried to use to manage the computer but not everytime. I think I'm gonna stop it using entirely.
+- 13.09.2026 - [vorssaint](https://github.com/vorssaint/vorssaint-utils) Free and open-source macOS menu bar toolkit.
+	- It shows a little bit staggered animations and buggy
+	- Usage statistics are cool
+- 07.10.2026 - [Keyty — macOS Keyboard Visualizer & Mouse Click Overlay](https://keyty.app/)
 
 # 2025
-- ✅ 05.05.2025 - [Raycast](https://www.raycast.com/?ref=plaenco) A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable. I was thinking about to install for some time. Finally I did it. The useful things for me;
+- ✅ 05.05.2025 - 01.10.2026 [Raycast](https://www.raycast.com/?ref=plaenco) A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable. I was thinking about to install for some time. Finally I did it. The useful things for me;
 	- Clipboard history
 	- Hyperkey support
 	- Translation via DeepL app
 	- AI operations
 	- Open specific links on a browser
 	- Image file conversion
+	- ⛔️ I don't use the AI features. I built my own addons.
 - ✅ 10.11.2025 - [Affinity](https://www.affinity.studio/) Free, private alternative for Adobe products (Photoshop, Illustrator, In Design). The app includes both three apps in a single app window with seamlessly transition between the modes. 
+- ✅ 10.10.2025 KeyCastr - I don't like the style.
 ## Home Server 
 - ✅ 15.05.2025 - [Glance](https://github.com/glanceapp/glance/tree/main) dashboard manager. 
 	- Server stats not working

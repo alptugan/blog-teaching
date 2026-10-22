@@ -23,7 +23,7 @@ Actor–network theory (ANT) is rooted in science and technology studies. As a *
 
 ANT seeks to define and describe the relational connections both human and non-human [[actant]]s within a [[network]] or [[assembelage]] by placing the [[network]] on a flat ontology.
 
-[[ANT]] gives equal amount of value and [[agency]] to the [[actant]]s of the [[network]].
+[[blog-teaching/content/Knowledge/ANT]] gives equal amount of value and [[agency]] to the [[actant]]s of the [[network]].
 **E.g:**
 	Facebook social network;
 	-> [[actant]]s or [[actor]]s are PC, mobile phone, or tables...These components have the same amount of [[agency]], and are as important to the [[network]] as the people whose communication they support.
@@ -31,7 +31,7 @@ ANT seeks to define and describe the relational connections both human and non-h
 All [[assembelage]]s are comprised of [[actant]]s and all [[actant]]s are [[assembelage]]s within themselves. 
 **E.g**
 	Birthday cake;
-	-> [[actant]]s of the birthday cake are sugar, food paint, flour, paste. They come together and constitute the birthday cake which we call [[assembelage]] or the [[network]]. And any of the components has also their own [[assembelage]] like sugar whose [[actant]]s are farmers, plant foods, etc... This situation can be detailed to atomic level. So, where should we stop while using the [[ANT]]? [[w8 Questions#Sismondo]] 
+	-> [[actant]]s of the birthday cake are sugar, food paint, flour, paste. They come together and constitute the birthday cake which we call [[assembelage]] or the [[network]]. And any of the components has also their own [[assembelage]] like sugar whose [[actant]]s are farmers, plant foods, etc... This situation can be detailed to atomic level. So, where should we stop while using the [[blog-teaching/content/Knowledge/ANT]]? [[w8 Questions#Sismondo]] 
 	 ^0af410
 
 [[actor]] is the cause of the action regardless of it is human or non-human entity. [[actor]]s can be  humans, things, ideas, concepts.

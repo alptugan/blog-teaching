@@ -9,7 +9,7 @@ tags:
   - physicalComputing
 aliases:
 ---
-![[blog-teaching/content/assets/Drawing 2026-06-11.excalidraw.md#^area=fwQRmgfE|100%]]
+x![[round-car-screen.excalidraw|100%]]
 
 | Display | Color | ESP32-WROOM Board | ESP32-C3 Super Mini |
 | ------- | ----- | ----------------- | ------------------- |

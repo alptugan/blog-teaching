@@ -20,6 +20,8 @@ draft: false
 
 ⭐🆓 [Voicebox](https://voicebox.sh/) Clone voices, generate speech across seven TTS engines, dictate into any app, and talk to agents in voices you own. A free and local alternative to ElevenLabs and WisprFlow, running **entirely on your machine.**
 
+
+
 ## VST & Virtual Instruments
 [List of Free VST](https://www.ufukonen.com/tr/ucretsiz-pluginler.html) Huge list of free VST tools suggested by [Ufuk Önen](https://www.ufukonen.com/tr/). 
 
@@ -88,7 +90,7 @@ Before diving into searching sound samples in an endless ocean of web, review th
 
 [Zapslats](https://www.zapsplat.com/sound-effect-category/cartoon/) Cartoon sound effects, available in mp3 format.
 
-[Pixabay](https://pixabay.com/sound-effects/) 90,000+ Royalty Free Sound Effects for Download.
+[Pixabay](https://pixabay.com/sound-effects/search) 90,000+ Royalty Free Sound Effects for Download.
 
 [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 
@@ -99,6 +101,10 @@ Before diving into searching sound samples in an endless ocean of web, review th
 [Bfxr](http://www.bfxr.net/) - ⭐ A generative audio synthesis tool to make make sound effects for computer games. 
 
 [Wario Synthesis Engine](https://www.wario.style/) Converts any song to sound as if it were an 8-bit MIDI song.
+
+[Eleven Labs SFX Library](https://elevenlabs.io/sound-effects/) Download Free AI generated SFX MP3 Sound Effects 
+
+
 
 Here are the most popular keywords for searching social media story sound effects, categorized by purpose:
 
@@ -256,7 +262,8 @@ Here are the most popular keywords for searching social media story sound effect
 - [Davinci Resolve Bus](https://www.youtube.com/watch?v=MazJZZWsiUY) Group tracks to apply same effects.
 - [Davinci Resolve Side-Chain](https://www.youtube.com/watch?v=XzDlBLpf4Xk)
 - [Davinci Resolve 7 Tips](https://www.youtube.com/watch?v=_6SqINSx8L0) Great tutorial for audio editing (Layered video editing, cross-fade), Bounce the audio to a different track ⭐️
-- [Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
+- [Davinci Resolve Sync Audio Clips](https://www.youtube.com/watch?v=eqXBYSwyLJw), [Tutorial 02](https://www.youtube.com/watch?v=E9FjPDbg-Cs) You record the audio with two different microphones, it syncs separate tracks. Do not forget to clap sound while recording
+- 
 
 #### EQ
 - [Davinci Resolve Fairlight EQ (Equalizer)](https://www.youtube.com/watch?v=Z89JAFkihrw) Tutorial on voice over editing
@@ -268,6 +275,11 @@ Here are the most popular keywords for searching social media story sound effect
 #### Noise Reduction
 - [How To Remove Audio Background Noise In Davinci Resolve 19 (2 methods)](https://www.youtube.com/watch?v=Zl3nr7ylUeo) 
 
+#### Sound Design Process
+- [🔊 SOUND DESIGN in DaVinci Resolve for FILMMAKING! 🔊 \| Beginner Crash Course](https://www.youtube.com/watch?v=eimXwqq438c)
+
+#### Loudness Level and Mastering
+- [How to MIX Dialogue, Music & SFX in Davinci Resolve for PERFECT AUDIO](https://www.youtube.com/watch?v=udEc8Ub1LQ4)
 
 ---
 ## Quotes

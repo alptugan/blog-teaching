@@ -140,3 +140,7 @@ sudo aircrack-ng -a2 -b E0:B6:68:A1:EB:AC -w /usr/share/wordlists/rockyou.txt ha
 - Not tested → [GitHub - noder-ss/my-wordlists: Wordlists](https://github.com/noder-ss/my-wordlists)
 - Not tested → [GitHub - kakulanex/wifi-wordlist: Wifi wordlist for cracking WPA, WPA2, WPS](https://github.com/kakulanex/wifi-wordlist)
 - Pasword list generator → [GitHub - 5huu/password-list-generator: A tool that generates every possible password from a given set of words and/or numbers.](https://github.com/5huu/password-list-generator)
+
+
+# OSINT Tools
+[GitHub - HackUnderway/SearchPhone: Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.](https://github.com/HackUnderway/SearchPhone)
