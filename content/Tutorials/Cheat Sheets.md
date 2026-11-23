@@ -874,7 +874,12 @@ ffmpeg -i "concat:input1.mp4|input2.mp4|input3.mp4|input4.mp4" -c copy output10.
 
 ### Audio Conversion
 ```bash
+# Advanced
 ffmpeg -i input_file_name.wav -b:a 320k -acodec libmp3lame output_file_name.mp3
+
+# Simple
+ffmpeg -i input.wav -c:a libmp3lame -b:a 192k output.mp3
+
 ```
 
 

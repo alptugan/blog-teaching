@@ -177,24 +177,6 @@ Check the following link -> [link](https://discourse.processing.org/t/calculate-
 
 ---
 
-## Research
-[Design Thinking](https://wiki.slq.qld.gov.au/doku.php?id=workshops:public:designing_the_digital), How to manage ideation and prototyping session? 
-- User research
-- Defining the problem/opportunity
-- Ideating a solution
-- Prototyping the solution using Marvel
-- Testing the solution with other participants to validate if it solves the problem
-
----
-
-## 📺 Video Archive
-## Must Seen Design-Related Movies
-- [Helvetica](https://www.youtube.com/watch?v=X80kSDxF4rg) "Helvetica" is a feature-length independent film about typography, graphic design and global visual culture. It looks at the proliferation of one typeface as part of a larger conversation about the way type affects our lives. The film is an exploration of urban spaces in major cities and the type that inhabits them, and a fluid discussion with renowned designers about their work, the creative process, and the choices and aesthetics behind their use of type.
-- [Abstract: The Art of Design](https://www.youtube.com/watch?v=LCfBYE97rFk) Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.
-- [PressPausePlay](https://www.youtube.com/watch?v=MterbpYTyjM) How to be an artist, creator, musician, designer in the age of tech era. Full version [video](https://www.youtube.com/watch?v=53rt6C_HDxE).
-- 
-
-
 
 ## Algorithmic Art & Creative Coding
 [What is Digital Art?](https://www.youtube.com/watch?v=2RWop0Gln24&t=106s)

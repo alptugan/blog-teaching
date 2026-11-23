@@ -9,6 +9,11 @@ tags:
 aliases: 
 draft: false
 ---
+1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-alptugan.genuary.alptugan.com
+2. Use this code for the value of the TXT record: 4777c70252241e8b3fc4d85b059b50
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+
+
 ## 1. Verify the Custom Domain
 Navigate to the github.com and click on your profile picture and goto **Settings** menu.
 
@@ -50,8 +55,16 @@ Check the domain next day.
 ## 5. Subdomain Entry
 After adding the apex domain, you can also add subdomains via `CNAME` records. You need to verify the subdomain on GitHub as defined above in **step 1** and **step 2**.
 - Goto GitHub repository on your local device.
-- Create a file called `CNAME` and type the subdomain address.
+- Create a file called `CNAME` and type the subdomain address. 
+
+
+> [!NOTE] I skipped this step. It works for my [genuary.alptugan.com](https://genuary.alptugan.com) page
+
   ![[github-custom-domain06.jpeg|-center|500]]
 - Save the file and push to GitHub repository.
 - Goto the domain provider control panel and add `CNAME` record for the chosen subdomain as is [[#2. DNS Zone Editor]] step.
   ![[github-custom-domain07.jpeg|-center|500]]
+
+
+
+

@@ -75,6 +75,8 @@ The following post includes online development tools for productivity frequently
 
 [Motion — Premium Interactive Web Sections](https://www.motionin.design/)
 
+[GitHub - bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more](https://github.com/bradtraversy/design-resources-for-developers)
+
 #### Web Dev Inspirational Works
 - ﻿﻿Awwwards
 - ﻿﻿Behance
@@ -110,6 +112,8 @@ The following post includes online development tools for productivity frequently
 [drawDB](https://www.drawdb.app/) Online database diagram editor and SQL generator.
 
 ## Design
+[GitHub - alexpate/awesome-design-systems: 💅🏻 ⚒ A collection of awesome design systems](https://github.com/alexpate/awesome-design-systems)
+
 ⭐️ [Discover Best Web Design Tools in The Internet](https://bestwebdesigntools.com/)
 
 ⭐ [FossFLOW](https://stan-smith.github.io/FossFLOW/) Isometric Mindmap Tool
@@ -148,14 +152,6 @@ framer.com - website builder
 
 [Color Related Tools](https://colordesigner.io/tools)
 
-#### Broken White Tones
-🌕 Off White [FAF9F6](https://www.instagram.com/explore/tags/faf9f6/)  
-❄️ Snow [FFFAFA](https://www.instagram.com/explore/tags/fffafa/)  
-🟡 Ivory [FFFFF0](https://www.instagram.com/explore/tags/fffff0/)  
-🧊 Alice Blue [F0F8FF](https://www.instagram.com/explore/tags/f0f8ff/)  
-👻 Ghost White [F8F8FF](https://www.instagram.com/explore/tags/f8f8ff/)
-
-🟡 FFCC00 → 🟠 EB5B00, 🔴 B12C00, 🟣 640D5F
 
 ### Illustration 
 Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?igsh=bGdmYWQ5YXJqdDll)
@@ -256,7 +252,6 @@ Pose generators, follow the [link](https://www.instagram.com/reel/DNixvVQxhNP/?i
 
 ![[askew.jpeg|200]]
 
-[Free Visa Alerts \| Real-Time Updates \| VisasBot.com](https://visasbot.com)
 
 [Playback.fm](https://playback.fm/) Shows what happened on your birthday.
 
