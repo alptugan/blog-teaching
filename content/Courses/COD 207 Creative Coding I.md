@@ -17,104 +17,24 @@ COD 207 Creative Coding I is a foundational course designed to introduce student
 *   **Apply Creative Coding Principles:** By applying creative coding principles to real-world scenarios, students will develop a unique perspective on problem-solving and artistic expression.
 
 # Office Hours
-Refer to the following link. Create a request. I will provide you the details. [Booking link](https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hEN-lfFsa5o9XwUvrUk23hiPMr-xNrDdbliDjhx13GPrkvr6JGqyO6MKZsHTud2Nwt9RnS2h)
+Please reach out through my school email to arrange a meeting one day in advance.
+
 
 # Links
 [Selected Student Assignments Showcase](https://cod207.damp-server.org/) Under Construction...
 
-[Selected Student Final Projects](https://sites.google.com/ozyegin.edu.tr/cod-207-selected-projects/all)
 
-[\|\|\| Student Works - Creative Coding \|\|\| - YouTube](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=0PDGlFD5MJGjYDML)
-
-# Course Content:
-### Week 1: Introduction to Creative Coding
-- Why do I need to learn programming? Interview with [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4)
-* Overview of programming languages (Python, JavaScript, etc.)
-* What is Creative Coding? Present artists...
-* Pre-survey [ALAP](https://forms.gle/VAw2hz8SYyfEAnNn9)
-
-#### Things to Discuss
-This discussion session aims to present basics of Computational Thinking principles. The practices are chosen in order to align with the undergraduate student major. Since design students are visual learners, the tenets of CT are contextualized to provide visual aids and analogies depending on student's known practices.
-
-**1. Abstraction**
-Abstraction is crucial in order to reveal the core of the problem. The abstraction process eliminates the unnecessary data and help the designer to focus on the major task to solve the problem. 
-
-<div class="two-columns" style="--column-count: 2;">
-<div>
-<img src="absraction.jpg">
-</div>
-<div>
-<img src="abstraction2.jpg">
-</div>
-</div>
-
-**Procedural Flow**
-This step is crucial for determining the clean and precise instructions to solve a problem. 
-Suppose that you instruct your intern about how to use Adobe Photoshop. 
-
-Write down step-by-step instructions precisely for the following tasks;
-- How to create a 800 x 800 px sized, 72 DPI resolution canvas using Photoshop on Mac or Windows operating system.
-- How 
-
-### Week 2: Algorithmic Art Database
-> [!NOTE] When the speech is corrupted so is the mind.
-> - Keep mails short and readable
-> - Don't expect answer on weekends and after 5 pm
-
-* ALAP website introduction. Familiarize yourself.
-* Cheat Sheet
-* Artist of the week [Memo Akten - Showcase](https://www.youtube.com/watch?v=KZXiV2zePV4&t=8s)
-* Inspiration 
-	* [12oclocks/clocks/clock-01.js at main · CodingTrain/12oclocks · GitHub](https://github.com/CodingTrain/12oclocks/blob/main/clocks/clock-01.js)
-	* [GitHub - JSLegendDev/Pokemon-p5js: Pokemon game made with JavaScript + p5.js library](https://github.com/JSLegendDev/Pokemon-p5js/tree/master)
-	* [GitHub - forhadsidhu/Yoga-pose-detection: Yoga-pose detection using PoseNet,p5js with sound effects](https://github.com/forhadsidhu/Yoga-pose-detection)
-
-
-### Week 3: Computational Thinking
-- Artist of the week [Char Stiles](https://youtu.be/ja3U7hK2bOk?si=-bL_iYhgaKlKTwsj&t=465) Keynote speech on Creative Coding Fest.
-
-
-### Week 4: Moire Pattern
-Several topics are reviewed during the class work on the creation Moire Pattern study. 
-- Why does it matters to gain knowledge? - [Ali Nesin](https://media-host.alptugan.workers.dev/knowledge/Ali-Nesin.mp4) ([org video](https://youtu.be/5IcL3v3nRsQ?si=3ppVsvuac2aq1XD2&t=3310), 55:10)
-- Artist of the week. Audiovisual work of Telefon Tel Aviv band is showcased.
-
-
-### Week 5: Algorithmic Art Praxis
-- Presentation: [Week 05 - Randomness & Nested Loops and Algorithmic Art Praxis](https://alptugan.github.io/Slidev_Presentations/2025-2026/week05_cod_207-Randomness-Repetetion)
-
-- Artist of the week: [Larry Cuba - Calculated Movements (complete film) - YouTube](https://www.youtube.com/watch?v=OkyqP-g_LrY)
-
-
-### Week 6: National Holiday (Republic Day)
-
-### Week 7: Media Loading
-- Presentation: [Week 06 - Media - Images](https://alptugan.github.io/Slidev_Presentations/2025-2026/week06_cod_207-Media)
-
-- Artist of The Week:  [Patrik Hübner](https://www.patrik-huebner.com/creative-coding/) Generative Poster Project
-
-### Week 8: Image Processing
-- Presentation: [week07_cod_207-Image-Processing](https://alptugan.github.io/Slidev_Presentations/2025-2026/week07_cod_207-Image-Processing)
-
-
-### Week 9: Typography
-- Presentation: [Week 08 - Typography - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week08_cod_207-Typography)
-- Quiz (Three questions, section A)
-- Quiz (Three questions, section B)
-
-
-### Week 10: Sound & Interactivity
-- Presentation: [Week 09 Sound Interactivity - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week09_cod_207-Interactivity-Sound/)
-
-
-### Week 11: ALAP & Autonomous Agents
-- Presentation Autonomous Agents: [Week 11 Autonomous Agents + Oscillations - Slidev](https://alptugan.github.io/Slidev_Presentations/2025-2026/week11_cod_207-Autonomous-Agents/)
-- Presentation ALAP: [Algorithmic Art Praxis - Slidev](https://alptugan.github.io/Slidev_Presentations/Workshops/Algorithmic-Art-Praxis)
-
+# Course Content
+Refer to [presentations.alptugan.com](https://presentations.alptugan.com/) page for weekly course content and LMS for the syllabus.
 
 ***
 
 # Final Project Instructions
+
+### Previous Final Projects
+[Selected Student Final Projects](https://sites.google.com/ozyegin.edu.tr/cod-207-selected-projects/all)
+
+[Student Works - Creative Coding (COD 207+208) - YouTube](https://youtube.com/playlist?list=PLvcJjvBzWDXan8ZkLsE5gYtNX9AhjQNW-&si=0PDGlFD5MJGjYDML)
 
 ### 1. Project Template Document
 Your final project document must include the following information. **Please complete every section to avoid losing points.**
@@ -205,8 +125,6 @@ As stated in the course syllabus, the final project accounts for **30%** of your
 Decontextualize [blog](https://creative-coding.decontextualize.com/) includes several programming concepts from beginner to intermediate levels for novices.
 
 List of colors and their meaning, [article](https://www.writerswrite.co.za/204-words-that-describe-colours/)
-#### Transformation
-![[p5js-transformations.jpeg|-center|500]]
 
 > [!NOTE] Check the following content for case studies!
 > [Labs \| Art and Interaction Computing](https://comp.anu.edu.au/courses/comp1720/labs/)
@@ -387,7 +305,7 @@ List of colors and their meaning, [article](https://www.writerswrite.co.za/204-w
 
 ## Company & Studio
 - [MODEM](https://modemworks.com/)
-- Filika
+- Filika Interaktif
 - Nerdworking
 - [DECOL - New Media Studio](https://www.decol.tv/)
 - [İBB Kültür AŞ Dijital Deneyim Merkezi](https://www.dijitaldeneyimmerkezi.com/)
